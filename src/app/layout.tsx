@@ -44,13 +44,6 @@ export default function RootLayout({
       >
         <Nav />
         <main>{children}</main>
-        <footer style={{ textAlign: 'center', padding: '2rem 1rem 1.5rem', color: '#888', fontSize: '0.85rem', borderTop: '1px solid #eee', marginTop: '3rem' }}>
-          由
-          <a href="https://aryella-byte.github.io/pengyali/" target="_blank" rel="noopener noreferrer" style={{ color: '#666', textDecoration: 'underline' }}>
-            中国人民大学法学院 彭雅丽
-          </a>
-          开发
-        </footer>
       </body>
     </html>
   );

@@ -127,7 +127,7 @@ export default function Home() {
               <span className="font-serif text-sm font-medium" style={{ color: 'var(--navy)' }}>法脉 JuriPulse</span>
             </div>
             <div className="text-center text-[11px] leading-relaxed" style={{ color: 'var(--text-tertiary)' }}>
-              法学研究情报平台 · 数据驱动的学术洞察
+              由中国人民大学法学院 <a href="https://aryella-byte.github.io/pengyali/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--navy)', textDecoration: 'underline' }}>彭雅丽</a> 开发
             </div>
             <div className="text-[11px]" style={{ color: 'var(--text-tertiary)' }}>
               &copy; {new Date().getFullYear()} JuriPulse
