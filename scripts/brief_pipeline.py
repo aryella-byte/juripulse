@@ -2,12 +2,11 @@
 """
 brief_pipeline.py — Legal Brief 数据管线。
 
-基于 brief.zip 中的 auto_brief_pipeline.py 适配。
 RSS 抓取 → AI 分析 → 生成双语摘要 → 输出 JSON。
 
 使用方法：
-  export ANTHROPIC_API_KEY=sk-...
-  python scripts/brief_pipeline.py [--skip-git]
+  export KIMI_API_KEY=sk-...
+  python scripts/brief_pipeline.py
 """
 
 import json
@@ -26,9 +25,9 @@ except ImportError:
     sys.exit(1)
 
 try:
-    from anthropic import Anthropic
+    from openai import OpenAI
 except ImportError:
-    print("ERROR: pip install anthropic>=0.40.0")
+    print("ERROR: pip install openai")
     sys.exit(1)
 
 # ============ Config ============
@@ -57,7 +56,7 @@ JUNK_KEYWORDS = [
 MAX_NEWS_PER_DAY = 5
 MAX_RESEARCH_PER_DAY = 3
 MIN_QUALITY_SCORE = 7
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "kimi-k2p5"
 
 
 def log(msg):
@@ -121,7 +120,7 @@ def parse_date(date_str):
 
 def analyze_with_ai(client, title, source, is_research=False):
     content_type = "法学研究论文" if is_research else "法律新闻"
-    prompt = f"""分析以下{content_type}，返回JSON：
+    prompt = f"""分析以下{content_type}，返回JSON（不要markdown代码块）：
 
 标题：{title}
 来源：{source}
@@ -134,13 +133,13 @@ def analyze_with_ai(client, title, source, is_research=False):
 }}"""
 
     try:
-        resp = client.messages.create(
+        resp = client.chat.completions.create(
             model=MODEL,
             max_tokens=800,
             temperature=0.3,
             messages=[{"role": "user", "content": prompt}],
         )
-        text = resp.content[0].text.strip()
+        text = resp.choices[0].message.content.strip()
         text = re.sub(r"^```json\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
         return json.loads(text)
@@ -210,13 +209,13 @@ def update_section(client, data, sources, key, max_items, is_research=False):
 
 
 def main():
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = os.environ.get("KIMI_API_KEY")
     if not api_key:
-        log("No ANTHROPIC_API_KEY set. Skipping AI analysis.")
+        log("No KIMI_API_KEY set. Skipping AI analysis.")
         log("Existing data will be preserved.")
         return
 
-    client = Anthropic(api_key=api_key)
+    client = OpenAI(api_key=api_key, base_url="https://api.kimi.com/coding/v1")
     data = load_data()
     log(f"Current: {len(data.get('news', []))} news, {len(data.get('research', []))} research")
 
