@@ -37,13 +37,21 @@ DATA_FILE = PROJECT_ROOT / "public" / "data" / "brief_data.json"
 
 NEWS_SOURCES = {
     "SCOTUSblog": "https://www.scotusblog.com/feed/",
+    "JURIST": "https://www.jurist.org/feed/",
     "Financial Times": "https://www.ft.com/rss/home",
-    "Reuters Legal": "https://www.reutersagency.com/feed/?taxonomy=legal&post_type=reuters-best",
+    "The Economist": "https://www.economist.com/leaders/rss.xml",
+    "WSJ": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
 }
 
 RESEARCH_SOURCES = {
     "Harvard Law Review": "https://harvardlawreview.org/feed/",
+    "Stanford Law Review": "https://www.stanfordlawreview.org/feed/",
+    "Columbia Law Review": "https://columbialawreview.org/feed/",
+    "NYU Law Review": "https://www.nyulawreview.org/feed/",
     "Michigan Law Review": "https://michiganlawreview.org/feed/",
+    "Virginia Law Review": "https://virginialawreview.org/feed/",
+    "Cornell Law Review": "https://cornelllawreview.org/feed/",
+    "California Law Review": "https://www.californialawreview.org/feed/",
 }
 
 JUNK_KEYWORDS = [
