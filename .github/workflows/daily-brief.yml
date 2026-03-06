@@ -1,50 +1,30 @@
-name: Daily Brief Update
+name: Deploy to GitHub Pages
 
 on:
-  schedule:
-    - cron: '0 8 * * *'  # 每天 UTC 8:00 (北京时间 16:00)
-  workflow_dispatch:  # 手动触发
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-brief:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Install Python deps
-        run: pip install feedparser openai
-
-      - name: Run brief pipeline
-        env:
-          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-        run: python scripts/brief_pipeline.py
-
-      - name: Commit updated data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/brief_data.json
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Daily brief update $(date -u +%Y-%m-%d)"
-          git push
-
-      - name: Build and deploy to gh-pages
+      - name: Build
         run: |
           npm install
           npx next build
+
+      - name: Deploy to gh-pages
+        run: |
           cd out
           touch .nojekyll
           git init
