@@ -44,8 +44,23 @@ export default function RootLayout({
       >
         <Nav />
         <main>{children}</main>
-        <footer style={{ textAlign: 'center', padding: '2rem 1rem 1.5rem', color: '#888', fontSize: '0.85rem', borderTop: '1px solid #eee', marginTop: '3rem' }}>
-          由中国人民大学法学院 <a href="https://aryella-byte.github.io/pengyali/" target="_blank" rel="noopener noreferrer" style={{ color: '#666', textDecoration: 'underline' }}>彭雅丽</a> 开发
+        <footer className="border-t px-6 py-10" style={{ borderColor: 'var(--border)' }}>
+          <div className="mx-auto max-w-5xl">
+            <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
+              <div className="flex items-center gap-2">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                  <path d="M2 12h4l3-8 4 16 3-8h6" stroke="var(--navy)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+                <span className="font-serif text-sm font-medium" style={{ color: 'var(--navy)' }}>法脉 JuriPulse</span>
+              </div>
+              <div className="text-center text-[11px] leading-relaxed" style={{ color: 'var(--text-tertiary)' }}>
+                由中国人民大学法学院 <a href="https://aryella-byte.github.io/pengyali/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--navy)', textDecoration: 'underline' }}>彭雅丽</a> 开发
+              </div>
+              <div className="text-[11px]" style={{ color: 'var(--text-tertiary)' }}>
+                © 2025 JuriPulse
+              </div>
+            </div>
+          </div>
         </footer>
       </body>
     </html>
