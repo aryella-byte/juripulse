@@ -1,26 +1,141 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Law firm modern minimalist palette */
+  --navy: #1a365d;
+  --navy-light: #234681;
+  --navy-dark: #0f2340;
+  --gold: #c9a962;
+  --gold-light: #d4b978;
+  --gold-dim: rgba(201, 169, 98, 0.15);
+
+  /* Light mode (primary) */
+  --bg-primary: #fafaf8;
+  --bg-secondary: #f5f5f0;
+  --bg-card: #ffffff;
+  --bg-card-hover: #fefefe;
+  --bg-surface: #f0f0eb;
+  --border: #e8e5de;
+  --border-hover: #d5d0c6;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --text-tertiary: #8a8a8a;
+  --accent: var(--navy);
+  --accent-dim: var(--navy-light);
+  --accent-glow: rgba(26, 54, 93, 0.08);
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.06), 0 2px 4px rgba(0,0,0,0.04);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.08), 0 4px 8px rgba(0,0,0,0.04);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-background: var(--bg-primary);
+  --color-foreground: var(--text-primary);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  border-color: var(--border);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection */
+::selection {
+  background: var(--navy);
+  color: white;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-hover);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b0aba0;
+}
+
+/* Serif font family for headings */
+.font-serif {
+  font-family: 'Playfair Display', 'Noto Serif SC', 'Georgia', serif;
+}
+
+/* Gold accent line decoration */
+.gold-line {
+  border-left: 3px solid var(--gold);
+}
+
+/* Card hover lift */
+.card-hover {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card-hover:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
+}
+
+/* Topic colors for CLSCI */
+.topic-color-0 { --topic: #1a365d; }
+.topic-color-1 { --topic: #9c4221; }
+.topic-color-2 { --topic: #285e61; }
+.topic-color-3 { --topic: #744210; }
+.topic-color-4 { --topic: #553c9a; }
+.topic-color-5 { --topic: #9b2c2c; }
+.topic-color-6 { --topic: #276749; }
+.topic-color-7 { --topic: #2a4365; }
+.topic-color-8 { --topic: #975a16; }
+.topic-color-9 { --topic: #702459; }
+.topic-color-10 { --topic: #2c5282; }
+.topic-color-11 { --topic: #6b4226; }
+.topic-color-12 { --topic: #22543d; }
+.topic-color-13 { --topic: #4c1d95; }
+.topic-color-14 { --topic: #7f1d1d; }
+.topic-color-15 { --topic: #1e3a5f; }
+.topic-color-16 { --topic: #78350f; }
+.topic-color-17 { --topic: #064e3b; }
+.topic-color-18 { --topic: #4a1d96; }
+.topic-color-19 { --topic: #831843; }
+.topic-color-20 { --topic: #1e40af; }
+.topic-color-21 { --topic: #92400e; }
+
+/* Fade in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 0.4s ease forwards;
+}
+
+/* Modal overlay */
+.modal-overlay {
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+}
+
+/* Tooltip */
+.tooltip {
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  pointer-events: none;
+  box-shadow: var(--shadow-md);
 }

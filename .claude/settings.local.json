@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(unzip:*)",
+      "Read(//private/tmp/**)",
+      "Read(//tmp/brief_inspect/**)",
+      "Bash(python3:*)",
+      "Bash(chmod +x:*)",
+      "Bash(npm run:*)",
+      "Bash(export:*)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/yalipeng/**)",
+      "Bash(npx vercel:*)"
+    ]
+  }
+}
