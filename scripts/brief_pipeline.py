@@ -47,11 +47,16 @@ RESEARCH_SOURCES = {
     "Harvard Law Review": "https://harvardlawreview.org/feed/",
     "Stanford Law Review": "https://www.stanfordlawreview.org/feed/",
     "Columbia Law Review": "https://columbialawreview.org/feed/",
+    "U Chicago Law Review": "https://lawreview.uchicago.edu/feed/",
     "NYU Law Review": "https://www.nyulawreview.org/feed/",
+    "Penn Law Review": "https://www.pennlawreview.com/feed/",
     "Michigan Law Review": "https://michiganlawreview.org/feed/",
     "Virginia Law Review": "https://virginialawreview.org/feed/",
+    "Duke Law Journal": "https://dlj.law.duke.edu/feed/",
     "Cornell Law Review": "https://cornelllawreview.org/feed/",
+    "Georgetown Law Journal": "https://www.law.georgetown.edu/georgetown-law-journal/feed/",
     "California Law Review": "https://www.californialawreview.org/feed/",
+    "J Criminal Law & Criminology": "https://scholarlycommons.law.northwestern.edu/jclc/recent.rss",
 }
 
 JUNK_KEYWORDS = [
