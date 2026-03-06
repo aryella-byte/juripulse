@@ -519,69 +519,6 @@
   ],
   "research": [
     {
-      "title": "AI Governance in Trade Disputes: Export Controls and Global AI Development",
-      "titleCN": "贸易争端中的AI治理：出口管制与全球AI发展",
-      "url": "https://arxiv.org/search/?query=AI+governance+trade",
-      "date": "2026-03-05",
-      "journal": "Research Proposal",
-      "summaryCN": "探讨AI芯片出口管制如何影响全球AI发展格局，对比分析美国与中国的AI监管框架，评估技术脱钩对国际AI治理的影响。",
-      "summaryEN": "Examines how AI chip export controls affect global AI development. Comparative analysis of US vs China AI regulation frameworks. Assesses impact of tech decoupling on international AI governance.",
-      "whyMattersCN": "AI芯片管制涉及国际技术贸易的法律框架重构。研究可为理解技术主权与全球创新之间的张力提供理论框架，对中国AI产业政策的法律设计具有参考价值。",
-      "whyMattersEN": "AI chip controls involve legal framework reconstruction for international technology trade. Offers theoretical framework for understanding tensions between tech sovereignty and global innovation.",
-      "tags": [
-        {
-          "name": "AI治理",
-          "class": "tech"
-        },
-        {
-          "name": "贸易法",
-          "class": "international"
-        }
-      ]
-    },
-    {
-      "title": "Empirical Impact of Tariffs: Pass-Through Effects on Consumer Prices",
-      "titleCN": "关税的实证影响：对消费者价格的传导效应",
-      "url": "https://www.nber.org/papers",
-      "date": "2026-03-05",
-      "journal": "Research Proposal",
-      "summaryCN": "量化分析20%关税对消费者价格的传导效应，研究供应链重组对贸易壁垒的应对策略，评估关税政策的经济法律效果。",
-      "summaryEN": "Quantifies pass-through effects of 20% tariffs on consumer prices. Studies supply chain restructuring responses to trade barriers. Evaluates economic-legal effectiveness of tariff policies.",
-      "whyMattersCN": "关税传导效应研究涉及贸易政策评估的法律经济学方法。对中国而言，理解关税对国内市场价格的影响机制，有助于设计更精准的贸易反制措施和法律救济机制。",
-      "whyMattersEN": "Tariff pass-through research involves law-and-economics methods for trade policy evaluation. Understanding price transmission mechanisms helps design precise trade countermeasures.",
-      "tags": [
-        {
-          "name": "贸易政策",
-          "class": "international"
-        },
-        {
-          "name": "法律经济学",
-          "class": "constitutional"
-        }
-      ]
-    },
-    {
-      "title": "Agentic AI Legal Frameworks: Liability for Autonomous AI Agents",
-      "titleCN": "Agentic AI法律框架：自主AI智能体的责任归属",
-      "url": "https://harvardlawreview.org/",
-      "date": "2026-03-05",
-      "journal": "Research Proposal",
-      "summaryCN": "研究自主AI智能体的法律责任问题，探讨跨境监管协调挑战，分析现有侵权法和刑事责任框架对AI自主决策的适应性。",
-      "summaryEN": "Studies liability issues for autonomous AI agents. Explores cross-border regulatory harmonization challenges. Analyzes adaptability of existing tort and criminal liability frameworks to AI autonomous decisions.",
-      "whyMattersCN": "Agentic AI的责任归属是AI法律治理的核心难题。研究可为完善中国《人工智能法》立法提供比较法参考，特别是在自动化决策的法律责任分配方面。",
-      "whyMattersEN": "Agentic AI liability is a core challenge in AI legal governance. Offers comparative reference for China's AI Law legislation, especially regarding liability allocation for automated decisions.",
-      "tags": [
-        {
-          "name": "AI责任",
-          "class": "tech"
-        },
-        {
-          "name": "侵权法",
-          "class": "criminal"
-        }
-      ]
-    },
-    {
       "title": "People v. Thompson",
       "titleCN": "People v. Thompson",
       "url": "https://harvardlawreview.org/print/vol-139/people-v-thompson/",
