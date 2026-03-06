@@ -27,9 +27,9 @@ export default function PulsePage() {
 
   useEffect(() => {
     Promise.all([
-      fetch('/data/clsci_topics.json').then(r => r.json()),
-      fetch('/data/clsci_network.json').then(r => r.json()),
-      fetch('/data/clsci_articles.json').then(r => r.json()),
+      fetch(`${process.env.__NEXT_ROUTER_BASEPATH || ''}/data/clsci_topics.json`).then(r => r.json()),
+      fetch(`${process.env.__NEXT_ROUTER_BASEPATH || ''}/data/clsci_network.json`).then(r => r.json()),
+      fetch(`${process.env.__NEXT_ROUTER_BASEPATH || ''}/data/clsci_articles.json`).then(r => r.json()),
     ]).then(([t, n, a]) => { setTopics(t); setNetwork(n); setArticles(a) })
   }, [])
 

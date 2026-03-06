@@ -26,7 +26,7 @@ export default function BriefPage() {
   const [selectedSource, setSelectedSource] = useState('')
 
   useEffect(() => {
-    fetch('/data/brief_data.json')
+    fetch(`${process.env.__NEXT_ROUTER_BASEPATH || ''}/data/brief_data.json`)
       .then(r => r.json())
       .then(d => setData(d))
       .catch(() => setData({ news: [], research: [] }))
