@@ -1,6 +1,70 @@
 {
   "news": [
     {
+      "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
+      "titleCN": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
+      "url": "https://www.scotusblog.com/2026/03/justices-poised-to-adopt-exceptions-to-federal-criminal-defendants-appellate-waivers/",
+      "date": "2026-03-07",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院拟对刑事被告的上诉权放弃条款创设例外，涉及辩诉交易中自愿性放弃上诉权的边界争议，核心在于平衡诉讼效率与司法纠错机制，可能重塑联邦刑事司法实践。",
+      "summaryEN": "",
+      "whyMattersCN": "美国作为辩诉交易制度最成熟的国家，其上诉权例外规则的发展直接影响全球刑事司法改革方向；对中国而言，认罪认罚从宽制度正处深化期，美国经验可为上诉权保留、自愿性审查标准及权利救济机制提供比较法参照，亦警示跨国企业在美合规调查中需重新评估辩诉协商策略。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "宪法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "判决出台后联邦检察官调整辩诉协议模板条款",
+        "mediumTerm": "巡回法院形成上诉权例外审查的统一或分歧判例",
+        "longTerm": "推动辩诉交易制度结构性反思或国会立法回应"
+      },
+      "actionItems": {
+        "scholar": "比较研究中美认罪协商中权利放弃的有效性审查标准",
+        "policymaker": "借鉴自愿性审查机制完善认罪认罚上诉权保障规则",
+        "entrepreneur": "评估在美刑事调查中辩诉协商的后续救济风险敞口"
+      }
+    },
+    {
+      "title": "Brazil’s almighty Supreme Court must win back public trust",
+      "titleCN": "Brazil’s almighty Supreme Court must win back public trust",
+      "url": "https://www.economist.com/leaders/2026/02/27/brazils-almighty-supreme-court-must-win-back-public-trust",
+      "date": "2026-03-07",
+      "source": "The Economist Leaders",
+      "summaryCN": "巴西最高法院因政治化裁决、与博索纳罗阵营冲突及社交媒体封禁争议陷入信任危机。《经济学人》呼吁其通过程序透明与自我约束重建权威，避免成为'超级立法者'，维护民主制衡。",
+      "summaryEN": "",
+      "whyMattersCN": "1)对美国/国际：揭示司法能动主义与民粹主义冲突的全球困境，为美国最高法院极化争议、欧盟数字主权立法提供镜鉴；2)对中国：巴西'司法治国'模式与平台治理经验可为我国司法改革、跨境数据执法及企业在拉美合规运营提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 10,
+      "policyTimeline": {
+        "shortTerm": "卢拉政府与最高法院关系微妙调整，X平台诉讼持续",
+        "mediumTerm": "2026年大选前司法中立性成竞选议题，或有制度改革动议",
+        "longTerm": "拉美最大经济体司法权威重塑，影响区域法治投资评级"
+      },
+      "actionItems": {
+        "scholar": "比较法研究司法克制理论在新兴民主国家的适用边界",
+        "policymaker": "设计社交媒体内容审核的司法审查与行政分权机制",
+        "entrepreneur": "评估巴西数字监管不确定性，建立多法域合规响应体系"
+      }
+    },
+    {
       "title": "Syrian nationals urge Supreme Court to keep ruling in place allowing them to stay in the United States",
       "titleCN": "叙利亚国民请求最高法院维持允许其留美的裁决",
       "url": "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/",
