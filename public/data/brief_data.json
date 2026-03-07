@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
+      "titleCN": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
+      "url": "https://www.scotusblog.com/2026/03/justices-poised-to-adopt-exceptions-to-federal-criminal-defendants-appellate-waivers/",
+      "date": "2026-03-08",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院拟对刑事被告的上诉权放弃条款创设例外，涉及辩诉交易中自愿性放弃上诉权的边界争议，核心在于平衡诉讼效率与司法纠错机制，可能重塑联邦刑事司法实践。",
+      "summaryEN": "",
+      "whyMattersCN": "美国作为辩诉交易制度最成熟的国家，其上诉权例外规则的发展直接影响全球刑事司法改革方向；对中国而言，认罪认罚从宽制度正处深化期，美国经验可为上诉权保留、自愿性审查标准及权利救济机制提供比较法参照，亦警示跨国企业在美合规调查中需重新评估辩诉协商策略。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "宪法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "判决出台后联邦检察官调整辩诉协议模板条款",
+        "mediumTerm": "巡回法院形成上诉权例外审查的统一或分歧判例",
+        "longTerm": "推动辩诉交易制度结构性反思或国会立法回应"
+      },
+      "actionItems": {
+        "scholar": "比较研究中美认罪协商中权利放弃的有效性审查标准",
+        "policymaker": "借鉴自愿性审查机制完善认罪认罚上诉权保障规则",
+        "entrepreneur": "评估在美刑事调查中辩诉协商的后续救济风险敞口"
+      }
+    },
+    {
       "title": "Syrian nationals urge Supreme Court to keep ruling in place allowing them to stay in the United States",
       "titleCN": "叙利亚国民请求最高法院维持允许其留美的裁决",
       "url": "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/",
@@ -303,6 +335,74 @@
     }
   ],
   "research": [
+    {
+      "title": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
+      "titleCN": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
+      "url": "https://michiganlawreview.org/the-federal-general-counsel-law-and-our-democracy-at-a-crossroads/",
+      "date": "2026-03-08",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文以美国联邦政府各部门总法律顾问（General Counsel）为研究对象，系统分析了这一关键法律职位在当代美国民主危机中的角色与困境。作者采用制度分析与规范理论相结合的方法，通过历史梳理、职能解构和比较制度研究，揭示了总法律顾问作为\"法律守门人\"的双重身份张力——既要服务于行政首长，又须维护法律完整性。论文构建了\"制度性法律忠诚\"的分析框架，区分了个人忠诚、职业伦理与制度责任三个层次，并基于对多位现任及前任总法律顾问的深度访谈，实证考察其在高压政治环境下的决策困境。研究发现，总法律顾问的制度设计缺陷——特别是任命机制的政治化与职业保障不足——正在削弱其维护法治的能力，而2020年选举后的宪政危机则暴露了这一制度软肋。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有多重借鉴价值。第一，【论证借鉴】作者采用\"中层制度理论\"路径，避免宏大宪政叙事与微观行为研究的割裂，将总法律顾问置于\"行政国家—法治—民主\"的三维张力中分析。中国研究者可借鉴此框架，分析中国法律顾问、公职律师等类似制度，构建\"党政—法律—治理\"的分析维度，避免简单的\"有/无独立性\"二元判断。第二，【论证借鉴】论文创新性地运用\"反事实推理\"（counterfactual analysis）强化因果论证：通过假设总法律顾问若采取不同行动可能产生的制度后果，凸显其实际选择的历史权重。中国法学研究可借鉴此方法，在分析重大法治事件时，系统构建\"决策分叉点\"，评估不同制度选项的规范后果，提升研究的预测性与政策相关性。第三，【论证借鉴】作者整合规范分析与实证材料的方式值得效仿：以深度访谈获取的\"内部人视角\"验证并复杂化理论预设，而非让实证材料沦为装饰。中国研究者可通过结构化访谈、档案分析等方法，获取法律职业群体的实践理性，避免规范研究与经验研究的脱节。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "宪政理论",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律职业",
+          "class": "theory"
+        },
+        {
+          "name": "制度分析",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Anti-Domination and Administration",
+      "titleCN": "Anti-Domination and Administration",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
+      "date": "2026-03-08",
+      "journal": "NYU Law Review",
+      "summaryCN": "本文以\"反支配\"（anti-domination）为核心规范框架，重构美国行政法的正当性基础。作者批判传统行政法理论过度依赖程序控制与成本收益分析，主张将行政法的规范目标重新定位于防止公私主体对公民的任意支配。研究方法融合规范政治哲学（佩蒂特的共和主义理论）、制度分析与比较法视角，系统检视了行政法三大核心领域：规则制定、裁决执行与司法审查。主要发现包括：反支配框架能更好地解释现有制度安排（如公告评论程序的参与功能、行政法官的独立性设计），并为改革提供方向（如强化行政程序中的理由说明义务、限制行政裁量的结构性任意）。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑体现为\"哲学奠基—制度映射—改革推演\"的三层结构，具有显著的方法论示范价值。【论证借鉴一：规范理论的制度转译】作者并非简单套用佩蒂特的共和主义，而是通过\"支配的三要素\"（权力不对称、利益相关性、任意性）构建可操作的法律分析工具。中国法学研究可借鉴此路径，将社会主义核心价值观或传统政治哲学转化为具体的法律构成要件，例如将\"共同富裕\"转译为税法中的累进程度测量指标。【论证借鉴二：反事实的制度比较】论文通过对比欧盟行政法的\"正当期待保护\"与美国法的\"任意与反复标准\"，揭示不同规范目标如何塑造相似制度。中国学者可运用此方法，比较大陆法系与社会主义法系在相同功能需求（如数字平台监管）下的制度差异，避免简单的制度移植论证。【论证借鉴三：动态实证与规范评估的结合】作者运用行政会议（ACUS）的实证数据评估现有程序的实际反支配效果，同时保持规范批判的独立性。这提示中国行政法研究可建立\"制度运行数据+规范目标偏离度\"的分析模型，例如通过行政复议决定的大数据测算\"实质性化解争议\"目标的实现程度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法理论重构",
+          "class": "administrative"
+        },
+        {
+          "name": "共和主义法学",
+          "class": "theory"
+        },
+        {
+          "name": "规范政治哲学",
+          "class": "theory"
+        },
+        {
+          "name": "比较行政法",
+          "class": "international"
+        },
+        {
+          "name": "行政程序法",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "Practical Consequences in Statutory Interpretation",
       "titleCN": "法律解释中的实践后果",
