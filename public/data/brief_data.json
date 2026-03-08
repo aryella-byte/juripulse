@@ -129,6 +129,40 @@
       "quality_score": 8
     },
     {
+      "title": "Is the nightmare scenario for global energy here?",
+      "titleCN": "Is the nightmare scenario for global energy here?",
+      "url": "https://www.ft.com/content/5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
+      "date": "2026-03-08",
+      "source": "Financial Times",
+      "summaryCN": "本文报道特朗普政府于2025年4月15日宣布对伊朗石油买家实施'次级制裁'（secondary sanctions），要求中国、印度等国在5月12日前停止购买伊朗原油，否则将面临美元结算系统（SWIFT）切断等金融惩罚。此举援引《2012年国防授权法》第1245条及《伊朗制裁法案》第104条，但法律争议在于：美国能否依据国内法对非美国实体实施域外管辖？欧盟已启动《阻断法案》（Blocking Statute）反制，中国外交部则援引《反外国制裁法》第12条予以回应。案件核心涉及国际法中的'长臂管辖'（long-arm jurisdiction）与'反制立法'的冲突。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国/国际法律制度的影响：本案凸显美国单边制裁体系的'过度扩张'危机。特朗普政府首次将伊朗石油制裁与'232条款'国家安全调查挂钩，试图绕过《联合国宪章》第41条的多边授权框架，实质构成对国际能源贸易法的'制度性破坏'。欧盟《阻断法案》第5条明确禁止欧洲企业遵守美国次级制裁，形成'法律冲突僵局'，可能触发《世界贸易组织争端解决谅解》第23条的合规性审查。\n\n对中国的比较法价值：中国2021年《反外国制裁法》与欧盟《阻断法案》形成'阻断立法'的两大范式，但二者在适用范围（第12条'反制清单'vs欧盟第2271/96号条例附件）、救济机制（中国'禁令+赔偿'vs欧盟'损害赔偿诉讼'）及域外效力设计上存在显著差异。中国尚未建立针对次级制裁的'阻断令'（blocking order）司法审查程序，企业合规困境缺乏制度出口。\n\n【选题思路】次级制裁的域外效力边界与中国阻断立法的司法激活机制研究——以《反外国制裁法》第12条与欧盟《阻断法案》的比较为视角",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "经济制裁法",
+          "class": "international"
+        },
+        {
+          "name": "域外管辖权",
+          "class": "international"
+        },
+        {
+          "name": "阻断立法",
+          "class": "administrative"
+        },
+        {
+          "name": "反外国制裁法",
+          "class": "administrative"
+        },
+        {
+          "name": "能源安全法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Syrian nationals urge Supreme Court to keep ruling in place allowing them to stay in the United States",
       "titleCN": "叙利亚国民请求最高法院维持允许其留美的裁决",
       "url": "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/",
@@ -559,6 +593,36 @@
         {
           "name": "实证法学",
           "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The Jurisprudence of Justice Gorsuch and Future Efforts to Address Climate Change",
+      "titleCN": "The Jurisprudence of Justice Gorsuch and Future Efforts to Address Climate Change",
+      "url": "https://michiganlawreview.org/the-jurisprudence-of-justice-gorsuch-and-future-efforts-to-address-climate-change/",
+      "date": "2026-03-08",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文系统分析了戈萨奇大法官的裁判哲学，并探讨其对气候诉讼的潜在影响。作者采用文本分析、判例解构与比较法方法，梳理戈萨奇在行政法、制定法解释和联邦主义领域的立场：一是严格限制行政机构权力，主张\"重大问题原则\"要求国会明确授权；二是文本主义解释方法，拒绝考虑立法史和目的；三是强化州权，限制联邦优先适用。研究发现，戈萨奇的方法论对气候诉讼构成双重障碍——既限制EPA等机构的规制空间，又可能阻碍创新性的侵权诉讼路径，但作者亦指出其联邦主义立场可能为州级气候行动保留空间。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证逻辑呈现三层递进结构：首先建立法官方法论的理论模型（文本主义+原旨主义+联邦主义），其次通过判例实证检验其一致性，最后推演至气候政策领域的制度后果。这种\"理论-实证-应用\"的链条对中国法学研究具有直接参考价值。【论证借鉴】其一，\"司法哲学类型化\"方法：作者将分散的判例提炼为可操作的裁判规则矩阵（如将制定法解释细分为文本/结构/体系三个子维度），中国研究者可借鉴此框架分析最高人民法院法官的类案裁判倾向，构建\"中国法官解释方法论\"的实证研究。【论证借鉴】其二，\"制度后果预测\"技术：作者并非简单描述法官立场，而是设计具体的法律适用场景（如清洁电力计划、州侵权诉讼）进行推演，这种\"思想实验\"方法可用于评估民法典绿色条款、碳排放权交易规则的解释空间。【论证借鉴】其三，跨领域知识整合：论文将气候科学的不确定性、行政国家的正当性辩论与教义分析熔于一炉，中国环境法研究可借鉴此路径，将双碳政策、生态系统服务价值评估等科学问题转化为可司法化的法律要件分析。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法哲学",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法解释",
+          "class": "administrative"
+        },
+        {
+          "name": "气候诉讼",
+          "class": "international"
+        },
+        {
+          "name": "比较法方法",
+          "class": "theory"
         }
       ],
       "quality_score": 8
