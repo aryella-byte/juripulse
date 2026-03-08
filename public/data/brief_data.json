@@ -95,6 +95,40 @@
       "quality_score": 8
     },
     {
+      "title": "Will the mystery of the Dobbs leak ever be solved?",
+      "titleCN": "Will the mystery of the Dobbs leak ever be solved?",
+      "url": "https://www.scotusblog.com/2026/03/will-the-mystery-of-the-dobbs-leak-ever-be-solved/",
+      "date": "2026-03-08",
+      "source": "SCOTUSblog",
+      "summaryCN": "2022年5月，美国联邦最高法院关于Dobbs v. Jackson Women's Health Organization案的多数意见草案被泄露给Politico网站，该草案推翻Roe v. Wade案确立的堕胎权宪法保护。泄露事件引发轩然大波，首席大法官罗伯茨任命前陆军部长Michael Rodriguez领导内部调查，但调查历时数月未能锁定泄密者，最终报告于2023年1月公布。目前，最高法院内部安全程序已改革，但泄密者身份仍成谜。新闻聚焦于泄密调查的僵局、内部安全漏洞以及大法官之间信任破裂的深层制度危机。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度而言，此次泄密事件暴露了最高法院作为'最小危险部门'在信息管控上的结构性脆弱。调查失败折射出：第一，司法分支缺乏独立的执法权与强制取证手段，依赖联邦调查局(FBI)又面临三权分立的程序障碍；第二，大法官及其助理的'职业伦理'约束机制失效，传统保密文化遭遇政治极化冲击；第三，泄密客观上改变了判决的公共审议过程，引发关于'司法正当程序'与'结果主义'的规范争议——泄密是否构成对司法独立的损害，抑或属于'吹哨'性质的公共参与。\n\n对中国的比较法价值在于：最高人民法院的裁判文书公开、审判委员会运作保密与Dobbs泄密形成制度对照。中国司法改革中的'审判流程信息公开'与'法官权益保障'同样面临信息边界划定难题；而最高法院内部决策程序的透明度与保密性平衡，是全球宪法法院的共同困境。\n\n【选题思路】'司法泄密'的规范性质界定——以美国Dobbs案与中国裁判文书提前泄露的比较法研究为中心，探讨信息时代宪法法院保密义务的宪法基础与制度边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "信息泄露",
+          "class": "procedural"
+        },
+        {
+          "name": "职业伦理",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较宪法",
+          "class": "international"
+        },
+        {
+          "name": "最高法院制度",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Syrian nationals urge Supreme Court to keep ruling in place allowing them to stay in the United States",
       "titleCN": "叙利亚国民请求最高法院维持允许其留美的裁决",
       "url": "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/",
@@ -491,6 +525,40 @@
         {
           "name": "实证研究",
           "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Narrowing FOIA’s Exemption for Business Secrets",
+      "titleCN": "Narrowing FOIA’s Exemption for Business Secrets",
+      "url": "https://michiganlawreview.org/narrowing-foias-exemption-for-business-secrets/",
+      "date": "2026-03-08",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文批判性分析了美国《信息自由法》(FOIA)第4条豁免条款——商业秘密豁免的过度扩张问题。作者采用规范分析、实证研究与比较法相结合的方法，系统检视了该豁免条款的立法原意、司法解释演变及实际运作效果。研究发现，联邦机构与法院对\"商业秘密\"概念的解释已严重偏离国会立法初衷，导致政府信息透明度大幅受损。作者运用成本-收益分析框架，量化评估了现行豁免标准的经济与社会成本，并通过对比各州信息公开法的差异化实践，提出\"狭义解释+公共利益权衡\"的改良方案，主张将豁免范围限定于具有独立经济价值且经合理保密措施保护的信息，并引入公共利益优先的例外机制。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴】其一，\"立法原意-司法实践-实证效果\"的三层分析框架：作者首先通过立法史研究还原1966年国会制定FOIA时的核心关切，再追踪50余年判例法的演变轨迹，最后用实证数据验证规范偏离的实际后果。这一框架可直接移植至中国《政府信息公开条例》第15条（商业秘密条款）的研究，建议研究者收集国务院及各级法院的裁判文书，建立数据库分析\"商业秘密\"认定的裁量空间与地域差异。【论证借鉴】其二，\"成本-收益分析+比较法\"的规范重构路径：作者并非简单主张扩大或限缩豁免，而是构建包含信息获取收益、企业创新激励、行政成本等变量的分析模型，并引入15个州的立法例作为\"自然实验\"对照组。中国研究者可借鉴此法，选取上海、深圳等地的信息公开实践作为比较样本，评估不同解释标准对营商环境与透明治理的双重影响。【论证借鉴】其三，\"制度功能主义\"的论证策略：作者将FOIA置于民主问责、经济效率、国家安全等多元价值冲突中定位，提出\"信息流通的结构性平衡\"理论，避免非此即彼的价值判断。中国研究者可运用此策略，将政府信息公开制度嵌入\"放管服\"改革、数字政府建设等宏观政策语境，增强论证的现实针对性与政策可接受性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "信息自由法",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律解释学",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        },
+        {
+          "name": "实证法学",
+          "class": "procedural"
         }
       ],
       "quality_score": 8
