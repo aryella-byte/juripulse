@@ -1,6 +1,40 @@
 {
   "news": [
     {
+      "title": "A week of war in charts: the impact on the US",
+      "titleCN": "A week of war in charts: the impact on the US",
+      "url": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+      "date": "2026-03-09",
+      "source": "Financial Times",
+      "summaryCN": "本文以图表形式分析某周战争对美国的影响，核心法律争议涉及《战争权力法》(War Powers Resolution of 1973)的宪法边界问题。该法要求总统在派兵海外48小时内通知国会，并在60天内获得授权，但历届总统均以\"军事行动\"非\"战争\"为由规避。当前冲突中，拜登政府援引《2001年反恐授权法》(AUMF)作为法律依据，引发国会两党对行政权扩张的质疑。图表数据显示军费开支、难民安置及制裁措施的经济成本，其中制裁涉及《国际紧急经济权力法》(IEEPA)的适用争议，以及SWIFT剔除银行是否违反《第三国制裁法案》中比例原则的宪法审查问题。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度的影响：第一，触发\"单一行政权理论\"(Unitary Executive Theory)与国会战争权的经典张力，可能催生新的《战争权力法》修订案；第二，IEEPA的广泛适用面临非授权原则(non-delegation doctrine)的司法挑战，第五巡回法院已有相关判例；第三，制裁措施的域外效力引发与欧盟《阻断法案》的冲突，考验国际礼让原则。对中国的比较法价值：中国《反外国制裁法》与IEEPA在阻断立法、反制措施设计上存在制度竞争关系，但中国在行政程序正当性、司法审查强度方面缺乏成熟机制。【选题思路】\"行政战争权的宪法控制：美国《战争权力法》的司法回避与中国《国防法》的规范完善——以'军事行动'概念的法律解释为切入\"，可比较两国对'战争'定义的法律技术差异，分析中国如何在保持行政效率的同时构建程序约束机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "战争权力法",
+          "class": "constitutional"
+        },
+        {
+          "name": "国际紧急经济权力法",
+          "class": "administrative"
+        },
+        {
+          "name": "反外国制裁法",
+          "class": "international"
+        },
+        {
+          "name": "行政权扩张",
+          "class": "constitutional"
+        },
+        {
+          "name": "域外制裁",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
       "titleCN": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
       "url": "https://www.scotusblog.com/2026/03/justices-poised-to-adopt-exceptions-to-federal-criminal-defendants-appellate-waivers/",
@@ -465,6 +499,40 @@
     }
   ],
   "research": [
+    {
+      "title": "Pricing Solar Development Options",
+      "titleCN": "Pricing Solar Development Options",
+      "url": "https://michiganlawreview.org/pricing-solar-development-options/",
+      "date": "2026-03-09",
+      "journal": "Michigan Law Review",
+      "summaryCN": "该论文运用金融期权定价理论（real options theory）分析太阳能开发的法律规制问题。作者将太阳能项目开发权视为一种\"实物期权\"（real option），运用Black-Scholes期权定价模型量化分析延迟开发权的价值。研究发现，传统土地用途管制（如分区规划、开发许可）实际上赋予开发商一种隐含的\"等待期权\"（option to wait），使其能在不确定性（如技术成本下降、政策变化）消解后再行决策。论文通过构建数学模型，比较了不同监管工具（可转让开发权TDRs、影响费、开发时限）对期权价值的影响，提出政策设计应内化这种期权价值以避免社会福利损失。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的核心方法论突破在于将金融学工具系统引入法律经济分析，实现了从定性描述到定量测算的跨越。【论证借鉴1：跨学科模型移植】作者并非简单借用金融术语，而是完整移植Black-Scholes模型的假设条件、变量体系和推导逻辑，将其适配于法律规制场景——将土地开发权类比为股票看涨期权，政策不确定性类比为波动率σ，开发成本类比为执行价格K。这种\"概念-变量-方程\"三层移植法可直接用于中国研究，如将碳排放权、数据产权等新型权利纳入期权分析框架。【论证借鉴2：反事实基准构建】论文通过构建\"社会最优开发时机\"的反事实基准（社会计划者模型），量化测算现行法律导致的\"延迟偏差\"（delay bias）。中国法学研究可借鉴此设计，在分析限购、限贷等政策时，构建无干预状态下的效率基准，再测算政策扭曲程度。【论证借鉴3：参数敏感性分析】作者系统分析了关键参数（技术成本下降速率、贴现率、政策不确定性）对结论的稳健性影响，并以数值模拟呈现。这为中国实证法学研究提供了可复现的模板：在缺乏大规模微观数据时，可通过校准（calibration）现有文献参数，进行结构性模型估计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律经济学",
+          "class": "theory"
+        },
+        {
+          "name": "环境规制",
+          "class": "administrative"
+        },
+        {
+          "name": "财产法",
+          "class": "theory"
+        },
+        {
+          "name": "量化法学",
+          "class": "procedural"
+        },
+        {
+          "name": "跨学科方法",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
       "titleCN": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
