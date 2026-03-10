@@ -500,6 +500,32 @@
   ],
   "research": [
     {
+      "title": "Power and Immunity in Youngstown and Trump v. United States",
+      "titleCN": "Power and Immunity in Youngstown and Trump v. United States",
+      "url": "https://pennlawreview.com/2026/03/06/power-and-immunity-in-youngstown-and-trump-v-united-states/",
+      "date": "2026-03-10",
+      "journal": "Penn Law Review",
+      "summaryCN": "本文以Hohfeld权利分析框架为核心工具，对比分析Youngstown案（1952）与Trump v. United States案（2024）中总统权力的宪法边界问题。作者运用Wesley Hohfeld的\"权力-豁免\"（power-immunity）关系理论，解构两案中关于总统豁免权的司法推理，揭示最高法院在Trump案中以\"权力\"话语包装\"豁免\"实质的修辞策略。研究方法为规范分析法与判例比较法，通过精细的概念分析指出：Trump案多数意见混淆了总统行使权力的宪法授权与免于法律责任的程序性保护，将Youngstown案中确立的\"权力受法律限制\"原则，悄然转化为\"权力即意味着豁免\"的新范式。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有多重借鉴价值。【论证借鉴1】概念分析法的精细化运用：作者并非简单援引Hohfeld框架，而是将其操作化为具体的判例解剖工具——通过\"权力-权利-特权-豁免\"四组关联概念的严格区分，揭示司法意见中的概念偷换。中国研究者可将此用于分析宪法基本权利条款、行政法上的权力配置条款，例如以Hohfeld框架解构\"立法权\"\"监督权\"等模糊表述在不同法律语境中的规范内涵。【论证借鉴2】判例比较的历时性结构：论文选择相隔72年的两个标志性案件，构建\"原则确立—原则变形\"的分析叙事，而非平行的案例对比。这种\"纵向追踪式\"比较可应用于中国宪法变迁研究，如对比1954年与1982年宪法中同一术语的规范意涵演变，或追踪指导性案例的后续适用偏离。【论证借鉴3】修辞批判与规范重构的结合：作者不仅批评Trump案的说理缺陷，更从被批评意见中提炼出替代性规范方案——主张将豁免问题从权力分析剥离，纳入正当程序与权力分立的独立审查框架。这种\"破—立\"结构可借鉴于中国司法解释的批判性研究，避免止于批评而缺乏建设性方案。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法权力理论",
+          "class": "constitutional"
+        },
+        {
+          "name": "分析法学方法",
+          "class": "theory"
+        },
+        {
+          "name": "判例比较研究",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Pricing Solar Development Options",
       "titleCN": "Pricing Solar Development Options",
       "url": "https://michiganlawreview.org/pricing-solar-development-options/",
