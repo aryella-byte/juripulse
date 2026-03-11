@@ -500,6 +500,40 @@
   ],
   "research": [
     {
+      "title": "Redefining Program Integrity: Protecting Consumers and Systems in the Affordable Care Act Marketplaces",
+      "titleCN": "Redefining Program Integrity: Protecting Consumers and Systems in the Affordable Care Act Marketplaces",
+      "url": "https://pennlawreview.com/2025/12/23/redefining-program-integrity-protecting-consumers-and-systems-in-the-affordable-care-act-marketplaces/",
+      "date": "2026-03-11",
+      "journal": "Penn Law Review",
+      "summaryCN": "本文核心论点是：ACA医保市场（Marketplaces）中的\"项目完整性\"（Program Integrity）概念应被重新定义为双重目标——既保护消费者免受欺诈与不当营销，也保护市场系统本身免受制度性风险。作者采用规范分析与实证研究相结合的方法，首先通过文本分析梳理CMS（医疗保险和医疗补助服务中心）历年监管规则，揭示\"项目完整性\"术语从单纯反欺诈向系统性风险管理的语义演变；其次运用比较法方法，对比Medicare Advantage、Medicaid Managed Care等项目的监管架构；最后基于2014-2019年CMS执法数据与州级保险专员报告，实证分析消费者投诉模式与系统稳定性指标的相关性。研究发现：将消费者保护与系统保护分离监管的体制导致执法碎片化，而整合性框架能提升合规效率并降低行政成本。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证逻辑呈现\"概念解构—制度比较—实证验证—规范重构\"的四层递进结构，对中国法学研究具有显著的方法论参考价值。【论证借鉴】第一，\"术语考古学\"方法：作者追踪\"Program Integrity\"在联邦公报（Federal Register）中的使用频率与语境变迁（1986-2020），构建概念演变的量化图谱。中国研究者可将此法移植至\"营商环境\"\"信用监管\"等政策术语的分析，通过北大法宝、政府公报等数据库进行词频统计与语境编码，揭示政策话语的隐性转向。【论证借鉴】第二，\"监管套利\"（regulatory arbitrage）的跨制度比较：作者设计三维比较矩阵（监管目标×执法主体×信息工具），对比四个医保项目的制度差异。中国研究者可借鉴此框架分析金融监管（银保监/证监/地方金融局）或环境监管（生态环境/自然资源/林草部门）中的职权交叉问题，将分散的部门规章纳入统一分析维度。【论证借鉴】第三，\"执法数据—制度绩效\"的因果推断：作者利用2014年部分州延迟上线Marketplaces的自然实验，采用双重差分法（DID）评估整合监管对消费者投诉率的影响。中国研究者可寻找类似政策冲击（如2018年国地税合并、2019年市场监管综合执法改革），以企业投诉数据或行政复议案件为被解释变量，检验执法体制改革的实际效果。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政规制",
+          "class": "administrative"
+        },
+        {
+          "name": "健康法",
+          "class": "administrative"
+        },
+        {
+          "name": "法律实证研究",
+          "class": "procedural"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        },
+        {
+          "name": "监管治理",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Power and Immunity in Youngstown and Trump v. United States",
       "titleCN": "Power and Immunity in Youngstown and Trump v. United States",
       "url": "https://pennlawreview.com/2026/03/06/power-and-immunity-in-youngstown-and-trump-v-united-states/",
