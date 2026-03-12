@@ -33,6 +33,70 @@
       }
     },
     {
+      "title": "Trump administration urges Supreme Court to allow it to revoke protected status for Haitian nationals",
+      "titleCN": "Trump administration urges Supreme Court to allow it to revoke protected status for Haitian nationals",
+      "url": "https://www.scotusblog.com/2026/03/trump-administration-urges-supreme-court-to-allow-it-to-revoke-protected-status-for-haitian-nationals/",
+      "date": "2026-03-12",
+      "source": "SCOTUSblog",
+      "summaryCN": "特朗普政府请求最高法院授权其终止对约35万海地人的临时保护身份(TPS)，争议焦点在于行政部门是否有权单方面撤销国会创设的保护地位，涉及行政权边界与移民政策法律稳定性问题。",
+      "summaryEN": "",
+      "whyMattersCN": "1)美国制度层面：此案将界定《移民与国籍法》中'临时'保护的司法审查标准，影响未来总统移民政策的可逆性与法治预期；2)中国参考：对比研究中国《出境入境管理法》中' humanitarian residence permit'的行政裁量边界，为跨境企业外派人员签证合规及'一带一路'项目人员安全保障机制提供制度设计镜鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "最高法院2025年春审结，TPS海地人面临身份真空期",
+        "mediumTerm": "若政府胜诉，或触发对委内瑞拉、阿富汗等TPS群体的连锁撤销",
+        "longTerm": "重塑美国移民行政法框架，影响国际人道保护承诺可信度"
+      },
+      "actionItems": {
+        "scholar": "比较法研究：行政裁量权的'禁止恣意'原则在移民法中的适用差异",
+        "policymaker": "制度设计：建立人道签证的' sunset clause'与司法救济双重保障机制",
+        "entrepreneur": "合规布局：评估美籍关键岗位员工的替代性人才储备与签证多元化策略"
+      }
+    },
+    {
+      "title": "Vladimir Putin is caught in a vice of his own making",
+      "titleCN": "Vladimir Putin is caught in a vice of his own making",
+      "url": "https://www.economist.com/leaders/2026/02/19/vladimir-putin-is-caught-in-a-vice-of-his-own-making",
+      "date": "2026-03-12",
+      "source": "The Economist Leaders",
+      "summaryCN": "普京因发动乌克兰战争陷入自我制造的困境：国际刑事法院逮捕令使其出访受限，战时经济依赖军工透支民生，宪法任期安排与权力交接机制缺失形成合法性危机，制裁体系正系统性侵蚀俄罗斯法治基础与商业环境。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国/国际制度：揭示个人化威权治理与国际法治秩序的结构性冲突，制裁作为替代性执法工具的有效性边界成为关键议题。对中国启示：跨境制裁合规的'长臂管辖'应对、领导层任期制度安排的法治化缓冲设计、以及'一带一路'投资中的政治风险保险与主权豁免条款重构具有直接参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法",
+          "class": "international"
+        },
+        {
+          "name": "宪法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "欧美强化对俄次级制裁执法，中企需审查涉俄供应链合规",
+        "mediumTerm": "国际刑事法院管辖权扩张引发主权国家反制立法浪潮",
+        "longTerm": "威权国家权力交接的宪法危机或成国际法干预新领域"
+      },
+      "actionItems": {
+        "scholar": "比较研究制裁作为'国际私力救济'的合法性证成与比例原则适用",
+        "policymaker": "构建跨境制裁阻断立法与不可靠实体清单的联动机制",
+        "entrepreneur": "建立政治风险分级评估体系，重构合同中的不可抗力与制裁免责条款"
+      }
+    },
+    {
       "title": "A week of war in charts: the impact on the US",
       "titleCN": "A week of war in charts: the impact on the US",
       "url": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -723,6 +787,96 @@
         {
           "name": "话语分析",
           "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Modern Cyber Warfare and International Law",
+      "titleCN": "Modern Cyber Warfare and International Law",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/20/modern-cyber-warfare-and-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=modern-cyber-warfare-and-international-law",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "该论文探讨现代网络战与国际法的互动关系，核心论点在于：现有国际人道法（IHL）框架虽可适用于网络攻击，但面临归因困难、攻击定性模糊及比例原则适用等三大挑战。作者采用规范分析法与案例研究相结合的方法，系统检视了2010年震网病毒（Stuxnet）事件、2016年美国对伊斯兰国网络攻击等关键案例。研究发现，国际法院在\"尼加拉瓜案\"确立的\"有效控制\"标准在网络空间难以适用，而北约《塔林手册》提出的\"整体效果\"测试更具操作性。论文最终主张通过\"功能等价\"方法将传统武装冲突法规则渐进扩展至网络领域，同时呼吁建立新的国家实践证据收集机制。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证方法对中国法学研究具有显著借鉴意义。其一，【论证借鉴】作者采用\"规范-实践-规范\"的循环论证结构：先梳理既有法律框架的规范内涵，再通过具体案例检验其适用困境，最后回归规范层面提出解释方案。这种结构可移植至中国数据跨境流动、算法治理等新兴领域的研究，例如先分析《数据安全法》的规范结构，再以典型企业合规案例检验，最终提出解释论或立法论建议。其二，【论证借鉴】论文熟练运用\"比较制度分析\"方法，将国际法院判例、北约专家意见、国家实践声明三类渊源置于同一分析平面，评估其权威性层级。中国研究者处理平台治理、自动驾驶责任等问题时，可借鉴此框架，将司法解释、行业标准、企业自律规范进行系统性比较。其三，【论证借鉴】作者对\"归因\"问题的处理展示了如何将有争议的法律问题转化为可操作的证明标准问题——将\"国家责任\"这一实体问题拆解为证据法层面的间接证据链条构建。此方法适用于中国法中的因果关系认定、主观过错判断等传统难题的创新研究。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际人道法",
+          "class": "international"
+        },
+        {
+          "name": "网络战",
+          "class": "tech"
+        },
+        {
+          "name": "归因理论",
+          "class": "theory"
+        },
+        {
+          "name": "规范分析",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Undue Computational Experimentation: Can In Silico Experiments Allows Genus Claims to Survive?",
+      "titleCN": "Undue Computational Experimentation: Can In Silico Experiments Allows Genus Claims to Survive?",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/20/undue-computational-experimentation-can-in-silico-experiments-allows-genus-claims-to-survive/?utm_source=rss&utm_medium=rss&utm_campaign=undue-computational-experimentation-can-in-silico-experiments-allows-genus-claims-to-survive",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "该论文探讨计算机模拟实验（in silico experiments）能否拯救专利法中的属类权利要求（genus claims）免受过度实验（undue experimentation）的挑战。作者构建了一个理论框架，将专利法中的书面描述（written description）和可实施性（enablement）要求与FDA等监管机构的计算机模拟验证标准进行类比。研究方法采用规范分析结合比较制度研究，通过分析Amgen v. Sanofi案等典型案例，论证计算机模拟可作为属类抗体权利要求的替代性验证手段。核心发现是：在生物技术领域，经充分验证的计算机模型能够满足专利法的可实施性标准，但需建立模型可靠性、透明度和验证标准的配套制度。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文展现了跨学科制度比较的典型论证范式，对中国法学研究具有重要方法论价值。【论证借鉴一】\"监管标准借用\"策略：作者将FDA对计算机模拟的验证标准（如ASME V&V 20）移植到专利法分析中，形成\"制度间标准迁移\"的分析框架。中国研究者可将此应用于数据合规、算法治理等领域，例如借用金融监管部门的风控标准分析平台责任，或借用医疗AI审批标准探讨自动驾驶的过失认定。【论证借鉴二】\"技术中介化\"论证结构：论文构建了\"技术工具—法律标准—制度配套\"的三层分析框架，先论证计算机模拟的技术可行性，再映射到法律标准的解释空间，最后提出验证程序、透明度要求等制度设计。此结构可直接用于中国的人工智能立法、基因编辑规制等议题，避免技术描述与法律分析脱节的常见问题。【论证借鉴三】\"反事实推理\"的规范运用：作者通过设想\"若采用计算机模拟验证，Amgen案结果将如何不同\"来检验理论主张，这种基于判例的反事实分析比抽象的价值权衡更具说服力，适用于中国指导性案例的规范分析。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "知识产权法",
+          "class": "tech"
+        },
+        {
+          "name": "法律与科技",
+          "class": "tech"
+        },
+        {
+          "name": "比较法方法",
+          "class": "theory"
+        },
+        {
+          "name": "制度经济学",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Beyond the Paycheck: Why Compensating NCAA Student-Athletes Does Not Mean Employing Them",
+      "titleCN": "Beyond the Paycheck: Why Compensating NCAA Student-Athletes Does Not Mean Employing Them",
+      "url": "https://texaslawreview.org/beyond-the-paycheck-why-compensating-ncaa-student-athletes-does-not-mean-employing-them/",
+      "date": "2026-03-12",
+      "journal": "Texas Law Review",
+      "summaryCN": "本文核心论点为：向NCAA学生运动员支付报酬并不必然构成雇佣关系，从而规避《国家劳动关系法》的适用。作者采用规范分析法与比较制度分析，首先解构\"薪酬即雇佣\"的直觉关联，提出\"补偿多元性理论\"——区分教育性补偿（奖学金）、市场性补偿（姓名形象权收益）与雇佣性补偿（工资）的法律性质差异。其次，运用行政法中的\"控制权测试\"（control test）与\"经济现实测试\"（economic realities test），论证NCAA对学生运动员的控制属于教育管理权而非雇主指挥权。最后，通过比较美国业余体育法、欧盟运动员身份认定及美国高校研究生助教判例，构建\"有限补偿+教育主导\"的规制框架，主张以信托责任或特殊行业监管替代劳动法调整。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑呈现三重方法论价值：其一，概念解构技术——将\"薪酬\"这一日常概念拆解为具有不同法律效果的功能类型，打破概念捆绑的思维定式。其二，测试工具移植——将劳动法中用于认定雇佣关系的司法测试（control test/economic realities test）反向运用，论证特定控制形态不构成雇佣，展现法律测试的弹性解释空间。其三，比较法功能主义——选取欧盟运动员制度与研究生助教判例，并非追求规则移植，而是提取\"教育主导性\"作为区分标准的功能逻辑。\n\n【论证借鉴1】概念分层技术：中国法学研究可借鉴\"补偿多元性理论\"，在分析平台用工、灵活就业等议题时，将\"收入\"解构为经营收益、劳务报酬、社会保障替代金等类型，分别匹配不同法律效果，避免\"有收入即劳动关系\"的简单化论证。\n\n【论证借鉴2】司法测试的反向运用：中国行政法/劳动法中的认定标准（如从属性测试）可被反向操作——通过细化控制权的具体形态（时间控制、内容控制、技术控制），论证特定行业场景中的\"弱从属性\"，为新型用工关系脱法或特别法适用提供分析框架。\n\n【论证借鉴3】比较法的功能提取：在进行域外法比较时，不聚焦于规则条文，而是提取其背后的\"区分功能\"（如本文的\"教育主导性\"标准），以此作为中国法解释论的参照系，增强比较法论证的规范相关性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "劳动法",
+          "class": "administrative"
+        },
+        {
+          "name": "体育法",
+          "class": "administrative"
+        },
+        {
+          "name": "法律解释方法",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
         }
       ],
       "quality_score": 8
