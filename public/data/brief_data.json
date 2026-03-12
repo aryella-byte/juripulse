@@ -97,6 +97,102 @@
       }
     },
     {
+      "title": "The First Amendment’s application to public university students: an explainer",
+      "titleCN": "The First Amendment’s application to public university students: an explainer",
+      "url": "https://www.scotusblog.com/2026/03/the-first-amendments-application-to-public-university-students-an-explainer/",
+      "date": "2026-03-12",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国最高法院博客解析第一修正案在公立大学的适用边界，聚焦学生言论自由与校方管理的冲突，涉及校园抗议、学术表达及社交媒体监管等核心议题，为高等教育机构的合规治理提供判例指引。",
+      "summaryEN": "",
+      "whyMattersCN": "美国公立大学作为\"准政府实体\"受宪法直接约束，其言论自由判例构成全球高等教育治理的重要参照系。对中国而言，该分析具有双重价值：其一，中外合作办学项目需预判美方院校的言论管理合规风险；其二，中国高校推进依法治校过程中，可借鉴其\"时间地点方式\"限制框架与利益平衡方法论，优化校园治理的精细化水平。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "高等教育法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "2024大选年校园抗议高发，校方紧急修订言论管理政策",
+        "mediumTerm": "联邦巡回法院就TikTok校园禁令等新型案件形成分歧判决",
+        "longTerm": "最高法院或就数字时代公共论坛理论作出里程碑式重构"
+      },
+      "actionItems": {
+        "scholar": "比较研究中美高校学术自由宪法化的路径差异与制度移植可能",
+        "policymaker": "建立跨境教育合规审查机制，防范美方制裁连带风险",
+        "entrepreneur": "布局校园SaaS合规工具，嵌入言论审核与证据保全模块"
+      }
+    },
+    {
+      "title": "AI danger gets real",
+      "titleCN": "AI danger gets real",
+      "url": "https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real",
+      "date": "2026-03-12",
+      "source": "The Economist Leaders",
+      "summaryCN": "《经济学人》社论指出AI风险已从理论转向现实：深度伪造干扰选举、自主武器系统失控、通用人工智能(AGI)生存威胁三重风险叠加。美国监管碎片化与欧盟《AI法案》形成制度竞争，企业合规成本陡增，全球AI治理秩序面临重构。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，2024年大选年深度伪造泛滥将测试《虚假信息治理》行政令实效，联邦与州立法冲突可能催生'布鲁塞尔效应'反向输出；对中国而言，欧盟风险分级监管框架（禁止性/高风险/有限风险/最小风险）为《生成式AI服务管理暂行办法》的迭代提供比较法样本，同时中企出海面临双重合规——既需满足中国算法备案，又须适配欧盟CE标识及美国州法拼图，合规架构设计成为核心竞争力。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI治理",
+          "class": "tech"
+        },
+        {
+          "name": "比较法",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "美国大选前深度伪造应急立法，欧盟AI法案合规窗口期启动",
+        "mediumTerm": "G7广岛AI进程硬化为具约束力多边机制，中国出台AI安全评估国家标准",
+        "longTerm": "AGI国际治理框架成型，类似IAEA的AI监管机构建立，算力出口管制多边化"
+      },
+      "actionItems": {
+        "scholar": "开展'算法影响评估'比较法研究，构建中美欧监管成本效益分析模型",
+        "policymaker": "建立'监管沙盒'跨境互认机制，避免中企遭遇'合规叠加'困境",
+        "entrepreneur": "前置部署'可解释AI'技术栈，将伦理设计嵌入产品底层架构"
+      }
+    },
+    {
+      "title": "Donald Trump must stop soon",
+      "titleCN": "Donald Trump must stop soon",
+      "url": "https://www.economist.com/leaders/2026/03/05/donald-trump-must-stop-soon",
+      "date": "2026-03-12",
+      "source": "The Economist Leaders",
+      "summaryCN": "《经济学人》社论指出特朗普若2024年胜选将构成宪政危机，因其承诺系统性破坏法治、滥用行政权力打压异己，并拒绝接受选举结果。文章呼吁美国制度在选前有效遏制其反宪政倾向，核心争议在于总统权力边界与民主制度的自我纠错能力。",
+      "summaryEN": "",
+      "whyMattersCN": "1) 美国层面：测试三权分立与联邦制的韧性，若宪政规范被政治极化解构，将削弱全球民主治理的示范效应；2) 国际与中国参考：揭示民选强人政治对法治的侵蚀路径，为中国企业出海提供政治风险评估框架——需关注东道国行政权力扩张对合同执行、产权保护及争端解决机制的冲击，同时反思威权与民粹双重压力下法律制度的稳定性设计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "2024大选前司法系统加速审理特朗普刑事案件",
+        "mediumTerm": "新政府任期首年爆发行政-司法宪政冲突",
+        "longTerm": "美国宪政惯例成文化改革或制度性崩溃"
+      },
+      "actionItems": {
+        "scholar": "比较研究行政权扩张的司法审查阈值与宪政韧性指标",
+        "policymaker": "设计政治中立性条款与紧急状态权力的 sunset clause",
+        "entrepreneur": "构建多法域资产布局与政治风险保险组合"
+      }
+    },
+    {
       "title": "A week of war in charts: the impact on the US",
       "titleCN": "A week of war in charts: the impact on the US",
       "url": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -877,6 +973,108 @@
         {
           "name": "比较法",
           "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The Behavioral Case for Supreme Court Ethics Reform",
+      "titleCN": "The Behavioral Case for Supreme Court Ethics Reform",
+      "url": "https://texaslawreview.org/the-behavioral-case-for-supreme-court-ethics-reform/",
+      "date": "2026-03-12",
+      "journal": "Texas Law Review",
+      "summaryCN": "本文运用行为法学与行为经济学理论，论证美国最高法院大法官需要强制性而非自愿性伦理规范的核心理由。作者指出，大法官作为人类同样受制于认知偏差（如过度自信、自我服务偏差、现状偏见、损失厌恶）和有限意志力，现有自愿性伦理体系无法有效克服这些系统性障碍。研究方法上，作者采用\"以行为理论重构传统论证\"的路径：首先识别支持现状的常规论点（如大法官正直品格、透明度不足、制度合法性考量），随后用行为科学逐一解构——证明这些论点恰恰因人类认知局限而失效，反而强化了改革的必要性。主要发现是：行为视角揭示了自愿性伦理规范与有效伦理约束之间存在结构性鸿沟，唯有外部强制机制才能克服法官作为普通人的心理局限。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证逻辑呈现\"双轨并进\"的精巧结构：轨道一针对传统法学论证的盲区，轨道二引入行为科学作为矫正透镜。其方法论价值在于展示了如何将实证心理学嵌入规范性法学论证，而非简单堆砌实验数据。【论证借鉴一：认知偏差的制度映射技术】作者并非泛泛列举心理学概念，而是将每种偏差与具体制度漏洞精准对应——如用\"现状偏见\"解释大法官为何抵制改变终身适用的自愿规范，用\"损失厌恶\"解释为何披露要求遭遇隐性抵制。中国研究者可将此技术应用于分析法官绩效考核、审委会决策等制度，识别制度设计中与认知偏差共振的结构性缺陷。【论证借鉴二：反事实论证的行为化重构】面对\"大法官品行高尚故无需强制规范\"的反对意见，作者不直接反驳，而是论证\"即使品行高尚，认知偏差仍会系统性地扭曲判断\"。这种\"退一步论证\"策略可移植至中国语境：讨论法官独立与监督关系时，可论证\"即使法官主观公正，特定程序设计仍会诱发系统性偏误\"。【论证借鉴三：微观行为机制与宏观制度变迁的桥接】作者将个体层面的心理实验发现（如自我服务偏差）转化为制度层面的改革论据，关键在于识别\"个体决策聚合为制度惰性\"的传导机制。中国研究者可借鉴此路径，从基层法官的决策疲劳、案卷依赖等微观行为出发，推导审级制度、案例指导制度等宏观设计的优化方向。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": "constitutional"
+        },
+        {
+          "name": "行为法学",
+          "class": "theory"
+        },
+        {
+          "name": "认知偏差",
+          "class": "theory"
+        },
+        {
+          "name": "制度设计",
+          "class": "procedural"
+        },
+        {
+          "name": "实证法学",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Solving the Special Forces Problem",
+      "titleCN": "Solving the Special Forces Problem",
+      "url": "https://texaslawreview.org/solving-the-special-forces-problem/",
+      "date": "2026-03-12",
+      "journal": "Texas Law Review",
+      "summaryCN": "本文针对美国最高法院在'特种部队问题'上的司法困境——即如何在不引发政治反弹的前提下审查涉及国家安全的行政行为——提出系统性解决方案。作者运用比较制度分析方法，通过考察英国、加拿大、以色列等普通法国家的司法实践，识别出三种制度性策略：程序性审查强化、证据规则调整和裁判时机选择。研究发现，美国法院可通过借鉴'GCHQ案'模式，将审查焦点从实体国家安全判断转向决策程序的正当性，从而在维护司法权威与尊重行政专长之间取得平衡。理论框架融合了Martin Shapiro的'政治法院'理论与Tom Ginsburg的'司法策略主义'，采用案例比较与制度功能分析相结合的方法。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。其一，【论证借鉴】作者采用'问题—域外方案—本土化适配'的三段式结构，而非简单的制度移植。具体而言，作者首先精准界定美国特有的制度约束（如政治问题学说的僵化适用、国会监督乏力），再筛选功能等效的域外制度，最后通过'制度功能等价性测试'评估移植可行性。中国研究者研究监察体制改革、数据安全审查等议题时，可借鉴此框架：先识别中国制度语境下的核心约束条件（如党的领导体制、人大监督机制），再比较域外经验，避免直接套用西方分权理论。其二，【论证借鉴】作者运用'反事实推理'强化因果主张，通过构造'若法院采取X策略，则政治分支可能作出Y反应'的情景分析，将规范性主张建立在制度行为预测之上。中国法学研究可引入此类'制度博弈分析'，例如分析司法审查强度对行政合规行为的激励效应。其三，【论证借鉴】本文的实证基础并非大规模数据统计，而是精心构建的'关键案例'比较——选取英国GCHQ案、加拿大Khadr案等具有制度转折意义的判例进行深描。中国研究者研究指导性案例制度、试点改革评估时，可采用类似的'制度节点案例'方法，通过追踪特定裁判或政策对后续制度演变的触发效应，弥补定量数据的不足。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "比较宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "国家安全法",
+          "class": "administrative"
+        },
+        {
+          "name": "制度比较方法",
+          "class": "theory"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The Questionable Legality of IEEPA Tariffs: Does the Major Questions Doctrine Apply?",
+      "titleCN": "The Questionable Legality of IEEPA Tariffs: Does the Major Questions Doctrine Apply?",
+      "url": "https://texaslawreview.org/the-questionable-legality-of-ieepa-tariffs-does-the-major-questions-doctrine-apply/",
+      "date": "2026-03-12",
+      "journal": "Texas Law Review",
+      "summaryCN": "本文探讨《国际紧急经济权力法》（IEEPA）授权总统征收关税的法律效力，核心争议在于\"重大问题原则\"（Major Questions Doctrine, MQD）是否适用。作者采用规范分析法与制度比较法，首先解构MQD的宪法基础——从联邦党人文集到当代判例（West Virginia v. EPA），提炼出\"经济政治重要性+历史实践+国会明确授权\"的三重检验标准。继而通过实证梳理IEEPA的立法史（1977年国会删除\"进口\"条款的意图）与司法实践（1970年代关税案被国会推翻），论证关税问题符合MQD的适用条件。最终结论：IEEPA关税授权存在重大法律瑕疵，但作者同时警示MQD的扩张可能削弱总统应对紧急状态的灵活性。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法论对中国法学研究具有显著参考价值。【论证借鉴1：规范与历史的双重论证结构】作者并非简单援引判例，而是将MQD还原至宪法文本（第一条第八款贸易权）与制宪辩论，再叠加1977年立法史的档案分析。中国研究者处理行政授权合法性时，可借鉴此\"宪法原旨+立法史\"的双层论证，例如分析《立法法》第9条授权立法边界时，结合1982年修宪讨论与历次立法法修改的委员会记录。【论证借鉴2：比较法作为批判性工具而非装饰】文章将MQD与英国\"亨利八世条款\"、德国\"授权明确性原则\"对比，但目的并非罗列制度，而是揭示MQD的独特功能——作为司法审查的\"减速带\"而非\"禁止令\"。中国行政法研究中，可借鉴此功能主义比较，如分析行政处罚权下放时，比较日本《行政程序法》的\"法律保留\"与我国\"决定—命令\"机制的功能差异。【论证借鉴3：反事实推理与制度成本分析】作者在结论部分构建反事实场景：若MQD严格适用，总统在911后冻结资产、疫情中调控供应链的权力将如何受限？并量化比较\"司法过度介入\"与\"行政滥权\"的制度成本。中国研究者可借鉴此\"规则适用后果推演\"方法，例如在分析公益诉讼范围扩张时，模拟\"检察机关垄断起诉\"与\"社会组织补充\"两种模式的激励效应差异。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        },
+        {
+          "name": "立法史研究",
+          "class": "procedural"
+        },
+        {
+          "name": "规制理论",
+          "class": "theory"
         }
       ],
       "quality_score": 8
