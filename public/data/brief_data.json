@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "title": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
+      "titleCN": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
+      "url": "https://www.scotusblog.com/2026/03/court-agrees-to-hear-case-on-environmental-laws-does-not-act-on-several-second-amendment-challenges/",
+      "date": "2026-03-12",
+      "source": "SCOTUSblog",
+      "summaryCN": "美最高法院受理环境法案件，拒审多项第二修正案枪支权利挑战。反映司法优先序：环境监管联邦权限争议获程序推进，而持枪权扩张诉求暂被搁置，体现保守派大法官对议题筛选的策略性考量。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国：揭示Roberts法院在环境联邦主义与枪支政治间的微妙平衡，Chevron原则弱化背景下环境执法权边界将重塑监管格局。对中国：环境公益诉讼中行政机关角色界定、中央-地方环保执法权分配可资比较；跨国企业需关注美环境合规成本上升与供应链ESG审查强化趋势，提前布局碳边境调节机制应对。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "环境法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 10,
+      "policyTimeline": {
+        "shortTerm": "环境案件 briefing 周期启动，枪支权利团体调整诉讼策略",
+        "mediumTerm": "2024大选后环境判决影响拜登遗产，红州监管套利空间变化",
+        "longTerm": "联邦环保署权能范式转型，重塑美气候承诺国际可信度"
+      },
+      "actionItems": {
+        "scholar": "追踪Major Questions原则在环境法中的适用边界与比较行政法研究",
+        "policymaker": "研究美环境联邦主义经验优化中国环保督察垂直管理效能",
+        "entrepreneur": "评估美供应链环境合规成本，加速绿色技术出海与ESG披露体系建设"
+      }
+    },
+    {
       "title": "A week of war in charts: the impact on the US",
       "titleCN": "A week of war in charts: the impact on the US",
       "url": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -593,6 +625,104 @@
         {
           "name": "法律实证研究",
           "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Moving Forward from Brackeen and Solutions for the Greater Efficacy of the Indian Child Welfare Act",
+      "titleCN": "Moving Forward from Brackeen and Solutions for the Greater Efficacy of the Indian Child Welfare Act",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/01/06/moving-forward-from-brackeen-and-solutions-for-the-greater-efficacy-of-the-indian-child-welfare-act/?utm_source=rss&utm_medium=rss&utm_campaign=moving-forward-from-brackeen-and-solutions-for-the-greater-efficacy-of-the-indian-child-welfare-act",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "本文针对美国最高法院2023年Haaland v. Brackeen案判决后《印第安儿童福利法》(ICWA)面临的持续法律挑战，提出系统性改革路径。作者采用规范分析与实证研究相结合的方法，首先解构Brackeen案多数意见的论证逻辑，识别出ICWA在宪法平等保护、反命令原则及州权冲突等维度的法律漏洞；继而运用比较法方法，考察加拿大第一民族儿童福利制度的立法经验；最终构建\"联邦-部落-州\"三层协同治理模型，提出包括修订ICWA实体标准、建立部落法院专属管辖权、创设联邦专项基金等具体制度方案。研究依托对1978-2022年间联邦上诉法院ICWA相关判例的定量编码分析，以及对美国印第安事务局(BIA)政策文件的文本挖掘。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法论对中国法学研究具有重要参考价值。【论证借鉴1】\"判决后制度续造\"的研究进路：作者并非简单评论Brackeen案结论，而是将司法判决视为制度变迁的\"触发事件\"，系统分析判决留下的法律解释空间与制度缺口，进而提出填补性立法方案。这一方法可移植至中国指导性案例或重大司法解释后的制度完善研究，研究者可建立\"司法触发—规范缺口识别—制度续造方案\"的三阶分析框架。【论证借鉴2】\"规范分析—实证检验—比较法参照—制度设计\"的四层递进结构：作者先以教义学方法分析ICWA的规范缺陷，再通过判例数据库的定量分析验证规范问题的实践表现，继而引入加拿大《第一民族儿童与家庭服务法》作为比较参照，最终落实到可操作的制度条款设计。中国研究者可在环境法、数据法等领域复制此结构，例如分析某项环境标准时，先解构规范冲突，再统计相关行政诉讼数据，参考欧盟立法，提出具体修订条文。【论证借鉴3】\"多主体协同治理\"的分析框架：作者突破传统的国家—社会关系二元分析，构建联邦、部落主权体、州政府及非政府组织的多层互动模型，并运用\"制度性信任\"理论解释各主体合作动机。这一框架适用于中国民族区域自治、粤港澳大湾区等涉及多层级治理主体的制度研究，可结合社会网络分析方法量化主体间协作关系。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        },
+        {
+          "name": "法律实证研究",
+          "class": "procedural"
+        },
+        {
+          "name": "少数群体权利",
+          "class": "theory"
+        },
+        {
+          "name": "家庭法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Proportional Possession",
+      "titleCN": "Proportional Possession",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/01/06/proportional-possession/?utm_source=rss&utm_medium=rss&utm_campaign=proportional-possession",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "本文提出\"比例性占有\"（Proportional Possession）理论，挑战传统财产法中排他性占有（exclusive possession）的单一逻辑。作者通过历史溯源、比较法分析和规范论证三重方法，论证财产权应呈现光谱式结构：从完全排他到完全开放之间存在多种中间形态。核心理论框架将占有强度与使用目的、社会功能、时间维度进行比例匹配，主张特定资源（如公共空间、数据、知识产权）应根据其特性适用差异化的占有规则。研究发现，普通法传统中本就存在比例性占有的制度雏形，但现代法理学将其边缘化；作者通过重构这一传统，为共享经济、数字平台治理等当代议题提供规范性基础。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有显著借鉴价值。第一，【论证借鉴】\"概念考古+功能重构\"的双层论证结构：作者先通过历史文献梳理证明比例性占有并非全新发明，而是被压抑的普通法传统，再将其功能性地延伸至数字时代新问题。这种\"旧瓶装新酒\"的论证策略可有效回应\"理论创新缺乏本土资源\"的批评，适用于中国法学中习惯法、民间规范的研究。具体研究设计建议：选取某一被忽视的清代或民国时期财产惯例，先证成其制度合理性，再对接当代农村土地三权分置或数据权属争议。第二，【论证借鉴】\"比较法作为批判工具\"而非\"制度移植手册\"的方法论：作者引用大陆法系（德国、法国）的占有理论不是为了借鉴其规则，而是揭示排他性占有的意识形态普遍性，从而反衬比例性占有的批判性潜力。中国研究者可将此用于反思\"法典化崇拜\"——比较德国、日本民法典中某一制度的演变逻辑，不是为了建议中国效仿，而是为了解构\"法典化=现代化\"的迷思。第三，【论证借鉴】\"类型化光谱\"替代\"二元对立\"的分析框架：作者拒绝\"排他/共享\"的简单二分，构建五阶占有强度光谱（完全排他、有限排他、共同排他、开放访问、完全公有），并为每阶设定判断标准（使用竞争性、投资激励需求、监控成本等）。此框架可直接移植至中国法学的诸多二元争议，如公法/私法、监管/自治、法定/约定，通过引入中间类型消解虚假对立，增强理论的解释弹性和政策相关性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "财产法理论",
+          "class": "theory"
+        },
+        {
+          "name": "比较法方法论",
+          "class": "international"
+        },
+        {
+          "name": "法律史研究",
+          "class": "theory"
+        },
+        {
+          "name": "数字平台治理",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Asian Americans and the Harm of Exceptionalized Inclusion",
+      "titleCN": "Asian Americans and the Harm of Exceptionalized Inclusion",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/22/asian-americans-and-the-harm-of-exceptionalized-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=asian-americans-and-the-harm-of-exceptionalized-inclusion",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "本文批判性分析了美国宪法学中'亚裔美国人例外论'（Asian American Exceptionalism）的修辞策略及其危害。作者运用批判性种族理论（Critical Race Theory）和反歧视法框架，通过文本分析、历史档案研究和判例解构，揭示主流话语如何将亚裔美国人建构为'模范少数族裔'以否定其他有色人种的权利诉求。研究发现，这种'例外化的包容'（exceptionalized inclusion）不仅掩盖了亚裔群体内部的经济与法律不平等，更成为削弱平权行动（affirmative action）和种族正义运动的工具。论文采用'反叙事'（counter-storytelling）方法，结合定量数据展示亚裔美国人内部的阶层分化，解构了'亚裔成功'的同质性神话。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1：'解构性概念建构'方法】作者创造性地提出'exceptionalized inclusion'这一悖论性概念，揭示包容与排斥的辩证关系。中国法学研究可借鉴此策略，针对'弱势群体保护'或'区域协调发展'等政策话语，建构类似的批判性概念工具，分析形式平等背后的实质排斥机制。具体研究设计：选取某一保护性立法（如妇女权益保障法），分析其如何通过'特殊保护'的修辞强化性别刻板印象。【论证借鉴2：'数据反叙事'的混合方法】论文将批判性叙事与统计学证据结合，用收入分布、教育分层的量化数据打破'模范少数族裔'的同质性假设。中国研究者可在民族区域自治、农民工权益等议题中，采用'质性访谈+行政数据/裁判文书大数据分析'的混合设计，用数据解构官方话语中的群体同质性假设。【论证借鉴3：'话语追踪'的历史分析方法】作者追溯'亚裔成功'话语从冷战政治到宪法判例的流变，展示法律话语的政治建构性。中国研究者可对'和谐社会''法治国家'等核心话语进行类似的历史-语用分析，追踪其从政策文件到司法解释、再到学术话语的转化过程，揭示话语背后的权力配置逻辑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "批判性种族理论",
+          "class": "theory"
+        },
+        {
+          "name": "宪法学",
+          "class": "constitutional"
+        },
+        {
+          "name": "反歧视法",
+          "class": "theory"
+        },
+        {
+          "name": "法律实证研究",
+          "class": "procedural"
+        },
+        {
+          "name": "话语分析",
+          "class": "theory"
         }
       ],
       "quality_score": 8
