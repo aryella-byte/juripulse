@@ -500,6 +500,104 @@
   ],
   "research": [
     {
+      "title": "Energy Emergencies and Energy Federalism",
+      "titleCN": "Energy Emergencies and Energy Federalism",
+      "url": "https://pennlawreview.com/2025/12/23/energy-emergencies-and-energy-federalism/",
+      "date": "2026-03-12",
+      "journal": "Penn Law Review",
+      "summaryCN": "本文探讨美国能源紧急状态下联邦与州的权力分配问题。作者采用历史制度主义与比较案例分析相结合的方法，系统梳理了从1970年代石油危机到2021年得州停电等重大能源紧急事件。核心理论框架是\"动态联邦主义\"（dynamic federalism），主张能源紧急状态下的权力配置不应是静态的层级划分，而应根据紧急程度、技术复杂性和区域差异性进行弹性调整。研究发现，传统联邦优先原则在能源领域面临三重挑战：电网物理互联性要求统一行动、州级监管机构的先发优势、以及可再生能源转型带来的新型跨区域协调需求。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑呈现典型的\"问题-历史-理论-应用\"四阶结构，值得中国法学研究者借鉴。第一，作者并非抽象讨论联邦制理论，而是选取五个关键历史节点（1973石油危机、1978天然气政策法、2001加州能源危机、2012桑迪飓风、2021得州停电），通过\"关键案例比较法\"提炼制度演变的规律。【论证借鉴】中国研究者可将此方法应用于央地关系研究，例如选取环保督察、疫情防控、数据安全等议题中的关键事件，建立\"压力测试-制度响应-规则沉淀\"的分析框架，避免空泛的宪法条文解释。第二，论文创造性地引入\"基础设施物理特性\"作为规范分析的变量，将电网的技术特征（同步互联、频率稳定要求）转化为法律上的协调义务论证。【论证借鉴】中国法学研究可借鉴此\"技术-规范\"转译方法，在平台治理、人工智能监管等议题中，将算法架构、数据流动模式等技术特征转化为法律义务分配的理由，增强规范论证的客观性基础。第三，作者运用\"反事实推理\"（counterfactual analysis）强化因果主张，例如假设1973年若采取州级分散应对将导致何种后果。【论证借鉴】中国研究者在评估某项制度变革效果时，可系统构建\"若非如此\"（but-for）情境，通过思想实验澄清特定制度要素的独立贡献，提升论证的严谨性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "能源法",
+          "class": "administrative"
+        },
+        {
+          "name": "应急法治",
+          "class": "administrative"
+        },
+        {
+          "name": "规制理论",
+          "class": "theory"
+        },
+        {
+          "name": "比较制度分析",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Copyright’s Invisible Hand: Subsidizing America’s Cultural Institutions",
+      "titleCN": "Copyright’s Invisible Hand: Subsidizing America’s Cultural Institutions",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/02/26/copyrights-invisible-hand-subsidizing-americas-cultural-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=copyrights-invisible-hand-subsidizing-americas-cultural-institutions",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "本文运用制度经济学与公共选择理论，揭示了美国版权法体系中一个被忽视的隐性补贴机制：版权法通过赋予创作者排他性权利，实际上为博物馆、档案馆、图书馆等文化机构提供了间接财政支持。作者构建了一个\"隐性之手\"（invisible hand）分析框架，通过历史档案研究、经济模型推演和比较制度分析，论证版权期限延长、孤儿作品规则、合理使用例外等制度设计，如何以市场机制替代直接政府拨款，实现文化资源的跨代际保存与公共获取。研究发现，这种补贴模式比直接财政拨款更具政治可行性和效率优势，但也造成了获取不平等和民主赤字问题。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有多重借鉴价值。其一，【论证借鉴】作者采用\"制度功能替代\"的分析框架，将表面上无关的制度（版权保护与公共文化财政）建立功能性关联。中国研究者可借鉴此方法，分析民法典绿色原则如何通过物权规则实现环境法目标，或研究数据产权制度如何替代个人信息保护的传统行政监管路径。具体研究设计：选取一个新兴交叉领域（如算法治理），识别传统治理工具的失灵，再论证某看似不相关的法律制度如何功能性地填补这一缺口。其二，【论证借鉴】本文运用\"历史制度主义+经济分析\"的混合方法，通过追溯1790年《版权法》至《松尼·波诺法案》的立法史，提取制度演化的路径依赖逻辑，再以成本收益模型评估不同历史节点的制度选择。中国研究者可复制此设计：选取一项本土制度（如调解制度），先进行档案化的立法史梳理，识别关键转折点，再运用博弈论模型重构当时决策者的约束条件与策略选择。其三，【论证借鉴】作者创造性地将\"政治可行性\"作为独立变量纳入规范分析，突破了传统法经济学仅关注效率的局限。中国研究者可借鉴此\"制度政治经济学\"进路，在评估某项法律改革时，不仅分析其规范正当性与效率后果，更构建\"立法联盟形成模型\"，预测不同利益集团的动员能力与联盟结构，从而预判改革的成功概率并设计相应的过渡机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "知识产权法",
+          "class": "tech"
+        },
+        {
+          "name": "法经济学",
+          "class": "theory"
+        },
+        {
+          "name": "文化政策",
+          "class": "administrative"
+        },
+        {
+          "name": "制度分析",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The Beginnings Of The One Big Beautiful Bill Act: Placing The 2017 Tax Cuts And Jobs Act In Historical Perspective",
+      "titleCN": "The Beginnings Of The One Big Beautiful Bill Act: Placing The 2017 Tax Cuts And Jobs Act In Historical Perspective",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/02/26/the-beginnings-of-the-one-big-beautiful-bill-act-placing-the-2017-tax-cuts-and-jobs-act-in-historical-perspective/?utm_source=rss&utm_medium=rss&utm_campaign=the-beginnings-of-the-one-big-beautiful-bill-act-placing-the-2017-tax-cuts-and-jobs-act-in-historical-perspective",
+      "date": "2026-03-12",
+      "journal": "Cornell Law Review",
+      "summaryCN": "本文运用历史制度主义方法，将2017年《减税与就业法案》置于美国百年税收立法史中考察，揭示其作为\"单一综合法案\"(one big beautiful bill)立法模式的起源与演变。作者系统梳理了1909年《佩恩-奥尔德里奇关税法》、1969年《税收改革法》、1986年《税收改革法》及2001年《经济增长与税收减免协调法》四个关键节点，通过档案研究、国会记录分析和比较制度分析，论证2017年法案并非历史断裂，而是延续了共和党长期追求的\"打包式\"税收立法策略，同时因党派极化和预算和解程序的特殊运用而呈现新特征。研究发现该法案融合了供给学派经济学、民粹主义修辞与程序性机会主义的复杂逻辑。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证架构对中国法学研究具有显著的方法论示范价值。首先，作者采用\"关键节点比较法\"(critical juncture comparison)，选取四个历史转折点进行结构化比较，而非线性历史叙述，这一方法可【论证借鉴】直接应用于中国重大立法（如《民法典》编纂、公司法修订）的历史分析，通过识别制度变迁中的\"路径依赖\"与\"关键断裂\"，避免简单的进步史观或政策解释。其次，论文构建了\"理念-制度-程序\"的三层分析框架，将供给学派经济学思想、国会预算程序规则与党派政治策略整合分析，【论证借鉴】可移植至中国语境下的\"政策理念—立法体制—决策机制\"互动研究，尤其适用于分析改革试点、授权立法等中国特有的制度现象。第三，作者熟练运用\"反事实推理\"(counterfactual analysis)评估替代性立法路径的可行性，【论证借鉴】这一技术对中国法学研究极具启发——在分析立法选择时，可通过建构\"若未采用此方案\"的假设情境，检验特定制度安排的因果重要性，增强论证的严谨性与说服力。此外，论文对国会档案、委员会标记稿(markup documents)等原始立法材料的深度挖掘，展示了制度史研究的实证基础。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "立法史",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较制度分析",
+          "class": "theory"
+        },
+        {
+          "name": "财政法",
+          "class": "administrative"
+        },
+        {
+          "name": "法律实证研究",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Redefining Program Integrity: Protecting Consumers and Systems in the Affordable Care Act Marketplaces",
       "titleCN": "Redefining Program Integrity: Protecting Consumers and Systems in the Affordable Care Act Marketplaces",
       "url": "https://pennlawreview.com/2025/12/23/redefining-program-integrity-protecting-consumers-and-systems-in-the-affordable-care-act-marketplaces/",
