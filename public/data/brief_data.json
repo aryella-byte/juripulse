@@ -786,6 +786,108 @@
       "quality_score": 8
     },
     {
+      "title": "Land-Grant Universities",
+      "titleCN": "Land-Grant Universities",
+      "url": "https://wustllawreview.org/2026/01/19/land-grant-universities/",
+      "date": "2026-03-14",
+      "journal": "Wash U Law Review",
+      "summaryCN": "本文以赠地大学（Land-Grant Universities）为研究对象，运用历史制度主义与法律社会学相结合的方法，追溯1862年《莫里尔法案》至20世纪的制度演进。作者采用档案研究法，分析国会辩论记录、州立法文件及大学章程，揭示联邦土地赠与如何重塑美国高等教育治理结构。核心理论框架为\"条件性联邦主义\"（conditional federalism）：联邦通过资源分配嵌入特定政策条件，间接规制传统属州权的教育领域。研究发现，赠地条款中的军事训练要求、农业课程强制规定等\"字符串\"（strings attached），创造了联邦-州-大学三方博弈的治理空间，最终促成研究型大学的美国模式。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证逻辑呈现三重方法论价值。其一，【论证借鉴】\"法律文本的微观考古\"技术：作者对《莫里尔法案》中\"without excluding other scientific and classical studies\"这一但书条款进行语义演变追踪，展示如何通过单一法律条文的解释史折射权力关系变迁。此技术可直接用于中国《高等教育法》\"依法自主办学\"条款的历时性分析，或《民办教育促进法》\"合理回报\"条款的立法意图与司法实践张力研究。其二，【论证借鉴】\"条件性联邦主义\"的分析框架移植：该框架揭示中央通过资源分配实现间接治理的机制，对中国研究中央专项转移支付（如\"双一流\"建设资金）与高校自主权的关系具有直接解释力，可设计为\"政策试点-资金配套-绩效评估\"的三维分析模型。其三，【论证借鉴】\"制度意外后果\"（unintended consequences）的因果推断方法：作者通过反事实推理，论证赠地制度本意是培养农业技术人才，却意外催生研究型大学体系。此方法可应用于中国法学研究中的政策评估，如分析\"司法责任制\"改革对法官行为模式的非预期影响，或\"立案登记制\"对法院案件结构的长程效应，需配套构建包含时间序列中断分析（interrupted time series）的混合研究方法。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "教育法",
+          "class": "administrative"
+        },
+        {
+          "name": "联邦主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "制度史",
+          "class": "theory"
+        },
+        {
+          "name": "法律解释学",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Innovation and the Limits of Predictive Governance",
+      "titleCN": "Innovation and the Limits of Predictive Governance",
+      "url": "https://www.bu.edu/bulawreview/2025/12/15/innovation-and-the-limits-of-predictive-governance/",
+      "date": "2026-03-14",
+      "journal": "Boston U Law Review",
+      "summaryCN": "该论文探讨预测性治理（predictive governance）在创新政策中的局限，核心论点是：基于历史数据训练的预测模型难以应对真正的突破性创新（radical innovation），因为后者本质上是不可预测的。作者采用理论建构与案例研究相结合的方法，首先区分渐进式创新与突破性创新，继而分析预测性治理工具（如监管沙盒、影响评估、风险预测算法）的认知预设——即未来可从过去推断——如何系统性地排斥颠覆性变革。论文以基因编辑、人工智能治理为例，揭示预测性治理的\"路径依赖陷阱\"：政策工具越精密，越可能固化现有技术轨迹，反而抑制创新多样性。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑呈现三层递进：概念辨析→机制分析→经验验证，对中国法学研究具有重要方法论启示。【论证借鉴1：反事实推理框架】作者通过构建\"若无预测性治理，突破性创新将如何涌现\"的反事实情境，揭示现有制度的隐性成本。中国学者可借鉴此框架分析科技监管（如算法备案、数据出境评估）对未知创新的抑制效应，具体设计为：选取被否决或延迟的创业项目，访谈创始人进行\"制度冲击\"归因分析。【论证借鉴2：制度认知的元分析】论文将预测模型本身作为研究对象，剖析其\"训练数据—假设结构—输出结果\"的认知闭环。移植路径：对中国地方政府的产业政策文本（如新能源汽车补贴标准、AI企业白名单）进行计量语言学分析，识别政策话语中的\"技术轨道预设\"。【论证借鉴3：动态比较法】作者不满足于静态制度比较，而是追踪同一技术领域（如CRISPR）在不同治理模式下的演化路径。中国研究可设计为：对比中美欧在生成式AI治理中的\"预测密度\"差异（监管规则的具体化程度），追踪企业技术路线的分异，以验证\"规制密度—创新方向\"假说。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "科技法",
+          "class": "tech"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "创新政策",
+          "class": "theory"
+        },
+        {
+          "name": "规制理论",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Online Symposium – Carla D. Pratt’s Indianness as Property",
+      "titleCN": "Online Symposium – Carla D. Pratt’s Indianness as Property",
+      "url": "https://www.bu.edu/bulawreview/2025/03/31/online-symposium-carla-d-pratts-indianness-as-property/",
+      "date": "2026-03-14",
+      "journal": "Boston U Law Review",
+      "summaryCN": "该论文集围绕Carla D. Pratt的《Indianness as Property》一书展开学术研讨，核心论点是将\"印第安身份\"(Indianness)视为一种财产权(property)进行分析。Pratt提出印第安身份具有财产属性——可被占有、转让、排斥他人使用，并受知识产权法保护。研究方法采用批判种族理论与财产法理论交叉分析，结合历史文献梳理与当代案例研究，探讨印第安身份如何在法律体系中被商品化与挪用。主要发现包括：印第安身份作为财产加剧了原住民的文化异化；现行知识产权法未能充分保护部落文化；需要建立集体性的文化财产权制度。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文集的论证逻辑呈现典型的\"理论建构—批判回应—制度重构\"三阶结构，具有显著的方法论示范价值。【论证借鉴1：隐喻理论的法律化操作】Pratt将Wynter的\"Indianness\"概念转化为法学分析范畴\"财产\"，这种跨学科概念移植可通过\"核心特征提取—法律要件匹配—制度漏洞识别\"三步实现。中国研究者可借鉴此方法，将\"中华民族共同体意识\"\"非物质文化遗产\"等政治/文化概念转化为具体的权利客体分析，例如探讨民族服饰元素的商品化是否构成新型财产权。【论证借鉴2： Symposium式批判建构】该论文集采用\"主论+多视角回应\"结构，四位学者分别从知识产权法、信托法、批判理论、原住民主权角度展开对话，最终形成制度建议。中国法学研究可设计类似的多学科工作坊，例如围绕\"数据权属\"议题，组织民法、宪法、竞争法、技术专家进行结构化辩论，以突破单一学科视角局限。【论证借鉴3：历史制度主义的微观运用】Pratt通过追溯1886年至1978年印第安身份认证政策的演变，揭示法律分类如何塑造社会身份。中国研究者可采用\"关键节点—路径依赖—制度层叠\"框架分析户籍制度、民族识别政策的历史变迁，特别关注政策文本与社会实践之间的张力空间。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "财产法理论",
+          "class": "theory"
+        },
+        {
+          "name": "原住民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "知识产权",
+          "class": "tech"
+        },
+        {
+          "name": "批判种族理论",
+          "class": "theory"
+        },
+        {
+          "name": "法律史",
+          "class": "theory"
+        },
+        {
+          "name": "文化财产",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
       "titleCN": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
       "url": "https://www.uclalawreview.org/caseload-transparency-a-new-approach-to-the-ethics-of-excessive-caseloads/",
