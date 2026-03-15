@@ -794,6 +794,70 @@
       "quality_score": 8
     },
     {
+      "title": "Vote-by-Mail Can Save Our Democracy, But Reforms Are Needed",
+      "titleCN": "Vote-by-Mail Can Save Our Democracy, But Reforms Are Needed",
+      "url": "https://northwesternlawreview.org/uncategorized/vote-by-mail-can-save-our-democracy-but-reforms-are-needed/",
+      "date": "2026-03-15",
+      "journal": "Northwestern Law Review",
+      "summaryCN": "该论文以美国2020年大选期间大规模邮寄投票实践为研究对象，采用比较制度分析与实证数据检验相结合的方法，系统评估了邮寄投票对民主参与的影响。作者构建了\"制度设计-实施效果-民主价值\"的三层分析框架：首先通过跨州比较，识别不同邮寄投票制度设计（如自动邮寄、按需申请、身份验证规则）的差异；其次运用2016-2020年各州投票数据与选民档案，量化分析邮寄投票对投票率、选举公正性及选民群体代表性的影响；最后结合选举法理论与民主理论，论证邮寄投票在扩大参与和保障安全之间的平衡路径。研究发现，无过错缺席投票（no-excuse absentee voting）和自动选民登记的结合可提升7-15个百分点的投票率，但签名匹配等验证程序若设计不当会产生显著的种族差异化拒票率。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证方法对中国法学研究具有三重借鉴价值。其一，【论证借鉴】\"制度比较+效果量化\"的复合研究设计：作者并非停留在规范比较，而是将50个州的制度差异作为自然实验，用双重差分法（DID）估计因果效应。中国研究者可借鉴此思路，将地方试点政策（如行政诉讼集中管辖、认罪认罚从宽的不同实施方案）视为准实验，构建评估框架。其二，【论证借鉴】\"民主价值-制度成本\"的权衡分析框架：论文将程序便利性与选举完整性并列为可操作的评估维度，建立包含12项指标的评价体系。中国法学研究可移植此框架至司法效率与程序正义、技术赋能与权利保障等议题，避免单维度的价值判断。其三，【论证借鉴】\"微观机制+宏观影响\"的层次递进论证：作者先分析签名验证、选票追踪等具体技术规则，再上升至选举平等与民主合法性。这种从操作细节到规范结论的论证链条，适用于中国数字政府、算法治理等新兴领域的研究，增强政策建议的可行性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "选举法",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较制度分析",
+          "class": "procedural"
+        },
+        {
+          "name": "实证法学",
+          "class": "theory"
+        },
+        {
+          "name": "民主理论",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Deterring Viral Pandemics of COVID-19 Misinformation",
+      "titleCN": "Deterring Viral Pandemics of COVID-19 Misinformation",
+      "url": "https://northwesternlawreview.org/uncategorized/deterring-viral-pandemics-of-covid-19-misinformation/",
+      "date": "2026-03-15",
+      "journal": "Northwestern Law Review",
+      "summaryCN": "该论文以COVID-19虚假信息为研究对象，构建了一个整合威慑理论与信息传播动力学的分析框架。作者突破传统法律威慑研究的个体理性假设，引入流行病学SIR模型（易感-感染-恢复模型）刻画虚假信息的病毒式传播机制，提出\"传播威慑\"（transmission deterrence）概念。研究方法上，论文综合运用博弈论建模、比较法分析（对比美国《通信规范法》第230条与欧盟《数字服务法》）及成本-收益分析，论证平台责任规则需从\"内容审核\"转向\"传播速率干预\"。核心发现是：传统事后惩罚对虚假信息效果有限，法律应通过改变平台算法激励机制，降低虚假信息的基本再生数（R0），实现结构性威慑。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑呈现三层递进：首先以自然科学模型重构法律问题，将\"信息传播\"转译为\"病毒传染\"，建立跨学科概念接口；其次通过博弈论证明传统威慑的结构性失灵——虚假信息传播者与被影响者存在信息不对称，且网络效应导致个体理性选择汇聚成集体非理性结果；最后以比较法提取制度设计的\"功能等价\"原则，提出可操作的规制工具（如平台透明度义务、算法审计）。\n\n【论证借鉴】其一，\"模型嫁接法\"：将成熟自然科学模型（如SIR、网络博弈）引入法学分析时，需明确模型的法律意义转换——如将\"感染率\"对应\"接触概率与说服力\"，将\"免疫\"对应\"事实核查暴露\"，这种对应关系的严谨建构值得中国研究者借鉴，可用于分析网络谣言、算法歧视等议题。其二，\"多层次威慑设计\"：论文区分\"行为层面威慑\"（针对发帖者）与\"结构层面威慑\"（针对平台架构），中国法学研究可借此框架分析数据安全、平台治理等领域，突破\"要么严管要么放开\"的二元对立。其三，\"动态比较法\"：论文比较美欧立法时，以\"R0干预效果\"为统一评估标准，而非停留于条文对比，这种以问题为导向的功能比较方法，可提升中国比较法研究的分析深度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "平台治理",
+          "class": "administrative"
+        },
+        {
+          "name": "信息法",
+          "class": "tech"
+        },
+        {
+          "name": "法律经济学",
+          "class": "theory"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        },
+        {
+          "name": "跨学科研究",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "CHANGE THE SYSTEM, NOT THE WOMAN: ADDRESSING WORKPLACE INEQUITIES STEMMING FROM THE AMERICAN ECONOMY",
       "titleCN": "CHANGE THE SYSTEM, NOT THE WOMAN: ADDRESSING WORKPLACE INEQUITIES STEMMING FROM THE AMERICAN ECONOMY",
       "url": "https://minnesotalawreview.org/2024/12/20/change-the-system-not-the-woman-addressing-workplace-inequities-stemming-from-the-american-economy/",
