@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Does legislative history have a judicial future?",
+      "titleCN": "立法史在司法判决中能否重焕生机？",
+      "url": "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
+      "date": "2026-03-15",
+      "source": "SCOTUSblog",
+      "summaryCN": "文本主义主导美国最高法院数十年后，大法官Ketanji Brown Jackson在Learning Resources v. Trump关税案中重新主张立法史的价值，引发学界关注。本文回顾了Scalia大法官对立法史的著名批评——将其比作\"在拥挤的鸡尾酒会上越过人群寻找朋友\"，认为依赖立法史会诱使法官选择性引用以支持其偏好。但作者亦呈现了Easterbrook和Silberman法官的温和立场：立法史可展示立法妥协的范围，帮助理解法律含义。随着Chevron尊重原则被推翻，法院在解释模糊法律时可能重新诉诸立法史。Jackson巧妙地将立法史作为司法克制的工具，而非扩张司法权的手段，这与Scalia当年的批评形成有趣对话。",
+      "summaryEN": "",
+      "whyMattersCN": "美国最高法院对立法史态度的转变，反映了文本主义与目的主义解释方法的持续张力。对中国而言，这提示在法律解释方法论上需平衡文本明确性与立法意图探究，尤其在行政法领域。Jackson将立法史作为司法克制的论证策略，可为司法解释技术提供比较法参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律解释",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "'143 degrees': Man immersed toddler in bathtub of hot water and caused her to suffer horrific burns and scars for life",
+      "titleCN": "143华氏度热水虐童案：德州男子被判终身监禁",
+      "url": "https://lawandcrime.com/crime/143-degrees-man-immersed-toddler-in-bathtub-of-hot-water-and-caused-her-to-suffer-horrific-burns-and-scars-for-life/",
+      "date": "2026-03-15",
+      "source": "Law & Crime",
+      "summaryCN": "德州男子Miguel Santiago Gonzalez将20个月大幼儿浸入143华氏度（约62°C）热水中致其全身超过一半面积严重烧伤，被判处终身监禁。被告辩称只是短暂离开浴室，幼儿自己打开了热水龙头。但专家证据揭示烧伤模式符合\"浸入虐待\"特征：烧伤集中在下半身且边界清晰，上半身和躯干未被烫伤，没有挣扎溅水的不规则痕迹。调查人员指出，以幼儿的年龄，不可能在极端疼痛中保持安静或不尝试爬出浴缸。热水温度测试证实最高达143华氏度。受害女童将终身承受疤痕和多次手术的痛苦，被告需服刑30年后方可申请假释。",
+      "summaryEN": "",
+      "whyMattersCN": "儿童虐待案件的量刑政策在中美两国均受关注。美国德州对此类犯罪的最高刑罚为终身监禁，反映了对儿童保护的严厉立场。本案展示了专家证据（烧伤模式分析）在事实认定中的关键作用——通过科学分析揭穿被告虚假陈述，为类似案件的事实认定提供方法论参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "儿童保护",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Florida Bar reverses itself, says it is not investigating Lindsey Halligan",
+      "titleCN": "佛州律协调查反转：前联邦检察官Halligan案引发程序公信力争议",
+      "url": "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/",
+      "date": "2026-03-15",
+      "source": "ABA Journal",
+      "summaryCN": "佛罗里达州律师协会先称正在调查前临时联邦检察官Lindsey Halligan，一天后又否认存在正式调查，引发外界质疑。Halligan在任内起诉了特朗普的政治对手——前FBI局长Comey和纽约州检察长James，两案均被联邦法官以\"任命无效\"为由驳回。法官指出Halligan在大陪审团面前作出\"根本性的法律错误陈述\"，并在被裁定无资格任职后仍拒绝离职、继续使用\"联邦检察官\"头衔。佛州律协每年处理约1.3万件投诉，仅四分之一进入正式调查阶段。司法部正推动修改规章，限制州律协对联邦雇员的调查权，称该程序已被\"政治活动家武器化\"。",
+      "summaryEN": "",
+      "whyMattersCN": "律师协会纪律程序的公信力对法律职业自治至关重要。美国州律师协会在处理涉及政治敏感案件时的程序反复，提示中国在完善律师惩戒制度时需确保程序透明、标准一致，避免因政治因素损害职业声誉。本案亦展示了司法系统内部对\"政治化起诉\"的制衡机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律职业",
+          "class": "practice"
+        },
+        {
+          "name": "律师惩戒",
+          "class": "practice"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Is Justice Alito jumping the gun on voting rights?",
+      "titleCN": "阿利托大法官是否在选举权问题上操之过急？",
+      "url": "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/",
+      "date": "2026-03-15",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文分析阿利托大法官在Malliotakis v. Williams案中的协同意见，该意见暗示《选举权法》第2条可能违宪。阿利托将遵守《选举权法》的选区重划等同于'赤裸裸的种族歧视'，这与2023年Allen v. Milligan案的判决形成张力——后者维持了《选举权法》的合宪性。作者指出，阿利托的立场将'民权时代的皇冠明珠'等同于最恶劣的政治种族主义，奖励那些以'党派利益'为名行种族歧视之实的立法者。在待决的Louisiana v. Callais案中，最高法院可能大幅限缩《选举权法》的适用范围。",
+      "summaryEN": "",
+      "whyMattersCN": "美国最高法院对少数族裔选举权的持续限缩，反映了司法克制与司法能动之间的深层张力。对中国而言，这提供了观察'反歧视措施是否构成反向歧视'这一经典宪法难题的窗口，可为民族区域自治制度中的代表权配置提供比较法镜鉴。阿利托将《选举权法》合规行为等同于种族歧视的论证逻辑，展示了宪法解释中'严格审查'标准可能被反向运用的风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
       "title": "AI danger gets real",
       "titleCN": "AI danger gets real",
       "url": "https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real",
