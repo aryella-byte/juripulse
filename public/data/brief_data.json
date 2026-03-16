@@ -6,9 +6,9 @@
       "url": "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
       "date": "2026-03-15",
       "source": "SCOTUSblog",
-      "summaryCN": "最高法院在文本主义复兴多年后，近期判决中重新出现对立法史的引用。斯卡利亚大法官曾将立法史比作'在拥挤的鸡尾酒会上越过人群寻找朋友'，但当前法院似乎正在重新评估这一工具在法律解释中的价值。",
+      "summaryCN": "在文本主义主导美国最高法院数十年后，大法官Ketanji Brown Jackson在近期关税案中的协同意见中重新主张立法史的价值。本文回顾了Scalia大法官对立法史的批评（将其比作'在拥挤的鸡尾酒会上越过人群寻找朋友'），以及Easterbrook和Silberman法官的温和立场。作者指出，随着Chevron尊重原则被推翻，法院在解释模糊法律时可能重新诉诸立法史，这将引发新的方法论辩论。",
       "summaryEN": "",
-      "whyMattersCN": "美国最高法院对立法史态度的转变，反映了文本主义与目的主义解释方法的持续张力。对中国而言，这提示在法律解释方法论上需平衡文本明确性与立法意图探究，尤其在行政法领域，可为司法解释技术提供比较法参照。",
+      "whyMattersCN": "美国最高法院对立法史态度的转变，反映了文本主义与目的主义解释方法的持续张力。对中国而言，这提示在法律解释方法论上需平衡文本明确性与立法意图探究，尤其在行政法领域，可为司法解释技术提供比较法参照。Jackson大法官将立法史作为司法克制的工具，这一论证策略值得中国学者关注。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -20,51 +20,29 @@
           "class": "constitutional"
         }
       ],
-      "quality_score": 8
+      "quality_score": 9
     },
     {
-      "title": "'143 degrees': Man immersed toddler in bathtub of hot water and caused her to suffer horrific burns and scars for life",
-      "titleCN": "'143华氏度'：男子将幼儿浸入热水浴缸致其终身严重烧伤",
-      "url": "https://lawandcrime.com/crime/143-degrees-man-immersed-toddler-in-bathtub-of-hot-water-and-caused-her-to-suffer-horrific-burns-and-scars-for-life/",
+      "title": "Is Justice Alito jumping the gun on voting rights?",
+      "titleCN": "阿利托大法官是否在选举权问题上操之过急？",
+      "url": "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/",
       "date": "2026-03-15",
-      "source": "Law & Crime",
-      "summaryCN": "德克萨斯州男子Miguel Santiago Gonzalez因将20个月大幼儿浸入143华氏度（约62°C）热水中致其全身超过一半面积烧伤，被判处终身监禁。该案凸显儿童虐待犯罪的严重性及法官量刑裁量权的运用。",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文分析阿利托大法官在Malliotakis v. Williams案中的协同意见，该意见暗示《选举权法》第2条可能违宪。作者指出，阿利托将遵守《选举权法》的选区重划等同于'赤裸裸的种族歧视'，这与2023年Allen v. Milligan案的判决形成张力。文章预测，在待决的Louisiana v. Callais案中，最高法院可能大幅限缩《选举权法》的适用范围。",
       "summaryEN": "",
-      "whyMattersCN": "儿童虐待案件的量刑政策在中美两国均受关注。美国德州对此类犯罪的最高刑罚为终身监禁，反映了对儿童保护的严厉立场。中国刑法中虐待罪与故意伤害罪的界分及量刑标准，可借鉴美国经验强化对儿童权益的刑事保护。",
+      "whyMattersCN": "美国最高法院对少数族裔选举权的持续限缩，反映了司法克制与司法能动之间的深层张力。对中国而言，这提供了观察'反歧视措施是否构成反向歧视'这一经典宪法难题的窗口，可为民族区域自治制度中的代表权配置提供比较法镜鉴。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "刑事司法",
-          "class": "criminal"
+          "name": "宪法",
+          "class": "constitutional"
         },
         {
-          "name": "儿童保护",
-          "class": "criminal"
+          "name": "选举权",
+          "class": "constitutional"
         }
       ],
-      "quality_score": 7
-    },
-    {
-      "title": "Florida Bar reverses itself, says it is not investigating Lindsey Halligan",
-      "titleCN": "佛罗里达州律师协会反转立场，称并未调查Lindsey Halligan",
-      "url": "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/",
-      "date": "2026-03-15",
-      "source": "ABA Journal",
-      "summaryCN": "佛罗里达州律师协会先称正在调查前临时联邦检察官Lindsey Halligan，一天后又否认存在正式调查。Halligan因涉及特朗普政治对手起诉案引发争议，此事凸显律师纪律程序透明度与政治敏感案件的复杂性。",
-      "summaryEN": "",
-      "whyMattersCN": "律师协会纪律程序的公信力对法律职业自治至关重要。美国州律师协会在处理涉及政治敏感案件时的程序反复，提示中国在完善律师惩戒制度时需确保程序透明、标准一致，避免因政治因素损害职业声誉。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律职业",
-          "class": "practice"
-        },
-        {
-          "name": "律师惩戒",
-          "class": "practice"
-        }
-      ],
-      "quality_score": 7
+      "quality_score": 9
     },
     {
       "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
