@@ -407,6 +407,84 @@
   ],
   "research": [
     {
+      "title": "What is a Tort?",
+      "titleCN": "何为侵权？",
+      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+      "date": "2026-03-15",
+      "source": "Harvard Law Review",
+      "summaryCN": "本文挑战了以Cardozo在Palsgraf案中的判决为代表的'关系性错误'理论（Palsgraf视角），该理论认为侵权法的核心在于识别和纠正关系性道德错误——即一方对另一方负有的义务之违反。作者提出'pigeonhole视角'：侵权并非关系性道德错误，而是'救济pigeonholes'——识别被告在何种复杂条件下对原告负有提供赔偿的道德责任的法律规则。文章借鉴意大利民法典第2043条和德国民法典第823条，主张侵权法的道德核心在于被告对造成原告'不公正损害'（即侵犯原告享有的免受伤害之权利）的道德责任，而非关系性错误行为。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对普通法侵权法与大陆法系侵权法的道德基础进行了深刻比较，提出了'关系性错误'与'对不公正损害的道德责任'之间的根本区分。对中国侵权法研究而言，这一理论框架有助于厘清《民法典》侵权责任编中'过错'与'损害'的关系，以及如何在解释论上协调'行为不法'与'结果不法'的张力。作者对Palsgraf案经典解读的挑战，亦为中国学者重新审视比较法上的经典命题提供了新的分析工具。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "侵权法",
+          "class": "private"
+        },
+        {
+          "name": "比较法",
+          "class": "theory"
+        },
+        {
+          "name": "法律理论",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 10
+    },
+    {
+      "title": "Blown Chances",
+      "titleCN": "错失的机遇：Milliken案与种族正义之战",
+      "url": "https://harvardlawreview.org/print/vol-139/blown-chances/",
+      "date": "2026-03-15",
+      "source": "Harvard Law Review",
+      "summaryCN": "本文是对Michelle Adams教授著作《The Containment》的书评，聚焦1974年Milliken v. Bradley案——最高法院以5-4裁定联邦法院不得跨学区实施校车接送以实现种族融合，除非能证明所有相关学区均存在违宪的种族隔离。作者指出，Burger首席大法官的多数意见几乎完全忽视了初审法院详尽的证据记录：底特律的居住隔离模式并非历史偶然，而是红线划分、种族限制性契约、白人社区暴力协会、种族隔离公共住房以及学校当局坚持'社区学校'政策的结果。Milliken案标志着法院从实现融合转向限制融合追求，将一种种族幻想纳入教义。",
+      "summaryEN": "",
+      "whyMattersCN": "Milliken案体现了美国宪法平等保护条款在种族问题上的司法退缩，其逻辑与当前对多样性、公平与包容（DEI）的攻击形成呼应。对中国学者而言，本案提供了观察'形式平等'与'实质平等'张力的经典案例，以及司法如何在'保护白人利益'与'纠正历史不公'之间进行权衡。Adams教授对案件历史背景的细致重构，展示了一种将法律教义置于社会历史语境中审视的重要研究方法。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "种族正义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "titleCN": "良心自由、政治过程理论与建国时期的宗教活动自由",
+      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
+      "date": "2026-03-15",
+      "source": "Harvard Law Review",
+      "summaryCN": "本文提出了一种新的宗教活动自由条款原旨主义解释：良心自由提供'什么'（what）——即保护个人选择和持有宗教信仰的权利；政治过程理论提供'谁'（who）——即只有政治上被剥夺权力的宗教少数群体才应获得豁免。作者主张，建国者制定第一修正案是为了防止对宗教少数群体的迫害，因此法院应仅向那些无法通过政治程序维护自身利益的群体提供宗教豁免。这一理论既限制了当前宗教活动自由教义的过度扩张（如Hobby Lobby案和Mahmoud案），又保留了保护真正弱势群体的核心功能。",
+      "summaryEN": "",
+      "whyMattersCN": "本文为中国宪法学者研究宗教自由提供了一个融合'个人权利'与'群体保护'的分析框架。政治过程理论在宗教自由领域的应用，提示中国在处理宗教问题时需关注不同宗教群体的政治参与能力和实际影响力。作者对'良心自由'与'宗教实践'的区分，以及将豁免权限于政治上弱势群体的主张，可为思考如何在多元社会中平衡宗教自由与公共利益提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "原旨主义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
       "title": "Drug Scheduling as Institutional Design",
       "titleCN": "Drug Scheduling as Institutional Design",
       "url": "https://harvardlawreview.org/print/vol-139/drug-scheduling-as-institutional-design/",
