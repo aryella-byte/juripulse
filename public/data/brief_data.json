@@ -67,60 +67,6 @@
       "quality_score": 7
     },
     {
-      "title": "Announcement of opinions for Friday, March 20",
-      "titleCN": "Announcement of opinions for Friday, March 20",
-      "url": "https://www.scotusblog.com/2026/03/announcement-of-opinions-for-friday-march-20/",
-      "date": "2026-03-15",
-      "source": "SCOTUSblog",
-      "summaryCN": "Announcement of opinions for Friday, March 20 - SCOTUSblog {\"@context\":\"https://schema。",
-      "summaryEN": "",
-      "whyMattersCN": "此案反映美国法律实践中的最新动态，对中国法律界了解域外司法发展具有参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律动态",
-          "class": "general"
-        }
-      ],
-      "quality_score": 10
-    },
-    {
-      "title": "Is Justice Alito jumping the gun on voting rights?",
-      "titleCN": "Is Justice Alito jumping the gun on voting rights?",
-      "url": "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/",
-      "date": "2026-03-15",
-      "source": "SCOTUSblog",
-      "summaryCN": "Is Justice Alito jumping the gun on voting rights? - SCOTUSblog {\"@context\":\"https://schema。",
-      "summaryEN": "",
-      "whyMattersCN": "此案反映美国法律实践中的最新动态，对中国法律界了解域外司法发展具有参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 10
-    },
-    {
-      "title": "SCOTUStoday for Friday, March 13",
-      "titleCN": "SCOTUStoday for Friday, March 13",
-      "url": "https://www.scotusblog.com/2026/03/scotustoday-for-friday-march-13/",
-      "date": "2026-03-15",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUStoday for Friday, March 13 - SCOTUSblog {\"@context\":\"https://schema。",
-      "summaryEN": "",
-      "whyMattersCN": "此案反映美国法律实践中的最新动态，对中国法律界了解域外司法发展具有参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 10
-    },
-    {
       "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
       "titleCN": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
       "url": "https://www.scotusblog.com/2026/03/justices-poised-to-adopt-exceptions-to-federal-criminal-defendants-appellate-waivers/",
@@ -438,60 +384,6 @@
     }
   ],
   "research": [
-    {
-      "title": "What is a Tort?",
-      "titleCN": "What is a Tort?",
-      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
-      "date": "2026-03-15",
-      "journal": "Harvard Law Review",
-      "summaryCN": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l]。",
-      "summaryEN": "",
-      "whyMattersCN": "该研究发表于Harvard Law Review，对美国法学理论发展具有参考价值，可为中国相关领域研究提供比较法视角。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法学研究",
-          "class": "general"
-        }
-      ],
-      "quality_score": 10
-    },
-    {
-      "title": "Blown Chances",
-      "titleCN": "Blown Chances",
-      "url": "https://harvardlawreview.org/print/vol-139/blown-chances/",
-      "date": "2026-03-15",
-      "journal": "Harvard Law Review",
-      "summaryCN": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l]。",
-      "summaryEN": "",
-      "whyMattersCN": "该研究发表于Harvard Law Review，对美国法学理论发展具有参考价值，可为中国相关领域研究提供比较法视角。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法学研究",
-          "class": "general"
-        }
-      ],
-      "quality_score": 10
-    },
-    {
-      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
-      "titleCN": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
-      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
-      "date": "2026-03-15",
-      "journal": "Harvard Law Review",
-      "summaryCN": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l]。",
-      "summaryEN": "",
-      "whyMattersCN": "该研究发表于Harvard Law Review，对美国法学理论发展具有参考价值，可为中国相关领域研究提供比较法视角。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法学研究",
-          "class": "general"
-        }
-      ],
-      "quality_score": 10
-    },
     {
       "title": "Drug Scheduling as Institutional Design",
       "titleCN": "Drug Scheduling as Institutional Design",
