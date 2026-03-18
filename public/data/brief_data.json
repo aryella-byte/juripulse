@@ -1,6 +1,80 @@
 {
   "news": [
     {
+      "title": "The Supreme Court of Canada",
+      "titleCN": "The Supreme Court of Canada",
+      "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "加拿大最高法院在2024年12月作出一项重要裁决，涉及《加拿大权利与自由宪章》第8条关于搜查和扣押的宪法保护。案件核心争议是警方在无搜查令情况下，通过第三方数据持有者获取个人数字信息是否构成'搜查'。法院以5:4的多数意见认定，当个人对信息存在合理隐私期待时，政府从第三方获取该信息即触发第8条保护。该判决推翻了此前R v. Marakah案确立的部分先例规则，确立了'合同与信任测试'（contract and trust test）作为判断隐私期待的新标准，对数字时代的宪法隐私权保护具有里程碑意义。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国/国际法律制度的影响：该判决与2018年美国Carpenter v. United States案形成跨法域呼应，但加拿大法院走得更远——不仅涵盖手机基站位置信息，还扩展至云存储、健康数据等广泛数字场景。其'合同与信任测试'为普通法系提供了区别于美国'第三方原则'的替代分析框架，可能影响澳大利亚、新西兰等英联邦国家的判例发展。对中国的比较法价值：我国《个人信息保护法》第13条、第34条同样涉及国家机关获取个人信息的法定条件，但缺乏宪法层面的隐私权审查机制。加拿大经验为研究'数字时代宪法隐私权的第三人效力''行政调查权与信息自决权的平衡'提供了成熟法域的参照系。尤其值得关注的是，加拿大法院如何在'技术中立解释'与'制度回应型解释'之间选择路径，这对我国《宪法》第40条通信秘密条款的扩张解释具有方法论启示。【选题思路】'数字时代宪法隐私权的第三人效力：以加拿大合同与信任测试为视角反思我国〈个人信息保护法〉第34条的合宪性控制'——可结合2023年我国'查开房记录'等典型事件，比较分析中加两国在公权力获取第三方数据时的宪法审查强度差异。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "数字隐私权",
+          "class": "constitutional"
+        },
+        {
+          "name": "第三方数据获取",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The biggest names on the briefs",
+      "titleCN": "The biggest names on the briefs",
+      "url": "https://www.scotusblog.com/2026/03/the-biggest-names-on-the-briefs/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文报道了美国最高法院2024-2025年度重大案件中法庭之友意见书（amicus briefs）的提交情况。数据显示，在涉及TikTok强制出售案（《保护美国人免受外国对手控制应用程序法》）、跨性别医疗禁令、堕胎权、枪支管制等敏感议题上，知名律所、科技巨头、民权组织和各州政府积极参与。其中，TikTok案吸引了超过80份法庭之友意见书，创下本季度纪录。文章特别分析了Covington & Burling、Williams & Connolly等顶尖律所在不同意识形态阵营案件中的策略性布局，以及Meta、Google等科技公司在反垄断与内容审查议题上的立场分化。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度而言，法庭之友制度是连接司法与多元社会利益的关键机制，其运作揭示了美国宪法诉讼中'法律动员'（legal mobilization）的精密生态——大律所通过策略性选择案件塑造公共形象，而科技巨头则试图通过司法渠道影响监管框架。对中国比较法研究的价值在于：第一，该制度可作为研究'司法民主化'与'司法专业化'张力的典型样本；第二，TikTok案涉及国家安全与言论自由的冲突，与我国《数据安全法》《个人信息保护法》的域外适用形成镜像对照；第三，律所'意识形态套利'现象（同一律所在不同案件中代表对立立场）挑战了传统职业伦理分析框架。【选题思路】《比较法视野下'法庭之友'制度的引入与改造——以我国知识产权法院技术调查官制度为参照的试点方案设计》，或《数据主权冲突中的司法话语竞争——基于TikTok案与TikTok诉美国商务部案的比较分析》。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较司法制度",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "titleCN": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "2025年5月28日，美国联邦最高法院以7-2的裁决驳回了两起挑战特朗普政府关税政策的诉讼，裁定原告（俄勒冈州等12州及一家小企业）缺乏起诉资格（standing）。法院未触及《国际紧急经济权力法》（IEEPA）第1702条授权总统征收关税是否违宪这一核心实体问题。多数意见由索托马约尔大法官撰写，强调原告未能证明'可辨识的、特定的且实际的损害'；托马斯大法官附议但质疑现代资格理论的扩张；戈萨奇大法官在协同意见中提出'重大法律问题'原则作为替代路径。阿利托和卡瓦诺大法官的反对意见则主张应发回重审以完善事实记录。本案实体争议——IEEPA是否授权关税、是否违反宪法第一条第八款征税权条款及第五修正案正当程序条款——均未获解决。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法而言，本案揭示了现代行政国家中'起诉资格'门槛对司法审查的过滤效应，以及'重大法律问题'原则作为新兴宪法回避技术的潜力；同时暴露了IEEPA这一1977年冷战立法被用于贸易战的法律解释困境，国会与总统在贸易权上的结构性张力持续加剧。对中国比较法研究的价值在于：其一，美国法院通过程序技术（资格限制）回避政治敏感实体争议的司法策略，与中国行政诉讼原告资格理论（尤其是'利害关系'认定）形成对照；其二，IEEPA的宽泛授权与特朗普'紧急状态'的常态化运用，可为研究中国《对外贸易法》《反外国制裁法》的授权边界及比例原则适用提供域外镜鉴；其三，关税作为单边制裁工具的合法性争议，直接关联中美贸易摩擦中的法律战维度。【选题思路】美国'重大法律问题'原则的司法生成逻辑及其对中国行政诉讼'重大且明显违法'理论的启示——以关税案与行为保全裁定为比较对象",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政诉讼原告资格",
+          "class": "administrative"
+        },
+        {
+          "name": "总统紧急权力",
+          "class": "constitutional"
+        },
+        {
+          "name": "国际贸易法",
+          "class": "international"
+        },
+        {
+          "name": "司法回避技术",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
       "titleCN": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
       "url": "https://www.scotusblog.com/2026/03/court-agrees-to-hear-case-on-environmental-laws-does-not-act-on-several-second-amendment-challenges/",
@@ -691,6 +765,88 @@
     }
   ],
   "research": [
+    {
+      "title": "What is a Tort?",
+      "titleCN": "What is a Tort?",
+      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "John C.P. Goldberg和Benjamin C. Zipursky在本文中系统阐述了'tort'（侵权）作为法律范畴的独立性与规范性内涵。作者批判了将侵权法简化为损害赔偿或成本内部化工具的经济分析进路，主张回归传统理解：侵权是一种'wrongful injury'（不当伤害），其核心在于'civil recourse'（民事救济）——即受害方获得针对加害方的救济权利。研究方法上，作者采用概念分析法与学说史梳理相结合，从Blackstone、Holmes到现代判例，重构侵权法的道德哲学基础，区分tort与crime、contract、property的界限，强调侵权法的回应性（responsive）而非分配性（distributive）特征。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1】概念史与判例互动的双层论证：作者并非仅作思想史梳理，而是将Blackstone、Holmes等经典论述与当代判例（如Palsgraf、Vincent v. Lake Erie）相互印证，形成'理论-实践'的循环论证。中国研究者可借鉴此方法，将传统律学、民国判例与现行法解释学结合，构建具有历史纵深的教义学论证。【论证借鉴2】批判性重构对立理论：作者对Posner经济分析、Calabresi事故成本理论的批判并非简单否定，而是揭示其'范畴错误'——将侵权法的规范性问题转化为效率计算。中国法学研究中常见'拿来主义'引介域外理论，本文展示了如何深入对方理论内部，指出其解释盲区（如无法说明为何侵权是'原告诉被告'而非'社会vs.个体'），此种'内在批判'方法尤值借鉴。【论证借鉴3】功能分析与规范分析的区分策略：作者明确区分'侵权法做什么'（功能描述）与'侵权法是什么'（规范界定），指出经济分析混淆二者。中国法研究中常将'比较法功能等置'等同于'规范等同'，本文的方法提示：功能相似性不能消解范畴独立性，这对中国民法典侵权责任编的体系解释具有直接启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "侵权法基础理论",
+          "class": "theory"
+        },
+        {
+          "name": "法律概念分析",
+          "class": "theory"
+        },
+        {
+          "name": "法律经济学批判",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "titleCN": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文运用政治过程理论（Political Process Theory）重新解读美国建国时期的宗教自由条款，挑战了传统原旨主义解释。作者通过系统分析1780-1790年间各州宪法辩论、立法记录和 pamphlet 文献，论证建国者理解的'良心自由'（Liberty of Conscience）并非个人对抗国家的绝对权利，而是一种要求政治过程对宗教少数群体保持开放的程序性保障。研究发现，建国时期的主流观念将宗教自由问题交由地方民主过程解决，而非司法审查。作者采用历史语境主义方法，结合定量内容分析（对127份建国文献的编码统计）与定性个案研究，重构了被后世司法化叙事遮蔽的'政治过程'原旨。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国宪法学和法理学研究具有重要参考价值。【论证借鉴1】'反事实历史建构'技术：作者通过追问'若建国者意图司法保护宗教自由，为何各州宪法普遍缺乏相应条款'，以制度缺失的负面证据强化核心论点。中国研究者移植此技术时，可针对1954年宪法或1982年修宪史，通过'未写入条款'的系统性分析，挑战既有的权利解释通说，研究设计需建立完整的草案比对数据库。【论证借鉴2】'概念史'（Begriffsgeschichte）与政治理论嫁接：作者将'良心自由'置于共和主义与自由主义的思想光谱中追踪语义变迁，而非简单罗列史料。中国法学可借鉴此框架，对'法治''人权'等移植概念进行1949-2022年的历时性语义网络分析，结合《人民日报》语料库与立法草案用语变化，揭示概念的政治功能转换。【论证借鉴3】'理论-史料'的双向校准机制：作者以政治过程理论预设问题意识，又以史料修正理论适用边界，避免理论先行或史料堆砌。中国研究者可设计'基层立法联系点'的实证研究，以协商民主理论切入，但通过田野调查数据反馈修正理论模型，形成中层理论命题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律史方法",
+          "class": "theory"
+        },
+        {
+          "name": "原旨主义批判",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Separating the Powers in the Administrative State: Article I",
+      "titleCN": "Separating the Powers in the Administrative State: Article I",
+      "url": "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文是美国行政法领域关于权力分立原则的经典文献，系统论证了美国宪法第一条（Article I）对行政权扩张的结构性约束。作者采用历史解释学与规范分析相结合的方法，首先通过梳理1787年制宪会议记录、《联邦党人文集》及早期国会实践，重构了'立法权专属'（Vesting Clause）的原初含义；继而运用比较制度分析，区分'核心立法功能'与'可授权事项'的边界，提出'可审查的裁量标准'作为判断行政规则合法性的分析框架。研究发现，现代行政国家的合法性危机源于国会过度授权与司法审查弱化的双重失灵，主张通过强化'立法意图清晰性原则'和'重大规则的非授权审查'来重建权力平衡。方法论上，本文融合了文本主义、历史主义与功能主义三种宪法解释路径，形成了'结构-功能-历史'的三维论证模式。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴】第一，'历史-文本-功能'的三层递进结构：作者并非简单罗列史料，而是以制宪原意为基准，通过'当时人如何理解'的历史追问，建立规范论证的事实基础，再转向制度功能的比较分析。中国研究者研究宪法或行政法时，可借鉴此模式，先挖掘清末民初立宪文献、1954年宪法起草档案等历史材料，再对接现行制度的运行实效，避免规范分析与历史语境脱节。【论证借鉴】第二，'概念区分-类型化-检验标准'的精细化操作：作者将模糊的'立法权'概念区分为'规则制定权''政策形成权''个案裁决权'三类，并为每类设定不同的授权容许度。中国研究者可借鉴此技术，对'行政裁量''公共利益'等本土概念进行内部解构，建立阶梯化的审查密度，增强论证的可操作性。【论证借鉴】第三，'反事实推理'的运用：文中多次使用'若国会保留该权力将如何'的假设，检验行政替代立法的正当性。中国研究者在评估地方试验、授权立法等制度时，可引入此类反事实分析，追问'若由人大直接立法是否更优'，从而突破描述性研究的局限，进入规范评价的深层。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "权力分立",
+          "class": "theory"
+        },
+        {
+          "name": "法律史",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
       "titleCN": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
