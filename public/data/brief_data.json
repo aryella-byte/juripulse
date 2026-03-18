@@ -1,6 +1,80 @@
 {
   "news": [
     {
+      "title": "The Supreme Court of Canada",
+      "titleCN": "The Supreme Court of Canada",
+      "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "加拿大最高法院近期就宪法第35条原住民权利作出重要裁决。在R. v. Desautel案中，法院以6:3多数裁定，美国境内的原住民跨境进入加拿大狩猎仍受宪法第35条保护，只要其能证明祖先在加拿大境内有传统领土。争议焦点在于'原住民'定义是否仅限于加拿大公民，以及第35条权利是否具有跨境效力。多数意见采纳'民族连续性'标准，强调权利与土地的历史联系而非现代国界；少数意见则主张严格领土管辖，警告跨境适用将削弱国家主权。本案涉及《1867年宪法法》第91(24)条'印第安人及印第安保留地'联邦管辖权条款，以及1982年《宪法法》第35条原住民权利条款的解释。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国/国际法律制度的影响：本案确立的'民族连续性'标准可能重塑北美跨境原住民权利框架，影响美加墨三国间类似条约谈判。美国最高法院在McGirt v. Oklahoma案后正重新审视部落主权边界，加拿大判决提供了比较参照。国际层面，本案涉及《联合国土著人民权利宣言》第36条跨境联系权与国内法衔接问题。对中国的比较法价值：中国面临跨境民族权利保护难题，如中缅边境景颇族、中哈边境哈萨克族的传统资源利用权。加拿大'民族连续性'标准与'属地主义'的权衡，可为《民族区域自治法》修订及跨境民族权益保障提供方法论参考。中国学者长期关注原住民权利的比较研究，但多聚焦澳新北美，对跨境维度关注不足。【选题思路】'跨境民族传统资源利用权的宪法保护——以加拿大R. v. Desautel案与中国边境民族地区实践为比较'，或'从领土主权到民族连续性：原住民权利解释方法的范式转型及其对中国的启示'。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "原住民宪法权利",
+          "class": "constitutional"
+        },
+        {
+          "name": "跨境法律冲突",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The biggest names on the briefs",
+      "titleCN": "The biggest names on the briefs",
+      "url": "https://www.scotusblog.com/2026/03/the-biggest-names-on-the-briefs/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文报道了2024-2025年度美国最高法院审理案件中，各大律师事务所和律师代理情况的统计排名。Amicus Law Group以代理13起案件位居榜首，Williams & Connolly和Goldstein & Russell分别以12起和11起紧随其后。文章特别分析了'法庭之友'（amicus curiae）制度在本年度的活跃程度，涉及堕胎权、枪支管制、行政权力等核心议题。在United States Agency for International Development v. Alliance for Open Society International, Inc.案中，共有76份法庭之友意见书提交；在FDA v. Alliance for Hippocratic Medicine案中，堕胎药物监管争议吸引了68份意见书。文章还提及大法官们在口头辩论中频繁引用法庭之友观点的现象，以及Kavanaugh大法官对'过度诉讼'（litigation overload）现象的批评。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度而言，本文揭示了联邦最高法院案件代理市场的集中化趋势与法庭之友制度的工具化风险。顶级律所的垄断性参与可能加剧司法资源分配的不平等，而法庭之友意见书的爆炸式增长（部分案件超过70份）正在改变传统对抗制诉讼的结构，引发关于'信息过载'是否稀释司法质量的制度性反思。Kavanaugh大法官的批评更触及美国公益诉讼与制度性诉讼（institutional reform litigation）的正当性边界。对中国的比较法价值在于：第一，中国最高人民法院近年来推行的'专家论证'与'典型案例'制度与美国法庭之友功能相似，可比较两者在知识输入与民主参与方面的制度效能；第二，中国行政诉讼中检察机关与行政机关的诉讼地位问题，可借鉴美国'诉讼过载'讨论反思'官告官'模式的程序负荷；第三，中国司法改革中的'类案检索'机制面临与美国相似的信息筛选难题。【选题思路】美国最高法院'法庭之友'制度的信息过载危机与中国类案检索制度的算法治理——基于司法认知负荷理论的比较研究",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "比较诉讼制度",
+          "class": "procedural"
+        },
+        {
+          "name": "司法改革",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "titleCN": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国最高法院于2025年6月30日就特朗普政府依据《国际紧急经济权力法》(IEEPA)征收关税的合法性作出裁决，认定下级法院缺乏管辖权，未对关税本身的合宪性作出实质判断。本案源于非营利组织自由正义中心代表五家小企业提起的诉讼，挑战特朗普援引IEEPA第1702条对几乎所有进口商品征收10%基准关税及更高'互惠'关税。最高法院以6-3意见分歧裁定，原告应依据《关税法》第1581(a)条向国际贸易法院(CIT)寻求救济，而非直接诉诸联邦地区法院。索托马约尔大法官撰写异议意见，认为IEEPA的排他性管辖权条款不适用于宪法索赔，且关税构成对国会征税权的篡夺。案件发回后，CIT将首先审理管辖权问题，再进入实体审理。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度的影响：本案触及三权分立核心议题——总统紧急权力与国会贸易宪法权力的边界。最高法院的程序性回避策略反映了其在政治敏感案件中的克制立场，但未能解决IEEPA作为'空白支票'立法与宪法第一条征税权的结构性冲突。对国际贸易法院管辖权体系的解释也将重塑贸易救济程序格局。对中国的比较法价值：中国面临相似制度困境——《对外贸易法》《进出口关税条例》中授权条款的合宪性控制、国务院关税税则委员会的决策程序透明度、以及行政诉讼中对抽象行政行为的审查范围。美国'政治问题'回避与'成熟原则'的适用技术，可为中国构建国际贸易诉讼专门管辖体系提供镜鉴。【选题思路】美国IEEPA关税案的管辖权回避技术与我国国际贸易行政诉讼专门管辖的构建——以《关税法》实施为背景的比较研究",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "国际经济法",
+          "class": "international"
+        },
+        {
+          "name": "司法审查",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Does legislative history have a judicial future?",
       "titleCN": "立法史在司法判决中能否重焕生机？",
       "url": "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
@@ -543,6 +617,96 @@
     }
   ],
   "research": [
+    {
+      "title": "What is a Tort?",
+      "titleCN": "What is a Tort?",
+      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文是一篇经典的概念分析论文，作者John C.P. Goldberg系统梳理了美国侵权法的理论基础。论文采用规范分析（normative analysis）与教义学重构（doctrinal reconstruction）相结合的方法，批判了两种主导性理论：一是将侵权法视为损害赔偿法的功利主义视角，二是将其视为道德权利执行机制的权利理论。作者提出'制度性正义'（institutional justice）框架，主张侵权法是法律系统内部解决特定类型冲突的分配机制，其核心功能在于通过程序化的责任认定，实现风险与损失的合理分配。论文运用大量判例进行教义学验证，并通过思想史梳理展示理论演变的内在逻辑。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴一：二元批判结构的搭建】作者并非简单提出新理论，而是先构建两个极端化模型（功利主义vs.权利理论），通过揭示各自无法解释的中间现象（如严格责任、惩罚性赔偿的并存），为第三种理论创造论证空间。中国法学研究可借鉴此'正—反—合'结构，例如在讨论民法典绿色条款时，可先批判'纯粹私法自治'与'国家干预至上'两种极端，再提出'生态理性嵌入'的中间道路。【论证借鉴二：判例的体系化运用】作者选取跨越不同时期的典型判例（如Palsgraf、MacPherson、Rylands等），不是简单列举，而是将其嵌入理论演变的叙事链条，展示判例如何推动或阻碍理论发展。中国研究者处理指导性案例时，可借鉴此'理论—判例互动'的叙事策略，避免案例堆砌或脱离语境的引用。【论证借鉴三：概念史与规范论证的融合】论文将19世纪至20世纪初的学术史（Holmes、Pound、Prosser等）转化为规范性论证资源，展示概念选择背后的政治哲学分歧。中国法学研究可借鉴此方法，在讨论'社会主义法治'、'全过程人民民主'等概念时，将其历史演变与当代规范建构相勾连，增强论证的历史厚度与理论深度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "侵权法基础理论",
+          "class": "theory"
+        },
+        {
+          "name": "法律概念分析",
+          "class": "theory"
+        },
+        {
+          "name": "比较法方法论",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "titleCN": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "该文运用政治过程理论重新诠释美国建国时期的宗教自由条款，挑战了传统原旨主义解释。作者通过系统梳理18世纪各州宪法中的良心自由条款，发现'良心自由'概念存在显著异质性：部分州将其限定为宗教豁免权，部分州则扩展至道德信念，还有州明确排除政治或宗教意见表达。作者采用'文本细读+制度语境'的双重方法，将宪法条款置于具体的宗教歧视史与政治妥协背景中，论证第一修正案的制定者有意采用模糊表述以回避分歧。核心发现是：建国一代对'良心自由'缺乏统一理解，现代法院不应诉诸单一原旨，而应关注条款的'反歧视'结构功能。",
+      "summaryEN": "",
+      "whyMattersCN": "该文的论证方法对中国宪法史与基本权利研究具有重要参考价值。【论证借鉴1：异质性概念的类型化处理】作者未将'良心自由'视为统一概念，而是建立'宗教豁免型—道德扩展型—政治排除型'的三元分类框架，通过编码各州宪法文本进行定量呈现。中国研究者可借鉴此框架处理'法治''人权'等移植概念的本土变异，例如对清末至民国各约章中'臣民权利'条款进行类型化比较。【论证借鉴2：失败立法史的反事实运用】作者刻意分析未通过的修正案草案（如麦迪逊版本被删减的'平等权利'表述），以证明立法者的刻意选择。中国研究者可将此方法用于全国人大常委会的审议记录、法律草案征求意见的差异化反馈分析，从'被删除的文本'中推断制度意图。【论证借鉴3：结构功能主义对历史主义的补充】作者在承认历史不确定性的前提下，转向条款的'反歧视'功能分析，避免陷入不可知论。中国宪法学研究可借鉴此路径，在文本含义存在争议时，诉诸制度功能（如人大制度的'民主集中'功能、基本权利的'客观价值秩序'功能）进行论证补强，实现历史解释与体系解释的融合。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法原旨主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较宪法方法",
+          "class": "theory"
+        },
+        {
+          "name": "法律史量化分析",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Separating the Powers in the Administrative State: Article I",
+      "titleCN": "Separating the Powers in the Administrative State: Article I",
+      "url": "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文探讨美国行政国家中的权力分立问题，聚焦于宪法第一条（Article I）所规定的立法权。作者Philip Hamburger运用历史解释学和规范分析相结合的方法，追溯美国建国时期对立法权的理解，并批判当代行政国家中行政机关广泛行使'准立法'权的现象。论文核心论点是：现代行政法将立法权从国会转移至行政机关，实质上破坏了宪法设计的权力分立结构。作者通过梳理18-19世纪的宪法文献、判例史以及比较法材料，构建了一个'原旨主义'的论证框架，主张恢复国会对规则制定权的专属控制。研究发现，当代'授权理论'（nondelegation doctrine）的衰落与行政国家的扩张存在制度性关联，而法院对' intelligible principle'标准的宽松适用使得权力分立原则名存实亡。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。首先，作者采用'制度史-规范论-比较法'的三层分析结构，将历史材料转化为规范论证的基石，而非简单的背景介绍。【论证借鉴】中国研究者可以借鉴这一方法，在讨论全国人大及其常委会的专属立法权时，系统梳理1954年宪法以来的立法权配置变迁，将历史演变作为批判现行授权立法膨胀的规范依据，而非仅停留在制度描述层面。其次，论文创造性地运用'反事实推理'（counterfactual analysis），通过设想'若严格执行权力分立，行政国家将如何运作'来揭示现行制度的偏离程度。【论证借鉴】中国学者可借鉴此方法，在分析行政立法、部门规章的合法性边界时，构建'若严格遵循法律保留原则'的理想模型，以此测量现实制度与宪法文本的张力。最后，作者将判例分析嵌入宏大的宪政理论叙事，选取关键判例（如J.W. Hampton案、Whitman案）进行'深描'，揭示司法话语的范式转换。【论证借鉴】中国研究者可对'立法法'实施以来的典型备案审查案例进行类似分析，追踪'不抵触'标准、'根据法律'条款的司法解释演变，构建中国式的授权立法教义学。此外，论文对'专业知识'作为权力扩张正当化理由的批判性检视，对理解中国'部门立法'现象亦有启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "权力分立",
+          "class": "theory"
+        },
+        {
+          "name": "原旨主义解释",
+          "class": "theory"
+        },
+        {
+          "name": "授权立法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
       "titleCN": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
