@@ -1,88 +1,80 @@
 {
   "news": [
     {
-      "title": "The Supreme Court of Canada",
-      "titleCN": "The Supreme Court of Canada",
-      "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
-      "date": "2026-03-18",
+      "title": "Does legislative history have a judicial future?",
+      "titleCN": "立法史在司法判决中能否重焕生机？",
+      "url": "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
+      "date": "2026-03-15",
       "source": "SCOTUSblog",
-      "summaryCN": "加拿大最高法院在2024年12月作出一项重要裁决，涉及《加拿大权利与自由宪章》第8条关于搜查和扣押的宪法保护。案件核心争议是警方在无搜查令情况下，通过第三方数据持有者获取个人数字信息是否构成'搜查'。法院以5:4的多数意见认定，当个人对信息存在合理隐私期待时，政府从第三方获取该信息即触发第8条保护。该判决推翻了此前R v. Marakah案确立的部分先例规则，确立了'合同与信任测试'（contract and trust test）作为判断隐私期待的新标准，对数字时代的宪法隐私权保护具有里程碑意义。",
+      "summaryCN": "文本主义主导美国最高法院数十年后，大法官Ketanji Brown Jackson在Learning Resources v. Trump关税案中重新主张立法史的价值，引发学界关注。本文回顾了Scalia大法官对立法史的著名批评——将其比作\"在拥挤的鸡尾酒会上越过人群寻找朋友\"，认为依赖立法史会诱使法官选择性引用以支持其偏好。但作者亦呈现了Easterbrook和Silberman法官的温和立场：立法史可展示立法妥协的范围，帮助理解法律含义。随着Chevron尊重原则被推翻，法院在解释模糊法律时可能重新诉诸立法史。Jackson巧妙地将立法史作为司法克制的工具，而非扩张司法权的手段，这与Scalia当年的批评形成有趣对话。",
       "summaryEN": "",
-      "whyMattersCN": "对美国/国际法律制度的影响：该判决与2018年美国Carpenter v. United States案形成跨法域呼应，但加拿大法院走得更远——不仅涵盖手机基站位置信息，还扩展至云存储、健康数据等广泛数字场景。其'合同与信任测试'为普通法系提供了区别于美国'第三方原则'的替代分析框架，可能影响澳大利亚、新西兰等英联邦国家的判例发展。对中国的比较法价值：我国《个人信息保护法》第13条、第34条同样涉及国家机关获取个人信息的法定条件，但缺乏宪法层面的隐私权审查机制。加拿大经验为研究'数字时代宪法隐私权的第三人效力''行政调查权与信息自决权的平衡'提供了成熟法域的参照系。尤其值得关注的是，加拿大法院如何在'技术中立解释'与'制度回应型解释'之间选择路径，这对我国《宪法》第40条通信秘密条款的扩张解释具有方法论启示。【选题思路】'数字时代宪法隐私权的第三人效力：以加拿大合同与信任测试为视角反思我国〈个人信息保护法〉第34条的合宪性控制'——可结合2023年我国'查开房记录'等典型事件，比较分析中加两国在公权力获取第三方数据时的宪法审查强度差异。",
+      "whyMattersCN": "美国最高法院对立法史态度的转变，反映了文本主义与目的主义解释方法的持续张力。对中国而言，这提示在法律解释方法论上需平衡文本明确性与立法意图探究，尤其在行政法领域。Jackson将立法史作为司法克制的论证策略，可为司法解释技术提供比较法参照。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "数字隐私权",
+          "name": "宪法",
           "class": "constitutional"
         },
         {
-          "name": "第三方数据获取",
+          "name": "法律解释",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "'143 degrees': Man immersed toddler in bathtub of hot water and caused her to suffer horrific burns and scars for life",
+      "titleCN": "143华氏度热水虐童案：德州男子被判终身监禁",
+      "url": "https://lawandcrime.com/crime/143-degrees-man-immersed-toddler-in-bathtub-of-hot-water-and-caused-her-to-suffer-horrific-burns-and-scars-for-life/",
+      "date": "2026-03-15",
+      "source": "Law & Crime",
+      "summaryCN": "德州男子Miguel Santiago Gonzalez将20个月大幼儿浸入143华氏度（约62°C）热水中致其全身超过一半面积严重烧伤，被判处终身监禁。被告辩称只是短暂离开浴室，幼儿自己打开了热水龙头。但专家证据揭示烧伤模式符合\"浸入虐待\"特征：烧伤集中在下半身且边界清晰，上半身和躯干未被烫伤，没有挣扎溅水的不规则痕迹。调查人员指出，以幼儿的年龄，不可能在极端疼痛中保持安静或不尝试爬出浴缸。热水温度测试证实最高达143华氏度。受害女童将终身承受疤痕和多次手术的痛苦，被告需服刑30年后方可申请假释。",
+      "summaryEN": "",
+      "whyMattersCN": "儿童虐待案件的量刑政策在中美两国均受关注。美国德州对此类犯罪的最高刑罚为终身监禁，反映了对儿童保护的严厉立场。本案展示了专家证据（烧伤模式分析）在事实认定中的关键作用——通过科学分析揭穿被告虚假陈述，为类似案件的事实认定提供方法论参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "儿童保护",
           "class": "criminal"
         }
       ],
       "quality_score": 8
     },
     {
-      "title": "The biggest names on the briefs",
-      "titleCN": "The biggest names on the briefs",
-      "url": "https://www.scotusblog.com/2026/03/the-biggest-names-on-the-briefs/",
-      "date": "2026-03-18",
-      "source": "SCOTUSblog",
-      "summaryCN": "本文报道了美国最高法院2024-2025年度重大案件中法庭之友意见书（amicus briefs）的提交情况。数据显示，在涉及TikTok强制出售案（《保护美国人免受外国对手控制应用程序法》）、跨性别医疗禁令、堕胎权、枪支管制等敏感议题上，知名律所、科技巨头、民权组织和各州政府积极参与。其中，TikTok案吸引了超过80份法庭之友意见书，创下本季度纪录。文章特别分析了Covington & Burling、Williams & Connolly等顶尖律所在不同意识形态阵营案件中的策略性布局，以及Meta、Google等科技公司在反垄断与内容审查议题上的立场分化。",
+      "title": "Florida Bar reverses itself, says it is not investigating Lindsey Halligan",
+      "titleCN": "佛州律协调查反转：前联邦检察官Halligan案引发程序公信力争议",
+      "url": "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/",
+      "date": "2026-03-15",
+      "source": "ABA Journal",
+      "summaryCN": "佛罗里达州律师协会先称正在调查前临时联邦检察官Lindsey Halligan，一天后又否认存在正式调查，引发外界质疑。Halligan在任内起诉了特朗普的政治对手——前FBI局长Comey和纽约州检察长James，两案均被联邦法官以\"任命无效\"为由驳回。法官指出Halligan在大陪审团面前作出\"根本性的法律错误陈述\"，并在被裁定无资格任职后仍拒绝离职、继续使用\"联邦检察官\"头衔。佛州律协每年处理约1.3万件投诉，仅四分之一进入正式调查阶段。司法部正推动修改规章，限制州律协对联邦雇员的调查权，称该程序已被\"政治活动家武器化\"。",
       "summaryEN": "",
-      "whyMattersCN": "对美国法律制度而言，法庭之友制度是连接司法与多元社会利益的关键机制，其运作揭示了美国宪法诉讼中'法律动员'（legal mobilization）的精密生态——大律所通过策略性选择案件塑造公共形象，而科技巨头则试图通过司法渠道影响监管框架。对中国比较法研究的价值在于：第一，该制度可作为研究'司法民主化'与'司法专业化'张力的典型样本；第二，TikTok案涉及国家安全与言论自由的冲突，与我国《数据安全法》《个人信息保护法》的域外适用形成镜像对照；第三，律所'意识形态套利'现象（同一律所在不同案件中代表对立立场）挑战了传统职业伦理分析框架。【选题思路】《比较法视野下'法庭之友'制度的引入与改造——以我国知识产权法院技术调查官制度为参照的试点方案设计》，或《数据主权冲突中的司法话语竞争——基于TikTok案与TikTok诉美国商务部案的比较分析》。",
+      "whyMattersCN": "律师协会纪律程序的公信力对法律职业自治至关重要。美国州律师协会在处理涉及政治敏感案件时的程序反复，提示中国在完善律师惩戒制度时需确保程序透明、标准一致，避免因政治因素损害职业声誉。本案亦展示了司法系统内部对\"政治化起诉\"的制衡机制。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法诉讼",
-          "class": "constitutional"
+          "name": "法律职业",
+          "class": "practice"
         },
         {
-          "name": "比较司法制度",
-          "class": "procedural"
+          "name": "律师惩戒",
+          "class": "practice"
         }
       ],
       "quality_score": 8
     },
     {
-      "title": "The remaining questions after the Supreme Court’s tariffs ruling",
-      "titleCN": "The remaining questions after the Supreme Court’s tariffs ruling",
-      "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
-      "date": "2026-03-18",
+      "title": "Is Justice Alito jumping the gun on voting rights?",
+      "titleCN": "阿利托大法官是否在选举权问题上操之过急？",
+      "url": "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/",
+      "date": "2026-03-15",
       "source": "SCOTUSblog",
-      "summaryCN": "2025年5月28日，美国联邦最高法院以7-2的裁决驳回了两起挑战特朗普政府关税政策的诉讼，裁定原告（俄勒冈州等12州及一家小企业）缺乏起诉资格（standing）。法院未触及《国际紧急经济权力法》（IEEPA）第1702条授权总统征收关税是否违宪这一核心实体问题。多数意见由索托马约尔大法官撰写，强调原告未能证明'可辨识的、特定的且实际的损害'；托马斯大法官附议但质疑现代资格理论的扩张；戈萨奇大法官在协同意见中提出'重大法律问题'原则作为替代路径。阿利托和卡瓦诺大法官的反对意见则主张应发回重审以完善事实记录。本案实体争议——IEEPA是否授权关税、是否违反宪法第一条第八款征税权条款及第五修正案正当程序条款——均未获解决。",
+      "summaryCN": "本文分析阿利托大法官在Malliotakis v. Williams案中的协同意见，该意见暗示《选举权法》第2条可能违宪。阿利托将遵守《选举权法》的选区重划等同于'赤裸裸的种族歧视'，这与2023年Allen v. Milligan案的判决形成张力——后者维持了《选举权法》的合宪性。作者指出，阿利托的立场将'民权时代的皇冠明珠'等同于最恶劣的政治种族主义，奖励那些以'党派利益'为名行种族歧视之实的立法者。在待决的Louisiana v. Callais案中，最高法院可能大幅限缩《选举权法》的适用范围。",
       "summaryEN": "",
-      "whyMattersCN": "对美国法而言，本案揭示了现代行政国家中'起诉资格'门槛对司法审查的过滤效应，以及'重大法律问题'原则作为新兴宪法回避技术的潜力；同时暴露了IEEPA这一1977年冷战立法被用于贸易战的法律解释困境，国会与总统在贸易权上的结构性张力持续加剧。对中国比较法研究的价值在于：其一，美国法院通过程序技术（资格限制）回避政治敏感实体争议的司法策略，与中国行政诉讼原告资格理论（尤其是'利害关系'认定）形成对照；其二，IEEPA的宽泛授权与特朗普'紧急状态'的常态化运用，可为研究中国《对外贸易法》《反外国制裁法》的授权边界及比例原则适用提供域外镜鉴；其三，关税作为单边制裁工具的合法性争议，直接关联中美贸易摩擦中的法律战维度。【选题思路】美国'重大法律问题'原则的司法生成逻辑及其对中国行政诉讼'重大且明显违法'理论的启示——以关税案与行为保全裁定为比较对象",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政诉讼原告资格",
-          "class": "administrative"
-        },
-        {
-          "name": "总统紧急权力",
-          "class": "constitutional"
-        },
-        {
-          "name": "国际贸易法",
-          "class": "international"
-        },
-        {
-          "name": "司法回避技术",
-          "class": "procedural"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
-      "titleCN": "Court agrees to hear case on environmental laws, does not act on several Second Amendment challenges",
-      "url": "https://www.scotusblog.com/2026/03/court-agrees-to-hear-case-on-environmental-laws-does-not-act-on-several-second-amendment-challenges/",
-      "date": "2026-03-12",
-      "source": "SCOTUSblog",
-      "summaryCN": "美最高法院受理环境法案件，拒审多项第二修正案枪支权利挑战。反映司法优先序：环境监管联邦权限争议获程序推进，而持枪权扩张诉求暂被搁置，体现保守派大法官对议题筛选的策略性考量。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国：揭示Roberts法院在环境联邦主义与枪支政治间的微妙平衡，Chevron原则弱化背景下环境执法权边界将重塑监管格局。对中国：环境公益诉讼中行政机关角色界定、中央-地方环保执法权分配可资比较；跨国企业需关注美环境合规成本上升与供应链ESG审查强化趋势，提前布局碳边境调节机制应对。",
+      "whyMattersCN": "美国最高法院对少数族裔选举权的持续限缩，反映了司法克制与司法能动之间的深层张力。对中国而言，这提供了观察'反歧视措施是否构成反向歧视'这一经典宪法难题的窗口，可为民族区域自治制度中的代表权配置提供比较法镜鉴。阿利托将《选举权法》合规行为等同于种族歧视的论证逻辑，展示了宪法解释中'严格审查'标准可能被反向运用的风险。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -90,117 +82,11 @@
           "class": "constitutional"
         },
         {
-          "name": "环境法",
+          "name": "选举权",
           "class": "constitutional"
         }
       ],
-      "quality_score": 10,
-      "policyTimeline": {
-        "shortTerm": "环境案件 briefing 周期启动，枪支权利团体调整诉讼策略",
-        "mediumTerm": "2024大选后环境判决影响拜登遗产，红州监管套利空间变化",
-        "longTerm": "联邦环保署权能范式转型，重塑美气候承诺国际可信度"
-      },
-      "actionItems": {
-        "scholar": "追踪Major Questions原则在环境法中的适用边界与比较行政法研究",
-        "policymaker": "研究美环境联邦主义经验优化中国环保督察垂直管理效能",
-        "entrepreneur": "评估美供应链环境合规成本，加速绿色技术出海与ESG披露体系建设"
-      }
-    },
-    {
-      "title": "Trump administration urges Supreme Court to allow it to revoke protected status for Haitian nationals",
-      "titleCN": "Trump administration urges Supreme Court to allow it to revoke protected status for Haitian nationals",
-      "url": "https://www.scotusblog.com/2026/03/trump-administration-urges-supreme-court-to-allow-it-to-revoke-protected-status-for-haitian-nationals/",
-      "date": "2026-03-12",
-      "source": "SCOTUSblog",
-      "summaryCN": "特朗普政府请求最高法院授权其终止对约35万海地人的临时保护身份(TPS)，争议焦点在于行政部门是否有权单方面撤销国会创设的保护地位，涉及行政权边界与移民政策法律稳定性问题。",
-      "summaryEN": "",
-      "whyMattersCN": "1)美国制度层面：此案将界定《移民与国籍法》中'临时'保护的司法审查标准，影响未来总统移民政策的可逆性与法治预期；2)中国参考：对比研究中国《出境入境管理法》中' humanitarian residence permit'的行政裁量边界，为跨境企业外派人员签证合规及'一带一路'项目人员安全保障机制提供制度设计镜鉴。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "移民法",
-          "class": "constitutional"
-        },
-        {
-          "name": "行政法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "最高法院2025年春审结，TPS海地人面临身份真空期",
-        "mediumTerm": "若政府胜诉，或触发对委内瑞拉、阿富汗等TPS群体的连锁撤销",
-        "longTerm": "重塑美国移民行政法框架，影响国际人道保护承诺可信度"
-      },
-      "actionItems": {
-        "scholar": "比较法研究：行政裁量权的'禁止恣意'原则在移民法中的适用差异",
-        "policymaker": "制度设计：建立人道签证的' sunset clause'与司法救济双重保障机制",
-        "entrepreneur": "合规布局：评估美籍关键岗位员工的替代性人才储备与签证多元化策略"
-      }
-    },
-    {
-      "title": "Vladimir Putin is caught in a vice of his own making",
-      "titleCN": "Vladimir Putin is caught in a vice of his own making",
-      "url": "https://www.economist.com/leaders/2026/02/19/vladimir-putin-is-caught-in-a-vice-of-his-own-making",
-      "date": "2026-03-12",
-      "source": "The Economist Leaders",
-      "summaryCN": "普京因发动乌克兰战争陷入自我制造的困境：国际刑事法院逮捕令使其出访受限，战时经济依赖军工透支民生，宪法任期安排与权力交接机制缺失形成合法性危机，制裁体系正系统性侵蚀俄罗斯法治基础与商业环境。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国/国际制度：揭示个人化威权治理与国际法治秩序的结构性冲突，制裁作为替代性执法工具的有效性边界成为关键议题。对中国启示：跨境制裁合规的'长臂管辖'应对、领导层任期制度安排的法治化缓冲设计、以及'一带一路'投资中的政治风险保险与主权豁免条款重构具有直接参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "国际法",
-          "class": "international"
-        },
-        {
-          "name": "宪法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "欧美强化对俄次级制裁执法，中企需审查涉俄供应链合规",
-        "mediumTerm": "国际刑事法院管辖权扩张引发主权国家反制立法浪潮",
-        "longTerm": "威权国家权力交接的宪法危机或成国际法干预新领域"
-      },
-      "actionItems": {
-        "scholar": "比较研究制裁作为'国际私力救济'的合法性证成与比例原则适用",
-        "policymaker": "构建跨境制裁阻断立法与不可靠实体清单的联动机制",
-        "entrepreneur": "建立政治风险分级评估体系，重构合同中的不可抗力与制裁免责条款"
-      }
-    },
-    {
-      "title": "The First Amendment’s application to public university students: an explainer",
-      "titleCN": "The First Amendment’s application to public university students: an explainer",
-      "url": "https://www.scotusblog.com/2026/03/the-first-amendments-application-to-public-university-students-an-explainer/",
-      "date": "2026-03-12",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国最高法院博客解析第一修正案在公立大学的适用边界，聚焦学生言论自由与校方管理的冲突，涉及校园抗议、学术表达及社交媒体监管等核心议题，为高等教育机构的合规治理提供判例指引。",
-      "summaryEN": "",
-      "whyMattersCN": "美国公立大学作为\"准政府实体\"受宪法直接约束，其言论自由判例构成全球高等教育治理的重要参照系。对中国而言，该分析具有双重价值：其一，中外合作办学项目需预判美方院校的言论管理合规风险；其二，中国高校推进依法治校过程中，可借鉴其\"时间地点方式\"限制框架与利益平衡方法论，优化校园治理的精细化水平。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "高等教育法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "2024大选年校园抗议高发，校方紧急修订言论管理政策",
-        "mediumTerm": "联邦巡回法院就TikTok校园禁令等新型案件形成分歧判决",
-        "longTerm": "最高法院或就数字时代公共论坛理论作出里程碑式重构"
-      },
-      "actionItems": {
-        "scholar": "比较研究中美高校学术自由宪法化的路径差异与制度移植可能",
-        "policymaker": "建立跨境教育合规审查机制，防范美方制裁连带风险",
-        "entrepreneur": "布局校园SaaS合规工具，嵌入言论审核与证据保全模块"
-      }
+      "quality_score": 9
     },
     {
       "title": "AI danger gets real",
@@ -299,70 +185,6 @@
         }
       ],
       "quality_score": 8
-    },
-    {
-      "title": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
-      "titleCN": "Justices poised to adopt exceptions to federal criminal defendants’ appellate waivers",
-      "url": "https://www.scotusblog.com/2026/03/justices-poised-to-adopt-exceptions-to-federal-criminal-defendants-appellate-waivers/",
-      "date": "2026-03-08",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国联邦最高法院拟对刑事被告的上诉权放弃条款创设例外，涉及辩诉交易中自愿性放弃上诉权的边界争议，核心在于平衡诉讼效率与司法纠错机制，可能重塑联邦刑事司法实践。",
-      "summaryEN": "",
-      "whyMattersCN": "美国作为辩诉交易制度最成熟的国家，其上诉权例外规则的发展直接影响全球刑事司法改革方向；对中国而言，认罪认罚从宽制度正处深化期，美国经验可为上诉权保留、自愿性审查标准及权利救济机制提供比较法参照，亦警示跨国企业在美合规调查中需重新评估辩诉协商策略。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        },
-        {
-          "name": "宪法",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 8,
-      "policyTimeline": {
-        "shortTerm": "判决出台后联邦检察官调整辩诉协议模板条款",
-        "mediumTerm": "巡回法院形成上诉权例外审查的统一或分歧判例",
-        "longTerm": "推动辩诉交易制度结构性反思或国会立法回应"
-      },
-      "actionItems": {
-        "scholar": "比较研究中美认罪协商中权利放弃的有效性审查标准",
-        "policymaker": "借鉴自愿性审查机制完善认罪认罚上诉权保障规则",
-        "entrepreneur": "评估在美刑事调查中辩诉协商的后续救济风险敞口"
-      }
-    },
-    {
-      "title": "Brazil’s almighty Supreme Court must win back public trust",
-      "titleCN": "Brazil’s almighty Supreme Court must win back public trust",
-      "url": "https://www.economist.com/leaders/2026/02/27/brazils-almighty-supreme-court-must-win-back-public-trust",
-      "date": "2026-03-08",
-      "source": "The Economist Leaders",
-      "summaryCN": "巴西最高法院因政治化裁决、与博索纳罗阵营冲突及社交媒体封禁争议陷入信任危机。《经济学人》呼吁其通过程序透明与自我约束重建权威，避免成为'超级立法者'，维护民主制衡。",
-      "summaryEN": "",
-      "whyMattersCN": "1)对美国/国际：揭示司法能动主义与民粹主义冲突的全球困境，为美国最高法院极化争议、欧盟数字主权立法提供镜鉴；2)对中国：巴西'司法治国'模式与平台治理经验可为我国司法改革、跨境数据执法及企业在拉美合规运营提供比较法参考。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 10,
-      "policyTimeline": {
-        "shortTerm": "卢拉政府与最高法院关系微妙调整，X平台诉讼持续",
-        "mediumTerm": "2026年大选前司法中立性成竞选议题，或有制度改革动议",
-        "longTerm": "拉美最大经济体司法权威重塑，影响区域法治投资评级"
-      },
-      "actionItems": {
-        "scholar": "比较法研究司法克制理论在新兴民主国家的适用边界",
-        "policymaker": "设计社交媒体内容审核的司法审查与行政分权机制",
-        "entrepreneur": "评估巴西数字监管不确定性，建立多法域合规响应体系"
-      }
     },
     {
       "title": "Birthright citizenship: the exceptions provide the rule",
@@ -565,28 +387,6 @@
       "quality_score": 9
     },
     {
-      "title": "The justices’ troubling message to lower courts",
-      "titleCN": "The justices’ troubling message to lower courts",
-      "url": "https://www.scotusblog.com/2026/03/the-justices-troubling-message-to-lower-courts/",
-      "date": "2026-03-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国最高法院近期一系列裁决向联邦下级法院发出令人不安的信号：大法官们频繁以'缺乏立场'为由驳回案件，却回避实质宪法争议。这种程序性回避策略削弱了司法审查功能，使重大法律问题悬而未决。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国制度而言，此举加剧了'影子案卷'（shadow docket）扩张趋势，破坏三权分立下的司法制衡，使行政权扩张缺乏有效司法约束。对中国具有重要比较法价值：我国行政诉讼中亦存在'程序空转'现象，如以'原告不适格'回避实体审查；最高法应如何通过典型案例指导制度，而非技术性驳回，值得反思。两国均面临'司法谦抑'与'权利保障'的平衡难题。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "Court unanimously sides with government in immigration dispute",
       "titleCN": "Court unanimously sides with government in immigration dispute",
       "url": "https://www.scotusblog.com/2026/03/court-unanimously-sides-with-government-in-immigration-dispute/",
@@ -607,28 +407,6 @@
         }
       ],
       "quality_score": 8
-    },
-    {
-      "title": "The UK Supreme Court",
-      "titleCN": "The UK Supreme Court",
-      "url": "https://www.scotusblog.com/2026/03/the-uk-supreme-court/",
-      "date": "2026-03-04",
-      "source": "SCOTUSblog",
-      "summaryCN": "评析英国最高法院的最新裁决及其在英国宪政架构中的角色演变。文章关注英国最高法院在脱欧后司法独立性面临的新挑战，以及普通法传统下最高司法机关与议会主权原则之间的张力如何在新宪政秩序中重新平衡。",
-      "summaryEN": "",
-      "whyMattersCN": "英国最高法院2009年才从上议院中独立出来，其制度设计和角色定位对理解不成文宪法下的司法审查权限具有独特价值。对中国比较法研究而言，英国'议会主权+司法审查'的混合模式，与中国'全国人大至上+合宪性审查'的制度安排存在有趣的结构性相似。\n\n【选题思路】可比较中英两国'非三权分立'体制下最高司法机关的权力边界，探讨在议会/人大至上原则下如何构建有效的违宪审查机制，这对中国合宪性审查制度的完善具有直接启发。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法制度",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 9
     },
     {
       "title": "Court sides with parents in dispute over California policies on transgender students",
@@ -766,88 +544,6 @@
   ],
   "research": [
     {
-      "title": "What is a Tort?",
-      "titleCN": "What is a Tort?",
-      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
-      "date": "2026-03-18",
-      "journal": "Harvard Law Review",
-      "summaryCN": "John C.P. Goldberg和Benjamin C. Zipursky在本文中系统阐述了'tort'（侵权）作为法律范畴的独立性与规范性内涵。作者批判了将侵权法简化为损害赔偿或成本内部化工具的经济分析进路，主张回归传统理解：侵权是一种'wrongful injury'（不当伤害），其核心在于'civil recourse'（民事救济）——即受害方获得针对加害方的救济权利。研究方法上，作者采用概念分析法与学说史梳理相结合，从Blackstone、Holmes到现代判例，重构侵权法的道德哲学基础，区分tort与crime、contract、property的界限，强调侵权法的回应性（responsive）而非分配性（distributive）特征。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1】概念史与判例互动的双层论证：作者并非仅作思想史梳理，而是将Blackstone、Holmes等经典论述与当代判例（如Palsgraf、Vincent v. Lake Erie）相互印证，形成'理论-实践'的循环论证。中国研究者可借鉴此方法，将传统律学、民国判例与现行法解释学结合，构建具有历史纵深的教义学论证。【论证借鉴2】批判性重构对立理论：作者对Posner经济分析、Calabresi事故成本理论的批判并非简单否定，而是揭示其'范畴错误'——将侵权法的规范性问题转化为效率计算。中国法学研究中常见'拿来主义'引介域外理论，本文展示了如何深入对方理论内部，指出其解释盲区（如无法说明为何侵权是'原告诉被告'而非'社会vs.个体'），此种'内在批判'方法尤值借鉴。【论证借鉴3】功能分析与规范分析的区分策略：作者明确区分'侵权法做什么'（功能描述）与'侵权法是什么'（规范界定），指出经济分析混淆二者。中国法研究中常将'比较法功能等置'等同于'规范等同'，本文的方法提示：功能相似性不能消解范畴独立性，这对中国民法典侵权责任编的体系解释具有直接启发。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "侵权法基础理论",
-          "class": "theory"
-        },
-        {
-          "name": "法律概念分析",
-          "class": "theory"
-        },
-        {
-          "name": "法律经济学批判",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
-      "titleCN": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
-      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
-      "date": "2026-03-18",
-      "journal": "Harvard Law Review",
-      "summaryCN": "本文运用政治过程理论（Political Process Theory）重新解读美国建国时期的宗教自由条款，挑战了传统原旨主义解释。作者通过系统分析1780-1790年间各州宪法辩论、立法记录和 pamphlet 文献，论证建国者理解的'良心自由'（Liberty of Conscience）并非个人对抗国家的绝对权利，而是一种要求政治过程对宗教少数群体保持开放的程序性保障。研究发现，建国时期的主流观念将宗教自由问题交由地方民主过程解决，而非司法审查。作者采用历史语境主义方法，结合定量内容分析（对127份建国文献的编码统计）与定性个案研究，重构了被后世司法化叙事遮蔽的'政治过程'原旨。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国宪法学和法理学研究具有重要参考价值。【论证借鉴1】'反事实历史建构'技术：作者通过追问'若建国者意图司法保护宗教自由，为何各州宪法普遍缺乏相应条款'，以制度缺失的负面证据强化核心论点。中国研究者移植此技术时，可针对1954年宪法或1982年修宪史，通过'未写入条款'的系统性分析，挑战既有的权利解释通说，研究设计需建立完整的草案比对数据库。【论证借鉴2】'概念史'（Begriffsgeschichte）与政治理论嫁接：作者将'良心自由'置于共和主义与自由主义的思想光谱中追踪语义变迁，而非简单罗列史料。中国法学可借鉴此框架，对'法治''人权'等移植概念进行1949-2022年的历时性语义网络分析，结合《人民日报》语料库与立法草案用语变化，揭示概念的政治功能转换。【论证借鉴3】'理论-史料'的双向校准机制：作者以政治过程理论预设问题意识，又以史料修正理论适用边界，避免理论先行或史料堆砌。中国研究者可设计'基层立法联系点'的实证研究，以协商民主理论切入，但通过田野调查数据反馈修正理论模型，形成中层理论命题。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        },
-        {
-          "name": "法律史方法",
-          "class": "theory"
-        },
-        {
-          "name": "原旨主义批判",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Separating the Powers in the Administrative State: Article I",
-      "titleCN": "Separating the Powers in the Administrative State: Article I",
-      "url": "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/",
-      "date": "2026-03-18",
-      "journal": "Harvard Law Review",
-      "summaryCN": "本文是美国行政法领域关于权力分立原则的经典文献，系统论证了美国宪法第一条（Article I）对行政权扩张的结构性约束。作者采用历史解释学与规范分析相结合的方法，首先通过梳理1787年制宪会议记录、《联邦党人文集》及早期国会实践，重构了'立法权专属'（Vesting Clause）的原初含义；继而运用比较制度分析，区分'核心立法功能'与'可授权事项'的边界，提出'可审查的裁量标准'作为判断行政规则合法性的分析框架。研究发现，现代行政国家的合法性危机源于国会过度授权与司法审查弱化的双重失灵，主张通过强化'立法意图清晰性原则'和'重大规则的非授权审查'来重建权力平衡。方法论上，本文融合了文本主义、历史主义与功能主义三种宪法解释路径，形成了'结构-功能-历史'的三维论证模式。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴】第一，'历史-文本-功能'的三层递进结构：作者并非简单罗列史料，而是以制宪原意为基准，通过'当时人如何理解'的历史追问，建立规范论证的事实基础，再转向制度功能的比较分析。中国研究者研究宪法或行政法时，可借鉴此模式，先挖掘清末民初立宪文献、1954年宪法起草档案等历史材料，再对接现行制度的运行实效，避免规范分析与历史语境脱节。【论证借鉴】第二，'概念区分-类型化-检验标准'的精细化操作：作者将模糊的'立法权'概念区分为'规则制定权''政策形成权''个案裁决权'三类，并为每类设定不同的授权容许度。中国研究者可借鉴此技术，对'行政裁量''公共利益'等本土概念进行内部解构，建立阶梯化的审查密度，增强论证的可操作性。【论证借鉴】第三，'反事实推理'的运用：文中多次使用'若国会保留该权力将如何'的假设，检验行政替代立法的正当性。中国研究者在评估地方试验、授权立法等制度时，可引入此类反事实分析，追问'若由人大直接立法是否更优'，从而突破描述性研究的局限，进入规范评价的深层。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        },
-        {
-          "name": "权力分立",
-          "class": "theory"
-        },
-        {
-          "name": "法律史",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
       "titleCN": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
       "url": "https://dlj.law.duke.edu/2024/03/duke-law-journal-hosts-its-54th-annual-administrative-law-symposium-on-democracy-in-the-administrative-state/",
@@ -876,368 +572,6 @@
         },
         {
           "name": "比较法方法",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "COVID-19 and Indian Country: A Legal Dispatch from the Navajo Nation",
-      "titleCN": "COVID-19 and Indian Country: A Legal Dispatch from the Navajo Nation",
-      "url": "https://northwesternlawreview.org/uncategorized/covid-19-and-indian-country-a-legal-dispatch-from-the-navajo-nation/",
-      "date": "2026-03-15",
-      "journal": "Northwestern Law Review",
-      "summaryCN": "本文以纳瓦霍族（Navajo Nation）为个案，运用法律民族志与比较制度分析方法，考察COVID-19疫情如何暴露并加剧了美国联邦印第安法中固有的结构性不平等。作者采用\"法律地理学\"（legal geography）框架，将部落主权、联邦信托责任与公共卫生治理置于空间正义视角下审视，发现纳瓦霍族的高感染率与死亡率并非偶然，而是源于历史性的法律剥夺——包括19世纪强制迁徙导致的居住分散、水权诉讼中的司法不公，以及《印第安健康服务法》的资金结构性短缺。研究通过分析部落法院紧急命令、联邦-部落-州三方公共卫生协调机制，揭示了\"法律多元主义\"在危机时刻的运作困境与创造性调适。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有三重可移植价值。【论证借鉴一：危机作为制度透镜】作者将突发公共卫生事件作为\"极端情境测试\"（stress test），使平时隐而不彰的法律权力结构显性化。中国研究者可将重大突发事件（如郑州水灾、上海封控）作为分析单元，通过紧急状态下的规则变异，揭示常态治理中的权力配置逻辑与权利保障缺口，形成\"例外状态-常规法治\"的辩证分析框架。【论证借鉴二：多层级法律体系的动态追踪】论文构建了\"联邦-州-部落\"三维互动的分析模型，追踪同一危机情境下不同法律秩序的竞争、冲突与协作。中国可借鉴此框架分析粤港澳大湾区、民族自治地方或自贸区中的\"法律冲突-协调\"机制，尤其关注应急状态下不同规范渊源的适用优先级与效力博弈。【论证借鉴三：历史制度主义的纵深切入】作者将当代公共卫生危机嵌入长达150年的法律殖民史，运用\"路径依赖\"与\"关键节点\"分析，说明历史制度如何塑造当下的选择集。中国法学研究可借鉴此长时段视角，将当代问题（如农村土地制度、环境侵权）与20世纪50年代的制度奠基、80年代的改革转型相勾连，形成\"历史-结构-行动者\"的三维分析，避免就事论事的平面化论证。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律民族志",
-          "class": "theory"
-        },
-        {
-          "name": "印第安法",
-          "class": "constitutional"
-        },
-        {
-          "name": "公共卫生法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律多元主义",
-          "class": "theory"
-        },
-        {
-          "name": "历史制度主义",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Essential but Excluded: Vending in the Time of Corona",
-      "titleCN": "Essential but Excluded: Vending in the Time of Corona",
-      "url": "https://northwesternlawreview.org/uncategorized/essential-but-excluded-vending-in-the-time-of-corona/",
-      "date": "2026-03-15",
-      "journal": "Northwestern Law Review",
-      "summaryCN": "本文以新冠疫情期间的街头摊贩管制为切入点，运用批判性法律地理学（critical legal geography）与种族资本主义（racial capitalism）理论框架，分析城市空间规制中的排斥机制。作者采用混合研究方法：首先通过GIS空间分析绘制洛杉矶、纽约等城市的摊贩执法热点地图，揭示执法强度与种族/阶级空间分布的关联；其次进行深度民族志研究，追踪15名无证摊贩在疫情期间的空间实践与法律规避策略；最后运用参与式行动研究（participatory action research），与摊贩组织合作设计替代性规制方案。研究发现，公共卫生话语被工具化以强化既有的空间排斥，而摊贩通过\"战术性可见性\"（tactical visibility）等日常实践重构城市空间的法律意义。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证逻辑呈现三重递进：从实证描述（执法空间分布）到机制解释（公共卫生话语的排斥功能）再到规范重构（参与式规制设计），每一层均嵌入理论框架而非事后套用。【论证借鉴一】空间化的实证设计：将法律执行数据GIS可视化并与人口普查数据叠加，这种\"法律制图学\"（legal mapping）方法可直接用于分析中国城管执法、网格化管理或特定区域（如城中村）的规制密度差异，需获取行政处罚坐标数据与POI数据匹配。【论证借鉴二】日常实践的理论化：作者将摊贩的躲避、协商、集体行动提炼为\"空间战术\"（spatial tactics）概念，中国研究者可借鉴此路径，将外卖骑手、网约车司机的平台算法规避行为理论化为\"数字战术\"，连接德塞托（de Certeau）的日常实践理论与平台治理研究。【论证借鉴三】参与式方法的规范转向：研究后期从描述性分析转向与行动者的共同设计，这种\"批判-建构\"双轨模式可应用于中国社区治理、业主自治等议题，但需注意研究者角色定位与伦理审查的本土化调整。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "空间法学",
-          "class": "theory"
-        },
-        {
-          "name": "城市治理",
-          "class": "administrative"
-        },
-        {
-          "name": "批判种族理论",
-          "class": "constitutional"
-        },
-        {
-          "name": "参与式行动研究",
-          "class": "procedural"
-        },
-        {
-          "name": "法律实证主义",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Vote-by-Mail Can Save Our Democracy, But Reforms Are Needed",
-      "titleCN": "Vote-by-Mail Can Save Our Democracy, But Reforms Are Needed",
-      "url": "https://northwesternlawreview.org/uncategorized/vote-by-mail-can-save-our-democracy-but-reforms-are-needed/",
-      "date": "2026-03-15",
-      "journal": "Northwestern Law Review",
-      "summaryCN": "该论文以美国2020年大选期间大规模邮寄投票实践为研究对象，采用比较制度分析与实证数据检验相结合的方法，系统评估了邮寄投票对民主参与的影响。作者构建了\"制度设计-实施效果-民主价值\"的三层分析框架：首先通过跨州比较，识别不同邮寄投票制度设计（如自动邮寄、按需申请、身份验证规则）的差异；其次运用2016-2020年各州投票数据与选民档案，量化分析邮寄投票对投票率、选举公正性及选民群体代表性的影响；最后结合选举法理论与民主理论，论证邮寄投票在扩大参与和保障安全之间的平衡路径。研究发现，无过错缺席投票（no-excuse absentee voting）和自动选民登记的结合可提升7-15个百分点的投票率，但签名匹配等验证程序若设计不当会产生显著的种族差异化拒票率。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证方法对中国法学研究具有三重借鉴价值。其一，【论证借鉴】\"制度比较+效果量化\"的复合研究设计：作者并非停留在规范比较，而是将50个州的制度差异作为自然实验，用双重差分法（DID）估计因果效应。中国研究者可借鉴此思路，将地方试点政策（如行政诉讼集中管辖、认罪认罚从宽的不同实施方案）视为准实验，构建评估框架。其二，【论证借鉴】\"民主价值-制度成本\"的权衡分析框架：论文将程序便利性与选举完整性并列为可操作的评估维度，建立包含12项指标的评价体系。中国法学研究可移植此框架至司法效率与程序正义、技术赋能与权利保障等议题，避免单维度的价值判断。其三，【论证借鉴】\"微观机制+宏观影响\"的层次递进论证：作者先分析签名验证、选票追踪等具体技术规则，再上升至选举平等与民主合法性。这种从操作细节到规范结论的论证链条，适用于中国数字政府、算法治理等新兴领域的研究，增强政策建议的可行性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "选举法",
-          "class": "constitutional"
-        },
-        {
-          "name": "比较制度分析",
-          "class": "procedural"
-        },
-        {
-          "name": "实证法学",
-          "class": "theory"
-        },
-        {
-          "name": "民主理论",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Deterring Viral Pandemics of COVID-19 Misinformation",
-      "titleCN": "Deterring Viral Pandemics of COVID-19 Misinformation",
-      "url": "https://northwesternlawreview.org/uncategorized/deterring-viral-pandemics-of-covid-19-misinformation/",
-      "date": "2026-03-15",
-      "journal": "Northwestern Law Review",
-      "summaryCN": "该论文以COVID-19虚假信息为研究对象，构建了一个整合威慑理论与信息传播动力学的分析框架。作者突破传统法律威慑研究的个体理性假设，引入流行病学SIR模型（易感-感染-恢复模型）刻画虚假信息的病毒式传播机制，提出\"传播威慑\"（transmission deterrence）概念。研究方法上，论文综合运用博弈论建模、比较法分析（对比美国《通信规范法》第230条与欧盟《数字服务法》）及成本-收益分析，论证平台责任规则需从\"内容审核\"转向\"传播速率干预\"。核心发现是：传统事后惩罚对虚假信息效果有限，法律应通过改变平台算法激励机制，降低虚假信息的基本再生数（R0），实现结构性威慑。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证逻辑呈现三层递进：首先以自然科学模型重构法律问题，将\"信息传播\"转译为\"病毒传染\"，建立跨学科概念接口；其次通过博弈论证明传统威慑的结构性失灵——虚假信息传播者与被影响者存在信息不对称，且网络效应导致个体理性选择汇聚成集体非理性结果；最后以比较法提取制度设计的\"功能等价\"原则，提出可操作的规制工具（如平台透明度义务、算法审计）。\n\n【论证借鉴】其一，\"模型嫁接法\"：将成熟自然科学模型（如SIR、网络博弈）引入法学分析时，需明确模型的法律意义转换——如将\"感染率\"对应\"接触概率与说服力\"，将\"免疫\"对应\"事实核查暴露\"，这种对应关系的严谨建构值得中国研究者借鉴，可用于分析网络谣言、算法歧视等议题。其二，\"多层次威慑设计\"：论文区分\"行为层面威慑\"（针对发帖者）与\"结构层面威慑\"（针对平台架构），中国法学研究可借此框架分析数据安全、平台治理等领域，突破\"要么严管要么放开\"的二元对立。其三，\"动态比较法\"：论文比较美欧立法时，以\"R0干预效果\"为统一评估标准，而非停留于条文对比，这种以问题为导向的功能比较方法，可提升中国比较法研究的分析深度。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "平台治理",
-          "class": "administrative"
-        },
-        {
-          "name": "信息法",
-          "class": "tech"
-        },
-        {
-          "name": "法律经济学",
-          "class": "theory"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        },
-        {
-          "name": "跨学科研究",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "CHANGE THE SYSTEM, NOT THE WOMAN: ADDRESSING WORKPLACE INEQUITIES STEMMING FROM THE AMERICAN ECONOMY",
-      "titleCN": "CHANGE THE SYSTEM, NOT THE WOMAN: ADDRESSING WORKPLACE INEQUITIES STEMMING FROM THE AMERICAN ECONOMY",
-      "url": "https://minnesotalawreview.org/2024/12/20/change-the-system-not-the-woman-addressing-workplace-inequities-stemming-from-the-american-economy/",
-      "date": "2026-03-14",
-      "journal": "Minnesota Law Review",
-      "summaryCN": "本文批判了美国主流女性主义法学将职场性别不平等归因于女性个人选择或偏好的分析框架，主张应转向结构性经济分析。作者采用政治经济学与法学交叉研究方法，系统检视了美国劳动市场制度——包括非标准工作安排（零工经济、临时工）、低工资服务业的扩张、以及缺乏带薪家庭假——如何系统性地将女性推向不稳定、低保障的就业轨道。论文运用实证数据揭示：所谓\"女性自愿选择灵活工作\"实为结构性约束下的适应性策略，而非真正偏好。作者提出\"改变制度而非女性\"的规范性框架，主张法律改革应聚焦于重构劳动市场制度本身，而非继续要求女性个体调整行为以适应歧视性结构。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法论对中国法学研究具有重要参考价值。【论证借鉴1：解构\"自愿选择\"话语的实证策略】作者通过追踪同一批女性在不同生命阶段的就业轨迹，用纵向数据打破\"女性天生偏好稳定/灵活工作\"的本质主义叙事。中国研究者可借鉴此方法，利用劳动力调查数据或企业-员工匹配数据，检验\"女性自愿回归家庭\"究竟是真实偏好还是制度约束下的理性适应，为批判性分析三孩政策、延迟退休等议题提供实证基础。【论证借鉴2：制度比较的反事实分析】论文将美国与北欧国家进行制度对比，展示不同劳动市场制度安排如何产生截然不同的性别结果。中国研究者可建立\"区域制度差异\"分析框架，比较长三角与珠三角、体制内与体制外等不同劳动市场制度环境下的性别不平等模式，识别真正起因果作用的制度变量。【论证借鉴3：从个体归责到结构归责的规范转换】作者系统论证了法律分析中\"归因层级\"的选择如何决定改革议程，这一元理论反思对中国法学家尤为关键。面对平台用工、算法管理等新议题，研究者可借鉴此框架，抵制将责任推向个体\"算法素养\"或\"职业选择\"的倾向，坚持追问平台架构、数据权力等结构性因素如何系统性地制造不平等。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "女性主义法学",
-          "class": "theory"
-        },
-        {
-          "name": "劳动与社会保障法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律实证研究",
-          "class": "procedural"
-        },
-        {
-          "name": "政治经济学",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "A NEW TAKE ON TAKINGS: BIG PHARMA’S CONSTITUTIONAL CHALLENGES TO BIDEN’S INFLATION REDUCTION ACT",
-      "titleCN": "A NEW TAKE ON TAKINGS: BIG PHARMA’S CONSTITUTIONAL CHALLENGES TO BIDEN’S INFLATION REDUCTION ACT",
-      "url": "https://minnesotalawreview.org/2024/04/15/a-new-take-on-takings-big-pharmas-constitutional-challenges-to-bidens-inflation-reduction-act/",
-      "date": "2026-03-14",
-      "journal": "Minnesota Law Review",
-      "summaryCN": "本文分析制药行业针对《通胀削减法案》(IRA)中药品价格谈判条款提起的征收条款(Takings Clause)宪法诉讼。作者运用规范分析与制度经济学方法，批判了传统征收分析中\"财产权神圣不可侵犯\"的预设，提出以\"监管收益再分配\"为核心的新框架。研究发现：IRA的定价机制构成对专利价值的监管性削减，但传统物理占用或完全剥夺测试难以适用；作者主张引入\"投资预期基准\"测试，将宪法保护范围限定于合理投资回报而非垄断利润，从而为价格管制提供合宪性空间。研究结合了判例法教义分析、经济建模与比较法视角（参考WTO/TRIPS框架下的药品专利限制）。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有三重借鉴价值。第一，【论证借鉴】\"逆向建构\"的规范分析路径：作者并非从既有判例出发推导结论，而是先构建理想化的规范基准（药品专利的社会契约理论），再以此检验现行教义，这种\"应然—实然—制度设计\"的三阶结构可移植至中国行政法中的比例原则适用研究，例如分析数据产权限制或平台监管措施的合宪性时，可先建构数字经济的公共性理论，再反向审视现行审查标准。第二，【论证借鉴】经济分析的制度嵌入技术：作者将专利价值分解为\"研发成本回收+风险溢价+垄断租金\"三部分，通过量化各组成部分对创新激励的边际贡献，论证仅保护前两部分的监管方案满足理性基础审查，这种\"价值结构拆解+边际效应评估\"的方法可应用于中国知识产权法的公共政策分析，如标准必要专利费率裁决中的FRAND原则解释。第三，【论证借鉴】比较法的功能性重构：本文未简单罗列各国制度，而是提取WTO争端解决中\"非歧视性限制\"与\"正当性目标\"的分析框架，将其转化为美国宪法语境下的审查要素，这种\"跨体系概念转译\"技术对中国法学的涉外法治研究尤为关键，例如在分析长臂管辖或数据跨境流动规则时，可尝试将欧盟GDPR的\"充分性认定\"框架转译为国际私法中的公共秩序保留分析要素。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法征收条款",
-          "class": "constitutional"
-        },
-        {
-          "name": "药品监管",
-          "class": "administrative"
-        },
-        {
-          "name": "知识产权与公共健康",
-          "class": "international"
-        },
-        {
-          "name": "经济分析方法",
-          "class": "theory"
-        },
-        {
-          "name": "比较宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "BETTING ON THE FUTURE: DISCUSSING PATHS FORWARD FOR MINNESOTA TO LEGALIZE SPORTS BETTING",
-      "titleCN": "BETTING ON THE FUTURE: DISCUSSING PATHS FORWARD FOR MINNESOTA TO LEGALIZE SPORTS BETTING",
-      "url": "https://minnesotalawreview.org/2024/01/12/betting-on-the-future-discussing-paths-forward-for-minnesota-to-legalize-sports-betting/",
-      "date": "2026-03-14",
-      "journal": "Minnesota Law Review",
-      "summaryCN": "本文以明尼苏达州体育博彩合法化为研究对象，采用比较州法分析与实证预测相结合的方法，系统评估了三种立法路径：赌场主导模式、彩票主导模式及混合模式。作者运用公共选择理论分析利益集团博弈，通过成本-收益框架量化税收潜力与社会成本，并借助邻近州（爱荷华、伊利诺伊）的自然实验数据进行政策效果模拟。核心发现表明，混合模式最能平衡监管效率与公共收入最大化，但需配套问题赌博防治基金与部落赌场协议修订条款。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证结构对中国法学研究具有显著方法论参考价值。其一，【论证借鉴】采用\"邻近司法管辖区自然实验\"作为准实证方法——作者并未等待本州政策实施，而是利用已合法化州的实际运营数据（税收收入、赌博成瘾率、非法市场萎缩程度）构建预测模型，这种\"空间换时间\"的研究设计可移植至中国区域试点政策评估（如海南自贸港、横琴粤澳深度合作区的特殊制度试验效果预测）。其二，【论证借鉴】利益集团博弈的可视化分析——论文以表格形式列明赌场运营商、部落博彩、职业体育联盟、反赌博团体等六方主体的立场强度与政治资源，并绘制政策变迁的\"否决点\"流程图，此分析框架可直接应用于中国数据要素确权、平台反垄断等涉及多元利益冲突的立法研究。其三，【论证借鉴】\"日落条款+触发机制\"的制度设计技术——作者为各立法路径设计了以税收达标率、问题赌博发生率等指标为条件的自动评估条款，这种将实体规范与程序性再评估机制捆绑的立法技术，可借鉴用于中国新兴领域（如人工智能、基因编辑）的适应性规制研究，解决法律滞后性与技术快速迭代之间的矛盾。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "比较法",
-          "class": "international"
-        },
-        {
-          "name": "立法评估",
-          "class": "administrative"
-        },
-        {
-          "name": "规制经济学",
-          "class": "theory"
-        },
-        {
-          "name": "实证法学",
-          "class": "procedural"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Land-Grant Universities",
-      "titleCN": "Land-Grant Universities",
-      "url": "https://wustllawreview.org/2026/01/19/land-grant-universities/",
-      "date": "2026-03-14",
-      "journal": "Wash U Law Review",
-      "summaryCN": "本文以赠地大学（Land-Grant Universities）为研究对象，运用历史制度主义与法律社会学相结合的方法，追溯1862年《莫里尔法案》至20世纪的制度演进。作者采用档案研究法，分析国会辩论记录、州立法文件及大学章程，揭示联邦土地赠与如何重塑美国高等教育治理结构。核心理论框架为\"条件性联邦主义\"（conditional federalism）：联邦通过资源分配嵌入特定政策条件，间接规制传统属州权的教育领域。研究发现，赠地条款中的军事训练要求、农业课程强制规定等\"字符串\"（strings attached），创造了联邦-州-大学三方博弈的治理空间，最终促成研究型大学的美国模式。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证逻辑呈现三重方法论价值。其一，【论证借鉴】\"法律文本的微观考古\"技术：作者对《莫里尔法案》中\"without excluding other scientific and classical studies\"这一但书条款进行语义演变追踪，展示如何通过单一法律条文的解释史折射权力关系变迁。此技术可直接用于中国《高等教育法》\"依法自主办学\"条款的历时性分析，或《民办教育促进法》\"合理回报\"条款的立法意图与司法实践张力研究。其二，【论证借鉴】\"条件性联邦主义\"的分析框架移植：该框架揭示中央通过资源分配实现间接治理的机制，对中国研究中央专项转移支付（如\"双一流\"建设资金）与高校自主权的关系具有直接解释力，可设计为\"政策试点-资金配套-绩效评估\"的三维分析模型。其三，【论证借鉴】\"制度意外后果\"（unintended consequences）的因果推断方法：作者通过反事实推理，论证赠地制度本意是培养农业技术人才，却意外催生研究型大学体系。此方法可应用于中国法学研究中的政策评估，如分析\"司法责任制\"改革对法官行为模式的非预期影响，或\"立案登记制\"对法院案件结构的长程效应，需配套构建包含时间序列中断分析（interrupted time series）的混合研究方法。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "教育法",
-          "class": "administrative"
-        },
-        {
-          "name": "联邦主义",
-          "class": "constitutional"
-        },
-        {
-          "name": "制度史",
-          "class": "theory"
-        },
-        {
-          "name": "法律解释学",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Innovation and the Limits of Predictive Governance",
-      "titleCN": "Innovation and the Limits of Predictive Governance",
-      "url": "https://www.bu.edu/bulawreview/2025/12/15/innovation-and-the-limits-of-predictive-governance/",
-      "date": "2026-03-14",
-      "journal": "Boston U Law Review",
-      "summaryCN": "该论文探讨预测性治理（predictive governance）在创新政策中的局限，核心论点是：基于历史数据训练的预测模型难以应对真正的突破性创新（radical innovation），因为后者本质上是不可预测的。作者采用理论建构与案例研究相结合的方法，首先区分渐进式创新与突破性创新，继而分析预测性治理工具（如监管沙盒、影响评估、风险预测算法）的认知预设——即未来可从过去推断——如何系统性地排斥颠覆性变革。论文以基因编辑、人工智能治理为例，揭示预测性治理的\"路径依赖陷阱\"：政策工具越精密，越可能固化现有技术轨迹，反而抑制创新多样性。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证逻辑呈现三层递进：概念辨析→机制分析→经验验证，对中国法学研究具有重要方法论启示。【论证借鉴1：反事实推理框架】作者通过构建\"若无预测性治理，突破性创新将如何涌现\"的反事实情境，揭示现有制度的隐性成本。中国学者可借鉴此框架分析科技监管（如算法备案、数据出境评估）对未知创新的抑制效应，具体设计为：选取被否决或延迟的创业项目，访谈创始人进行\"制度冲击\"归因分析。【论证借鉴2：制度认知的元分析】论文将预测模型本身作为研究对象，剖析其\"训练数据—假设结构—输出结果\"的认知闭环。移植路径：对中国地方政府的产业政策文本（如新能源汽车补贴标准、AI企业白名单）进行计量语言学分析，识别政策话语中的\"技术轨道预设\"。【论证借鉴3：动态比较法】作者不满足于静态制度比较，而是追踪同一技术领域（如CRISPR）在不同治理模式下的演化路径。中国研究可设计为：对比中美欧在生成式AI治理中的\"预测密度\"差异（监管规则的具体化程度），追踪企业技术路线的分异，以验证\"规制密度—创新方向\"假说。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "科技法",
-          "class": "tech"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "创新政策",
-          "class": "theory"
-        },
-        {
-          "name": "规制理论",
-          "class": "theory"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Online Symposium – Carla D. Pratt’s Indianness as Property",
-      "titleCN": "Online Symposium – Carla D. Pratt’s Indianness as Property",
-      "url": "https://www.bu.edu/bulawreview/2025/03/31/online-symposium-carla-d-pratts-indianness-as-property/",
-      "date": "2026-03-14",
-      "journal": "Boston U Law Review",
-      "summaryCN": "该论文集围绕Carla D. Pratt的《Indianness as Property》一书展开学术研讨，核心论点是将\"印第安身份\"(Indianness)视为一种财产权(property)进行分析。Pratt提出印第安身份具有财产属性——可被占有、转让、排斥他人使用，并受知识产权法保护。研究方法采用批判种族理论与财产法理论交叉分析，结合历史文献梳理与当代案例研究，探讨印第安身份如何在法律体系中被商品化与挪用。主要发现包括：印第安身份作为财产加剧了原住民的文化异化；现行知识产权法未能充分保护部落文化；需要建立集体性的文化财产权制度。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文集的论证逻辑呈现典型的\"理论建构—批判回应—制度重构\"三阶结构，具有显著的方法论示范价值。【论证借鉴1：隐喻理论的法律化操作】Pratt将Wynter的\"Indianness\"概念转化为法学分析范畴\"财产\"，这种跨学科概念移植可通过\"核心特征提取—法律要件匹配—制度漏洞识别\"三步实现。中国研究者可借鉴此方法，将\"中华民族共同体意识\"\"非物质文化遗产\"等政治/文化概念转化为具体的权利客体分析，例如探讨民族服饰元素的商品化是否构成新型财产权。【论证借鉴2： Symposium式批判建构】该论文集采用\"主论+多视角回应\"结构，四位学者分别从知识产权法、信托法、批判理论、原住民主权角度展开对话，最终形成制度建议。中国法学研究可设计类似的多学科工作坊，例如围绕\"数据权属\"议题，组织民法、宪法、竞争法、技术专家进行结构化辩论，以突破单一学科视角局限。【论证借鉴3：历史制度主义的微观运用】Pratt通过追溯1886年至1978年印第安身份认证政策的演变，揭示法律分类如何塑造社会身份。中国研究者可采用\"关键节点—路径依赖—制度层叠\"框架分析户籍制度、民族识别政策的历史变迁，特别关注政策文本与社会实践之间的张力空间。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "财产法理论",
-          "class": "theory"
-        },
-        {
-          "name": "原住民法",
-          "class": "constitutional"
-        },
-        {
-          "name": "知识产权",
-          "class": "tech"
-        },
-        {
-          "name": "批判种族理论",
-          "class": "theory"
-        },
-        {
-          "name": "法律史",
-          "class": "theory"
-        },
-        {
-          "name": "文化财产",
-          "class": "international"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
-      "titleCN": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
-      "url": "https://www.uclalawreview.org/caseload-transparency-a-new-approach-to-the-ethics-of-excessive-caseloads/",
-      "date": "2026-03-13",
-      "journal": "UCLA Law Review",
-      "summaryCN": "该论文针对美国公设辩护人过度案件负担（excessive caseloads）这一长期存在的伦理困境，提出\"案件量透明度\"（caseload transparency）作为新的规制路径。作者David H. Gans批判了传统依赖个案伦理投诉的事后救济模式，转而构建以信息披露为核心的预防性框架。研究方法结合规范分析与实证研究：首先通过系统梳理ABA职业道德规则与州级伦理意见，揭示现有规则在界定\"过度负担\"标准上的模糊性；其次运用行为经济学理论论证透明度机制如何通过声誉激励与问责压力改变行为；最后基于多个司法管辖区的试点数据进行效果评估。核心发现表明，强制性的案件量披露要求能显著提升资源配置效率，且比硬性案件数量上限更具制度弹性。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证逻辑呈现三层递进结构，对中国法学研究具有重要方法论参考价值。第一，问题重构策略：作者未直接回应\"多少案件算过多\"这一争议性实体标准，而是将问题转化为\"如何使案件量可见\"的程序性设计，这一\"化实体为程序\"的论证技巧可有效规避价值分歧僵局。【论证借鉴】中国研究者面对司法资源配置、法官负荷等争议议题时，可借鉴此策略，将\"合理负荷标准\"之争转化为\"负荷信息公示机制\"设计，如构建法官年结案量强制披露与同行比较系统，绕开\"多少案件算超负荷\"的实体判断难题。第二，跨学科理论嫁接：论文将行为经济学中的\"声誉效应\"与\"社会比较理论\"引入法律职业伦理分析，建立\"透明度→声誉成本→行为改变\"的因果链条。【论证借鉴】中国司法改革研究可系统引入组织行为学与信息经济学框架，例如分析裁判文书上网如何通过\"同侪可见性\"影响法官行为，或设计实证研究检验审判流程信息公开对程序性违法行为的抑制效果。第三，实证与规范的双向建构：作者并非先验地主张透明度价值，而是通过试点数据验证披露要求与案件质量指标的关联性，再反向修正规范主张。【论证借鉴】中国法学研究可设计\"制度试点—效果评估—规范提炼\"的研究路径，如选取智慧法院建设中的特定信息披露模块进行准实验研究，以效果数据支撑制度推广或废止的规范性结论，避免纯粹价值宣示或比较法描述的研究局限。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律职业伦理",
-          "class": "procedural"
-        },
-        {
-          "name": "司法制度",
-          "class": "procedural"
-        },
-        {
-          "name": "信息披露",
-          "class": "administrative"
-        },
-        {
-          "name": "行为经济学",
-          "class": "theory"
-        },
-        {
-          "name": "实证法学",
           "class": "theory"
         }
       ],
@@ -1274,40 +608,6 @@
       "quality_score": 8
     },
     {
-      "title": "“Open & Close Strategy”: How Japanese Tech Companies with Niche Technologies Can Leverage IP for Competitive Advantage",
-      "titleCN": "“Open & Close Strategy”: How Japanese Tech Companies with Niche Technologies Can Leverage IP for Competitive Advantage",
-      "url": "https://btlj.org/2026/02/open-close-strategy-how-japanese-tech-companies-with-niche-technologies-can-leverage-ip-for-competitive-advantage/",
-      "date": "2026-03-13",
-      "journal": "Berkeley Tech LJ",
-      "summaryCN": "该论文提出\"开放-封闭策略\"（Open & Close Strategy）理论框架，分析日本科技中小企业如何利用知识产权组合策略在利基技术领域获取竞争优势。研究方法采用多案例比较分析，选取日本精密制造、半导体材料、机器人等行业的8家中小企业进行深度访谈和档案分析。核心发现：成功的日本科技企业并非简单选择开放或封闭，而是动态组合专利、商业秘密、标准化策略，在技术生命周期不同阶段切换开放程度——早期通过开放获取网络效应，成熟期通过封闭捕获价值。该框架挑战了传统\"开放创新\"理论的线性假设，强调制度环境（日本独特的雇佣制度、供应链关系）对IP策略选择的塑造作用。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1】\"情境化类型学构建\"方法：作者未套用西方主流的开放/封闭二元框架，而是基于日本企业实践提炼出\"动态切换\"的第三种类型，这种从本土经验中生成理论而非验证西方理论的路径，对中国研究者处理数字平台监管、数据产权等议题具有启发——可先通过企业访谈/判例分析提炼中国特有的实践模式，再与西方理论对话。【论证借鉴2】\"制度嵌入性\"分析技术：论文将IP策略选择嵌入日本终身雇佣制、系列企业关系等制度背景，揭示正式法律规则与非正式制度互动的机制，此法可移植至分析中国科技企业如何应对地方产业政策、平台治理中的\"软法\"与硬法衔接等问题。【论证借鉴3】\"过程追踪+反事实推断\"的因果论证：作者通过企业决策时间线重构，展示特定IP策略如何导致竞争结果，并设置对照案例排除替代解释，这种在小样本中建立因果链的方法，适用于中国判例研究或监管政策效果评估。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "知识产权法",
-          "class": "tech"
-        },
-        {
-          "name": "创新政策",
-          "class": "administrative"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        },
-        {
-          "name": "企业理论",
-          "class": "theory"
-        },
-        {
-          "name": "实证法学",
-          "class": "procedural"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "Energy Emergencies and Energy Federalism",
       "titleCN": "Energy Emergencies and Energy Federalism",
       "url": "https://pennlawreview.com/2025/12/23/energy-emergencies-and-energy-federalism/",
@@ -1337,360 +637,6 @@
         {
           "name": "比较制度分析",
           "class": "procedural"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Copyright’s Invisible Hand: Subsidizing America’s Cultural Institutions",
-      "titleCN": "Copyright’s Invisible Hand: Subsidizing America’s Cultural Institutions",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/02/26/copyrights-invisible-hand-subsidizing-americas-cultural-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=copyrights-invisible-hand-subsidizing-americas-cultural-institutions",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "本文运用制度经济学与公共选择理论，揭示了美国版权法体系中一个被忽视的隐性补贴机制：版权法通过赋予创作者排他性权利，实际上为博物馆、档案馆、图书馆等文化机构提供了间接财政支持。作者构建了一个\"隐性之手\"（invisible hand）分析框架，通过历史档案研究、经济模型推演和比较制度分析，论证版权期限延长、孤儿作品规则、合理使用例外等制度设计，如何以市场机制替代直接政府拨款，实现文化资源的跨代际保存与公共获取。研究发现，这种补贴模式比直接财政拨款更具政治可行性和效率优势，但也造成了获取不平等和民主赤字问题。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有多重借鉴价值。其一，【论证借鉴】作者采用\"制度功能替代\"的分析框架，将表面上无关的制度（版权保护与公共文化财政）建立功能性关联。中国研究者可借鉴此方法，分析民法典绿色原则如何通过物权规则实现环境法目标，或研究数据产权制度如何替代个人信息保护的传统行政监管路径。具体研究设计：选取一个新兴交叉领域（如算法治理），识别传统治理工具的失灵，再论证某看似不相关的法律制度如何功能性地填补这一缺口。其二，【论证借鉴】本文运用\"历史制度主义+经济分析\"的混合方法，通过追溯1790年《版权法》至《松尼·波诺法案》的立法史，提取制度演化的路径依赖逻辑，再以成本收益模型评估不同历史节点的制度选择。中国研究者可复制此设计：选取一项本土制度（如调解制度），先进行档案化的立法史梳理，识别关键转折点，再运用博弈论模型重构当时决策者的约束条件与策略选择。其三，【论证借鉴】作者创造性地将\"政治可行性\"作为独立变量纳入规范分析，突破了传统法经济学仅关注效率的局限。中国研究者可借鉴此\"制度政治经济学\"进路，在评估某项法律改革时，不仅分析其规范正当性与效率后果，更构建\"立法联盟形成模型\"，预测不同利益集团的动员能力与联盟结构，从而预判改革的成功概率并设计相应的过渡机制。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "知识产权法",
-          "class": "tech"
-        },
-        {
-          "name": "法经济学",
-          "class": "theory"
-        },
-        {
-          "name": "文化政策",
-          "class": "administrative"
-        },
-        {
-          "name": "制度分析",
-          "class": "theory"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "The Beginnings Of The One Big Beautiful Bill Act: Placing The 2017 Tax Cuts And Jobs Act In Historical Perspective",
-      "titleCN": "The Beginnings Of The One Big Beautiful Bill Act: Placing The 2017 Tax Cuts And Jobs Act In Historical Perspective",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/02/26/the-beginnings-of-the-one-big-beautiful-bill-act-placing-the-2017-tax-cuts-and-jobs-act-in-historical-perspective/?utm_source=rss&utm_medium=rss&utm_campaign=the-beginnings-of-the-one-big-beautiful-bill-act-placing-the-2017-tax-cuts-and-jobs-act-in-historical-perspective",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "本文运用历史制度主义方法，将2017年《减税与就业法案》置于美国百年税收立法史中考察，揭示其作为\"单一综合法案\"(one big beautiful bill)立法模式的起源与演变。作者系统梳理了1909年《佩恩-奥尔德里奇关税法》、1969年《税收改革法》、1986年《税收改革法》及2001年《经济增长与税收减免协调法》四个关键节点，通过档案研究、国会记录分析和比较制度分析，论证2017年法案并非历史断裂，而是延续了共和党长期追求的\"打包式\"税收立法策略，同时因党派极化和预算和解程序的特殊运用而呈现新特征。研究发现该法案融合了供给学派经济学、民粹主义修辞与程序性机会主义的复杂逻辑。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证架构对中国法学研究具有显著的方法论示范价值。首先，作者采用\"关键节点比较法\"(critical juncture comparison)，选取四个历史转折点进行结构化比较，而非线性历史叙述，这一方法可【论证借鉴】直接应用于中国重大立法（如《民法典》编纂、公司法修订）的历史分析，通过识别制度变迁中的\"路径依赖\"与\"关键断裂\"，避免简单的进步史观或政策解释。其次，论文构建了\"理念-制度-程序\"的三层分析框架，将供给学派经济学思想、国会预算程序规则与党派政治策略整合分析，【论证借鉴】可移植至中国语境下的\"政策理念—立法体制—决策机制\"互动研究，尤其适用于分析改革试点、授权立法等中国特有的制度现象。第三，作者熟练运用\"反事实推理\"(counterfactual analysis)评估替代性立法路径的可行性，【论证借鉴】这一技术对中国法学研究极具启发——在分析立法选择时，可通过建构\"若未采用此方案\"的假设情境，检验特定制度安排的因果重要性，增强论证的严谨性与说服力。此外，论文对国会档案、委员会标记稿(markup documents)等原始立法材料的深度挖掘，展示了制度史研究的实证基础。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "立法史",
-          "class": "constitutional"
-        },
-        {
-          "name": "比较制度分析",
-          "class": "theory"
-        },
-        {
-          "name": "财政法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律实证研究",
-          "class": "procedural"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Moving Forward from Brackeen and Solutions for the Greater Efficacy of the Indian Child Welfare Act",
-      "titleCN": "Moving Forward from Brackeen and Solutions for the Greater Efficacy of the Indian Child Welfare Act",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/01/06/moving-forward-from-brackeen-and-solutions-for-the-greater-efficacy-of-the-indian-child-welfare-act/?utm_source=rss&utm_medium=rss&utm_campaign=moving-forward-from-brackeen-and-solutions-for-the-greater-efficacy-of-the-indian-child-welfare-act",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "本文针对美国最高法院2023年Haaland v. Brackeen案判决后《印第安儿童福利法》(ICWA)面临的持续法律挑战，提出系统性改革路径。作者采用规范分析与实证研究相结合的方法，首先解构Brackeen案多数意见的论证逻辑，识别出ICWA在宪法平等保护、反命令原则及州权冲突等维度的法律漏洞；继而运用比较法方法，考察加拿大第一民族儿童福利制度的立法经验；最终构建\"联邦-部落-州\"三层协同治理模型，提出包括修订ICWA实体标准、建立部落法院专属管辖权、创设联邦专项基金等具体制度方案。研究依托对1978-2022年间联邦上诉法院ICWA相关判例的定量编码分析，以及对美国印第安事务局(BIA)政策文件的文本挖掘。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法论对中国法学研究具有重要参考价值。【论证借鉴1】\"判决后制度续造\"的研究进路：作者并非简单评论Brackeen案结论，而是将司法判决视为制度变迁的\"触发事件\"，系统分析判决留下的法律解释空间与制度缺口，进而提出填补性立法方案。这一方法可移植至中国指导性案例或重大司法解释后的制度完善研究，研究者可建立\"司法触发—规范缺口识别—制度续造方案\"的三阶分析框架。【论证借鉴2】\"规范分析—实证检验—比较法参照—制度设计\"的四层递进结构：作者先以教义学方法分析ICWA的规范缺陷，再通过判例数据库的定量分析验证规范问题的实践表现，继而引入加拿大《第一民族儿童与家庭服务法》作为比较参照，最终落实到可操作的制度条款设计。中国研究者可在环境法、数据法等领域复制此结构，例如分析某项环境标准时，先解构规范冲突，再统计相关行政诉讼数据，参考欧盟立法，提出具体修订条文。【论证借鉴3】\"多主体协同治理\"的分析框架：作者突破传统的国家—社会关系二元分析，构建联邦、部落主权体、州政府及非政府组织的多层互动模型，并运用\"制度性信任\"理论解释各主体合作动机。这一框架适用于中国民族区域自治、粤港澳大湾区等涉及多层级治理主体的制度研究，可结合社会网络分析方法量化主体间协作关系。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        },
-        {
-          "name": "法律实证研究",
-          "class": "procedural"
-        },
-        {
-          "name": "少数群体权利",
-          "class": "theory"
-        },
-        {
-          "name": "家庭法",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Proportional Possession",
-      "titleCN": "Proportional Possession",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/01/06/proportional-possession/?utm_source=rss&utm_medium=rss&utm_campaign=proportional-possession",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "本文提出\"比例性占有\"（Proportional Possession）理论，挑战传统财产法中排他性占有（exclusive possession）的单一逻辑。作者通过历史溯源、比较法分析和规范论证三重方法，论证财产权应呈现光谱式结构：从完全排他到完全开放之间存在多种中间形态。核心理论框架将占有强度与使用目的、社会功能、时间维度进行比例匹配，主张特定资源（如公共空间、数据、知识产权）应根据其特性适用差异化的占有规则。研究发现，普通法传统中本就存在比例性占有的制度雏形，但现代法理学将其边缘化；作者通过重构这一传统，为共享经济、数字平台治理等当代议题提供规范性基础。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有显著借鉴价值。第一，【论证借鉴】\"概念考古+功能重构\"的双层论证结构：作者先通过历史文献梳理证明比例性占有并非全新发明，而是被压抑的普通法传统，再将其功能性地延伸至数字时代新问题。这种\"旧瓶装新酒\"的论证策略可有效回应\"理论创新缺乏本土资源\"的批评，适用于中国法学中习惯法、民间规范的研究。具体研究设计建议：选取某一被忽视的清代或民国时期财产惯例，先证成其制度合理性，再对接当代农村土地三权分置或数据权属争议。第二，【论证借鉴】\"比较法作为批判工具\"而非\"制度移植手册\"的方法论：作者引用大陆法系（德国、法国）的占有理论不是为了借鉴其规则，而是揭示排他性占有的意识形态普遍性，从而反衬比例性占有的批判性潜力。中国研究者可将此用于反思\"法典化崇拜\"——比较德国、日本民法典中某一制度的演变逻辑，不是为了建议中国效仿，而是为了解构\"法典化=现代化\"的迷思。第三，【论证借鉴】\"类型化光谱\"替代\"二元对立\"的分析框架：作者拒绝\"排他/共享\"的简单二分，构建五阶占有强度光谱（完全排他、有限排他、共同排他、开放访问、完全公有），并为每阶设定判断标准（使用竞争性、投资激励需求、监控成本等）。此框架可直接移植至中国法学的诸多二元争议，如公法/私法、监管/自治、法定/约定，通过引入中间类型消解虚假对立，增强理论的解释弹性和政策相关性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "财产法理论",
-          "class": "theory"
-        },
-        {
-          "name": "比较法方法论",
-          "class": "international"
-        },
-        {
-          "name": "法律史研究",
-          "class": "theory"
-        },
-        {
-          "name": "数字平台治理",
-          "class": "tech"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Asian Americans and the Harm of Exceptionalized Inclusion",
-      "titleCN": "Asian Americans and the Harm of Exceptionalized Inclusion",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/22/asian-americans-and-the-harm-of-exceptionalized-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=asian-americans-and-the-harm-of-exceptionalized-inclusion",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "本文批判性分析了美国宪法学中'亚裔美国人例外论'（Asian American Exceptionalism）的修辞策略及其危害。作者运用批判性种族理论（Critical Race Theory）和反歧视法框架，通过文本分析、历史档案研究和判例解构，揭示主流话语如何将亚裔美国人建构为'模范少数族裔'以否定其他有色人种的权利诉求。研究发现，这种'例外化的包容'（exceptionalized inclusion）不仅掩盖了亚裔群体内部的经济与法律不平等，更成为削弱平权行动（affirmative action）和种族正义运动的工具。论文采用'反叙事'（counter-storytelling）方法，结合定量数据展示亚裔美国人内部的阶层分化，解构了'亚裔成功'的同质性神话。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1：'解构性概念建构'方法】作者创造性地提出'exceptionalized inclusion'这一悖论性概念，揭示包容与排斥的辩证关系。中国法学研究可借鉴此策略，针对'弱势群体保护'或'区域协调发展'等政策话语，建构类似的批判性概念工具，分析形式平等背后的实质排斥机制。具体研究设计：选取某一保护性立法（如妇女权益保障法），分析其如何通过'特殊保护'的修辞强化性别刻板印象。【论证借鉴2：'数据反叙事'的混合方法】论文将批判性叙事与统计学证据结合，用收入分布、教育分层的量化数据打破'模范少数族裔'的同质性假设。中国研究者可在民族区域自治、农民工权益等议题中，采用'质性访谈+行政数据/裁判文书大数据分析'的混合设计，用数据解构官方话语中的群体同质性假设。【论证借鉴3：'话语追踪'的历史分析方法】作者追溯'亚裔成功'话语从冷战政治到宪法判例的流变，展示法律话语的政治建构性。中国研究者可对'和谐社会''法治国家'等核心话语进行类似的历史-语用分析，追踪其从政策文件到司法解释、再到学术话语的转化过程，揭示话语背后的权力配置逻辑。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "批判性种族理论",
-          "class": "theory"
-        },
-        {
-          "name": "宪法学",
-          "class": "constitutional"
-        },
-        {
-          "name": "反歧视法",
-          "class": "theory"
-        },
-        {
-          "name": "法律实证研究",
-          "class": "procedural"
-        },
-        {
-          "name": "话语分析",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Modern Cyber Warfare and International Law",
-      "titleCN": "Modern Cyber Warfare and International Law",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/20/modern-cyber-warfare-and-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=modern-cyber-warfare-and-international-law",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "该论文探讨现代网络战与国际法的互动关系，核心论点在于：现有国际人道法（IHL）框架虽可适用于网络攻击，但面临归因困难、攻击定性模糊及比例原则适用等三大挑战。作者采用规范分析法与案例研究相结合的方法，系统检视了2010年震网病毒（Stuxnet）事件、2016年美国对伊斯兰国网络攻击等关键案例。研究发现，国际法院在\"尼加拉瓜案\"确立的\"有效控制\"标准在网络空间难以适用，而北约《塔林手册》提出的\"整体效果\"测试更具操作性。论文最终主张通过\"功能等价\"方法将传统武装冲突法规则渐进扩展至网络领域，同时呼吁建立新的国家实践证据收集机制。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证方法对中国法学研究具有显著借鉴意义。其一，【论证借鉴】作者采用\"规范-实践-规范\"的循环论证结构：先梳理既有法律框架的规范内涵，再通过具体案例检验其适用困境，最后回归规范层面提出解释方案。这种结构可移植至中国数据跨境流动、算法治理等新兴领域的研究，例如先分析《数据安全法》的规范结构，再以典型企业合规案例检验，最终提出解释论或立法论建议。其二，【论证借鉴】论文熟练运用\"比较制度分析\"方法，将国际法院判例、北约专家意见、国家实践声明三类渊源置于同一分析平面，评估其权威性层级。中国研究者处理平台治理、自动驾驶责任等问题时，可借鉴此框架，将司法解释、行业标准、企业自律规范进行系统性比较。其三，【论证借鉴】作者对\"归因\"问题的处理展示了如何将有争议的法律问题转化为可操作的证明标准问题——将\"国家责任\"这一实体问题拆解为证据法层面的间接证据链条构建。此方法适用于中国法中的因果关系认定、主观过错判断等传统难题的创新研究。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "国际人道法",
-          "class": "international"
-        },
-        {
-          "name": "网络战",
-          "class": "tech"
-        },
-        {
-          "name": "归因理论",
-          "class": "theory"
-        },
-        {
-          "name": "规范分析",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Undue Computational Experimentation: Can In Silico Experiments Allows Genus Claims to Survive?",
-      "titleCN": "Undue Computational Experimentation: Can In Silico Experiments Allows Genus Claims to Survive?",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2025/08/20/undue-computational-experimentation-can-in-silico-experiments-allows-genus-claims-to-survive/?utm_source=rss&utm_medium=rss&utm_campaign=undue-computational-experimentation-can-in-silico-experiments-allows-genus-claims-to-survive",
-      "date": "2026-03-12",
-      "journal": "Cornell Law Review",
-      "summaryCN": "该论文探讨计算机模拟实验（in silico experiments）能否拯救专利法中的属类权利要求（genus claims）免受过度实验（undue experimentation）的挑战。作者构建了一个理论框架，将专利法中的书面描述（written description）和可实施性（enablement）要求与FDA等监管机构的计算机模拟验证标准进行类比。研究方法采用规范分析结合比较制度研究，通过分析Amgen v. Sanofi案等典型案例，论证计算机模拟可作为属类抗体权利要求的替代性验证手段。核心发现是：在生物技术领域，经充分验证的计算机模型能够满足专利法的可实施性标准，但需建立模型可靠性、透明度和验证标准的配套制度。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文展现了跨学科制度比较的典型论证范式，对中国法学研究具有重要方法论价值。【论证借鉴一】\"监管标准借用\"策略：作者将FDA对计算机模拟的验证标准（如ASME V&V 20）移植到专利法分析中，形成\"制度间标准迁移\"的分析框架。中国研究者可将此应用于数据合规、算法治理等领域，例如借用金融监管部门的风控标准分析平台责任，或借用医疗AI审批标准探讨自动驾驶的过失认定。【论证借鉴二】\"技术中介化\"论证结构：论文构建了\"技术工具—法律标准—制度配套\"的三层分析框架，先论证计算机模拟的技术可行性，再映射到法律标准的解释空间，最后提出验证程序、透明度要求等制度设计。此结构可直接用于中国的人工智能立法、基因编辑规制等议题，避免技术描述与法律分析脱节的常见问题。【论证借鉴三】\"反事实推理\"的规范运用：作者通过设想\"若采用计算机模拟验证，Amgen案结果将如何不同\"来检验理论主张，这种基于判例的反事实分析比抽象的价值权衡更具说服力，适用于中国指导性案例的规范分析。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "知识产权法",
-          "class": "tech"
-        },
-        {
-          "name": "法律与科技",
-          "class": "tech"
-        },
-        {
-          "name": "比较法方法",
-          "class": "theory"
-        },
-        {
-          "name": "制度经济学",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Beyond the Paycheck: Why Compensating NCAA Student-Athletes Does Not Mean Employing Them",
-      "titleCN": "Beyond the Paycheck: Why Compensating NCAA Student-Athletes Does Not Mean Employing Them",
-      "url": "https://texaslawreview.org/beyond-the-paycheck-why-compensating-ncaa-student-athletes-does-not-mean-employing-them/",
-      "date": "2026-03-12",
-      "journal": "Texas Law Review",
-      "summaryCN": "本文核心论点为：向NCAA学生运动员支付报酬并不必然构成雇佣关系，从而规避《国家劳动关系法》的适用。作者采用规范分析法与比较制度分析，首先解构\"薪酬即雇佣\"的直觉关联，提出\"补偿多元性理论\"——区分教育性补偿（奖学金）、市场性补偿（姓名形象权收益）与雇佣性补偿（工资）的法律性质差异。其次，运用行政法中的\"控制权测试\"（control test）与\"经济现实测试\"（economic realities test），论证NCAA对学生运动员的控制属于教育管理权而非雇主指挥权。最后，通过比较美国业余体育法、欧盟运动员身份认定及美国高校研究生助教判例，构建\"有限补偿+教育主导\"的规制框架，主张以信托责任或特殊行业监管替代劳动法调整。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证逻辑呈现三重方法论价值：其一，概念解构技术——将\"薪酬\"这一日常概念拆解为具有不同法律效果的功能类型，打破概念捆绑的思维定式。其二，测试工具移植——将劳动法中用于认定雇佣关系的司法测试（control test/economic realities test）反向运用，论证特定控制形态不构成雇佣，展现法律测试的弹性解释空间。其三，比较法功能主义——选取欧盟运动员制度与研究生助教判例，并非追求规则移植，而是提取\"教育主导性\"作为区分标准的功能逻辑。\n\n【论证借鉴1】概念分层技术：中国法学研究可借鉴\"补偿多元性理论\"，在分析平台用工、灵活就业等议题时，将\"收入\"解构为经营收益、劳务报酬、社会保障替代金等类型，分别匹配不同法律效果，避免\"有收入即劳动关系\"的简单化论证。\n\n【论证借鉴2】司法测试的反向运用：中国行政法/劳动法中的认定标准（如从属性测试）可被反向操作——通过细化控制权的具体形态（时间控制、内容控制、技术控制），论证特定行业场景中的\"弱从属性\"，为新型用工关系脱法或特别法适用提供分析框架。\n\n【论证借鉴3】比较法的功能提取：在进行域外法比较时，不聚焦于规则条文，而是提取其背后的\"区分功能\"（如本文的\"教育主导性\"标准），以此作为中国法解释论的参照系，增强比较法论证的规范相关性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "劳动法",
-          "class": "administrative"
-        },
-        {
-          "name": "体育法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律解释方法",
-          "class": "theory"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "The Behavioral Case for Supreme Court Ethics Reform",
-      "titleCN": "The Behavioral Case for Supreme Court Ethics Reform",
-      "url": "https://texaslawreview.org/the-behavioral-case-for-supreme-court-ethics-reform/",
-      "date": "2026-03-12",
-      "journal": "Texas Law Review",
-      "summaryCN": "本文运用行为法学与行为经济学理论，论证美国最高法院大法官需要强制性而非自愿性伦理规范的核心理由。作者指出，大法官作为人类同样受制于认知偏差（如过度自信、自我服务偏差、现状偏见、损失厌恶）和有限意志力，现有自愿性伦理体系无法有效克服这些系统性障碍。研究方法上，作者采用\"以行为理论重构传统论证\"的路径：首先识别支持现状的常规论点（如大法官正直品格、透明度不足、制度合法性考量），随后用行为科学逐一解构——证明这些论点恰恰因人类认知局限而失效，反而强化了改革的必要性。主要发现是：行为视角揭示了自愿性伦理规范与有效伦理约束之间存在结构性鸿沟，唯有外部强制机制才能克服法官作为普通人的心理局限。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证逻辑呈现\"双轨并进\"的精巧结构：轨道一针对传统法学论证的盲区，轨道二引入行为科学作为矫正透镜。其方法论价值在于展示了如何将实证心理学嵌入规范性法学论证，而非简单堆砌实验数据。【论证借鉴一：认知偏差的制度映射技术】作者并非泛泛列举心理学概念，而是将每种偏差与具体制度漏洞精准对应——如用\"现状偏见\"解释大法官为何抵制改变终身适用的自愿规范，用\"损失厌恶\"解释为何披露要求遭遇隐性抵制。中国研究者可将此技术应用于分析法官绩效考核、审委会决策等制度，识别制度设计中与认知偏差共振的结构性缺陷。【论证借鉴二：反事实论证的行为化重构】面对\"大法官品行高尚故无需强制规范\"的反对意见，作者不直接反驳，而是论证\"即使品行高尚，认知偏差仍会系统性地扭曲判断\"。这种\"退一步论证\"策略可移植至中国语境：讨论法官独立与监督关系时，可论证\"即使法官主观公正，特定程序设计仍会诱发系统性偏误\"。【论证借鉴三：微观行为机制与宏观制度变迁的桥接】作者将个体层面的心理实验发现（如自我服务偏差）转化为制度层面的改革论据，关键在于识别\"个体决策聚合为制度惰性\"的传导机制。中国研究者可借鉴此路径，从基层法官的决策疲劳、案卷依赖等微观行为出发，推导审级制度、案例指导制度等宏观设计的优化方向。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "司法伦理",
-          "class": "constitutional"
-        },
-        {
-          "name": "行为法学",
-          "class": "theory"
-        },
-        {
-          "name": "认知偏差",
-          "class": "theory"
-        },
-        {
-          "name": "制度设计",
-          "class": "procedural"
-        },
-        {
-          "name": "实证法学",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Solving the Special Forces Problem",
-      "titleCN": "Solving the Special Forces Problem",
-      "url": "https://texaslawreview.org/solving-the-special-forces-problem/",
-      "date": "2026-03-12",
-      "journal": "Texas Law Review",
-      "summaryCN": "本文针对美国最高法院在'特种部队问题'上的司法困境——即如何在不引发政治反弹的前提下审查涉及国家安全的行政行为——提出系统性解决方案。作者运用比较制度分析方法，通过考察英国、加拿大、以色列等普通法国家的司法实践，识别出三种制度性策略：程序性审查强化、证据规则调整和裁判时机选择。研究发现，美国法院可通过借鉴'GCHQ案'模式，将审查焦点从实体国家安全判断转向决策程序的正当性，从而在维护司法权威与尊重行政专长之间取得平衡。理论框架融合了Martin Shapiro的'政治法院'理论与Tom Ginsburg的'司法策略主义'，采用案例比较与制度功能分析相结合的方法。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。其一，【论证借鉴】作者采用'问题—域外方案—本土化适配'的三段式结构，而非简单的制度移植。具体而言，作者首先精准界定美国特有的制度约束（如政治问题学说的僵化适用、国会监督乏力），再筛选功能等效的域外制度，最后通过'制度功能等价性测试'评估移植可行性。中国研究者研究监察体制改革、数据安全审查等议题时，可借鉴此框架：先识别中国制度语境下的核心约束条件（如党的领导体制、人大监督机制），再比较域外经验，避免直接套用西方分权理论。其二，【论证借鉴】作者运用'反事实推理'强化因果主张，通过构造'若法院采取X策略，则政治分支可能作出Y反应'的情景分析，将规范性主张建立在制度行为预测之上。中国法学研究可引入此类'制度博弈分析'，例如分析司法审查强度对行政合规行为的激励效应。其三，【论证借鉴】本文的实证基础并非大规模数据统计，而是精心构建的'关键案例'比较——选取英国GCHQ案、加拿大Khadr案等具有制度转折意义的判例进行深描。中国研究者研究指导性案例制度、试点改革评估时，可采用类似的'制度节点案例'方法，通过追踪特定裁判或政策对后续制度演变的触发效应，弥补定量数据的不足。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "比较宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        },
-        {
-          "name": "国家安全法",
-          "class": "administrative"
-        },
-        {
-          "name": "制度比较方法",
-          "class": "theory"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "The Questionable Legality of IEEPA Tariffs: Does the Major Questions Doctrine Apply?",
-      "titleCN": "The Questionable Legality of IEEPA Tariffs: Does the Major Questions Doctrine Apply?",
-      "url": "https://texaslawreview.org/the-questionable-legality-of-ieepa-tariffs-does-the-major-questions-doctrine-apply/",
-      "date": "2026-03-12",
-      "journal": "Texas Law Review",
-      "summaryCN": "本文探讨《国际紧急经济权力法》（IEEPA）授权总统征收关税的法律效力，核心争议在于\"重大问题原则\"（Major Questions Doctrine, MQD）是否适用。作者采用规范分析法与制度比较法，首先解构MQD的宪法基础——从联邦党人文集到当代判例（West Virginia v. EPA），提炼出\"经济政治重要性+历史实践+国会明确授权\"的三重检验标准。继而通过实证梳理IEEPA的立法史（1977年国会删除\"进口\"条款的意图）与司法实践（1970年代关税案被国会推翻），论证关税问题符合MQD的适用条件。最终结论：IEEPA关税授权存在重大法律瑕疵，但作者同时警示MQD的扩张可能削弱总统应对紧急状态的灵活性。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法论对中国法学研究具有显著参考价值。【论证借鉴1：规范与历史的双重论证结构】作者并非简单援引判例，而是将MQD还原至宪法文本（第一条第八款贸易权）与制宪辩论，再叠加1977年立法史的档案分析。中国研究者处理行政授权合法性时，可借鉴此\"宪法原旨+立法史\"的双层论证，例如分析《立法法》第9条授权立法边界时，结合1982年修宪讨论与历次立法法修改的委员会记录。【论证借鉴2：比较法作为批判性工具而非装饰】文章将MQD与英国\"亨利八世条款\"、德国\"授权明确性原则\"对比，但目的并非罗列制度，而是揭示MQD的独特功能——作为司法审查的\"减速带\"而非\"禁止令\"。中国行政法研究中，可借鉴此功能主义比较，如分析行政处罚权下放时，比较日本《行政程序法》的\"法律保留\"与我国\"决定—命令\"机制的功能差异。【论证借鉴3：反事实推理与制度成本分析】作者在结论部分构建反事实场景：若MQD严格适用，总统在911后冻结资产、疫情中调控供应链的权力将如何受限？并量化比较\"司法过度介入\"与\"行政滥权\"的制度成本。中国研究者可借鉴此\"规则适用后果推演\"方法，例如在分析公益诉讼范围扩张时，模拟\"检察机关垄断起诉\"与\"社会组织补充\"两种模式的激励效应差异。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        },
-        {
-          "name": "比较法",
-          "class": "international"
-        },
-        {
-          "name": "立法史研究",
-          "class": "procedural"
-        },
-        {
-          "name": "规制理论",
-          "class": "theory"
         }
       ],
       "quality_score": 8
