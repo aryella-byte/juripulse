@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "The Supreme Court of Canada",
+      "titleCN": "The Supreme Court of Canada",
+      "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "加拿大最高法院就两起涉及性工作者权益的案件作出判决，裁定联邦《刑法》中关于禁止性工作者在公共场所与潜在客户交流、禁止在酒店等场所进行性交易、以及禁止第三方从性工作中获利的条款违反《加拿大权利与自由宪章》第2条(b)款（言论自由）和第7条（生命、自由与安全权利）。法院认为这些条款过度限制了性工作者的基本权利，且未能有效实现保护性工作者免受剥削的立法目的，构成不成比例的侵害。判决推翻了此前安大略省上诉法院的部分裁决，发回重审以确定适当的救济措施。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国/国际法律制度的影响：本案延续了加拿大法院对'北欧模式'（惩罚买方而非卖方）立法的严格审查趋势，与美国部分州及欧洲国家近期关于性工作非罪化的立法辩论形成呼应。判决确立的'比例原则'审查框架可能影响其他普通法系国家对类似社会规制立法的合宪性判断，特别是对'家长式立法'（paternalistic legislation）的司法审查标准。对中国的比较法价值：中国《刑法》第358-362条对组织、强迫、引诱、容留、介绍卖淫的规制与加拿大本案涉及的第三方获利条款存在制度可比性。两国均面临打击人口贩卖与保护性工作者权益的价值冲突，但加拿大法院选择以基本权利审查介入立法政策判断，这与中国法院对类似社会管理问题的司法立场形成对照。此外，加拿大判决中关于'条件性权利限制'（conditional rights limitation）的论证技术，对中国《宪法》第51条权利限制条款的解释具有方法论参考意义。【选题思路】：'基本权利审查中的立法事实认定——以加拿大性工作规制案与中国卖淫嫖娼治理规范的比较为视角'，或'社会管理立法的目的正当性审查：加拿大R.v.Bedford案对中国行政处罚法比例原则适用的启示'。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "基本权利审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "比例原则",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The biggest names on the briefs",
+      "titleCN": "The biggest names on the briefs",
+      "url": "https://www.scotusblog.com/2026/03/the-biggest-names-on-the-briefs/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文报道了2024年美国最高法院开庭期中，大法官们在判决意见书中引用下级法院法官的频率统计。数据显示，哥伦比亚特区联邦巡回上诉法院法官Neomi Rao以被引用12次位居榜首，其次是第八巡回法院的Steven Grasz（8次）和第五巡回法院的Andy Oldham（7次）。文章分析了被频繁引用的法官特征：多为保守派、年轻、任职于关键巡回法院，且其判决风格与大法官Thomas和Alito相近。同时指出，被引用次数与法官晋升最高法院的可能性无直接关联，历史上仅Sonia Sotomayor和Clarence Thomas在被任命前曾被大法官引用。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国法律制度而言，这一现象揭示了最高法院与下级法院之间的'司法对话'机制及其政治化倾向——大法官倾向于引用意识形态同盟者的意见，强化了司法系统的层级影响力网络，也反映了保守派法律运动（Federalist Society网络）在司法任命中的深远布局。对中国比较法研究而言，该现象提供了分析'司法引用制度'的绝佳样本：中国最高人民法院在指导性案例、公报案例的选编中同样存在'法官偏好'问题，但缺乏系统的实证研究。中美两国在'上级法院如何评价下级法院裁判'的制度设计上差异显著——美国依赖大法官个人学术偏好，中国则依赖行政化的案例指导制度。【选题思路】可切入的角度包括：'司法引用的正当性控制'——比较研究美国大法官自由裁量引用与中国最高人民法院案例指导制度中的'选编标准'，探讨如何防止司法引用沦为意识形态站队工具；或'年轻法官的司法影响力生成机制'——分析Rao等'80后'法官被频繁引用的现象，对照中国法官等级制度下年轻法官的制度性失声，提出改革建议。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法引用制度",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "titleCN": "The remaining questions after the Supreme Court’s tariffs ruling",
+      "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
+      "date": "2026-03-18",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国最高法院于2025年6月驳回了挑战特朗普政府关税政策的诉讼，以'缺乏管辖权'为由拒绝审理，未触及关税本身的合宪性问题。本案核心争议在于：总统依据《国际紧急经济权力法》(IEEPA)第1701条以'国家紧急状态'为由加征关税，是否超越宪法第一条赋予国会的征税权与对外贸易管理权。下级法院曾裁定IEEPA授权总统实施关税属于违宪的权力让渡，但最高法院回避了实质审查。目前仍有至少四起相关诉讼 pending，涉及不同原告资格与法律挑战路径。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度的影响：本案暴露了'政治问题原则'与'授权原则'在紧急权力领域的张力，最高法院的回避策略可能助长行政扩权，重塑三权分立中贸易政策的权力配置。对中国比较法价值：中国《对外贸易法》《关税条例》同样存在'国务院决定'的弹性授权条款，但缺乏司法审查机制；美国诉讼中涌现的'关税损害可诉性''紧急状态认定标准'等议题，可为研究中国反制性关税、不可靠实体清单等措施的合法性控制提供镜鉴。【选题思路】美国IEEPA紧急关税的司法审查困境与中国《反外国制裁法》阻断措施的比较研究——以行政紧急权力的宪法边界为视角",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政紧急权力",
+          "class": "administrative"
+        },
+        {
+          "name": "贸易法宪法化",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Does legislative history have a judicial future?",
       "titleCN": "立法史在司法判决中能否重焕生机？",
       "url": "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
@@ -543,6 +609,96 @@
     }
   ],
   "research": [
+    {
+      "title": "What is a Tort?",
+      "titleCN": "What is a Tort?",
+      "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文是John C.P. Goldberg对侵权法本质的系统性理论重构。论文采用概念分析与规范论证相结合的方法，批判了传统上将侵权法视为'损害赔偿法'或'道德过错法'的简化理解，提出侵权法的核心功能是'矫正正义'(corrective justice)与'公共责任分配'的双重结构。作者运用'制度角色理论'(institutional role theory)分析法院在侵权诉讼中的独特地位，通过比较法视角(尤其是英美与大陆法系的对照)揭示侵权法的制度逻辑。研究发现，侵权诉讼的本质是'公共机构对私人之间不当行为所造成损害的回应机制'，这一界定既区别于合同法(基于合意)，也区别于刑法(国家惩罚)，为理解侵权法的独立性提供了规范基础。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。【论证借鉴1】'概念解构—功能重构—制度定位'的三层分析框架：作者并非直接回答'侵权是什么'，而是先解构'损害赔偿''过错''因果关系'等既有概念的预设，再从制度功能角度重构，最后定位侵权法在法律体系中的独特位置。中国学者研究民法典分编或具体制度时，可移植此框架，避免就法条论法条的解释学循环。【论证借鉴2】'比较法的规范性运用'：作者使用比较法并非为了介绍外国法，而是通过英美与大陆法系的'家族相似性'论证其理论命题的普适性，同时通过差异揭示制度选择的规范意涵。中国研究者可借鉴此方法，将比较法作为理论检验工具而非资料汇编。【论证借鉴3】'判例的体系化解读'：论文对经典判例(如Palsgraf、MacPherson)的解读超越了个案评析，而是将其作为'制度演变的节点'进行谱系分析，揭示法律概念的历史层累。中国研究者面对指导性案例或公报案例时，可采用此'节点分析法'，追踪概念变迁而非仅作教义学注释。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "侵权法理论",
+          "class": "theory"
+        },
+        {
+          "name": "法律概念分析",
+          "class": "theory"
+        },
+        {
+          "name": "矫正正义",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "titleCN": "Liberty of Conscience, Political Process Theory, and Founding-Era Free Exercise",
+      "url": "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文运用政治过程理论重新解读美国建国时期的宗教自由条款。作者挑战了传统原旨主义解释，主张通过分析18世纪各州宗教立法的政治博弈过程，来理解《第一修正案》'良心自由'的真实含义。研究方法结合了历史档案分析、比较州法研究和制度经济学视角，发现建国者并非追求抽象的宗教中立，而是设计了一套防止宗教派系俘获国家的程序机制。主要发现是：自由行使条款的核心功能是保障宗教少数派在政治过程中的发言权，而非绝对化的权利豁免。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的论证逻辑呈现三层递进：首先解构文本原旨主义的认识论缺陷，继而以州级立法竞争作为替代性证据基础，最终提炼出程序主义的权利理论。【论证借鉴一】'制度竞争作为规范来源'的方法：作者将13个州的宗教立法视为'自然实验'，通过比较不同制度设计的成败来推导宪法意图。中国研究者可借鉴此框架，将地方立法试验、司法改革试点作为解读中央法律意图的实证素材，尤其适用于分析民法典实施、营商环境条例等央地互动领域。【论证借鉴二】'反事实推理'的运用：论文大量采用'若采纳X方案则Y结果'的假设分析，增强历史论证的严谨性。中国法学研究可引入此类思维，例如在分析古代法典时，通过对比律例不同版本的政策后果来验证立法者的真实考量。【论证借鉴三】'政治过程理论的权利观'：将权利重新定义为程序保障而非实体福利，这一框架可直接用于重构中国宪法基本权利的解释学，把'参与''知情权'等程序性权利作为分析枢纽，回避实体价值争议的困境。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "原旨主义",
+          "class": "theory"
+        },
+        {
+          "name": "政治过程理论",
+          "class": "theory"
+        },
+        {
+          "name": "法律史",
+          "class": "theory"
+        },
+        {
+          "name": "比较法方法",
+          "class": "procedural"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Separating the Powers in the Administrative State: Article I",
+      "titleCN": "Separating the Powers in the Administrative State: Article I",
+      "url": "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/",
+      "date": "2026-03-18",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文由Elena Kagan撰写，核心论点是美国行政国家中的权力分立问题，特别是行政机关如何行使立法权、行政权和司法权的混合权力。作者采用历史分析、比较法和规范分析相结合的研究方法，系统考察了美国行政法从19世纪到20世纪的发展历程。Kagan提出'总统行政'(presidential administration)理论框架，主张通过总统对行政机构的控制来实现民主问责和权力制衡。她发现传统三权分立理论在行政国家中已发生功能性转变，总统成为连接民主意愿与行政权力的关键节点，从而重构了权力分立的宪法理解。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的论证逻辑呈现'历史演进—理论重构—规范证成'的三层结构，具有重要方法论价值。【论证借鉴1】历史制度主义路径：作者通过梳理1887年州际商务委员会至新政时期的制度变迁，揭示形式法治与功能需求之间的张力。中国法学研究可借鉴此方法，分析中国行政机构（如证监会、银保监会）的职权扩张史，将制度演变嵌入政治经济结构转型中考察，而非仅作规范文本分析。【论证借鉴2】比较宪法的功能等价分析：Kagan比较美国与议会制国家的行政控制模式，论证不同宪政结构下可实现相似功能目标。中国学者可运用此框架，比较全国人大、国务院与地方政府的权限配置，探讨'议行合一'原则在当代的调适机制，避免简单的制度移植论证。【论证借鉴3】实证与规范的嵌套结构：论文大量使用机构设置数据、总统行政命令统计等实证材料支撑规范命题。中国研究者可收集国务院各部委的'三定方案'演变、部门规章制定数量等数据，构建行政权扩张的量化指标，使规范批判建立在经验基础之上。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "权力分立",
+          "class": "theory"
+        },
+        {
+          "name": "规制国家",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
       "titleCN": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
