@@ -946,6 +946,102 @@
       }
     },
     {
+      "title": "Crypto Kleptocracy",
+      "titleCN": "Crypto Kleptocracy",
+      "url": "https://michiganlawreview.org/crypto-kleptocracy/",
+      "date": "2026-03-19",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文剖析威权政权利用加密货币实现资产隐匿与跨境转移的'加密窃国'现象，揭示现有反洗钱框架与主权豁免原则在追踪、冻结及追赃环节的结构性失效，提出重构国际司法协作与链上治理工具的规制路径。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，该研究直接冲击财政部OFAC制裁体系与FCPA执法逻辑，倒逼修订《银行保密法》以适应链上透明度悖论；对中国具有双重价值——既为追踪外逃腐败资产提供链上取证技术参照，亦警示数字人民币跨境流通需预设反'加密窃国'的合规防火墙，避免成为下一轮国际监管套利对象。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际金融监管",
+          "class": "international"
+        },
+        {
+          "name": "反腐败",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "美财政部将混币器纳入特别指定国民清单扩大制裁",
+        "mediumTerm": "FATF修订虚拟资产旅行规则纳入政权关联钱包强制标记",
+        "longTerm": "形成主权国家链上资产申报国际条约与多边冻结机制"
+      },
+      "actionItems": {
+        "scholar": "构建'链上国家行为'识别模型与实证数据库",
+        "policymaker": "设计数字主权货币的可编程合规嵌入架构",
+        "entrepreneur": "布局链上尽职调查工具与跨境合规科技服务"
+      }
+    },
+    {
+      "title": "What’s Left of the New Deal State?",
+      "titleCN": "What’s Left of the New Deal State?",
+      "url": "https://michiganlawreview.org/whats-left-of-the-new-deal-state/",
+      "date": "2026-03-19",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文检视罗斯福新政所建立的行政国家（administrative state）在当代法律挑战下的存续状态，分析Chevron尊重原则的削弱、非授权原则（non-delegation doctrine）的复兴趋势，以及最高法院对独立规制机构的宪法攻击，揭示美国行政法正经历结构性范式转换。",
+      "summaryEN": "",
+      "whyMattersCN": "美国行政国家的重构将重塑全球监管竞争格局：若Chevron原则被推翻，跨国企业面临美国规制不确定性剧增，合规成本飙升；中国可观察'强司法审查'模式对行政效率的抑制效应，为优化行政复议与行政诉讼衔接、平衡市场活力与规制效能提供反向镜鉴，同时预判中资企业赴美投资面临的规制风险升级。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "关注Loper Bright案判决对现有行政解释的即时冲击",
+        "mediumTerm": "评估SEC、FTC等机构规则制定权的司法收缩程度",
+        "longTerm": "重构行政法教义体系，或形成'新形式主义'规制范式"
+      },
+      "actionItems": {
+        "scholar": "比较法视角追踪美国行政法形式主义复兴与德国'行政正确性'理论的对话张力",
+        "policymaker": "审慎评估司法化规制模式的效率成本，优化中国特色行政裁决制度的独立性设计",
+        "entrepreneur": "建立美国规制风险动态监测机制，前置合规论证于行政程序阶段"
+      }
+    },
+    {
+      "title": "The Comstock Act’s Equal Protection Problem",
+      "titleCN": "The Comstock Act’s Equal Protection Problem",
+      "url": "https://michiganlawreview.org/the-comstock-acts-equal-protection-problem/",
+      "date": "2026-03-19",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文分析1873年《康斯托克法》的平等保护条款缺陷，揭示该禁邮淫秽物品法在堕胎药物邮寄禁令中的合宪性争议，核心论点为选择性执法违反第十四修正案平等保护原则。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究直接影响美国堕胎权诉讼策略与FDA药品监管权限边界，对国际药品流通法律冲突具有示范效应；对中国而言，跨境医药电商合规、数据隐私与内容审查的平等执法原则设计具有比较法参考价值，尤其涉及跨境药品信息服务的法律风险评估。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "堕胎药物诉讼中平等保护抗辩策略兴起",
+        "mediumTerm": "国会修法或联邦法院合宪性审查程序启动",
+        "longTerm": "药品监管联邦主义重构与国际邮寄规则协调"
+      },
+      "actionItems": {
+        "scholar": "关注选择性执法的实证数据收集与宪法教义学重构",
+        "policymaker": "建立药品跨境流通的行政裁量基准与程序透明机制",
+        "entrepreneur": "评估远程医疗平台的州际合规架构与诉讼风险对冲"
+      }
+    },
+    {
       "title": "What is a Tort?",
       "titleCN": "What is a Tort?",
       "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
