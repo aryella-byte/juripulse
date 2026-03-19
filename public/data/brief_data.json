@@ -97,6 +97,70 @@
       }
     },
     {
+      "title": "Walmart wins patents to give algorithms more sway over prices",
+      "titleCN": "Walmart wins patents to give algorithms more sway over prices",
+      "url": "https://www.ft.com/content/8c2338dc-9e2e-4561-955a-c2a6a6c4d28e",
+      "date": "2026-03-19",
+      "source": "Financial Times",
+      "summaryCN": "沃尔玛获批两项专利，授权算法基于购物车放弃率、库存水平等实时数据动态调整定价。该技术突破传统定价监管框架，引发算法价格歧视与反垄断合规争议，成为零售科技领域标志性判例。",
+      "summaryEN": "",
+      "whyMattersCN": "美国专利商标局的授权确立算法定价的合法财产权基础，可能推动FTC重新界定《罗宾逊-帕特曼法》中'价格歧视'的认定标准。对中国而言，该案例为《反垄断法》第22条'大数据杀熟'条款的执法细化提供比较法素材，同时警示中国零售商出海时需预判欧美动态定价的合规边界与专利布局策略。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "反垄断",
+          "class": "tech"
+        },
+        {
+          "name": "算法治理",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "FTC启动算法定价反垄断审查指南修订",
+        "mediumTerm": "欧盟DSA/AI法框架下动态定价披露义务立法",
+        "longTerm": "全球形成算法定价专利池与行业标准联盟"
+      },
+      "actionItems": {
+        "scholar": "构建算法透明度与价格歧视的量化分析模型",
+        "policymaker": "建立算法定价备案制与消费者权益救济通道",
+        "entrepreneur": "提前部署动态定价专利组合与跨境合规架构"
+      }
+    },
+    {
+      "title": "Brazil’s almighty Supreme Court must win back public trust",
+      "titleCN": "Brazil’s almighty Supreme Court must win back public trust",
+      "url": "https://www.economist.com/leaders/2026/02/27/brazils-almighty-supreme-court-must-win-back-public-trust",
+      "date": "2026-03-19",
+      "source": "The Economist Leaders",
+      "summaryCN": "巴西最高法院因政治化裁决、社交媒体监管争议及与博索纳罗阵营的激烈冲突而陷入合法性危机。法院在打击假新闻与保障言论自由之间的平衡失当，加之大法官个人政治立场过于鲜明，正侵蚀司法独立根基，引发市场对巴西法治稳定性的担忧。",
+      "summaryEN": "",
+      "whyMattersCN": "1) 对国际制度影响：巴西模式成为新兴民主国家'司法能动主义'的试金石——若最高法院过度介入政治议程，可能引发美国式'法院政治化'的全球蔓延，影响跨国企业在拉美投资时的法律可预期性评估；2) 对中国参考：巴西在数字平台治理中'快速司法响应'机制与'实质审查标准'的冲突，为中国完善网络信息内容生态治理、平衡平台责任与表达自由提供比较法样本，亦警示司法机构在涉政议题中保持程序中立的重要性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 10,
+      "policyTimeline": {
+        "shortTerm": "博索纳罗支持者持续司法挑战，外资律所重新评估巴西诉讼风险敞口",
+        "mediumTerm": "国会或启动最高法院改革立法，数字平台需调整拉美内容审核合规架构",
+        "longTerm": "巴西司法模式重塑拉美宪政范式，中资企业投资协议需强化仲裁条款设计"
+      },
+      "actionItems": {
+        "scholar": "建立'司法政治化指数'量化评估框架，开展金砖国家最高法院比较宪政研究",
+        "policymaker": "参考巴西教训，在数字立法中嵌入'司法谦抑'条款与多元救济程序设计",
+        "entrepreneur": "将巴西司法不确定性纳入国别风险评级，优先选择新加坡/伦敦仲裁解决涉巴争议"
+      }
+    },
+    {
       "title": "The Supreme Court of Canada",
       "titleCN": "The Supreme Court of Canada",
       "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
@@ -784,6 +848,102 @@
       "quality_score": 7,
       "policyTimeline": {},
       "actionItems": {}
+    },
+    {
+      "title": "Bad Boy Jurisprudence",
+      "titleCN": "Bad Boy Jurisprudence",
+      "url": "https://harvardlawreview.org/print/vol-139/bad-boy-jurisprudence/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文重构霍姆斯'坏人'法律预测理论，批判形式主义法学忽视法律实际运作中的权力不对称与认知偏差，主张从规则服从者视角重构法律解释方法论，揭示法律确定性承诺背后的经验盲区。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对美国司法审查中的'理性基础测试'及行政法解释规则有直接冲击，可能重塑规制合规的司法标准；对中国而言，其方法论对《民法典》诚信原则解释、平台算法治理中的'理性人'标准设定具有比较法参考价值，亦警示中企出海时需关注美国法院对'合规善意'的实质审查趋势。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律现实主义",
+          "class": ""
+        },
+        {
+          "name": "法解释学",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "引发美国行政法解释方法论争论",
+        "mediumTerm": "影响SEC/FTC等机构合规指引修订",
+        "longTerm": "推动比较法上'法律认知科学'范式转型"
+      },
+      "actionItems": {
+        "scholar": "关注法律行为经济学与解释论的交叉研究",
+        "policymaker": "审慎评估'理性人'标准在算法治理中的适用",
+        "entrepreneur": "建立合规决策的'可辩解性'文档留存机制"
+      }
+    },
+    {
+      "title": "Sun Valley Orchards, LLCv. United States Department of Labor",
+      "titleCN": "Sun Valley Orchards, LLCv. United States Department of Labor",
+      "url": "https://harvardlawreview.org/print/vol-139/sun-valley-orchards-llcv-united-states-department-of-labor/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本案涉及《公平劳动标准法》中农业豁免条款的适用范围争议，核心在于H-2A签证农场工人的最低工资保障是否受联邦监管。法院最终裁定季节性农业工人豁免适用，限制了劳工部的行政裁量权，对农业用工合规产生深远影响。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，本案重塑了行政解释与司法审查的边界，削弱了Chevron尊重原则在劳动监管领域的适用；对中国农业出海企业具有重要参考价值——中国企业在美投资农业或劳务派遣时，需重新评估H-2A签证用工的合规成本与法律风险，同时本案亦为中国完善农业季节性用工立法提供了比较法样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        },
+        {
+          "name": "劳动法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "农业雇主紧急审查H-2A合同条款与薪酬结构",
+        "mediumTerm": "劳工部修订农业豁免实施细则，国会酝酿立法澄清",
+        "longTerm": "形成农业劳动联邦监管的判例法框架，影响移民劳工政策改革"
+      },
+      "actionItems": {
+        "scholar": "关注行政法形式主义回潮与劳动豁免条款的体系解释方法",
+        "policymaker": "建立农业用工分类监管的动态清单，明确联邦与州权划分",
+        "entrepreneur": "重构跨境农业投资的劳动合规架构，预留诉讼准备金"
+      }
+    },
+    {
+      "title": "United States v. Johnson",
+      "titleCN": "United States v. Johnson",
+      "url": "https://harvardlawreview.org/print/vol-139/united-states-v-johnson/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "美国最高法院以8:1裁定《武装职业犯罪法》'残余条款'违宪模糊，废除'潜在风险'标准，推翻累犯强制最低刑期规则，引发数千件量刑复核申请，重塑联邦暴力犯罪认定标准。",
+      "summaryEN": "",
+      "whyMattersCN": "该案确立'违宪模糊'审查的严格标准，影响美国量刑指南体系重构；对中国具有重要比较法价值——我国《刑法》第63条'情节严重'等兜底条款同样面临明确性挑战，为完善罪刑法定原则、规范量刑规范化改革提供制度镜鉴，亦警示中资企业赴美投资需重新评估员工背景审查合规风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "触发数千件ACCA量刑复核申请，联邦监狱释放潮",
+        "mediumTerm": "国会修订暴力犯罪定义，各州差异化立法响应",
+        "longTerm": "形成'明确性原则'判例群，影响AI算法量刑合法性审查"
+      },
+      "actionItems": {
+        "scholar": "关注'明确性原则'的跨法系比较与算法时代新发展",
+        "policymaker": "审视兜底条款的司法控制机制与量刑指南细化路径",
+        "entrepreneur": "建立跨境员工合规档案，预判美国量刑政策变动风险"
+      }
     },
     {
       "title": "What is a Tort?",
