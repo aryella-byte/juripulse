@@ -1,6 +1,102 @@
 {
   "news": [
     {
+      "title": "Does the Supreme Court have a strong “unitary” judicial power?",
+      "titleCN": "Does the Supreme Court have a strong “unitary” judicial power?",
+      "url": "https://www.scotusblog.com/2026/03/does-the-supreme-court-have-a-strong-unitary-judicial-power/",
+      "date": "2026-03-19",
+      "source": "SCOTUSblog",
+      "summaryCN": "本文探讨美国最高法院是否拥有宪法第三条意义上的\"单一\"司法权，分析联邦法院体系内部权力分散与集中的张力，涉及行政法法官、破产法官、治安法官等非第三条法官的合宪性争议，以及权力分立原则对司法权配置的深层影响。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，此议题直接决定行政国家中大量非终身任命法官的裁判权合法性，影响数百万行政案件与破产案件的司法救济路径；对中国具有重要比较法价值——我国法院系统同样面临内设行政审判机构、专门法院（知识产权法院、金融法院）与普通法院的权力配置问题，可为司法改革中\"审判权与执行权分离\"\"专门法院设置\"提供制度设计的合宪性分析框架，亦警示跨国企业在美涉行政裁决案件需关注裁判主体的宪法地位及其上诉路径的潜在变数。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "关注Axon案等涉及行政法官合宪性的待决案件走向",
+        "mediumTerm": "评估破产法官、治安法官职权范围的立法调整压力",
+        "longTerm": "重构联邦司法权理论，或引发行政国家裁判体系的结构性变革"
+      },
+      "actionItems": {
+        "scholar": "比较研究中美专门法院设置与宪法法院功能的制度替代路径",
+        "policymaker": "借鉴美国经验优化我国专门法院人事任命与审级监督机制",
+        "entrepreneur": "在美投资需审查行政裁决的可诉性与裁判主体资格风险"
+      }
+    },
+    {
+      "title": "Supreme Court asylum decision burdens already overworked DOJ",
+      "titleCN": "Supreme Court asylum decision burdens already overworked DOJ",
+      "url": "https://www.scotusblog.com/2026/03/supreme-court-asylum-decision-burdens-already-overworked-doj/",
+      "date": "2026-03-19",
+      "source": "SCOTUSblog",
+      "summaryCN": "最高法院裁定移民法官须逐案书面解释庇护拒绝理由，推翻BIA简化程序。该判决显著增加司法部移民审查办公室（EOIR）文书负担，积压案件超160万件，加剧司法资源危机。",
+      "summaryEN": "",
+      "whyMattersCN": "1)美国层面：行政效率与正当程序权冲突激化，EOIR被迫在资源约束下重构裁决流程，可能倒逼移民法庭结构性改革；2)国际比较：欧盟《庇护程序指令》同样面临'加速程序'与司法审查密度的张力，中国涉外仲裁裁决说理标准、RCEP争端解决机制设计可借鉴此判例——程序正当性成本如何内化为制度竞争力，跨境企业需评估东道国行政程序可预测性风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 10,
+      "policyTimeline": {
+        "shortTerm": "EOIR紧急修订裁决模板，培训法官书面说理规范",
+        "mediumTerm": "国会拨款博弈或启动移民法官扩编立法",
+        "longTerm": "AI辅助裁决系统试点，重构庇护审查架构"
+      },
+      "actionItems": {
+        "scholar": "比较法视野下行政程序成本与权利保障的量化建模研究",
+        "policymaker": "涉外行政程序立法中嵌入'说理梯度'弹性条款",
+        "entrepreneur": "跨境合规团队前置评估东道国行政裁决可诉性成本"
+      }
+    },
+    {
+      "title": "Justices will hear argument on Trump administration’s removal of protected status for Syrian and Haitian nationals",
+      "titleCN": "Justices will hear argument on Trump administration’s removal of protected status for Syrian and Haitian nationals",
+      "url": "https://www.scotusblog.com/2026/03/justices-will-hear-argument-on-trump-administrations-removal-of-protected-status-for-syrian-and-haitian-nationals/",
+      "date": "2026-03-19",
+      "source": "SCOTUSblog",
+      "summaryCN": "最高法院将审理特朗普政府终止叙利亚、海地国民临时保护身份（TPS）的合法性。核心争议在于行政部门能否单方面撤销国会授权的保护地位，涉及行政权边界与移民政策稳定性，直接影响约30万在美外国人的居留权及跨国企业用工合规。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，此案将重塑行政-立法权在移民领域的分野，若政府胜诉将大幅扩张总统单边行动空间，削弱移民政策的可预期性；对国际制度，TPS机制的信任危机可能波及全球难民保护体系。对中国具有双重启示：其一，比较法层面可观察美国行政程序法与正当程序条款对政策逆转的约束机制，为完善外国人在华居留管理制度提供参照；其二，商业层面，在美中资企业及供应链需重新评估依赖TPS员工的用工风险，同时中国出海企业投资加勒比、中东地区时，需关注当地政治动荡引发的人员流动与合规连锁反应。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "2025年4-6月口头辩论，TPS持有者身份悬置，企业暂停相关招聘",
+        "mediumTerm": "2025年底判决，若政府败诉将恢复保护，胜诉则启动大规模遣返程序",
+        "longTerm": "2026年后国会或被迫修订《移民国籍法》，重构TPS授权与撤销的法定标准"
+      },
+      "actionItems": {
+        "scholar": "比较研究行政裁量权的程序控制：美国Chevron尊重原则衰落与中国的行政裁量基准",
+        "policymaker": "建立外国人在华居留分类管理制度，明确临时保护地位的授予、审查与终止程序",
+        "entrepreneur": "重构跨国用工合规体系，将东道国移民政策稳定性纳入供应链风险评估矩阵"
+      }
+    },
+    {
       "title": "The Supreme Court of Canada",
       "titleCN": "The Supreme Court of Canada",
       "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
@@ -617,6 +713,78 @@
     }
   ],
   "research": [
+    {
+      "title": "Blown Chances",
+      "titleCN": "Blown Chances",
+      "url": "https://harvardlawreview.org/print/vol-139/blown-chances/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文分析美国刑事司法系统中'错失纠正机会'现象：从审前程序瑕疵到上诉权利放弃，揭示结构性缺陷如何系统性剥夺被告人的实质正义，批判形式主义程序对权利救济的架空。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国：暴露辩诉交易泛滥与有效律师帮助权虚置的制度危机，推动联邦最高法院重新审视Strickland标准的适用。对中国：参考其程序性制裁与无效辩护的认定标准，完善认罪认罚从宽中的权利保障与司法审查机制；对出海企业而言，理解美国刑事程序中的'程序陷阱'有助于优化合规响应策略。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "宪法权利",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "引发州级法院对认罪协商自愿性审查的收紧",
+        "mediumTerm": "推动ABA修订刑事辩护有效性执业准则",
+        "longTerm": "可能促成联邦层面无效辩护推定规则的立法改革"
+      },
+      "actionItems": {
+        "scholar": "建议追踪各州'无效辩护'判例的实证差异与因果识别",
+        "policymaker": "参考建立认罪协商全程录音与司法实质审查强制程序",
+        "entrepreneur": "在美运营须前置刑事合规响应预案，避免程序性权利丧失"
+      }
+    },
+    {
+      "title": "Making the Rules of the Rules of the Game: The Use, Misuse, and Disuse of the Rulemaking Grant in the Act of 1842",
+      "titleCN": "Making the Rules of the Rules of the Game: The Use, Misuse, and Disuse of the Rulemaking Grant in the Act of 1842",
+      "url": "https://harvardlawreview.org/print/vol-139/making-the-rules-of-the-rules-of-the-game-the-use-misuse-and-disuse-of-the-rulemaking-grant-in-the-act-of-1842/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "发表在Harvard Law Review上的法学研究论文。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究具有学术价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法学研究",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {},
+      "actionItems": {}
+    },
+    {
+      "title": "When All Files Count the Same: The Problem of Undifferentiated Images in Child Pornography Sentencing",
+      "titleCN": "When All Files Count the Same: The Problem of Undifferentiated Images in Child Pornography Sentencing",
+      "url": "https://harvardlawreview.org/print/vol-139/when-all-files-count-the-same-the-problem-of-undifferentiated-images-in-child-pornography-sentencing/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "发表在Harvard Law Review上的法学研究论文。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究具有学术价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法学研究",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {},
+      "actionItems": {}
+    },
     {
       "title": "What is a Tort?",
       "titleCN": "What is a Tort?",
