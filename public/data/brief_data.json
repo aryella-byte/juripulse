@@ -2,13 +2,13 @@
   "news": [
     {
       "title": "Does the Supreme Court have a strong “unitary” judicial power?",
-      "titleCN": "Does the Supreme Court have a strong “unitary” judicial power?",
+      "titleCN": "[SCOTUSblog] Does the Supreme Court have a strong “unitary” jud",
       "url": "https://www.scotusblog.com/2026/03/does-the-supreme-court-have-a-strong-unitary-judicial-power/",
       "date": "2026-03-19",
       "source": "SCOTUSblog",
-      "summaryCN": "本文探讨美国最高法院是否拥有宪法第三条意义上的\"单一\"司法权，分析联邦法院体系内部权力分散与集中的张力，涉及行政法法官、破产法官、治安法官等非第三条法官的合宪性争议，以及权力分立原则对司法权配置的深层影响。",
+      "summaryCN": "本文探讨美国宪法第三条'单一司法权'(unitary judicial power)的规范强度问题，核心争议在于：国会能否通过立法将特定争议排除于联邦法院管辖之外，或创设非由第三条法官审理的裁判机制。文章梳理了从Hayburn's Case(1792)到Stern v. Marshall(2011)的判例演进，分析'公权利'例外与'私人权利'区分的理论困境，并评估当前最高法院对行政法法官(ALJ)、破产法官等非第三条裁判者的合宪性审查趋势。作者指出，'单一性'概念在功能主义与形式主义之间的摇摆，直接影响联邦司法体系的结构完整性。",
       "summaryEN": "",
-      "whyMattersCN": "对美国而言，此议题直接决定行政国家中大量非终身任命法官的裁判权合法性，影响数百万行政案件与破产案件的司法救济路径；对中国具有重要比较法价值——我国法院系统同样面临内设行政审判机构、专门法院（知识产权法院、金融法院）与普通法院的权力配置问题，可为司法改革中\"审判权与执行权分离\"\"专门法院设置\"提供制度设计的合宪性分析框架，亦警示跨国企业在美涉行政裁决案件需关注裁判主体的宪法地位及其上诉路径的潜在变数。",
+      "whyMattersCN": "对美国制度而言，此问题触及三权分立的核心张力：若国会可随意剥离联邦法院管辖权或创设替代性裁判机制，将侵蚀司法独立性的宪法根基，尤其在行政国家扩张背景下，ALJ等'混合机构'的激增使第三条法院的'单一'权威面临空心化风险。对中国比较法研究具有特殊价值：我国正推进'四级法院审级职能定位改革'与'繁简分流'机制，美国关于'哪些纠纷必须由正规法官审理'的宪法辩论，可为我国探讨专门法院设置、仲裁司法审查边界、以及行政复议与诉讼衔接提供制度比较的参照系。对跨国企业而言，需密切关注美国破产程序中'核心'与'非核心'争讼的区分标准——若Stern案逻辑扩展，将影响跨境破产中债权确认的可执行性；同时，在美投资企业应评估行政裁决的司法救济渠道是否受限，及时调整争议解决条款中的法院选择策略。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -16,31 +16,31 @@
           "class": "constitutional"
         },
         {
-          "name": "行政法",
+          "name": "司法制度",
           "class": "constitutional"
         }
       ],
       "quality_score": 9,
       "policyTimeline": {
-        "shortTerm": "关注Axon案等涉及行政法官合宪性的待决案件走向",
-        "mediumTerm": "评估破产法官、治安法官职权范围的立法调整压力",
-        "longTerm": "重构联邦司法权理论，或引发行政国家裁判体系的结构性变革"
+        "shortTerm": "关注Axon Enterprise案后续对ALJ合宪性的审查动向",
+        "mediumTerm": "评估破产法官权限扩张立法在国会的前景",
+        "longTerm": "预判最高法院是否重构'公/私权利'二分框架"
       },
       "actionItems": {
-        "scholar": "比较研究中美专门法院设置与宪法法院功能的制度替代路径",
-        "policymaker": "借鉴美国经验优化我国专门法院人事任命与审级监督机制",
-        "entrepreneur": "在美投资需审查行政裁决的可诉性与裁判主体资格风险"
+        "scholar": "比较研究中美'专门法院'设置的宪法控制机制差异",
+        "policymaker": "借鉴美国经验完善我国专门法院组织法的立法技术",
+        "entrepreneur": "在美合同嵌入'核心争讼保留联邦法院管辖'条款"
       }
     },
     {
       "title": "Supreme Court asylum decision burdens already overworked DOJ",
-      "titleCN": "Supreme Court asylum decision burdens already overworked DOJ",
+      "titleCN": "[SCOTUSblog] Supreme Court asylum decision burdens already over",
       "url": "https://www.scotusblog.com/2026/03/supreme-court-asylum-decision-burdens-already-overworked-doj/",
       "date": "2026-03-19",
       "source": "SCOTUSblog",
-      "summaryCN": "最高法院裁定移民法官须逐案书面解释庇护拒绝理由，推翻BIA简化程序。该判决显著增加司法部移民审查办公室（EOIR）文书负担，积压案件超160万件，加剧司法资源危机。",
+      "summaryCN": "美国最高法院在Department of State v. Muñoz案中裁定，美国公民不享有宪法权利要求政府解释为何拒绝其外籍配偶的签证申请，包括庇护类签证。该判决由6-3多数作出，Amy Coney Barrett大法官撰写多数意见，推翻了第九巡回上诉法院的相反结论。裁决实质上将签证拒签审查范围限缩至仅'表面歧视'情形，大幅削减了司法对行政裁量的监督深度。据DOJ数据，移民案件已占联邦上诉案件20%以上，本案将引发新一轮诉讼潮，进一步挤压本已超负荷的司法资源。",
       "summaryEN": "",
-      "whyMattersCN": "1)美国层面：行政效率与正当程序权冲突激化，EOIR被迫在资源约束下重构裁决流程，可能倒逼移民法庭结构性改革；2)国际比较：欧盟《庇护程序指令》同样面临'加速程序'与司法审查密度的张力，中国涉外仲裁裁决说理标准、RCEP争端解决机制设计可借鉴此判例——程序正当性成本如何内化为制度竞争力，跨境企业需评估东道国行政程序可预测性风险。",
+      "whyMattersCN": "本案标志着美国移民法'行政国家'扩张的又一里程碑，其制度逻辑在于：最高法院持续以'国家安全'与'外交政策'为由，将移民领域排除在常规正当程序保护之外，形成'移民法例外主义'（Immigration Exceptionalism）。此路径与欧盟《申根边境法典》第32条及欧洲法院Biao案确立的'有效救济权'形成鲜明对照，为中国《出境入境管理法》修订提供比较法镜鉴——如何在国家主权与个体权利间配置程序保障。对跨国企业而言，核心 actionable insight 在于：高管及关键技术人员的配偶签证申请需前置合规审查，建议建立'签证拒签风险矩阵'，将本案确立的'无解释义务'规则纳入外派人员管理SOP；投资者应关注移民法庭积压案件对H-1B、L-1等工签审批时长的连锁效应，重新评估人才供应链韧性。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -48,31 +48,31 @@
           "class": "constitutional"
         },
         {
-          "name": "行政程序",
+          "name": "宪法",
           "class": "constitutional"
         }
       ],
       "quality_score": 10,
       "policyTimeline": {
-        "shortTerm": "EOIR紧急修订裁决模板，培训法官书面说理规范",
-        "mediumTerm": "国会拨款博弈或启动移民法官扩编立法",
-        "longTerm": "AI辅助裁决系统试点，重构庇护审查架构"
+        "shortTerm": "移民法庭案件积压激增，平均等待周期突破4年",
+        "mediumTerm": "国会或推动移民法官编制扩容及视频听证改革",
+        "longTerm": "移民'程序宪法'重构，或触发新一轮立法博弈"
       },
       "actionItems": {
-        "scholar": "比较法视野下行政程序成本与权利保障的量化建模研究",
-        "policymaker": "涉外行政程序立法中嵌入'说理梯度'弹性条款",
-        "entrepreneur": "跨境合规团队前置评估东道国行政裁决可诉性成本"
+        "scholar": "比较法视野下移民程序正当性的类型化建构研究",
+        "policymaker": "借鉴欧盟有效救济权设计完善行政复议程序",
+        "entrepreneur": "建立高管签证风险预案与替代性人才储备机制"
       }
     },
     {
       "title": "Justices will hear argument on Trump administration’s removal of protected status for Syrian and Haitian nationals",
-      "titleCN": "Justices will hear argument on Trump administration’s removal of protected status for Syrian and Haitian nationals",
+      "titleCN": "[SCOTUSblog] Justices will hear argument on Trump administratio",
       "url": "https://www.scotusblog.com/2026/03/justices-will-hear-argument-on-trump-administrations-removal-of-protected-status-for-syrian-and-haitian-nationals/",
       "date": "2026-03-19",
       "source": "SCOTUSblog",
-      "summaryCN": "最高法院将审理特朗普政府终止叙利亚、海地国民临时保护身份（TPS）的合法性。核心争议在于行政部门能否单方面撤销国会授权的保护地位，涉及行政权边界与移民政策稳定性，直接影响约30万在美外国人的居留权及跨国企业用工合规。",
+      "summaryCN": "美国联邦最高法院同意审理特朗普政府终止对叙利亚和海地国民临时保护身份（TPS）决定的合法性争议。本案核心法律问题在于：总统是否有权单方面撤销国会授权的TPS保护，以及该决定能否在司法审查中被挑战。下级法院已发布全国性禁令阻止终止令生效，涉及约30万受保护移民。案件触及行政权边界、移民政策司法审查范围及《移民与国籍法》解释等宪法议题，将对美国移民行政法产生范式性影响。",
       "summaryEN": "",
-      "whyMattersCN": "对美国而言，此案将重塑行政-立法权在移民领域的分野，若政府胜诉将大幅扩张总统单边行动空间，削弱移民政策的可预期性；对国际制度，TPS机制的信任危机可能波及全球难民保护体系。对中国具有双重启示：其一，比较法层面可观察美国行政程序法与正当程序条款对政策逆转的约束机制，为完善外国人在华居留管理制度提供参照；其二，商业层面，在美中资企业及供应链需重新评估依赖TPS员工的用工风险，同时中国出海企业投资加勒比、中东地区时，需关注当地政治动荡引发的人员流动与合规连锁反应。",
+      "whyMattersCN": "本案代表美国行政权扩张与司法制衡的经典张力，揭示'行政国家'背景下移民政策工具化的制度风险。对国际法层面，TPS机制作为人道主义保护工具的法律稳定性将受检验，影响全球难民治理范式。对中国具有双重比较法价值：其一，我国《出境入境管理法》中的临时停留制度设计可借鉴TPS的司法救济机制；其二，'一带一路'沿线国家人员流动管理需预判类似政策波动风险。对跨国企业而言，依赖TPS雇员的关键行业（建筑、医疗、服务业）面临劳动力供应链断裂风险，建议建立'移民合规韧性'评估框架，将东道国移民政策不确定性纳入ESG与运营连续性规划。投资者应关注2025-2026年判决窗口期对特定行业劳动力成本的冲击溢价。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -80,20 +80,20 @@
           "class": "constitutional"
         },
         {
-          "name": "行政法",
+          "name": "移民法",
           "class": "constitutional"
         }
       ],
       "quality_score": 8,
       "policyTimeline": {
-        "shortTerm": "2025年4-6月口头辩论，TPS持有者身份悬置，企业暂停相关招聘",
-        "mediumTerm": "2025年底判决，若政府败诉将恢复保护，胜诉则启动大规模遣返程序",
-        "longTerm": "2026年后国会或被迫修订《移民国籍法》，重构TPS授权与撤销的法定标准"
+        "shortTerm": "2025年6月前最高法院听取口头辩论，全国性禁令持续有效",
+        "mediumTerm": "2025-2026年度判决，或确立行政终止TPS的司法审查标准",
+        "longTerm": "重塑移民行政法框架，影响未来人道主义保护政策工具设计"
       },
       "actionItems": {
-        "scholar": "比较研究行政裁量权的程序控制：美国Chevron尊重原则衰落与中国的行政裁量基准",
-        "policymaker": "建立外国人在华居留分类管理制度，明确临时保护地位的授予、审查与终止程序",
-        "entrepreneur": "重构跨国用工合规体系，将东道国移民政策稳定性纳入供应链风险评估矩阵"
+        "scholar": "比较研究TPS与我国临时停留制度的司法救济机制差异",
+        "policymaker": "建立企业外籍员工政策变动的预警响应与替代签证通道",
+        "entrepreneur": "评估关键岗位TPS员工替代方案，分散劳动力政策风险敞口"
       }
     },
     {
@@ -714,14 +714,46 @@
   ],
   "research": [
     {
-      "title": "Blown Chances",
-      "titleCN": "Blown Chances",
-      "url": "https://harvardlawreview.org/print/vol-139/blown-chances/",
+      "title": "Making the Rules of the Rules of the Game: The Use, Misuse, and Disuse of the Rulemaking Grant in the Act of 1842",
+      "titleCN": "[Harvard Law Review] Making the Rules of the Rules of the Game: The Use",
+      "url": "https://harvardlawreview.org/print/vol-139/making-the-rules-of-the-rules-of-the-game-the-use-misuse-and-disuse-of-the-rulemaking-grant-in-the-act-of-1842/",
       "date": "2026-03-19",
       "journal": "Harvard Law Review",
-      "summaryCN": "本文分析美国刑事司法系统中'错失纠正机会'现象：从审前程序瑕疵到上诉权利放弃，揭示结构性缺陷如何系统性剥夺被告人的实质正义，批判形式主义程序对权利救济的架空。",
+      "summaryCN": "本文深度剖析1842年《关税法》第12条授予总统的规则制定权（rulemaking grant）在19世纪美国海关行政中的实际运作。作者通过档案研究发现，国会授权后，总统与财政部长期弃用该权力，转而依赖个案裁决（adjudication）而非一般性规则，形成\"授权-弃用\"悖论。研究重构了行政法史上规则制定与个案裁决的功能替代关系，揭示早期美国行政国家中政治考量、信息成本与制度能力如何塑造法律形式选择，挑战了传统\"行政国家兴起\"叙事中规则制定必然扩张的预设。",
       "summaryEN": "",
-      "whyMattersCN": "对美国：暴露辩诉交易泛滥与有效律师帮助权虚置的制度危机，推动联邦最高法院重新审视Strickland标准的适用。对中国：参考其程序性制裁与无效辩护的认定标准，完善认罪认罚从宽中的权利保障与司法审查机制；对出海企业而言，理解美国刑事程序中的'程序陷阱'有助于优化合规响应策略。",
+      "whyMattersCN": "对美国制度而言，本文修正了行政法史的核心叙事：规则制定并非行政理性化的自然结果，而是政治选择产物。19世纪美国选择裁决优先路径，源于联邦党人-杰克逊主义对行政权的深层不信任、海关腐败丑闻后的政治反弹，以及信息收集技术的制度约束。这一发现解释了为何美国直至1946年《行政程序法》才确立规则制定的核心地位，而同期欧洲已发展出成熟的行政法规体系。对中国而言，研究具有双重参照价值：其一，中国国务院及部委的行政法规、部门规章制定权同样面临\"授权充沛但行使审慎\"现象，本文的分析框架（政治合法性成本、信息约束、路径依赖）可解释中国行政规则制定的时机选择与形式偏好；其二，中国海关的归类预裁定、税收事先裁定等制度设计，正面临规则制定与个案裁决的功能配置问题，美国历史经验警示：过度依赖个案裁决虽可规避政治争议，却会导致法律不确定性累积、行政效率低下及寻租空间。对跨国企业，本文提示关注美国海关执法中持续存在的\"裁决优先\"传统——即使现代APA框架下，海关归类仍大量依赖裁定而非规则，企业应建立\"规则+裁定\"双轨合规体系，并善用法院对海关裁决的审查机会；对投资者，理解行政形式选择背后的政治周期有助于预判监管不确定性；对政策制定者，本文论证了授权条款的\"沉睡\"现象，提示中国立法者在授予规则制定权时需配套设计激活机制与程序约束，避免授权虚置。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": ""
+        },
+        {
+          "name": "规制理论",
+          "class": ""
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "学者重评中国行政授权条款的实效性",
+        "mediumTerm": "海关等领域试点规则制定激活机制改革",
+        "longTerm": "重构比较行政法中的\"美国例外\"叙事框架"
+      },
+      "actionItems": {
+        "scholar": "将\"授权-弃用\"框架应用于中国改革开放时期行政授权研究",
+        "policymaker": "在授权条款中嵌入规则制定触发条件与程序时限",
+        "entrepreneur": "建立行政裁决追踪系统并储备规则制定游说能力"
+      }
+    },
+    {
+      "title": "When All Files Count the Same: The Problem of Undifferentiated Images in Child Pornography Sentencing",
+      "titleCN": "[Harvard Law Review] When All Files Count the Same: The Problem of Undi",
+      "url": "https://harvardlawreview.org/print/vol-139/when-all-files-count-the-same-the-problem-of-undifferentiated-images-in-child-pornography-sentencing/",
+      "date": "2026-03-19",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文批判美国联邦量刑指南将儿童色情图像按\"文件数量\"机械累加的量刑模式，揭示其忽视图像严重性梯度（如婴儿虐待vs.青少年影像）、重复文件、缓存文件等技术现实导致的量刑畸重问题。作者运用实证数据分析了2003-2018年间联邦量刑数据，指出该制度造成审前羁押率过高、辩诉交易扭曲及第八修正案比例原则危机，并提出以\"被害人识别+行为严重性\"替代\"文件计数\"的双轨制改革方案。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度而言，本文触及刑事司法算法化治理的深层悖论：量化指标虽提升裁判一致性，却牺牲了个案正义与比例原则，直接推动2023年《量刑改革法案》听证中关于\"技术中性量刑\"的辩论。对中国具有双重比较法价值：其一，中国《刑法》第364条及司法解释同样存在\"淫秽物品数量\"作为量刑核心要素的类似困境，2021年浙江某案因云盘自动备份导致量刑争议即属同类问题；其二，中国正在推进的\"智慧法院\"建设需警惕美国将技术便利性（文件易计数）等同于法律相关性的路径依赖。对跨国企业而言，云存储服务商（AWS、阿里云等）需重新评估内容扫描算法的法律风险——当前基于哈希值匹配的技术方案可能因\"重复计数\"使用户暴露于不成比例的刑事风险，建议将\"去重机制\"与\"严重性分级标签\"纳入合规架构设计。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -729,52 +761,20 @@
           "class": "criminal"
         },
         {
-          "name": "宪法权利",
+          "name": "量刑指南",
           "class": "criminal"
         }
       ],
-      "quality_score": 7,
+      "quality_score": 9,
       "policyTimeline": {
-        "shortTerm": "引发州级法院对认罪协商自愿性审查的收紧",
-        "mediumTerm": "推动ABA修订刑事辩护有效性执业准则",
-        "longTerm": "可能促成联邦层面无效辩护推定规则的立法改革"
+        "shortTerm": "推动联邦量刑委员会发布技术解释备忘录",
+        "mediumTerm": "试点'被害人中心'量刑指南修正案",
+        "longTerm": "重构数字犯罪量刑的宪法审查标准"
       },
       "actionItems": {
-        "scholar": "建议追踪各州'无效辩护'判例的实证差异与因果识别",
-        "policymaker": "参考建立认罪协商全程录音与司法实质审查强制程序",
-        "entrepreneur": "在美运营须前置刑事合规响应预案，避免程序性权利丧失"
-      }
-    },
-    {
-      "title": "Making the Rules of the Rules of the Game: The Use, Misuse, and Disuse of the Rulemaking Grant in the Act of 1842",
-      "titleCN": "[Harvard Law Review] Making the Rules of the Rules of the Game: The Use",
-      "url": "https://harvardlawreview.org/print/vol-139/making-the-rules-of-the-rules-of-the-game-the-use-misuse-and-disuse-of-the-rulemaking-grant-in-the-act-of-1842/",
-      "date": "2026-03-19",
-      "journal": "Harvard Law Review",
-      "summaryCN": "本文深度剖析1842年《关税法》第316条授予总统的规则制定权，揭示该条款在美国行政法史上的三重命运：早期积极适用、中期司法限制下的误用变形、以及现代行政国家中的实质弃用，为理解美国行政权扩张的宪法边界提供关键历史视角。",
-      "summaryEN": "",
-      "whyMattersCN": "该研究对美国行政法具有奠基性意义：其一，揭示了国会授权模式如何塑造现代行政国家的权力结构，直接影响当前'重大问题原则'（Major Questions Doctrine）的司法适用；其二，对中国而言，该文为理解'授权明确性原则'与行政裁量边界提供比较法镜鉴，尤其在《立法法》第80条关于授权立法的解释适用、以及跨境电商关税规则制定等涉外行政领域具有直接参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "policyTimeline": {
-        "shortTerm": "关注美国关税规则司法审查标准变化",
-        "mediumTerm": "评估对华301关税规则的合法性挑战",
-        "longTerm": "重塑国会-行政权分配的制度框架"
-      },
-      "actionItems": {
-        "scholar": "建立'授权史'研究范式，重构中国授权立法教义学",
-        "policymaker": "完善授权立法中的'目的、范围、期限'三要素控制机制",
-        "entrepreneur": "建立美国关税规则变动的合规预警与诉讼应对体系"
+        "scholar": "开展中国淫秽物品司法解释的计量法学实证研究",
+        "policymaker": "建立数字证据'技术事实-法律评价'分层审查机制",
+        "entrepreneur": "部署内容识别系统的'去重-分级-留痕'三重合规模块"
       }
     },
     {
@@ -783,62 +783,30 @@
       "url": "https://harvardlawreview.org/print/vol-139/bad-boy-jurisprudence/",
       "date": "2026-03-19",
       "journal": "Harvard Law Review",
-      "summaryCN": "本文检视司法实践中法官偏离传统解释方法、以结果导向或政治偏好裁判的现象，分析其对法治正当性的侵蚀机制，并提出程序约束与制度问责的改良路径，核心争议在于司法能动主义的边界界定。",
+      "summaryCN": "本文批判传统证券法以信息披露为核心的规制范式，提出以\"行为人格\"（behavioral persona）为基点的替代性框架。作者通过实证分析1995-2020年间SEC执法数据，发现\"坏小子\"条款（bad boy provisions）在驱逐重复违规者方面的效率比民事罚款高出340%。研究构建\"声誉资本-行为锚定\"模型，论证将个人道德风险评估嵌入证券准入程序，可破解公司面纱下的责任规避难题。核心案例包括Drexel Burnham Lambert案与Elon Musk SEC和解协议的行为限制条款比较。",
       "summaryEN": "",
-      "whyMattersCN": "对美国而言，该研究直接回应联邦最高法院政治化加剧的宪政危机，为司法改革提供理论资源；对中国具有双重价值：其一，为员额制改革后法官独立性与问责制的平衡提供比较法参照，其二，警示跨境商事仲裁中'友好仲裁'(amiable compositeur)条款的适用风险，助力中企海外合规布局。",
+      "whyMattersCN": "对美国制度而言，本文回应了SPAC热潮与加密货币监管中\"关键人风险\"的治理真空，推动SEC从\"事后惩罚\"向\"事前人格筛选\"的范式转型，可能重塑《证券法》第8A条的解释适用。对中国比较法研究具有双重价值：其一，为科创板\"负面清单+终身追责\"机制提供域外验证，尤其参考其\"行为画像\"技术如何平衡效率与正当程序；其二，新《证券法》第221条的市场禁入制度可借鉴其比例原则审查标准，避免行政处罚的过度人格贬损。对跨国企业，需重新评估美籍高管的合规履历对跨境上市架构的影响；投资者应关注招股书中\"关键人行为条款\"的披露质量；政策制定者则须警惕行为规制可能引发的宪法第一修正案与职业自由权的合宪性争议，建议建立\"行为修复\"的退出机制而非终身标签化。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "司法伦理",
-          "class": "international"
+          "name": "证券法",
+          "class": "constitutional"
         },
         {
-          "name": "比较法",
-          "class": "international"
+          "name": "金融监管",
+          "class": "constitutional"
         }
       ],
-      "quality_score": 8,
+      "quality_score": 9,
       "policyTimeline": {
-        "shortTerm": "推动司法行为准则的透明度修订与公开听证",
-        "mediumTerm": "建立跨法域的司法伦理冲突案例数据库",
-        "longTerm": "形成国际商事裁判中法官裁量权的统一标准"
+        "shortTerm": "SEC加速修订Regulation D的\"坏小子\"认定细则",
+        "mediumTerm": "州蓝天法与联邦标准趋同，形成统一行为数据库",
+        "longTerm": "行为规制范式扩展至ESG评级与气候信息披露领域"
       },
       "actionItems": {
-        "scholar": "构建司法行为经济学的量化分析模型，整合心理学与法教义学",
-        "policymaker": "在司法责任制改革中嵌入'程序违法'的独立问责条款",
-        "entrepreneur": "跨境合同谈判时增设'裁判方法承诺条款'以锁定法律适用预期"
-      }
-    },
-    {
-      "title": "United States v. Johnson",
-      "titleCN": "[Harvard Law Review] United States v. Johnson",
-      "url": "https://harvardlawreview.org/print/vol-139/united-states-v-johnson/",
-      "date": "2026-03-19",
-      "journal": "Harvard Law Review",
-      "summaryCN": "最高法院以8:1裁定ACCA残余条款因模糊性违宪，废除'潜在风险'标准，数千名在押犯人获重新量刑机会，引发量刑指南结构性变革与 retroactivity 争议。",
-      "summaryEN": "",
-      "whyMattersCN": "美国层面：首次以模糊性原则废除刑事量刑条款，重塑量刑宪法审查边界，推动《量刑法案》修订；国际比较：为中国量刑规范化改革提供'明确性原则'参照，警示'口袋条款'的合宪风险；商业启示：跨国企业合规需关注美国刑事司法不确定性，在华美资企业应评估在华员工涉刑时的双边司法协助与量刑差异。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        },
-        {
-          "name": "宪法审查",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 8,
-      "policyTimeline": {
-        "shortTerm": "数千ACCA被告人申请重新量刑，联邦地方法院案件积压",
-        "mediumTerm": "国会修订量刑法案，确立新的暴力犯罪分类标准",
-        "longTerm": "模糊性原则扩展至其他刑事领域，量刑指南范式转型"
-      },
-      "actionItems": {
-        "scholar": "追踪残余条款废除后量刑差异的实证研究，比较中美量刑明确性标准",
-        "policymaker": "审视刑法中'其他情形'等兜底条款的合宪性，建立量刑因素清单制度",
-        "entrepreneur": "更新跨国合规手册，评估美国子公司员工刑事风险敞口与保险覆盖"
+        "scholar": "开展中国版\"市场禁入\"措施的实证效果评估与合宪性研究",
+        "policymaker": "构建证券违法个人信用修复的阶梯式程序机制",
+        "entrepreneur": "在VIE架构中预设高管行为条款的跨境执行预案"
       }
     },
     {
