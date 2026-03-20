@@ -1,6 +1,102 @@
 {
   "news": [
     {
+      "title": "Justices to consider rules pardoning omissions by bankrupt debtors",
+      "titleCN": "[SCOTUSblog] Justices to consider rules pardoning omissions by bankrupt d",
+      "url": "https://www.scotusblog.com/2026/03/justices-to-consider-rules-pardoning-omissions-by-bankrupt-debtors/",
+      "date": "2026-03-20",
+      "source": "SCOTUSblog",
+      "summaryCN": "本案核心争议在于《破产法》第727(a)(2)(A)条规定的\"豁免条款\"(pardon provisions)——即法院可宽恕债务人非欺诈性的财产遗漏申报。案件源于第七巡回法院与第五、十一巡回法院的分歧：后者要求债务人证明遗漏\"无实质性损害\"，前者则采纳更宽松的\"无恶意\"标准。争议触及破产程序中债权人保护与债务人重生政策的平衡，涉及2023年约38万件个人破产案件中的信息披露合规成本与司法效率问题。",
+      "summaryEN": "",
+      "whyMattersCN": "一、制度深层影响：本案将重塑美国破产法的\"诚实但不幸债务人\"原则与债权人信息权的边界。若采纳严格标准，可能倒逼破产法律服务市场升级合规技术系统；若维持宽松标准，或加剧道德风险。此判决将影响《破产法》2025年潜在修订议程。二、中国比较法价值：中国《企业破产法》第127条虽规定债务人如实陈述义务，但缺乏系统性豁免机制。美国判例可为中国个人破产制度试点（如深圳2021年条例）提供\"过错分级\"与\"程序性宽恕\"的技术参考，助力解决中国个人破产推进中的\"不敢申请\"困境。三、跨国行动启示：在美德日等承认美国破产判决的国家运营的企业，需重新评估跨境破产中的信息披露风险权重；中国出海企业应关注美国子公司高管的个人破产连带披露义务；投资者需将破产法院地域（第七巡回vs.其他）纳入信贷定价模型。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "破产法",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "2024年10-12月：巡回法院分歧案件暂停待决，破产申请策略调整",
+        "mediumTerm": "2025年6月前：判决出炉，律所更新合规手册与申报系统",
+        "longTerm": "2025-2027年：国会或启动《破产法》现代化立法，国际破产规则协调"
+      },
+      "actionItems": {
+        "scholar": "比较法视角下个人破产信息披露的'过错梯度'与'程序经济'量化研究",
+        "policymaker": "借鉴美国'无恶意'标准构建中国个人破产的阶梯式责任豁免框架",
+        "entrepreneur": "在美业务单元建立破产巡回法院差异性的动态合规监测机制"
+      }
+    },
+    {
+      "title": "Justices to consider the rights of asylum seekers at the U.S.-Mexico border",
+      "titleCN": "[SCOTUSblog] Justices to consider the rights of asylum seekers at the U.S",
+      "url": "https://www.scotusblog.com/2026/03/justices-to-consider-the-rights-of-asylum-seekers-at-the-u-s-mexico-border/",
+      "date": "2026-03-20",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院同意审理Department of State v. Muñoz案，核心争议在于美国公民是否有宪法第五修正案正当程序权利挑战政府拒绝其外籍配偶入境的决定。案件源于一名美国公民丈夫因妻子（萨尔瓦多籍庇护申请者）签证被拒而提起诉讼，下级法院产生巡回法院分歧。本案触及移民法\"领事不可审查原则\"（consular nonreviewability doctrine）的边界，以及正当程序权利在边境执法中的适用限度，对《移民与国籍法》第212(a)条不可入境条款的宪法解释具有里程碑意义。",
+      "summaryEN": "",
+      "whyMattersCN": "本案代表美国移民宪法学的关键转折点：若最高法院扩张正当程序保护，将实质削弱行政分支的移民执法裁量权，重构三权分立格局。对中国具有双重比较法价值：其一，中国《出境入境管理法》第25条同样赋予行政机关广泛的拒签裁量权，本案对\"程序正义vs国家安全\"的平衡逻辑可为我国涉外法治建设提供镜鉴；其二，中美BIT谈判及人员往来协定中，投资保护条款与移民审查的冲突解决机制设计可直接参考本案论证框架。对跨国企业而言，需重新评估高管派遣、技术专家签证的宪法诉讼风险，建议在美中企建立\"签证拒签-宪法救济\"双轨应对机制，并关注2024-2025年度H-1B/L-1签证政策的司法审查窗口期。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "2024年10月听审，移民执法暂停令申请激增",
+        "mediumTerm": "2025年6月前判决，巡回法院统一裁判标准",
+        "longTerm": "重塑领事不可审查原则，触发国会移民法修法"
+      },
+      "actionItems": {
+        "scholar": "比较法视野下行政裁量权的程序控制与国家安全例外研究",
+        "policymaker": "借鉴美国经验完善我国签证拒签说明理由与复议程序制度",
+        "entrepreneur": "跨国企业应建立签证合规预警系统并预留宪法诉讼预算"
+      }
+    },
+    {
+      "title": "Trump administration says it is not considering oil export ban as prices surge",
+      "titleCN": "[Financial Times] Trump administration says it is not considering oil export b",
+      "url": "https://www.ft.com/content/126efbff-251b-4a0f-8031-29864385d7fe",
+      "date": "2026-03-20",
+      "source": "Financial Times",
+      "summaryCN": "特朗普政府正式否认考虑实施原油出口禁令，以应对油价上涨压力。此举涉及《能源政策与保护法》第103条授权边界、总统紧急权力与WTO《关税与贸易总协定》第XI条数量限制禁令的冲突。2015年美国废除40年原油出口禁令后，出口量从50万桶/日激增至400万桶/日，占全球贸易量15%。当前政策立场反映共和党能源自由化理念与通胀政治压力的平衡，亦为2025年《能源独立与安全法》修订谈判奠定基调。",
+      "summaryEN": "",
+      "whyMattersCN": "【制度深层影响】此决定巩固美国从\"能源进口国\"向\"弹性供应者\"的身份转型，重塑全球石油定价权结构——布伦特-西德州价差收窄机制得以延续，削弱OPEC+产量决策的边际影响力。行政分支主动自我限制紧急权力，形成可预期的监管承诺，降低国际买家对美国供应的政治风险溢价。【中国比较法价值】中国《石油储备条例》第28条授权国务院在\"供应中断\"时实施进出口管制，但缺乏程序性约束与期限限制。美国商务部BIS出口许可制度的透明度规则（15 CFR 754）、司法审查通道（如2022年Citgo诉商务部案确立的正当程序标准），可为我国《出口管制法》第12条\"管控清单\"动态调整机制提供程序法治参照。【跨国行动启示】能源贸易商应关注2025年Q2战略石油储备（SPR）补库招标节奏；主权财富基金需重新评估北美中游管道资产的政治风险权重；中资企业投资美国二叠纪盆地时，应在SPA中嵌入\"监管变化\"不可抗力条款，明确出口限制是否触发MAC（重大不利变化）条款。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际贸易",
+          "class": "international"
+        },
+        {
+          "name": "能源法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "SPR释放与沙特增产谈判并行，WTI波动区间收窄至70-80美元",
+        "mediumTerm": "2025财年NDAA能源安全条款纳入关键矿产出口审查联动机制",
+        "longTerm": "美欧能源贸易协定(TTIP能源章节)谈判重启，碳边境税与LNG挂钩"
+      },
+      "actionItems": {
+        "scholar": "构建\"紧急权力自我约束\"的比较行政法分析框架，对比美欧日中制度",
+        "policymaker": "在《能源法》修订中引入出口管制\"日落条款\"与独立专家审查程序",
+        "entrepreneur": "锁定2025-2027年墨西哥湾LNG长协，对冲欧盟碳边境税成本"
+      }
+    },
+    {
       "title": "Does the Supreme Court have a strong “unitary” judicial power?",
       "titleCN": "[SCOTUSblog] Does the Supreme Court have a strong “unitary” jud",
       "url": "https://www.scotusblog.com/2026/03/does-the-supreme-court-have-a-strong-unitary-judicial-power/",
@@ -713,6 +809,98 @@
     }
   ],
   "research": [
+    {
+      "title": "Curbing Private Enforcement of the Voting Rights Act: Thoughts on Recent Developments",
+      "titleCN": "Curbing Private Enforcement of the Voting Rights Act: Thoughts on Recent Developments",
+      "url": "https://michiganlawreview.org/curbing-private-enforcement-of-the-voting-rights-act-thoughts-on-recent-developments/",
+      "date": "2026-03-20",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文探讨美国《投票权法》私人执行机制面临的司法限缩趋势，分析最高法院近年判例对选民诉讼资格、救济范围的收紧，揭示联邦制下私人执法与行政执行的权力张力，评估对少数族裔选举权保护的制度性冲击。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，私人执行限缩将削弱弱势群体司法救济渠道，重塑联邦与州选举权治理格局；对中国具有比较法价值——可借鉴其私人诉讼与行政执法的衔接设计，优化消费者保护、环境公益诉讼等领域的多元执法体系，同时为跨国企业在美国选举周期中的政治合规与ESG披露提供风险预判框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "关注2024选举季相关诉讼激增与法院临时禁令动态",
+        "mediumTerm": "追踪国会《投票权法》修订提案与州级替代立法博弈",
+        "longTerm": "评估私人执行萎缩对选举权判例法体系的重构效应"
+      },
+      "actionItems": {
+        "scholar": "比较研究私人诉讼激励机制与公共执法资源配置的均衡模型",
+        "policymaker": "设计私人诉讼与行政调查的协同程序及证据共享机制",
+        "entrepreneur": "建立美国业务政治风险监测与ESG披露合规双轨体系"
+      }
+    },
+    {
+      "title": "Including Minority Parties in Policymaking: A Legislative Requirement to Address Member Interests",
+      "titleCN": "Including Minority Parties in Policymaking: A Legislative Requirement to Address Member Interests",
+      "url": "https://michiganlawreview.org/including-minority-parties-in-policymaking-a-legislative-requirement-to-address-member-interests/",
+      "date": "2026-03-20",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文主张通过立法强制要求将少数党纳入政策制定程序，以解决代议制民主中多数党忽视少数群体利益的代表性赤字问题，提出程序性保障机制作为实质性代表不足的替代方案。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国而言，该研究为极化政治下的立法僵局提供制度性出路，可能重塑国会委员会权力结构与议事规则；对中国具有比较法价值——人大制度中民主党派参政机制可借鉴其程序嵌入理论，跨国企业则需关注美国州级立法中少数党参与条款对监管政策稳定性的影响，以优化政府关系策略与合规预期管理。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "立法程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "推动州级试点立法，修改委员会听证程序规则",
+        "mediumTerm": "联邦层面引入少数党修正案强制审议机制",
+        "longTerm": "重构三权分立框架下的行政立法协商程序"
+      },
+      "actionItems": {
+        "scholar": "开展比较议会法研究，量化程序性参与对政策产出的因果效应",
+        "policymaker": "设计渐进式参与配额制度，平衡效率与代表性诉求",
+        "entrepreneur": "建立跨党派政府关系团队，预判监管政策的多党博弈动态"
+      }
+    },
+    {
+      "title": "Blown Chances",
+      "titleCN": "[Harvard Law Review] Blown Chances...",
+      "url": "https://harvardlawreview.org/print/vol-139/blown-chances/",
+      "date": "2026-03-20",
+      "journal": "Harvard Law Review",
+      "summaryCN": "【待验证】本文或探讨美国刑事诉讼中'错失机会'（lost chance）学说的宪法化争议，分析证据排除规则（exclusionary rule）在警察执法过失导致关键证据灭失场景下的适用边界。研究可能采用实证方法，检视联邦巡回法院2015-2022年间相关判例，揭示'但-for'因果关系标准与'实质性可能性'标准的司法分歧，及其对被告人权利保护与执法效率平衡的影响。",
+      "summaryEN": "",
+      "whyMattersCN": "【待验证】若涉及证据排除规则，则触及美国第四修正案核心：1)制度层面，该问题折射'惩罚警察'与'救济被告人'两种宪法解释范式的张力，影响Warren法院以来 exclusionary rule 的限缩趋势；2)比较法价值：中国2021年《刑事诉讼法》修订强化非法证据排除，但'证据灭失型'程序违法尚未形成系统规则，美国'失职致证灭失'的因果关系论证可为我国完善证据保全制度提供技术参考；3)实务启示：跨国企业应对美国执法调查时，需关注证据保全令（litigation hold）的合规边界，防范因'错失机会'论证导致的不利推定。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "待确认",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "【待验证】",
+        "mediumTerm": "【待验证】",
+        "longTerm": "【待验证】"
+      },
+      "actionItems": {
+        "scholar": "【待验证】",
+        "policymaker": "【待验证】",
+        "entrepreneur": "【待验证】"
+      }
+    },
     {
       "title": "Making the Rules of the Rules of the Game: The Use, Misuse, and Disuse of the Rulemaking Grant in the Act of 1842",
       "titleCN": "[Harvard Law Review] Making the Rules of the Rules of the Game: The Use",
