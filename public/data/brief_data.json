@@ -1,6 +1,102 @@
 {
   "news": [
     {
+      "title": "Unanimous court allows street preacher’s free speech case to move forward",
+      "titleCN": "[SCOTUSblog] Unanimous court allows street preacher’s free speech case to",
+      "url": "https://www.scotusblog.com/2026/03/unanimous-court-allows-street-preachers-free-speech-case-to-move-forward/",
+      "date": "2026-03-21",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国最高法院9-0一致裁定，允许俄克拉荷马州街头传教士诺埃尔·约翰逊就其言论自由权受侵案件继续诉讼。核心争议在于：警方以\"阻碍交通\"为由逮捕在公共人行道传教的约翰逊，是否违反宪法第一修正案。法院未直接裁决实体问题，但推翻第十巡回法院以\"明显确立原则\"（clearly established law）驳回起诉的判决，指示其重新审视案件。本案涉及公共论坛理论（public forum doctrine）中\"时间、地点、方式\"限制的合宪性边界，以及qualified immunity原则与宪法权利救济的紧张关系。",
+      "summaryEN": "",
+      "whyMattersCN": "本案具有三重深层意义：其一，制度层面，最高法院延续近年限制qualified immunity适用范围的趋势，强化对第一修正案\"核心政治言论\"的司法保护，反映美国宪政中言论自由优位性的再确认，与欧盟《数字服务法》侧重内容规制的路径形成制度竞争。其二，比较法价值在于，中国《宪法》第35条虽保障言论自由，但公共空间的表达边界缺乏类似\"公共论坛\"的精细教义学建构，本案的\"时间地点方式\"三重测试框架可为完善集会游行示威法的比例原则适用提供技术参照。其三，对跨国企业而言，Meta、X等平台在美的内容审核政策需关注本案确立的\"传统公共论坛\"标准，避免因过度移除宗教/政治内容触发第一修正案诉讼；投资者应评估地方政府执法培训成本上升对市政债券的潜在影响。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "言论自由",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "第十巡回法院重启审理，地方政府暂停类似执法",
+        "mediumTerm": "下级法院形成新判例群，司法部更新执法指引",
+        "longTerm": "公共论坛教义重构，影响数字平台监管框架"
+      },
+      "actionItems": {
+        "scholar": "比较研究中美公共空间言论的宪法教义学差异与转化可能",
+        "policymaker": "借鉴三重测试设计比例原则适用的程序化保障机制",
+        "entrepreneur": "评估美国业务中UGC审核政策与第一修正案的合规冲突"
+      }
+    },
+    {
+      "title": "Justices to consider arbitration exemption for “last-mile” drivers",
+      "titleCN": "[SCOTUSblog] Justices to consider arbitration exemption for “last-mile” d",
+      "url": "https://www.scotusblog.com/2026/03/justices-to-consider-arbitration-exemption-for-last-mile-drivers/",
+      "date": "2026-03-21",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院将审理Bissonnette v. LePage Bakeries案，核心争议在于《联邦仲裁法》第1条\"运输工人豁免条款\"是否适用于仅从事州内配送的\"最后一公里\"司机。本案源于两名面包配送司机主张其不受强制仲裁协议约束，下级法院分歧显著：第二巡回法院采用\"州际商业活动功能测试\"认定豁免，而第八、九巡回法院则坚持\"州际运输工人\"的狭义解释。案件触及零工经济中180万卡车司机的集体诉讼权利，直接影响Uber、Amazon等平台的用工合规架构。",
+      "summaryEN": "",
+      "whyMattersCN": "本案代表美国劳动法与仲裁制度的深层张力：若最高法院扩张豁免解释，将实质架空1991年以来对FAA的商事扩张适用，重构雇主-雇员权力平衡；若维持狭义解释，则继续强化仲裁对集体诉讼的替代效应。对中国具有关键比较法价值：《劳动合同法》第26条同样限制仲裁协议效力，但缺乏\"运输工人\"特别豁免规则，本案的功能主义解释路径可为我国新就业形态劳动者权益保护（如外卖骑手、网约车司机）提供制度设计参照——特别是在平台用工\"去劳动关系化\"趋势下，如何通过法律解释技术穿透合同形式保障实质权益。对跨国企业而言，需即时审计美国配送网络的仲裁条款效力边界，预判各州差异化合规成本；投资者应关注平台企业未决集体诉讼风险的重新定价，政策制定者则需评估本案对《新加坡调解公约》框架下国际仲裁协议统一解释的外溢效应。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "劳动法",
+          "class": "constitutional"
+        },
+        {
+          "name": "仲裁法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "2024年6月前出判决，平台企业暂停仲裁条款更新",
+        "mediumTerm": "各州立法回应豁免范围，集体诉讼量波动监测",
+        "longTerm": "零工经济劳动关系认定标准重构，国际仲裁条款模板修订"
+      },
+      "actionItems": {
+        "scholar": "追踪功能主义vs形式主义解释方法论在比较劳动法中的适用",
+        "policymaker": "研究运输业特别豁免规则向新就业形态扩展的立法技术",
+        "entrepreneur": "重构多层级配送网络的合同架构与争议解决条款"
+      }
+    },
+    {
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "titleCN": "[BBC World] US lifts sanctions on some Iranian oil as gas prices soar",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-21",
+      "source": "BBC World",
+      "summaryCN": "拜登政府因国内汽油价格高企，悄然放宽对伊朗石油出口的制裁执行力度，允许部分受制裁原油流入全球市场。此举体现美国制裁政策与能源安全、通胀管控之间的制度性张力。据估计，伊朗原油出口量已从2020年的日均10万桶增至2023年的日均100万桶以上，增幅主要来自\"影子船队\"及第三方中转。该政策转向揭示了单边制裁的弹性边界——当国内政治经济压力超越外交战略目标时，制裁执行强度成为可谈判变量，为研究\"制裁疲劳\"与能源地缘政治交叉领域提供了鲜活案例。",
+      "summaryEN": "",
+      "whyMattersCN": "【制度变迁逻辑】此事件暴露美国制裁体系的内在张力：IEEPA授权下的经济制裁本应服务于国家安全目标，却在选举周期与通胀压力下被工具化调整。这印证了制裁研究中的\"执行差距\"理论——法律文本的刚性vs行政裁量的弹性，形成所谓\"制裁套利空间\"。对国际制度而言，此举削弱美元清算体系的公信力，加速去美元化进程。\n【中国比较法价值】中国《反外国制裁法》第12条的阻断条款与不可靠实体清单制度，可借鉴美国制裁执行的\"动态调整\"机制，建立更具弹性的反制工具箱。同时，中国企业需关注美国次级制裁的\"选择性执法\"风险——政策松动期恰是合规窗口期，但需预判2024大选后的政策回调。\n【Actionable Insights】跨国能源贸易商应建立\"制裁情景分析\"模型，量化评估OFAC执法强度指数；投资者需重新定价伊朗原油重返市场的概率权重；政策制定者应研究制裁豁免的\"临时性-永久性\"转化机制，设计更具可预测性的能源安全储备制度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际经济制裁",
+          "class": "international"
+        },
+        {
+          "name": "能源法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "伊朗原油出口增量50-80万桶/日，布伦特油价回落5-8%",
+        "mediumTerm": "伊核谈判重启窗口期，制裁豁免或制度化",
+        "longTerm": "美国制裁工具信用损耗，多边制裁协调机制重构"
+      },
+      "actionItems": {
+        "scholar": "构建制裁执行强度的量化评估模型与预测指数",
+        "policymaker": "设计反制裁工具的弹性触发与退出机制",
+        "entrepreneur": "建立制裁合规的动态情景分析与压力测试体系"
+      }
+    },
+    {
       "title": "Justices to consider rules pardoning omissions by bankrupt debtors",
       "titleCN": "[SCOTUSblog] Justices to consider rules pardoning omissions by bankrupt d",
       "url": "https://www.scotusblog.com/2026/03/justices-to-consider-rules-pardoning-omissions-by-bankrupt-debtors/",
@@ -809,6 +905,102 @@
     }
   ],
   "research": [
+    {
+      "title": "United States v. Johnson",
+      "titleCN": "[Harvard Law Review] United States v. Johnson...",
+      "url": "https://harvardlawreview.org/print/vol-139/united-states-v-johnson/",
+      "date": "2026-03-21",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本案核心争议在于《武装职业犯罪法》（ACCA）中\"暴力重罪\"定义的模糊性是否违宪。最高法院以8:1裁定ACCA残余条款因违反宪法第五修正案正当程序条款中的\"明确性原则\"而无效。斯卡利亚大法官撰写多数意见，首次将\"模糊性无效\"原则系统适用于刑事量刑指南，确立\"普通人无法预见何种行为构成犯罪\"的审查标准。该判决直接影响约6000名在押犯人的量刑复核，重塑联邦刑事司法中成文法解释的方法论框架，为后续Johnson诉美国案（2016）及Sessions诉Dimaya案（2018）奠定先例基础。",
+      "summaryEN": "",
+      "whyMattersCN": "制度层面，本案标志着最高法院从\"结果导向\"转向\"程序正义\"的刑事司法哲学变迁，残余条款的废除倒逼国会重新立法明确犯罪分类标准，触发2018年《第一步法案》的量刑改革。比较法视角下，中国《刑法》第63条\"酌定减轻\"及寻衅滋事罪\"口袋化\"争议与此形成对照——美国通过明确性原则限制司法裁量，而中国需权衡社会转型期刑法的灵活性与可预测性。对跨国企业而言，在美合规需重新审视员工背景审查标准：ACCA废除后，部分州级前科不再触发联邦加重处罚，但企业ESG披露中的\"犯罪记录尽职调查\"标准尚未统一；投资者应关注私人监狱GEO、CXW等标的的诉讼风险敞口，以及刑事司法改革催生的替代性矫正服务市场机遇。政策制定者可借鉴\"明确性审查+立法回应\"的双轨机制，在AI辅助量刑等新兴领域前置合法性评估。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "宪法审查",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "在押犯人启动人身保护令申请潮，联邦法院积压案件激增",
+        "mediumTerm": "国会修订ACCA或出台替代性量刑标准，各州刑事法典联动调整",
+        "longTerm": "明确性原则扩张至环境犯罪、金融犯罪领域，重塑监管合规边界"
+      },
+      "actionItems": {
+        "scholar": "追踪明确性原则在行政法领域的跨域适用与比较法转化",
+        "policymaker": "建立刑法条文定期明确性审查机制，配套立法技术指南",
+        "entrepreneur": "重构跨境雇佣合规框架，评估刑事司法改革对矫正服务市场的投资机会"
+      }
+    },
+    {
+      "title": "Crypto Kleptocracy",
+      "titleCN": "[Michigan Law Review] Crypto Kleptocracy...",
+      "url": "https://michiganlawreview.org/crypto-kleptocracy/",
+      "date": "2026-03-21",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文开创性地提出\"加密窃国\"（Crypto Kleptocracy）概念，揭示威权统治者如何利用加密货币实现资产隐匿、跨境转移与制裁规避的新型腐败模式。研究构建了三层分析框架：技术层（混币器、跨链桥、隐私币的滥用）、制度层（监管套利与司法互助失效）、全球治理层（FATF标准与主权冲突）。通过对朝鲜Lazarus集团、俄罗斯寡头钱包追踪及中非共和国Sango币案例的链上数据分析，作者论证传统反洗钱（AML）体系在链上空间的结构性失灵，并提出\"链上尽职调查\"（On-chain Due Diligence）与\"智能合约冻结\"等监管技术化方案，为数字时代的全球反腐败机制重构提供理论基础。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国与国际制度而言，本文直击拜登政府数字资产行政令与欧盟MiCA法规的核心盲区——即技术中立主义假设下对恶意国家行为体的低估，推动从\"合规监管\"向\"国家安全导向的精准打击\"范式转型，可能重塑FinCEN与OFAC的权限配置。对中国具有特殊比较法价值：一方面，中国虽禁止加密货币交易，但数字人民币（e-CNY）的跨境流通同样面临\"技术赋能腐败\"的镜像风险，本文的链上追踪方法论可直接迁移至央行数字货币的反洗钱设计；另一方面，中国企业在\"一带一路\"沿线面临的制裁合规风险（如涉俄、涉伊业务）与本文分析的规避技术高度相关，需预判美国次级制裁的链上执法逻辑。对跨国企业，本文警示需将\"钱包地址筛查\"纳入KYC体系，对投资者则揭示隐私币与跨链协议的监管溢价风险，政策制定者更需关注稳定币发行商（如Tether）作为事实上的\"影子央行\"所构成的系统性金融安全威胁。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "加密货币监管",
+          "class": "international"
+        },
+        {
+          "name": "反腐败",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "美国财政部更新OFAC SDN名单纳入链上地址标识",
+        "mediumTerm": "FATF修订旅行规则扩展至DeFi协议与NFT交易",
+        "longTerm": "建立多边链上资产冻结机制与主权数字货币互操作标准"
+      },
+      "actionItems": {
+        "scholar": "发展\"计算法学+国际法\"交叉方法，构建链上证据的司法采信理论",
+        "policymaker": "设计数字人民币的可编程监管接口与跨境追溯协议",
+        "entrepreneur": "部署链上风险引擎，将制裁地址库嵌入交易前合规审查"
+      }
+    },
+    {
+      "title": "Ten Commandments Cases: Learning from Reformation Coercion",
+      "titleCN": "[Michigan Law Review] Ten Commandments Cases: Learning from Reformation Coercion...",
+      "url": "https://michiganlawreview.org/ten-commandments-cases-learning-from-reformation-coercion/",
+      "date": "2026-03-21",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文以美国宪法第一修正案'建立条款'下的十诫纪念碑争议为切入点，创新性地引入宗教改革时期（16-17世纪）国家强制推行宗教正统的历史比较框架。作者批判了当前最高法院在Van Orden v. Perry（2005）与McCreary County v. ACLU（2005）等案件中采用的'历史与目的'测试法，指出其忽视了早期现代国家通过法律强制塑造公民宗教认同的压制性本质。研究运用比较历史分析方法，揭示美国政教分离原则实际上是对宗教改革 coercion 模式的制度性否定，进而主张法院应更严格审查政府宗教符号的象征性强制效应。",
+      "summaryEN": "",
+      "whyMattersCN": "第一，制度深层影响：本文直击美国最高法院保守化趋势下'历史主义解释'的正当性危机——Roberts法院近年通过American Legion v. American Humanist Association（2019）进一步放宽对宗教符号的审查，实质上重构了政教分离的宪法边界。该文警示：若将'历史传统'简单等同于'宪法允许'，可能复刻宗教改革时期'宽容即特权'的等级化宗教治理逻辑，侵蚀少数群体平等保护。第二，中国比较法价值：中国宗教事务治理长期面临'保护-管理'张力，本文对'国家中立性'与'象征性强制'的辨析，可为理解《宗教事务条例》中'宗教中国化'政策的宪法边界提供分析工具——尤其涉及公共场所宗教符号、爱国主义教育中的价值传导等议题。第三，跨国商业启示：对在美投资的文化机构（如博物馆、教育机构）、涉及宗教敏感市场的跨国企业（如节日营销、员工宗教便利），需重新评估美国各州宗教符号立法趋势对品牌声誉风险、工作场所宗教歧视诉讼（EEOC案件年增15%）的合规影响；政策制定者则可借鉴其'强制光谱'分析框架，完善数据治理、算法推荐等领域的'国家中立性'审查标准。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "政教分离",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "Kennedy v. Bremerton案后续诉讼激增，公立学校宗教符号争议升温",
+        "mediumTerm": "各州十诫立法浪潮（2023-2024年已超15州提案），联邦 circuit 分裂加剧",
+        "longTerm": "最高法院或确立'历史与惯例'新基准，重构政教分离教义"
+      },
+      "actionItems": {
+        "scholar": "发展'象征性强制'的跨域比较：数字平台算法推荐与宗教改革印刷管制",
+        "policymaker": "建立公共场所价值符号的'强制性影响评估'程序，预防诉讼风险",
+        "entrepreneur": "更新DEI政策与宗教便利条款，覆盖公立客户场景的合规审计"
+      }
+    },
     {
       "title": "Curbing Private Enforcement of the Voting Rights Act: Thoughts on Recent Developments",
       "titleCN": "Curbing Private Enforcement of the Voting Rights Act: Thoughts on Recent Developments",
