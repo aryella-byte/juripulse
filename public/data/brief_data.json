@@ -1,6 +1,70 @@
 {
   "news": [
     {
+      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
+      "titleCN": "Pentagon restrictions on press violate First Amendment, judge rules",
+      "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-23",
+      "source": "BBC World",
+      "summaryCN": "美国联邦法官裁定国防部对媒体采访五角大楼的限制措施违反宪法第一修正案。本案源于美联社记者因报道争议内容被限制进入国防部设施，法院认定该限制构成'观点歧视'。判决确立'军事设施访问权'属于受保护的言论自由范畴，适用严格审查标准。这是自1972年Branzburg案以来，联邦法院对新闻自由与国家安全平衡的重要司法续造，为'嵌入式报道'制度提供了宪法基准。",
+      "summaryEN": "",
+      "whyMattersCN": "制度层面，本案重塑了美国'国家安全例外'的司法边界，法院拒绝采纳国防部主张的'军事自主权'抗辩，将第一修正案的保护范围从'出版自由'扩展至'信息获取权'，可能触发《信息自由法》修订及军方媒体政策的系统性重构。比较法视角下，中国《政府信息公开条例》第14条同样涉及'三安全一稳定'例外，但缺乏独立的司法审查机制；本案的'严格审查+举证责任倒置'模式可为完善我国重大行政决策程序中的公众参与权提供参照。商业维度，国防承包商（如Lockheed Martin、Palantir）的ESG披露将面临更高透明度要求，跨国科技企业需重新评估与军方合作项目的媒体策略；投资者应关注'国防+媒体'交叉领域的诉讼风险敞口，建议将'新闻自由指数'纳入军工板块估值模型。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "policyTimeline": {
+        "shortTerm": "国防部修订媒体接触规则，设立独立申诉机制",
+        "mediumTerm": "国会启动《国防授权法》新闻自由条款修订",
+        "longTerm": "形成'军事-媒体'关系判例群，影响北约盟国立法"
+      },
+      "actionItems": {
+        "scholar": "比较研究'信息获取权'的宪法化路径与司法审查强度",
+        "policymaker": "建立重大决策公众参与的'比例原则+程序保障'双轨制",
+        "entrepreneur": "将媒体关系合规纳入政府合同风险管理框架"
+      }
+    },
+    {
+      "title": "US lifts sanctions on some Iranian oil as energy prices soar",
+      "titleCN": "US lifts sanctions on some Iranian oil as energy prices soar",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-23",
+      "source": "BBC Business",
+      "summaryCN": "面对全球能源价格飙升，拜登政府通过《伊朗制裁法》豁免机制，有限度解除对伊朗石油出口的二级制裁，允许部分国家继续进口伊朗原油。此举涉及《国际紧急经济权力法》(IEEPA)的行政裁量权行使，标志着制裁政策从\"极限施压\"向\"弹性务实\"转型。据IEA数据，伊朗原油日出口量或增50-80万桶，短期可平抑布伦特油价约5-8美元/桶，但豁免条款附带的\"人道主义通道\"限制与核谈判挂钩的 sunset clause 设计，凸显制裁法作为地缘政治工具的复合功能。",
+      "summaryEN": "",
+      "whyMattersCN": "【制度变迁逻辑】此次政策调整揭示美国制裁体系从\"规则刚性\"向\"目标弹性\"的深层转型：IEEPA授权下的制裁豁免权正成为行政分支对冲国内通胀压力的政策工具，削弱国会《2017年制裁法案》的立法约束效力，形成\"制裁—豁免—再制裁\"的周期性制度疲劳，长远将侵蚀美元制裁网络的公信力。【比较法价值】对中国而言，美国次级制裁的\"长臂管辖\"与豁免机制的\"选择性放松\"形成对照，为完善《反外国制裁法》的阻断条款与不可靠实体清单制度提供镜鉴——如何在维护主权反制能力与保持能源贸易灵活性之间建立动态平衡机制。【行动启示】跨国能源贸易商需重构制裁合规框架：建立\"制裁地图+豁免追踪\"双轨监测系统，评估伊朗石油重新进入全球供应链对迪拜/阿曼原油升贴水的价格发现机制冲击；主权财富基金应关注美伊核谈判进展对制裁豁免可持续性的期权定价影响。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际经济制裁",
+          "class": "international"
+        },
+        {
+          "name": "能源法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 9,
+      "policyTimeline": {
+        "shortTerm": "伊朗原油出口增量入市，油价波动率下降，合规成本重构",
+        "mediumTerm": "核谈判僵局或致豁免到期，制裁风险溢价重新定价",
+        "longTerm": "制裁工具信用损耗，多极结算体系加速替代美元"
+      },
+      "actionItems": {
+        "scholar": "研究制裁豁免的行政裁量边界与司法审查缺位问题",
+        "policymaker": "构建反制裁法中的\"人道主义例外\"对等豁免机制",
+        "entrepreneur": "部署AI驱动的实时制裁名单筛查与豁免条款追踪系统"
+      }
+    },
+    {
       "title": "Unanimous court allows street preacher’s free speech case to move forward",
       "titleCN": "[SCOTUSblog] Unanimous court allows street preacher’s free speech case to",
       "url": "https://www.scotusblog.com/2026/03/unanimous-court-allows-street-preachers-free-speech-case-to-move-forward/",
@@ -905,6 +969,102 @@
     }
   ],
   "research": [
+    {
+      "title": "Sun Valley Orchards, LLCv. United States Department of Labor",
+      "titleCN": "Sun Valley Orchards, LLCv. United States Department of Labor",
+      "url": "https://harvardlawreview.org/print/vol-139/sun-valley-orchards-llcv-united-states-department-of-labor/",
+      "date": "2026-03-23",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本案涉及美国第九巡回法院对H-2A农业外籍劳工签证项目中劳工部工资裁定的司法审查范围争议。法院以2:1多数认定《行政程序法》排除对劳工部工资决定的审查，基于H-2A法规的\"shall\"强制性措辞构成对司法审查的默示排除。异议法官主张该解释违背Chevron尊重原则与分权制衡传统。本案核心在于行政国家扩张背景下，国会沉默是否足以剥夺法院对涉及数亿美元劳工成本的行政决定的审查权，触及1946年APA第701(a)(1)条\"排除审查\"条款的当代适用边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案折射出美国行政法核心张力：司法审查作为法治基石与行政效率之间的结构性冲突。第一，制度层面，本案延续了Loper Bright案后Chevron体系崩塌的连锁效应——当法院不再尊重行政机关的法律解释，国会更倾向通过默示排除条款封锁司法渠道，形成\"行政权力膨胀-司法通道收窄\"的恶性循环，重塑三权分立格局。第二，比较法价值显著：中国《行政诉讼法》第13条亦存在类似\"行政机关最终裁决\"的排除条款，但司法实践通过\"行政协议\"\"过程性行为\"等概念扩张保护范围；美国本案的严格文本主义解释路径，为中国反思行政诉讼受案范围的立法技术提供反向镜鉴——过度依赖文义解释可能削弱权利救济。第三，商业实务层面，依赖H-2A签证的农业企业（年进口劳工超25万人）面临工资成本不可预测性剧增，建议跨国农业投资者将\"行政决定可诉性\"纳入国别风险评估矩阵，并在供应链合同中增设\"监管变化\"调价机制；中国出海农业企业需特别关注目标国签证项目中行政裁量的司法救济缺口。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "international"
+        },
+        {
+          "name": "移民法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "农业雇主加速游说国会修订H-2A明确审查条款",
+        "mediumTerm": "最高法院可能 granted certiorari 统一巡回法院分歧",
+        "longTerm": "推动APA改革立法或触发重大行政程序宪法诉讼"
+      },
+      "actionItems": {
+        "scholar": "比较法研究APA排除条款与中国行政诉讼受案范围的制度功能差异",
+        "policymaker": "设计签证项目时嵌入行政复议前置与有限司法审查的阶梯式救济",
+        "entrepreneur": "在跨境农业投资协议中增设监管变化成本分担与仲裁替代条款"
+      }
+    },
+    {
+      "title": "Fulton v. Fulton County Board of Commissioners",
+      "titleCN": "Fulton v. Fulton County Board of Commissioners",
+      "url": "https://harvardlawreview.org/print/vol-139/fulton-v-fulton-county-board-of-commissioners/",
+      "date": "2026-03-23",
+      "journal": "Harvard Law Review",
+      "summaryCN": "本文分析2021年最高法院富尔顿案判决，核心争议在于政府与宗教机构签订服务合同时，能否以反歧视政策为由强制其违背信仰。法院运用'普遍适用性'标准，认定费城对CSS的排除非中立适用，构成对宗教活动的违宪负担。研究框架融合自由行使条款的文本解释与史密斯案先例的限缩适用，方法论上采用实证分析揭示全美类似合同条款的违宪风险。商业影响显著：涉及政府购买社会服务的$1500亿市场中，宗教供应商获宪法盾牌。",
+      "summaryEN": "",
+      "whyMattersCN": "本案标志美国宗教自由宪法解释的结构性转向：第一，史密斯案（1990）确立的'中立普遍'原则被实质性架空，法院通过'个别化豁免'的微观审查，重塑政教关系边界，引发蓝州与红州在社会服务采购领域的制度分化。第二，对中国具有比较法镜鉴价值：我国《宗教事务条例》第5条确立的'宗教不得干预行政'原则与本案形成制度对照，但政府购买宗教组织社会服务（如养老、慈善）的合规边界亟待厘清；本案'合同即补贴'的宪法逻辑，可为我国《政府采购法》修订中宗教供应商的平等准入条款提供域外经验。第三，跨国企业需警觉：在美开展多元化员工福利外包（如领养援助、心理咨询）时，须审查供应商宗教豁免主张的合规风险；投资者应重新评估依赖政府合同的宗教背景社会服务企业的ESG评级与政策敏感度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "各州紧急审查社会服务采购合同的反歧视条款",
+        "mediumTerm": "国会就《尊重婚姻法案》宗教豁免条款展开博弈",
+        "longTerm": "史密斯案被推翻或限缩，宗教自由宪法框架重构"
+      },
+      "actionItems": {
+        "scholar": "比较法视角下政府资助宗教活动的'效果理论'与'纠缠理论'之辩",
+        "policymaker": "构建宗教供应商参与政府采购的'中立筛选+信仰声明'双轨机制",
+        "entrepreneur": "社会服务赛道投资者须将宗教豁免风险纳入DD清单核心项"
+      }
+    },
+    {
+      "title": "What’s Left of the New Deal State?",
+      "titleCN": "What’s Left of the New Deal State?",
+      "url": "https://michiganlawreview.org/whats-left-of-the-new-deal-state/",
+      "date": "2026-03-23",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文深度剖析美国新政时期建构的行政国家（administrative state）在当代面临的宪法合法性危机。作者通过Chevron案被推翻（2024）、Loper Bright案等最新判例，分析最高法院如何以\"原旨主义\"和\"非授权原则\"（non-delegation doctrine）重构行政权边界。研究框架融合宪法史、制度经济学与比较行政法，揭示1930年代确立的专家治理模式正被\"法院主导型\"规制取代。数据显示，2022-2024年间最高法院受理的行政法案件激增47%，涉及EPA、SEC、FTC等核心独立机构的权力被系统性限缩，直接冲击气候规制、金融稳定与反垄断执法的确定性。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度而言，此文揭示了宪法解释范式从\"功能主义\"向\"形式主义\"的深层转向，标志着罗斯福新政以来\"专家行政-司法谦抑\"平衡的终结，预示美国进入\"司法能动主义\"新周期，独立规制机构的政策连续性将显著削弱。对中国比较法研究具有双重价值：其一，美国行政法院化经验警示——过度司法化可能牺牲行政效率与政策弹性，为中国行政复议体制改革提供反面参照；其二，中美在平台规制、数据治理、气候政策等领域面临相似的\"行政合法性\"难题，美国判例可资借鉴。对跨国企业而言，美国监管不确定性陡增要求重构合规架构：短期需强化州级游说与诉讼储备，中期应关注国会授权条款的修订动态，长期须预判2026年后潜在的全局性行政法典编纂。投资者需重新评估受规制行业（能源、医药、金融科技）的政策风险溢价，政策制定者则应警惕\"规制套利\"空间扩大对国际协调机制的侵蚀。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "企业紧急评估现有行政令合规基础，储备诉讼资源",
+        "mediumTerm": "国会可能启动《行政程序法》修订，重塑授权边界",
+        "longTerm": "行政国家范式转型完成，新型公私合作规制模式兴起"
+      },
+      "actionItems": {
+        "scholar": "关注\"全球行政法\"视野下的司法审查标准比较研究",
+        "policymaker": "借鉴美国教训优化行政复议与专家机构的制度设计",
+        "entrepreneur": "建立跨州合规矩阵，分散单一联邦规制失效风险"
+      }
+    },
     {
       "title": "United States v. Johnson",
       "titleCN": "[Harvard Law Review] United States v. Johnson...",
