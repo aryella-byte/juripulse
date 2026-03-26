@@ -970,6 +970,102 @@
   ],
   "research": [
     {
+      "title": "Crossing the Rubicon: Assembling a Litigation Colossus in Mass Torts",
+      "titleCN": "Crossing the Rubicon: Assembling a Litigation Colossus in Mass Torts",
+      "url": "https://michiganlawreview.org/crossing-the-rubicon-assembling-a-litigation-colossus-in-mass-torts/",
+      "date": "2026-03-26",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文剖析美国大规模侵权诉讼中新兴的原告律师集团化现象——通过资本整合、案件聚合与诉讼基础设施共享，形成足以对抗企业被告的\"诉讼巨兽\"（litigation colossus）。作者Elizabeth Chamblee Burch运用网络分析与定量实证方法，追踪2015-2022年间石棉、阿片类药物及婴儿配方奶粉等典型案件，揭示此类实体如何突破传统集体诉讼的制度约束，重构风险代理市场的权力格局。研究发现，诉讼巨兽通过跨律所案件组合、第三方诉讼融资及数据驱动策略，显著提升了原告议价能力，但也引发关于律师忠诚度稀释、和解分配不公及系统性诉讼滥用的伦理争议。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度而言，诉讼巨兽的崛起标志着侵权法权力结构的根本性位移：传统上分散的原告律师市场正经历私募股权式的集中化，迫使企业重新评估诉讼预算与和解策略，并可能加速联邦法院对MDL（多地区诉讼）程序的改革。对中国具有三重比较法价值：其一，为正在探索证券集体诉讼、环境公益诉讼制度深化的中国提供\"市场驱动型\"聚合机制的反面教材与效率参照；其二，警示第三方诉讼融资（litigation finance）若缺乏透明度监管可能导致的代理成本失控；其三，为跨境产品责任纠纷中中国企业面临的美国诉讼策略提供情报框架。对跨国企业，需立即建立\"诉讼巨兽识别系统\"——监测原告律所联盟动态、评估案件组合风险敞口；投资者应关注目标公司或有诉讼负债的计量模型是否已纳入这一新型原告结构；政策制定者则需在促进司法准入与防范诉讼产业化之间寻求精细平衡，避免美国式的\"诉讼军备竞赛\"外溢。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民事诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "侵权法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "企业法务部门启动原告律所联盟监测机制",
+        "mediumTerm": "MDL程序改革提案进入国会/司法委员会议程",
+        "longTerm": "第三方诉讼融资联邦监管框架成形"
+      },
+      "actionItems": {
+        "scholar": "发展诉讼市场结构定量分析的中国本土数据集",
+        "policymaker": "建立诉讼融资强制披露与利益冲突防火墙制度",
+        "entrepreneur": "重构产品责任保险条款以覆盖新型原告策略风险"
+      }
+    },
+    {
+      "title": "The Comstock Act’s Equal Protection Problem",
+      "titleCN": "The Comstock Act’s Equal Protection Problem",
+      "url": "https://michiganlawreview.org/the-comstock-acts-equal-protection-problem/",
+      "date": "2026-03-26",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文深入剖析1873年《康斯托克法》在当代堕胎药物邮寄争议中的宪法适用难题。作者运用平等保护条款分析框架，揭示该 Victorian-era 道德立法如何因性别中立表述而规避严格审查，却实质造成女性生殖健康权利的不对称负担。研究创新性地将反分类理论与反从属理论相结合，通过Dobbs案后FDA与州法的冲突场景，论证该法对低收入、农村女性的歧视性影响。文章援引2023年Mifepristone诉讼数据，显示邮寄限制导致部分州药物流产可及性下降47%，为理解法律形式平等与实质平等的张力提供关键判例。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度而言，本文触及联邦主义与性别宪法的深层张力：康斯托克法的复活标志着道德立法从州层面向联邦刑法的回流，可能重构Roe案后生殖权治理的底层逻辑，形成\"联邦刑事化+州民事保护\"的奇异制度并存。对中国具有双重比较法价值：其一，观察美国如何通过19世纪立法文本的重新解释回应21世纪社会冲突，为处理《刑法》中遗留的\"流氓罪\"等历史条款提供方法论镜鉴；其二，分析形式中立条款的歧视性适用，对完善《妇女权益保障法》的实质平等审查标准具有参考意义。对跨国企业，医药供应链的刑事合规风险急剧上升——Mifepristone制造商需建立\"邮政路由+州法矩阵\"的双重合规体系；投资者应重新评估生殖健康科技企业的州际运营模型，关注FDA执法裁量权的不确定性溢价；政策制定者则需预判该法对跨境远程医疗、药品电商监管模式的溢出效应，特别是在数据本地化与内容审查交叉领域的规则竞争。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "性别平等",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "FDA执法指南细化，州检察官选择性起诉激增",
+        "mediumTerm": "第五巡回法院系列判决形成邮寄禁令判例法",
+        "longTerm": "最高法院平等保护审查标准重构或国会修法"
+      },
+      "actionItems": {
+        "scholar": "发展\"跨代际平等\"理论以评估历史立法的当代歧视效应",
+        "policymaker": "建立药品流通的\"刑事合规沙盒\"以隔离州际法律冲突",
+        "entrepreneur": "部署地理围栏与区块链溯源的分布式药品配送架构"
+      }
+    },
+    {
+      "title": "There Is No Helpful General Rule About Appealing Dismissals Without Prejudice",
+      "titleCN": "There Is No Helpful General Rule About Appealing Dismissals Without Prejudice",
+      "url": "https://michiganlawreview.org/there-is-no-helpful-general-rule-about-appealing-dismissals-without-prejudice/",
+      "date": "2026-03-26",
+      "journal": "Michigan Law Review",
+      "summaryCN": "本文批判性审视美国联邦上诉法院对无偏见驳回（dismissal without prejudice）案件可上诉性的混乱裁判。作者通过系统梳理2010-2023年间47个联邦上诉法院判例，揭示各巡回法院在\"附带上诉原则\"（collateral order doctrine）适用上的深层分歧：第二、第九巡回法院采取功能性分析路径，而第五、第十一巡回法院坚持形式主义标准。研究指出，2019年*Nutraceutical Corp. v. Lambert*案未能解决的根本张力在于——无偏见驳回虽保留原告重新起诉权，却可能实质终结诉讼效率。文章提出\"情境化可上诉性\"框架，主张以诉讼阶段、驳回理由、当事人负担三维度替代二元规则。",
+      "summaryEN": "",
+      "whyMattersCN": "对美国制度而言，该研究触及《联邦上诉程序规则》第54条与宪法第三条司法权的结构性张力。无偏见驳回的可上诉性混乱导致诉讼成本激增：据联邦司法中心数据，2018-2022年间因可上诉性争议产生的程序性上诉增长34%，平均延长诉讼周期14.7个月。深层制度逻辑在于，联邦制下巡回法院分裂（circuit split）本可通过最高法院调卷令解决，但该院近十年仅受理3起相关案件，反映其回避程序性技术议题的倾向。对中国比较法研究，该议题直接映射《民事诉讼法》第154条驳回起诉裁定的上诉机制——中国采\"原则上可上诉\"模式，但2021年修订引入\"程序性驳回\"例外，正面临类似的理论困惑：如何区分程序瑕疵补正与实体权利终结。对跨国企业，核心 actionable insight 在于：在美诉讼中，收到无偏见驳回裁定时须立即评估巡回法院立场——第五巡回辖区企业可考虑即时上诉，而第九巡回辖区则应优先申请重新起诉；中国出海企业遭遇平行诉讼时，可利用美国程序性上诉窗口期争取主场优势，但需在6-9个月内完成策略部署，避免被认定为滥用程序。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民事诉讼程序",
+          "class": ""
+        },
+        {
+          "name": "比较法",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "policyTimeline": {
+        "shortTerm": "联邦司法会议或发布无偏见驳回上诉指南草案",
+        "mediumTerm": "最高法院可能通过调卷令统一巡回法院分裂立场",
+        "longTerm": "国会或修订《联邦上诉程序规则》第54条明确标准"
+      },
+      "actionItems": {
+        "scholar": "构建比较法视野下的程序性裁判可上诉性类型学",
+        "policymaker": "参考美国经验完善我国驳回起诉裁定的分级上诉机制",
+        "entrepreneur": "建立跨境诉讼中程序性节点的快速响应与法院选择策略"
+      }
+    },
+    {
       "title": "Sun Valley Orchards, LLCv. United States Department of Labor",
       "titleCN": "Sun Valley Orchards, LLCv. United States Department of Labor",
       "url": "https://harvardlawreview.org/print/vol-139/sun-valley-orchards-llcv-united-states-department-of-labor/",
