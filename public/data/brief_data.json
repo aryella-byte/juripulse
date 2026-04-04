@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "Supreme Court issues statement that Justice Alito was hospitalized approximately two weeks ago",
+      "titleCN": "最高法院就阿利托大法官住院发表声明",
+      "url": "https://www.scotusblog.com/2026/04/supreme-court-issues-statement-that-justice-alito-was-hospitalized/",
+      "date": "2026-04-04",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院正式发表声明，确认大法官塞缪尔·阿利托约两周前曾住院治疗，目前已返回工作岗位。此次声明打破了最高法院对大法官健康状况一贯保持沉默的惯例，引发外界对阿利托能否参与本庭期剩余案件审理的关注。争议焦点在于：大法官健康信息的透明度义务与司法独立性之间的张力，以及若阿利托须回避某些案件，4-4平局将对保守-自由派投票格局产生的结构性影响。本庭期阿利托参与了多宗重大案件，包括出生公民权、移民驱逐等政治敏感议题，其健康状况直接牵动判决走向。",
+      "whyMattersCN": "此事件对美国联邦司法制度具有深远影响。首先，终身制大法官的健康不透明性在民主问责层面存在制度性缺陷——不同于总统有《25修正案》处理无行为能力情形，大法官缺乏类似机制，导致\"影子投票\"风险长期存在。其次，若本庭期出现4-4平局，相关下级法院判决将被自动确认，这对正处于司法审查关键节点的行政移民政策具有实质性后果。【选题思路】对法学研究者而言，此事件揭示了比较宪制研究中\"司法机构信息披露义务\"这一被忽视的议题：中国法官法及《法官行为准则》对法官健康、回避义务有制度性规定，但最高人民法院层面的透明度机制同样付之阙如；可聚焦\"司法健康透明度\"与\"裁判可信度\"的实证关联，形成中美比较研究。",
+      "tags": [
+        {
+          "name": "司法制度",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法透明度",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "What oral argument told us in the birthright citizenship case",
+      "titleCN": "出生公民权案口头辩论深度解读",
+      "url": "https://www.scotusblog.com/2026/04/what-oral-argument-told-us-in-the-birthright-citizenship-case/",
+      "date": "2026-04-04",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog对出生公民权案（挑战特朗普行政令限制第十四修正案出生公民权范围）的口头辩论进行深度分析。核心法律争议集中于：宪法第十四修正案\"受美国管辖\"（subject to the jurisdiction thereof）条款的历史原意解释，以及总统是否有权通过行政令单方面重新界定该条款的适用范围。辩论中保守派大法官的发问显示出对原意主义论证的高度关注，而自由派大法官则强调百余年来的实践传统和先例约束。案件结果将影响数百万在美非法移民后代的公民身份，并对移民执法体系产生系统性冲击。",
+      "whyMattersCN": "本案是美国近年最重要的宪法诠释之争之一，其结果将重塑美国公民身份制度的法理基础。从比较宪法视角，出生地主义（jus soli）与血统主义（jus sanguinis）的制度选择折射出不同的国家认同逻辑——美国第十四修正案采绝对出生地主义，而中国《国籍法》采血统主义为主、出生地为辅的折衷路径（第4、5条）。若最高法院支持行政令，将开创通过行政命令解释宪法文本的先例，实质突破三权分立的权力边界。【选题思路】对实证法学研究者而言，出生公民权政策变动的\"自然实验\"效应提供了罕见的制度变迁研究窗口：可基于DID方法比较政策前后非法移民生育决策、出生率及人口结构变化，与中国户籍制度对代际身份传递的实证研究形成方法论对话。",
+      "tags": [
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "公民身份",
+          "class": "constitutional"
+        },
+        {
+          "name": "移民法",
+          "class": "immigration"
+        },
+        {
+          "name": "原意主义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "The inscrutable Chief Justice John Roberts",
+      "titleCN": "难以捉摸的首席大法官约翰·罗伯茨",
+      "url": "https://www.scotusblog.com/2026/04/the-inscrutable-chief-justice-john-roberts/",
+      "date": "2026-04-04",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog对首席大法官约翰·罗伯茨司法风格进行深度剖析。文章指出，罗伯茨在保守派占据超级多数的当下法院扮演关键的\"调适者\"角色：他既保护最高法院的制度声誉，又推进保守派法律议程，但会刻意控制变革的幅度与节奏。争议焦点在于：罗伯茨的\"狭窄判决\"策略是真正的司法克制主义，还是一种延迟但不减损保守主义目标的战略选择。文章梳理了其在堕胎权、投票权、行政法等重大议题上的投票模式，揭示出其\"保守结果-渐进路径\"的一贯逻辑。",
+      "whyMattersCN": "本文触及比较司法政治学的核心命题：最高法院大法官是法律技艺人还是政策制定者？罗伯茨的案例为\"战略性司法行为\"（strategic judicial behavior）理论提供了最新实证素材。从比较法院研究视角，罗伯茨对\"最高法院机构信誉\"的高度关注，与中国最高人民法院发布指导性案例、司法解释时所展现的\"稳健主义\"导向形成有趣的跨制度对照——两者都面临在政策诉求与法律确定性之间取得平衡的压力，但制度约束与问责机制截然不同。【选题思路】可将罗伯茨的\"最小化判决\"（minimalist jurisprudence）策略与中国最高人民法院近年\"案例指导制度\"的渐进扩展进行比较，探讨顶层司法机构如何在变革压力下维护法律体系稳定性，为司法能动主义与克制主义的规范研究开辟新视角。",
+      "tags": [
+        {
+          "name": "司法政治",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法克制",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法院研究",
+          "class": "comparative"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Announcement of opinions for Tuesday, March 31",
       "titleCN": "美国最高法院将于3月31日发布判决意见",
       "url": "https://www.scotusblog.com/2026/03/announcement-of-opinions-for-tuesday-march-31/",
@@ -1029,6 +1109,99 @@
     }
   ],
   "research": [
+    {
+      "title": "Regulatory Settlement, Stare Decisis, and Loper Bright",
+      "titleCN": "监管和解协议、遵循先例原则与Loper Bright案",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/regulatory-settlement-stare-decisis-and-loper-bright/",
+      "date": "2026-04-04",
+      "journal": "NYU Law Review",
+      "source": "NYU Law Review",
+      "summaryCN": "本文考察2024年Loper Bright案推翻Chevron原则后，监管和解协议（regulatory settlement）的法律效力问题。作者的核心论点是：当联邦法院不再对行政机构的法律解释给予尊重时，此前以Chevron框架为基础达成的大量监管和解协议面临遵循先例（stare decisis）原则的重新审视困境——这些协议既不具有判例约束力，又不受Loper Bright直接撤销，处于法律灰色地带。研究方法上，作者通过梳理后Chevron时代联邦法院的判决动向与和解协议的合同法理论，提出\"协议效力分层\"框架，区分纯粹合同性和解与具有准立法性质的监管协议，并就各类机构应对策略提出建议。",
+      "summaryEN": "",
+      "whyMattersCN": "Loper Bright案的影响正在以出乎意料的方式渗透至行政法体系的每个角落，监管和解协议的效力危机是其中最具实践紧迫性的议题之一。本文揭示了一个重要的制度性矛盾：行政机构多年来借助Chevron框架的\"解释权威\"换取私人当事方的和解让步，一旦解释权归还法院，当事方可能主张和解协议的对价基础消灭。【论证借鉴】对中国行政法研究而言，本文的分析框架具有直接的比较价值：《行政诉讼法》第60条确立的行政诉讼调解制度，以及国务院各部委在行政执法中广泛使用的合规承诺制度，同样面临\"行政解释权限与协议效力\"的关联性问题。当最高人民法院通过指导性案例改变行政法律解释立场时，此前基于旧解释达成的行政协议效力应如何处理？中国尚无成熟的理论回应，本文的分层框架可为此提供方法论启示。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "遵循先例",
+          "class": "constitutional"
+        },
+        {
+          "name": "监管协议",
+          "class": "administrative"
+        },
+        {
+          "name": "Loper Bright",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "Modalities of Agency Rulemaking",
+      "titleCN": "行政机构规则制定的多元模式",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/modalities-of-agency-rulemaking/",
+      "date": "2026-04-04",
+      "journal": "NYU Law Review",
+      "source": "NYU Law Review",
+      "summaryCN": "本文系统梳理美国联邦行政机构规则制定（rulemaking）的多元路径，提出\"规则制定模态\"（modalities of rulemaking）的分析框架。作者的核心论点是：行政机构并不仅仅通过《行政程序法》第553条规定的通知-评论程序（notice-and-comment）制定规则，而是综合运用非正式指南、解释性规则、政策声明、执法优先顺序等多种\"准规则\"形式规避正式程序要求，这种\"模态选择\"行为既受法律约束，又体现政治理性。研究方法上，作者结合实证数据与规范分析，考察2010-2024年联邦机构规则制定模态的分布规律，揭示正式规则制定比例下降而非正式指引激增的结构性转变，并就司法审查标准的适用提出规范建议。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的核心发现——行政机构系统性地通过非正式渠道规避正式程序约束——对理解行政国家（administrative state）的实际运作具有重要意义，在Loper Bright重塑解释权配置的背景下尤为关键。【论证借鉴】对中国行政立法研究而言，本文提供了极具价值的比较分析工具。中国《立法法》（2023年修正）和《行政法规制定程序条例》构建了以国务院行政法规和部门规章为核心的正式规则制定体系，但实践中大量政策文件、规范性文件（俗称\"红头文件\"）游离于正式程序之外，产生规则制定模态的类似现象。本文的实证方法——通过穷举式数据库检索量化各类规则制定工具的使用频率与分布——可直接移植于中国规范性文件的实证研究，填补现有文献对\"非正式行政立法\"现象量化描述的空白，为推进规范性文件统一备案审查制度提供数据支撑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政立法",
+          "class": "administrative"
+        },
+        {
+          "name": "规则制定",
+          "class": "administrative"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "行政程序法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "Stare Decisis and the Missing Administrability Inquiry",
+      "titleCN": "遵循先例与缺失的可执行性审查",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/stare-decisis-and-the-missing-administrability-inquiry/",
+      "date": "2026-04-04",
+      "journal": "NYU Law Review",
+      "source": "NYU Law Review",
+      "summaryCN": "本文聚焦遵循先例（stare decisis）原则的一个被系统性忽视的维度：\"可执行性\"（administrability）——即先例规则是否易于法院、当事人和社会准确理解与适用。作者的核心论点是，最高法院在决定是否推翻先例时，现行分析框架（依赖性利益、教义发展、实施效果等因素）忽略了对先例\"可执行性成本\"的独立评估，导致高度模糊的先例被维持、清晰但结果不当的先例被推翻，形成系统性误判。研究方法上，作者对1990-2024年最高法院明确讨论先例推翻的判决进行全样本文本分析，归纳\"可执行性因素\"出现的频率与论证模式，提出将可执行性纳入stare decisis标准分析的规范框架。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及法律制度设计的核心权衡：规则清晰度与实质正义之间的张力。\"可执行性\"维度的引入，为评估先例的制度价值提供了超越结果导向的独立标准，对理解Dobbs推翻Roe、Loper Bright推翻Chevron等近年重大先例变动的制度逻辑具有解释力。【论证借鉴】对中国法学研究具有直接方法论价值：最高人民法院通过\"指导性案例\"制度构建本土判例制度，但迄今缺乏对已发布指导性案例进行\"类先例审查\"的机制——即何时可以通过新案例实质性偏离既有指导性案例？本文提出的\"可执行性审查\"框架可为中国判例制度的\"退出机制\"设计提供参照。此外，作者的全样本文本分析方法（对最高法院判决进行系统性编码）可直接应用于中国最高人民法院判决的实证研究，量化\"遵循先例\"表述在裁判文书中的演变趋势，为实证法学研究提供新的数据入口。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "遵循先例",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法方法论",
+          "class": "constitutional"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "法律确定性",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
     {
       "title": "Crossing the Rubicon: Assembling a Litigation Colossus in Mass Torts",
       "titleCN": "Crossing the Rubicon: Assembling a Litigation Colossus in Mass Torts",
