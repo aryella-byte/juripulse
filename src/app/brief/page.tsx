@@ -19,6 +19,8 @@ const TABS = [
 
 type TabId = (typeof TABS)[number]['id']
 
+const byDateDesc = (a: BriefItem, b: BriefItem) => b.date.localeCompare(a.date)
+
 export default function BriefPage() {
   const [data, setData] = useState<BriefData | null>(null)
   const [tab, setTab] = useState<TabId>('news')
@@ -56,7 +58,7 @@ export default function BriefPage() {
   const researchSources = useMemo(() => {
     if (!data) return []
     const s = new Set<string>()
-    data.research.forEach(r => r.journal && s.add(r.journal))
+    data.research.forEach(r => (r.journal || r.source) && s.add((r.journal || r.source)!))
     return [...s].sort()
   }, [data])
 
@@ -67,11 +69,13 @@ export default function BriefPage() {
   }
 
   const filterItems = (items: BriefItem[]) => {
-    return items.filter(item => {
-      if (selectedTag && !item.tags?.some(t => t.name === selectedTag)) return false
-      if (selectedSource && item.source !== selectedSource && item.journal !== selectedSource) return false
-      return true
-    })
+    return items
+      .filter(item => {
+        if (selectedTag && !item.tags?.some(t => t.name === selectedTag)) return false
+        if (selectedSource && item.source !== selectedSource && item.journal !== selectedSource) return false
+        return true
+      })
+      .sort(byDateDesc)
   }
 
   if (!data) {
@@ -87,10 +91,7 @@ export default function BriefPage() {
 
   const filteredNews = filterItems(data.news)
   const filteredResearch = filterItems(data.research)
-  const allFiltered = [...data.news, ...data.research].sort((a, b) => b.date.localeCompare(a.date))
-
-  const currentTags = tab === 'news' ? newsTags : researchTags
-  const currentSources = tab === 'news' ? newsSources : researchSources
+  const allFiltered = [...data.news, ...data.research].sort(byDateDesc)
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-10">
@@ -127,12 +128,13 @@ export default function BriefPage() {
       {tab !== 'timeline' && (
         <div className="mb-6">
           <BriefFilters
-            tags={currentTags}
-            sources={currentSources}
+            tags={tab === 'news' ? newsTags : researchTags}
+            sources={tab === 'news' ? newsSources : researchSources}
             selectedTag={selectedTag}
             selectedSource={selectedSource}
             onTagChange={setSelectedTag}
             onSourceChange={setSelectedSource}
+            sourceLabel={tab === 'news' ? '全部来源' : '全部期刊'}
           />
         </div>
       )}
@@ -153,7 +155,7 @@ export default function BriefPage() {
           {filteredResearch.length === 0 ? (
             <p className="py-12 text-center text-[13px]" style={{ color: 'var(--text-tertiary)' }}>暂无匹配的研究</p>
           ) : (
-            filteredResearch.map((item, i) => <BriefCard key={i} item={{ ...item, source: item.journal }} />)
+            filteredResearch.map((item, i) => <BriefCard key={i} item={{ ...item, source: item.journal || item.source }} />)
           )}
         </div>
       )}
