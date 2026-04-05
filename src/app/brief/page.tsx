@@ -32,22 +32,39 @@ export default function BriefPage() {
       .catch(() => setData({ news: [], research: [] }))
   }, [])
 
-  const allTags = useMemo(() => {
+  const newsTags = useMemo(() => {
     if (!data) return []
-    const tagSet = new Set<string>()
-    ;[...data.news, ...data.research].forEach(item => {
-      item.tags?.forEach(t => tagSet.add(t.name))
-    })
-    return [...tagSet].sort()
+    const s = new Set<string>()
+    data.news.forEach(item => item.tags?.forEach(t => s.add(t.name)))
+    return [...s].sort()
   }, [data])
 
-  const allSources = useMemo(() => {
+  const newsSources = useMemo(() => {
     if (!data) return []
-    const sourceSet = new Set<string>()
-    data.news.forEach(n => n.source && sourceSet.add(n.source))
-    data.research.forEach(r => r.journal && sourceSet.add(r.journal))
-    return [...sourceSet].sort()
+    const s = new Set<string>()
+    data.news.forEach(n => n.source && s.add(n.source))
+    return [...s].sort()
   }, [data])
+
+  const researchTags = useMemo(() => {
+    if (!data) return []
+    const s = new Set<string>()
+    data.research.forEach(item => item.tags?.forEach(t => s.add(t.name)))
+    return [...s].sort()
+  }, [data])
+
+  const researchSources = useMemo(() => {
+    if (!data) return []
+    const s = new Set<string>()
+    data.research.forEach(r => r.journal && s.add(r.journal))
+    return [...s].sort()
+  }, [data])
+
+  const handleTabChange = (newTab: TabId) => {
+    setTab(newTab)
+    setSelectedTag('')
+    setSelectedSource('')
+  }
 
   const filterItems = (items: BriefItem[]) => {
     return items.filter(item => {
@@ -70,7 +87,10 @@ export default function BriefPage() {
 
   const filteredNews = filterItems(data.news)
   const filteredResearch = filterItems(data.research)
-  const allFiltered = [...filteredNews, ...filteredResearch].sort((a, b) => b.date.localeCompare(a.date))
+  const allFiltered = [...data.news, ...data.research].sort((a, b) => b.date.localeCompare(a.date))
+
+  const currentTags = tab === 'news' ? newsTags : researchTags
+  const currentSources = tab === 'news' ? newsSources : researchSources
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-10">
@@ -87,7 +107,7 @@ export default function BriefPage() {
         {TABS.map(t => (
           <button
             key={t.id}
-            onClick={() => setTab(t.id)}
+            onClick={() => handleTabChange(t.id)}
             className="relative flex items-center gap-1.5 whitespace-nowrap px-4 py-3 text-[13px] transition-colors"
             style={{
               color: tab === t.id ? 'var(--text-primary)' : 'var(--text-tertiary)',
@@ -103,17 +123,19 @@ export default function BriefPage() {
         ))}
       </div>
 
-      {/* Filters */}
-      <div className="mb-6">
-        <BriefFilters
-          tags={allTags}
-          sources={allSources}
-          selectedTag={selectedTag}
-          selectedSource={selectedSource}
-          onTagChange={setSelectedTag}
-          onSourceChange={setSelectedSource}
-        />
-      </div>
+      {/* Filters — hidden on timeline tab */}
+      {tab !== 'timeline' && (
+        <div className="mb-6">
+          <BriefFilters
+            tags={currentTags}
+            sources={currentSources}
+            selectedTag={selectedTag}
+            selectedSource={selectedSource}
+            onTagChange={setSelectedTag}
+            onSourceChange={setSelectedSource}
+          />
+        </div>
+      )}
 
       {/* Content */}
       {tab === 'news' && (
