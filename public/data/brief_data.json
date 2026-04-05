@@ -10,7 +10,7 @@
       "whyMattersCN": "此事件对美国联邦司法制度具有深远影响。首先，终身制大法官的健康不透明性在民主问责层面存在制度性缺陷——不同于总统有《25修正案》处理无行为能力情形，大法官缺乏类似机制，导致\"影子投票\"风险长期存在。其次，若本庭期出现4-4平局，相关下级法院判决将被自动确认，这对正处于司法审查关键节点的行政移民政策具有实质性后果。【选题思路】对法学研究者而言，此事件揭示了比较宪制研究中\"司法机构信息披露义务\"这一被忽视的议题：中国法官法及《法官行为准则》对法官健康、回避义务有制度性规定，但最高人民法院层面的透明度机制同样付之阙如；可聚焦\"司法健康透明度\"与\"裁判可信度\"的实证关联，形成中美比较研究。",
       "tags": [
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         },
         {
@@ -58,7 +58,7 @@
       "whyMattersCN": "本文触及比较司法政治学的核心命题：最高法院大法官是法律技艺人还是政策制定者？罗伯茨的案例为\"战略性司法行为\"（strategic judicial behavior）理论提供了最新实证素材。从比较法院研究视角，罗伯茨对\"最高法院机构信誉\"的高度关注，与中国最高人民法院发布指导性案例、司法解释时所展现的\"稳健主义\"导向形成有趣的跨制度对照——两者都面临在政策诉求与法律确定性之间取得平衡的压力，但制度约束与问责机制截然不同。【选题思路】可将罗伯茨的\"最小化判决\"（minimalist jurisprudence）策略与中国最高人民法院近年\"案例指导制度\"的渐进扩展进行比较，探讨顶层司法机构如何在变革压力下维护法律体系稳定性，为司法能动主义与克制主义的规范研究开辟新视角。",
       "tags": [
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         },
         {
@@ -86,7 +86,7 @@
           "class": "constitutional"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         }
       ],
@@ -236,7 +236,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "诉讼程序",
+          "name": "民事诉讼",
           "class": "procedural"
         }
       ],
@@ -392,7 +392,7 @@
           "class": "constitutional"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         }
       ],
@@ -510,7 +510,7 @@
           "class": "comparative"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         }
       ],
@@ -772,10 +772,6 @@
         {
           "name": "比较宪法",
           "class": "comparative"
-        },
-        {
-          "name": "司法制度",
-          "class": "constitutional"
         }
       ],
       "quality_score": 8
@@ -986,7 +982,7 @@
       "whyMattersEN": "This case involves the tension between Second Amendment rights and public safety, potentially setting precedent for 'dangerous person' standards.",
       "tags": [
         {
-          "name": "第二修正案",
+          "name": "宪法",
           "class": "constitutional"
         }
       ],
@@ -1073,11 +1069,11 @@
           "class": "comparative"
         },
         {
-          "name": "诉讼程序",
+          "name": "民事诉讼",
           "class": "procedural"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         }
       ],
@@ -1093,7 +1089,7 @@
       "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
       "tags": [
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         },
         {
@@ -1131,7 +1127,7 @@
         },
         {
           "name": "遵循先例",
-          "class": "administrative"
+          "class": "procedural"
         }
       ],
       "quality_score": 9
@@ -1177,7 +1173,7 @@
       "tags": [
         {
           "name": "遵循先例",
-          "class": "administrative"
+          "class": "procedural"
         },
         {
           "name": "宪法解释",
@@ -1206,12 +1202,12 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "诉讼程序",
+          "name": "民事诉讼",
           "class": "procedural"
         },
         {
           "name": "侵权法",
-          "class": "procedural"
+          "class": "civil"
         }
       ],
       "quality_score": 7,
@@ -1266,7 +1262,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "诉讼程序",
+          "name": "民事诉讼",
           "class": "procedural"
         },
         {
@@ -1657,14 +1653,14 @@
       "tags": [
         {
           "name": "侵权法",
-          "class": "procedural"
+          "class": "civil"
         },
         {
           "name": "法律理论",
           "class": "theory"
         },
         {
-          "name": "比较法方法",
+          "name": "比较法",
           "class": "comparative"
         }
       ],
@@ -1762,7 +1758,7 @@
           "class": "constitutional"
         },
         {
-          "name": "比较法方法",
+          "name": "比较法",
           "class": "comparative"
         }
       ],
@@ -2079,7 +2075,7 @@
           "class": "practice"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         },
         {
@@ -2112,12 +2108,12 @@
           "class": "administrative"
         },
         {
-          "name": "司法制度",
+          "name": "司法独立",
           "class": "constitutional"
         },
         {
           "name": "遵循先例",
-          "class": "administrative"
+          "class": "procedural"
         },
         {
           "name": "授权立法",
