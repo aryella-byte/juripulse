@@ -34,11 +34,11 @@
           "class": "constitutional"
         },
         {
-          "name": "公民身份",
+          "name": "移民法",
           "class": "immigration"
         },
         {
-          "name": "移民法",
+          "name": "公民身份",
           "class": "immigration"
         },
         {
@@ -66,8 +66,8 @@
           "class": "constitutional"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "宪法解释",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8
@@ -82,11 +82,11 @@
       "whyMattersCN": "本庭期判决涉及多个关键领域：移民行政裁量权的司法审查标准、联邦仲裁法对零工经济工人的适用范围、以及出生公民权的宪法解释。对中国比较法研究而言，这些判决将为理解美国宪政运作中'司法能动主义'与'司法克制'的动态平衡提供最新素材，尤其在行政权扩张背景下，最高法院如何划定三权边界具有重要参照价值。",
       "tags": [
         {
-          "name": "宪法",
+          "name": "最高法院",
           "class": "constitutional"
         },
         {
-          "name": "司法独立",
+          "name": "宪法",
           "class": "constitutional"
         }
       ],
@@ -108,6 +108,10 @@
         {
           "name": "国际法",
           "class": "international"
+        },
+        {
+          "name": "行政权",
+          "class": "administrative"
         }
       ],
       "quality_score": 8
@@ -123,6 +127,14 @@
       "tags": [
         {
           "name": "国际法",
+          "class": "international"
+        },
+        {
+          "name": "战争权力",
+          "class": "international"
+        },
+        {
+          "name": "国际人权法",
           "class": "international"
         }
       ],
@@ -140,11 +152,15 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "言论自由",
+          "class": "constitutional"
+        },
+        {
           "name": "宪法",
           "class": "constitutional"
         },
         {
-          "name": "言论自由",
+          "name": "司法审查",
           "class": "constitutional"
         }
       ],
@@ -178,6 +194,10 @@
         {
           "name": "能源法",
           "class": "special"
+        },
+        {
+          "name": "国际法",
+          "class": "international"
         }
       ],
       "quality_score": 9,
@@ -204,11 +224,15 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "言论自由",
+          "class": "constitutional"
+        },
+        {
           "name": "宪法",
           "class": "constitutional"
         },
         {
-          "name": "言论自由",
+          "name": "宗教自由",
           "class": "constitutional"
         }
       ],
@@ -238,6 +262,14 @@
         {
           "name": "民事诉讼",
           "class": "procedural"
+        },
+        {
+          "name": "劳动法",
+          "class": "special"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
         }
       ],
       "quality_score": 8,
@@ -270,6 +302,10 @@
         {
           "name": "能源法",
           "class": "special"
+        },
+        {
+          "name": "国际法",
+          "class": "international"
         }
       ],
       "quality_score": 9,
@@ -296,8 +332,12 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "民事诉讼",
+          "class": "procedural"
+        },
+        {
+          "name": "公司法",
+          "class": "special"
         }
       ],
       "quality_score": 8,
@@ -324,12 +364,20 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "移民法",
+          "class": "immigration"
+        },
+        {
+          "name": "庇护",
+          "class": "immigration"
+        },
+        {
           "name": "宪法",
           "class": "constitutional"
         },
         {
-          "name": "移民法",
-          "class": "immigration"
+          "name": "正当程序",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8,
@@ -356,12 +404,16 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "能源法",
+          "class": "special"
+        },
+        {
           "name": "国际法",
           "class": "international"
         },
         {
-          "name": "能源法",
-          "class": "special"
+          "name": "行政权",
+          "class": "administrative"
         }
       ],
       "quality_score": 9,
@@ -392,8 +444,16 @@
           "class": "constitutional"
         },
         {
+          "name": "权力分立",
+          "class": "constitutional"
+        },
+        {
           "name": "司法独立",
           "class": "constitutional"
+        },
+        {
+          "name": "行政权",
+          "class": "administrative"
         }
       ],
       "quality_score": 9,
@@ -424,8 +484,12 @@
           "class": "immigration"
         },
         {
-          "name": "宪法",
-          "class": "constitutional"
+          "name": "庇护",
+          "class": "immigration"
+        },
+        {
+          "name": "行政程序",
+          "class": "administrative"
         }
       ],
       "quality_score": 10,
@@ -452,12 +516,16 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "移民法",
+          "class": "immigration"
+        },
+        {
           "name": "宪法",
           "class": "constitutional"
         },
         {
-          "name": "移民法",
-          "class": "immigration"
+          "name": "行政权",
+          "class": "administrative"
         }
       ],
       "quality_score": 8,
@@ -488,8 +556,12 @@
           "class": "comparative"
         },
         {
-          "name": "域外管辖权",
-          "class": "international"
+          "name": "比较宪法",
+          "class": "comparative"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8
@@ -506,12 +578,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "最高法院",
+          "class": "constitutional"
         },
         {
           "name": "司法独立",
           "class": "constitutional"
+        },
+        {
+          "name": "法律职业伦理",
+          "class": "practice"
         }
       ],
       "quality_score": 8
@@ -536,12 +612,12 @@
           "class": "constitutional"
         },
         {
-          "name": "国际法",
-          "class": "international"
-        },
-        {
           "name": "司法审查",
           "class": "constitutional"
+        },
+        {
+          "name": "国际法",
+          "class": "international"
         }
       ],
       "quality_score": 8
@@ -558,11 +634,15 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法",
+          "name": "宪法解释",
           "class": "constitutional"
         },
         {
-          "name": "宪法解释",
+          "name": "法律理论",
+          "class": "theory"
+        },
+        {
+          "name": "原旨主义",
           "class": "constitutional"
         }
       ],
@@ -582,6 +662,14 @@
         {
           "name": "刑事司法",
           "class": "criminal"
+        },
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "量刑",
+          "class": "criminal"
         }
       ],
       "quality_score": 8
@@ -600,6 +688,14 @@
         {
           "name": "法律职业伦理",
           "class": "practice"
+        },
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "检察权",
+          "class": "criminal"
         }
       ],
       "quality_score": 8
@@ -616,11 +712,15 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法",
+          "name": "选举法",
           "class": "constitutional"
         },
         {
-          "name": "选举法",
+          "name": "平等保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法独立",
           "class": "constitutional"
         }
       ],
@@ -642,8 +742,12 @@
           "class": "tech"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "规制理论",
+          "class": "administrative"
+        },
+        {
+          "name": "信息法",
+          "class": "tech"
         }
       ],
       "quality_score": 7,
@@ -674,8 +778,12 @@
           "class": "constitutional"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "权力分立",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
         }
       ],
       "quality_score": 7,
@@ -740,8 +848,8 @@
           "class": "comparative"
         },
         {
-          "name": "行政权",
-          "class": "administrative"
+          "name": "公民身份",
+          "class": "immigration"
         }
       ],
       "quality_score": 8
@@ -762,16 +870,12 @@
           "class": "constitutional"
         },
         {
-          "name": "信息法",
-          "class": "tech"
-        },
-        {
           "name": "法律职业伦理",
           "class": "practice"
         },
         {
-          "name": "比较宪法",
-          "class": "comparative"
+          "name": "宪法",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8
@@ -792,12 +896,12 @@
           "class": "international"
         },
         {
-          "name": "域外管辖权",
-          "class": "international"
-        },
-        {
           "name": "能源法",
           "class": "special"
+        },
+        {
+          "name": "域外管辖权",
+          "class": "international"
         }
       ],
       "quality_score": 8
@@ -816,7 +920,11 @@
           "class": "immigration"
         },
         {
-          "name": "行政权",
+          "name": "庇护",
+          "class": "immigration"
+        },
+        {
+          "name": "行政程序",
           "class": "administrative"
         }
       ],
@@ -834,6 +942,14 @@
         {
           "name": "联邦主义",
           "class": "constitutional"
+        },
+        {
+          "name": "侵权法",
+          "class": "civil"
+        },
+        {
+          "name": "民事诉讼",
+          "class": "procedural"
         }
       ],
       "quality_score": 7
@@ -848,8 +964,12 @@
       "whyMattersCN": "本案重新划定了政府商业实体的主权豁免边界，对美国数百家州属公共企业的诉讼风险产生深远影响。对中国极具参考价值：我国国有企业的诉讼主体资格与行政机关的区分、政府投资平台公司是否享有财政资金执行豁免等问题，与本案法理高度契合。\n\n【选题思路】可研究'国有企业的主权豁免边界'，比较美国州属企业豁免判断标准与中国国有企业在民事诉讼中的特殊地位（如财政资金执行限制），探讨公共服务商业化运营中法律身份界定的全球趋势。",
       "tags": [
         {
-          "name": "国际法",
-          "class": "international"
+          "name": "联邦主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "民事诉讼",
+          "class": "procedural"
         }
       ],
       "quality_score": 8
@@ -870,6 +990,14 @@
         {
           "name": "原旨主义",
           "class": "constitutional"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "移民法",
+          "class": "immigration"
         }
       ],
       "quality_score": 9
@@ -886,12 +1014,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
           "name": "行政法",
           "class": "administrative"
+        },
+        {
+          "name": "法律职业伦理",
+          "class": "practice"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -907,6 +1039,10 @@
       "whyMattersCN": "全票一致的裁决表明即使在意识形态分裂的最高法院，移民领域的行政裁量尊让仍是跨党派共识。对中国具有参考价值：我国出入境管理中行政裁量权同样广泛，但司法审查介入程度远低于美国，本案的'一致尊让'立场恰好为反思中国移民行政诉讼的审查强度提供了参照系。\n\n【选题思路】可从'移民行政裁量的司法审查密度'切入，比较中美两国法院对移民执法决定的审查标准差异，探讨行政效率与程序正义在移民法领域的最优平衡点。",
       "whyMattersEN": "",
       "tags": [
+        {
+          "name": "移民法",
+          "class": "immigration"
+        },
         {
           "name": "宪法",
           "class": "constitutional"
@@ -936,6 +1072,10 @@
         {
           "name": "正当程序",
           "class": "constitutional"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8
@@ -952,10 +1092,6 @@
       "whyMattersEN": "1) Institutional impact: The case involves federal judicial intervention in state court election law rulings, touching on extensions of the 'independent state legislature theory'—whether and how federal courts may review state court interpretations of state election law. This affects congressional map-drawing in key 2024 swing states. 2) Comparative value: While China lacks electoral litigation, the case demonstrates judicial review's checking function in electoral systems and federalism's complex state-federal interactions, offering reference for understanding judicial-legislative power allocation in election administration.",
       "tags": [
         {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
           "name": "选举法",
           "class": "constitutional"
         },
@@ -965,6 +1101,10 @@
         },
         {
           "name": "司法审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法",
           "class": "constitutional"
         }
       ],
@@ -984,6 +1124,14 @@
         {
           "name": "宪法",
           "class": "constitutional"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -1001,6 +1149,14 @@
       "tags": [
         {
           "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "辩护权",
           "class": "criminal"
         }
       ],
@@ -1022,6 +1178,10 @@
           "class": "immigration"
         },
         {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
           "name": "刑事司法",
           "class": "criminal"
         }
@@ -1037,15 +1197,19 @@
       "whyMattersCN": "本案对美国刑事司法制度具有结构性意义。Batson原则自1986年确立以来，长期因举证困难而形同虚设——检察官只需提出任何中性理由即可免责，导致种族歧视在陪审团选择中以隐蔽方式延续。若最高法院扩大联邦审查范围，将实质性重塑各州刑事诉讼中的陪审团遴选实践。对联邦-州司法关系的影响同样深远：本案可能重新划定《反恐与有效死刑法》28 U.S.C. §2254下联邦法院对州法院事实认定的干预边界。【选题思路】对中国法学研究者而言，此案提供了陪审制度比较法研究的绝佳切入点：中国《刑事诉讼法》第182-188条规定的人民陪审员制度同样存在选取程序透明度不足的问题，2018年《人民陪审员法》虽引入随机抽选机制，但在实证层面能否有效防范结构性偏见尚无充分研究。可借鉴本案的实证方法，对中国陪审员选任数据开展量化分析。",
       "tags": [
         {
+          "name": "死刑",
+          "class": "criminal"
+        },
+        {
+          "name": "陪审团制度",
+          "class": "criminal"
+        },
+        {
           "name": "平等保护",
           "class": "constitutional"
         },
         {
           "name": "刑事司法",
-          "class": "criminal"
-        },
-        {
-          "name": "死刑",
           "class": "criminal"
         }
       ],
@@ -1069,10 +1233,6 @@
           "class": "comparative"
         },
         {
-          "name": "民事诉讼",
-          "class": "procedural"
-        },
-        {
           "name": "司法独立",
           "class": "constitutional"
         }
@@ -1089,12 +1249,12 @@
       "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
       "tags": [
         {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
           "name": "实证法学",
           "class": "empirical"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
         },
         {
           "name": "最高法院",
@@ -1128,6 +1288,14 @@
         {
           "name": "遵循先例",
           "class": "procedural"
+        },
+        {
+          "name": "规制理论",
+          "class": "administrative"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -1144,6 +1312,10 @@
       "whyMattersCN": "本文的核心发现——行政机构系统性地通过非正式渠道规避正式程序约束——对理解行政国家（administrative state）的实际运作具有重要意义，在Loper Bright重塑解释权配置的背景下尤为关键。【论证借鉴】对中国行政立法研究而言，本文提供了极具价值的比较分析工具。中国《立法法》（2023年修正）和《行政法规制定程序条例》构建了以国务院行政法规和部门规章为核心的正式规则制定体系，但实践中大量政策文件、规范性文件（俗称\"红头文件\"）游离于正式程序之外，产生规则制定模态的类似现象。本文的实证方法——通过穷举式数据库检索量化各类规则制定工具的使用频率与分布——可直接移植于中国规范性文件的实证研究，填补现有文献对\"非正式行政立法\"现象量化描述的空白，为推进规范性文件统一备案审查制度提供数据支撑。",
       "whyMattersEN": "",
       "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
         {
           "name": "授权立法",
           "class": "administrative"
@@ -1202,12 +1374,16 @@
       "whyMattersEN": "",
       "tags": [
         {
+          "name": "侵权法",
+          "class": "civil"
+        },
+        {
           "name": "民事诉讼",
           "class": "procedural"
         },
         {
-          "name": "侵权法",
-          "class": "civil"
+          "name": "集体诉讼",
+          "class": "procedural"
         }
       ],
       "quality_score": 7,
@@ -1235,6 +1411,14 @@
       "tags": [
         {
           "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法解释",
           "class": "constitutional"
         }
       ],
@@ -1266,8 +1450,8 @@
           "class": "procedural"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "上诉程序",
+          "class": "procedural"
         }
       ],
       "quality_score": 7,
@@ -1300,6 +1484,10 @@
         {
           "name": "移民法",
           "class": "immigration"
+        },
+        {
+          "name": "劳动法",
+          "class": "special"
         }
       ],
       "quality_score": 7,
@@ -1331,6 +1519,10 @@
         },
         {
           "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "平等保护",
           "class": "constitutional"
         }
       ],
@@ -1364,6 +1556,14 @@
         {
           "name": "行政法",
           "class": "administrative"
+        },
+        {
+          "name": "权力分立",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律史",
+          "class": "theory"
         }
       ],
       "quality_score": 7,
@@ -1391,6 +1591,14 @@
       "tags": [
         {
           "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "辩护权",
           "class": "criminal"
         },
         {
@@ -1422,8 +1630,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "AI治理",
-          "class": "tech"
+          "name": "公司法",
+          "class": "special"
+        },
+        {
+          "name": "金融监管",
+          "class": "special"
+        },
+        {
+          "name": "国际法",
+          "class": "international"
         }
       ],
       "quality_score": 8,
@@ -1456,6 +1672,14 @@
         {
           "name": "宗教自由",
           "class": "constitutional"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "原旨主义",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8,
@@ -1482,12 +1706,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法",
+          "name": "选举法",
           "class": "constitutional"
         },
         {
-          "name": "选举法",
+          "name": "平等保护",
           "class": "constitutional"
+        },
+        {
+          "name": "民事诉讼",
+          "class": "procedural"
         }
       ],
       "quality_score": 7,
@@ -1516,6 +1744,14 @@
         {
           "name": "宪法",
           "class": "constitutional"
+        },
+        {
+          "name": "选举法",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律理论",
+          "class": "theory"
         }
       ],
       "quality_score": 7,
@@ -1540,7 +1776,20 @@
       "summaryEN": "",
       "whyMattersCN": "【待验证】若涉及证据排除规则，则触及美国第四修正案核心：1)制度层面，该问题折射'惩罚警察'与'救济被告人'两种宪法解释范式的张力，影响Warren法院以来 exclusionary rule 的限缩趋势；2)比较法价值：中国2021年《刑事诉讼法》修订强化非法证据排除，但'证据灭失型'程序违法尚未形成系统规则，美国'失职致证灭失'的因果关系论证可为我国完善证据保全制度提供技术参考；3)实务启示：跨国企业应对美国执法调查时，需关注证据保全令（litigation hold）的合规边界，防范因'错失机会'论证导致的不利推定。",
       "whyMattersEN": "",
-      "tags": [],
+      "tags": [
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "辩护权",
+          "class": "criminal"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        }
+      ],
       "quality_score": 8,
       "policyTimeline": {
         "shortTerm": "【待验证】",
@@ -1567,6 +1816,10 @@
         {
           "name": "行政法",
           "class": "administrative"
+        },
+        {
+          "name": "民事诉讼",
+          "class": "procedural"
         },
         {
           "name": "规制理论",
@@ -1603,6 +1856,10 @@
         {
           "name": "量刑",
           "class": "criminal"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
         }
       ],
       "quality_score": 9,
@@ -1627,7 +1884,24 @@
       "summaryEN": "",
       "whyMattersCN": "对美国制度而言，本文回应了SPAC热潮与加密货币监管中\"关键人风险\"的治理真空，推动SEC从\"事后惩罚\"向\"事前人格筛选\"的范式转型，可能重塑《证券法》第8A条的解释适用。对中国比较法研究具有双重价值：其一，为科创板\"负面清单+终身追责\"机制提供域外验证，尤其参考其\"行为画像\"技术如何平衡效率与正当程序；其二，新《证券法》第221条的市场禁入制度可借鉴其比例原则审查标准，避免行政处罚的过度人格贬损。对跨国企业，需重新评估美籍高管的合规履历对跨境上市架构的影响；投资者应关注招股书中\"关键人行为条款\"的披露质量；政策制定者则须警惕行为规制可能引发的宪法第一修正案与职业自由权的合宪性争议，建议建立\"行为修复\"的退出机制而非终身标签化。",
       "whyMattersEN": "",
-      "tags": [],
+      "tags": [
+        {
+          "name": "公司法",
+          "class": "special"
+        },
+        {
+          "name": "金融监管",
+          "class": "special"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "规制理论",
+          "class": "administrative"
+        }
+      ],
       "quality_score": 9,
       "policyTimeline": {
         "shortTerm": "SEC加速修订Regulation D的\"坏小子\"认定细则",
@@ -1678,16 +1952,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "原旨主义",
-          "class": "constitutional"
-        },
-        {
           "name": "宗教自由",
           "class": "constitutional"
         },
         {
-          "name": "比较宪法",
-          "class": "comparative"
+          "name": "原旨主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
         },
         {
           "name": "实证法学",
@@ -1707,10 +1981,6 @@
       "whyMattersCN": "本文的论证方法对中国法学研究具有重要参考价值。首先，作者采用'制度史-规范论-比较法'的三层分析结构，将历史材料转化为规范论证的基石，而非简单的背景介绍。【论证借鉴】中国研究者可以借鉴这一方法，在讨论全国人大及其常委会的专属立法权时，系统梳理1954年宪法以来的立法权配置变迁，将历史演变作为批判现行授权立法膨胀的规范依据，而非仅停留在制度描述层面。其次，论文创造性地运用'反事实推理'（counterfactual analysis），通过设想'若严格执行权力分立，行政国家将如何运作'来揭示现行制度的偏离程度。【论证借鉴】中国学者可借鉴此方法，在分析行政立法、部门规章的合法性边界时，构建'若严格遵循法律保留原则'的理想模型，以此测量现实制度与宪法文本的张力。最后，作者将判例分析嵌入宏大的宪政理论叙事，选取关键判例（如J.W. Hampton案、Whitman案）进行'深描'，揭示司法话语的范式转换。【论证借鉴】中国研究者可对'立法法'实施以来的典型备案审查案例进行类似分析，追踪'不抵触'标准、'根据法律'条款的司法解释演变，构建中国式的授权立法教义学。此外，论文对'专业知识'作为权力扩张正当化理由的批判性检视，对理解中国'部门立法'现象亦有启发意义。",
       "whyMattersEN": "",
       "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
         {
           "name": "行政法",
           "class": "administrative"
@@ -1756,10 +2026,6 @@
         {
           "name": "司法审查",
           "class": "constitutional"
-        },
-        {
-          "name": "比较法",
-          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -1781,20 +2047,16 @@
           "class": "empirical"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
-        },
-        {
           "name": "医疗法",
           "class": "special"
         },
         {
-          "name": "法律理论",
+          "name": "法律史",
           "class": "theory"
         },
         {
-          "name": "法律史",
-          "class": "theory"
+          "name": "比较法",
+          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -1820,8 +2082,8 @@
           "class": "empirical"
         },
         {
-          "name": "法律理论",
-          "class": "theory"
+          "name": "劳动法",
+          "class": "special"
         }
       ],
       "quality_score": 8,
@@ -1882,8 +2144,8 @@
           "class": "comparative"
         },
         {
-          "name": "法律理论",
-          "class": "theory"
+          "name": "规制理论",
+          "class": "administrative"
         }
       ],
       "quality_score": 8,
@@ -1900,6 +2162,14 @@
       "whyMattersCN": "本文的论证方法论对中国法学研究具有重要参考价值。【论证借鉴1：解构\"自愿选择\"话语的实证策略】作者通过追踪同一批女性在不同生命阶段的就业轨迹，用纵向数据打破\"女性天生偏好稳定/灵活工作\"的本质主义叙事。中国研究者可借鉴此方法，利用劳动力调查数据或企业-员工匹配数据，检验\"女性自愿回归家庭\"究竟是真实偏好还是制度约束下的理性适应，为批判性分析三孩政策、延迟退休等议题提供实证基础。【论证借鉴2：制度比较的反事实分析】论文将美国与北欧国家进行制度对比，展示不同劳动市场制度安排如何产生截然不同的性别结果。中国研究者可建立\"区域制度差异\"分析框架，比较长三角与珠三角、体制内与体制外等不同劳动市场制度环境下的性别不平等模式，识别真正起因果作用的制度变量。【论证借鉴3：从个体归责到结构归责的规范转换】作者系统论证了法律分析中\"归因层级\"的选择如何决定改革议程，这一元理论反思对中国法学家尤为关键。面对平台用工、算法管理等新议题，研究者可借鉴此框架，抵制将责任推向个体\"算法素养\"或\"职业选择\"的倾向，坚持追问平台架构、数据权力等结构性因素如何系统性地制造不平等。",
       "whyMattersEN": "",
       "tags": [
+        {
+          "name": "劳动法",
+          "class": "special"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        },
         {
           "name": "实证法学",
           "class": "empirical"
@@ -1925,15 +2195,15 @@
         },
         {
           "name": "知识产权",
-          "class": "special"
+          "class": "tech"
         },
         {
           "name": "法律经济学",
           "class": "theory"
         },
         {
-          "name": "比较宪法",
-          "class": "comparative"
+          "name": "宪法",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8,
@@ -1951,16 +2221,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "比较法",
-          "class": "comparative"
-        },
-        {
           "name": "规制理论",
           "class": "administrative"
         },
         {
           "name": "实证法学",
           "class": "empirical"
+        },
+        {
+          "name": "联邦主义",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8,
@@ -1988,6 +2258,10 @@
         {
           "name": "宪法解释",
           "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
         }
       ],
       "quality_score": 8,
@@ -2040,16 +2314,12 @@
           "class": "theory"
         },
         {
-          "name": "比较法",
-          "class": "comparative"
+          "name": "平等保护",
+          "class": "constitutional"
         },
         {
           "name": "知识产权",
-          "class": "special"
-        },
-        {
-          "name": "平等保护",
-          "class": "constitutional"
+          "class": "tech"
         },
         {
           "name": "法律史",
@@ -2079,10 +2349,6 @@
           "class": "constitutional"
         },
         {
-          "name": "信息法",
-          "class": "tech"
-        },
-        {
           "name": "法律经济学",
           "class": "theory"
         },
@@ -2108,16 +2374,16 @@
           "class": "administrative"
         },
         {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
           "name": "遵循先例",
           "class": "procedural"
         },
         {
           "name": "授权立法",
           "class": "administrative"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -2137,6 +2403,10 @@
         },
         {
           "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "行政权",
           "class": "administrative"
         },
         {
@@ -2166,6 +2436,10 @@
         {
           "name": "司法审查",
           "class": "constitutional"
+        },
+        {
+          "name": "授权立法",
+          "class": "administrative"
         }
       ],
       "quality_score": 8
