@@ -46,7 +46,7 @@
           "class": "immigration"
         },
         {
-          "name": "原意主义",
+          "name": "原旨主义",
           "class": "constitutional"
         }
       ],
@@ -74,7 +74,7 @@
           "class": "constitutional"
         },
         {
-          "name": "比较法院研究",
+          "name": "比较法",
           "class": "comparative"
         }
       ],
@@ -184,7 +184,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "国际经济制裁",
+          "name": "经济制裁",
           "class": "international"
         },
         {
@@ -280,7 +280,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "国际经济制裁",
+          "name": "经济制裁",
           "class": "international"
         },
         {
@@ -317,7 +317,7 @@
         },
         {
           "name": "比较法",
-          "class": "constitutional"
+          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -376,7 +376,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "国际贸易",
+          "name": "国际法",
           "class": "international"
         },
         {
@@ -526,8 +526,8 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "比较诉讼制度",
-          "class": "procedural"
+          "name": "比较法",
+          "class": "comparative"
         },
         {
           "name": "司法改革",
@@ -556,7 +556,7 @@
           "class": "constitutional"
         },
         {
-          "name": "国际经济法",
+          "name": "国际法",
           "class": "international"
         },
         {
@@ -622,7 +622,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "法律职业",
+          "name": "法律职业伦理",
           "class": "practice"
         },
         {
@@ -671,7 +671,7 @@
         },
         {
           "name": "比较法",
-          "class": "tech"
+          "class": "comparative"
         }
       ],
       "quality_score": 7,
@@ -703,7 +703,7 @@
         },
         {
           "name": "比较法",
-          "class": "constitutional"
+          "class": "comparative"
         }
       ],
       "quality_score": 7,
@@ -730,24 +730,16 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "战争权力法",
+          "name": "战争权力",
           "class": "constitutional"
         },
         {
-          "name": "国际紧急经济权力法",
+          "name": "经济制裁",
+          "class": "international"
+        },
+        {
+          "name": "行政权",
           "class": "administrative"
-        },
-        {
-          "name": "反外国制裁法",
-          "class": "international"
-        },
-        {
-          "name": "行政权扩张",
-          "class": "constitutional"
-        },
-        {
-          "name": "域外制裁",
-          "class": "international"
         }
       ],
       "quality_score": 8
@@ -773,11 +765,11 @@
         },
         {
           "name": "比较宪法",
-          "class": "international"
+          "class": "comparative"
         },
         {
-          "name": "行政权边界",
-          "class": "constitutional"
+          "name": "行政权",
+          "class": "administrative"
         }
       ],
       "quality_score": 8
@@ -798,8 +790,8 @@
           "class": "constitutional"
         },
         {
-          "name": "信息泄露",
-          "class": "procedural"
+          "name": "信息法",
+          "class": "tech"
         },
         {
           "name": "职业伦理",
@@ -807,10 +799,10 @@
         },
         {
           "name": "比较宪法",
-          "class": "international"
+          "class": "comparative"
         },
         {
-          "name": "最高法院制度",
+          "name": "司法制度",
           "class": "procedural"
         }
       ],
@@ -828,7 +820,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "经济制裁法",
+          "name": "经济制裁",
           "class": "international"
         },
         {
@@ -837,11 +829,7 @@
         },
         {
           "name": "阻断立法",
-          "class": "administrative"
-        },
-        {
-          "name": "反外国制裁法",
-          "class": "administrative"
+          "class": "international"
         },
         {
           "name": "能源安全法",
@@ -865,7 +853,7 @@
         },
         {
           "name": "行政权",
-          "class": "constitutional"
+          "class": "administrative"
         }
       ],
       "quality_score": 8
@@ -880,7 +868,7 @@
       "whyMattersCN": "联邦优先权与州法管辖权的经典冲突，直接影响受害者在联邦监管行业中的民事救济渠道。对中国具有深刻比较法意义：我国中央立法与地方立法的冲突解决机制，尤其在交通运输、食品安全等领域，上位法是否排除地方性法规的民事赔偿标准，与本案面临相似的制度张力。\n\n【选题思路】可比较《立法法》的上位法优先规则与美国preemption doctrine的运作逻辑，聚焦'监管标准合规是否构成侵权法上的免责事由'这一跨法域共同难题。",
       "tags": [
         {
-          "name": "联邦法",
+          "name": "联邦主义",
           "class": "constitutional"
         },
         {
@@ -925,7 +913,7 @@
         },
         {
           "name": "原旨主义",
-          "class": "theory"
+          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -986,7 +974,7 @@
       "whyMattersEN": "The ruling establishes that parental notification policies trigger heightened constitutional scrutiny, potentially reshaping how schools nationwide balance student privacy against parental rights. It creates a procedural precedent requiring courts to weigh parents' due process interests before permitting non-disclosure policies. For comparative law, the case offers a framework for resolving conflicts between student autonomy and parental authority—relevant to jurisdictions including China, where Article 19 of the Minor Protection Law similarly mandates school-parent communication but lacks granularity on gender identity issues.",
       "tags": [
         {
-          "name": "美国宪法",
+          "name": "宪法",
           "class": "constitutional"
         },
         {
@@ -1020,7 +1008,7 @@
       "whyMattersEN": "1) Institutional impact: The case involves federal judicial intervention in state court election law rulings, touching on extensions of the 'independent state legislature theory'—whether and how federal courts may review state court interpretations of state election law. This affects congressional map-drawing in key 2024 swing states. 2) Comparative value: While China lacks electoral litigation, the case demonstrates judicial review's checking function in electoral systems and federalism's complex state-federal interactions, offering reference for understanding judicial-legislative power allocation in election administration.",
       "tags": [
         {
-          "name": "美国宪法",
+          "name": "宪法",
           "class": "constitutional"
         },
         {
@@ -1076,7 +1064,7 @@
       "whyMattersEN": "This ruling will standardize appeal waiver interpretation, affecting plea bargaining and Sixth Amendment rights.",
       "tags": [
         {
-          "name": "刑事程序",
+          "name": "刑事司法",
           "class": "criminal"
         },
         {
@@ -1098,11 +1086,11 @@
       "whyMattersEN": "This case involves the legal boundaries of private prison oversight and human rights protections in immigration detention.",
       "tags": [
         {
-          "name": "移民拘留",
+          "name": "移民法",
           "class": "criminal"
         },
         {
-          "name": "私人监狱",
+          "name": "刑事司法",
           "class": "criminal"
         }
       ]
@@ -1121,7 +1109,7 @@
           "class": "criminal"
         },
         {
-          "name": "陪审团选择",
+          "name": "刑事司法",
           "class": "criminal"
         },
         {
@@ -1157,7 +1145,7 @@
           "class": "constitutional"
         },
         {
-          "name": "司法能动主义",
+          "name": "司法制度",
           "class": "jurisprudence"
         }
       ],
@@ -1173,7 +1161,7 @@
       "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
       "tags": [
         {
-          "name": "司法行为",
+          "name": "司法制度",
           "class": "empirical"
         },
         {
@@ -1218,7 +1206,7 @@
           "class": "administrative"
         },
         {
-          "name": "Loper Bright",
+          "name": "Chevron",
           "class": "administrative"
         }
       ],
@@ -1272,7 +1260,7 @@
           "class": "constitutional"
         },
         {
-          "name": "司法方法论",
+          "name": "法律解释",
           "class": "constitutional"
         },
         {
@@ -1367,7 +1355,7 @@
         },
         {
           "name": "比较法",
-          "class": ""
+          "class": "comparative"
         }
       ],
       "quality_score": 7,
@@ -1494,7 +1482,7 @@
           "class": "criminal"
         },
         {
-          "name": "宪法审查",
+          "name": "司法审查",
           "class": "criminal"
         }
       ],
@@ -1648,12 +1636,7 @@
       "summaryEN": "",
       "whyMattersCN": "【待验证】若涉及证据排除规则，则触及美国第四修正案核心：1)制度层面，该问题折射'惩罚警察'与'救济被告人'两种宪法解释范式的张力，影响Warren法院以来 exclusionary rule 的限缩趋势；2)比较法价值：中国2021年《刑事诉讼法》修订强化非法证据排除，但'证据灭失型'程序违法尚未形成系统规则，美国'失职致证灭失'的因果关系论证可为我国完善证据保全制度提供技术参考；3)实务启示：跨国企业应对美国执法调查时，需关注证据保全令（litigation hold）的合规边界，防范因'错失机会'论证导致的不利推定。",
       "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "待确认",
-          "class": "criminal"
-        }
-      ],
+      "tags": [],
       "quality_score": 8,
       "policyTimeline": {
         "shortTerm": "【待验证】",
@@ -1683,7 +1666,7 @@
         },
         {
           "name": "规制理论",
-          "class": ""
+          "class": "administrative"
         }
       ],
       "quality_score": 9,
@@ -1714,7 +1697,7 @@
           "class": "criminal"
         },
         {
-          "name": "量刑指南",
+          "name": "量刑",
           "class": "criminal"
         }
       ],
@@ -1774,7 +1757,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "侵权法基础理论",
+          "name": "侵权法",
           "class": "theory"
         },
         {
@@ -1782,8 +1765,8 @@
           "class": "theory"
         },
         {
-          "name": "比较法方法论",
-          "class": "procedural"
+          "name": "比较法方法",
+          "class": "comparative"
         }
       ],
       "quality_score": 8
@@ -1800,7 +1783,7 @@
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "宪法原旨主义",
+          "name": "原旨主义",
           "class": "constitutional"
         },
         {
@@ -1808,8 +1791,8 @@
           "class": "constitutional"
         },
         {
-          "name": "比较宪法方法",
-          "class": "theory"
+          "name": "比较宪法",
+          "class": "comparative"
         },
         {
           "name": "法律史量化分析",
@@ -1842,8 +1825,8 @@
           "class": "theory"
         },
         {
-          "name": "原旨主义解释",
-          "class": "theory"
+          "name": "原旨主义",
+          "class": "constitutional"
         },
         {
           "name": "授权立法",
@@ -1872,7 +1855,7 @@
           "class": "theory"
         },
         {
-          "name": "规制治理",
+          "name": "规制理论",
           "class": "administrative"
         },
         {
@@ -1881,7 +1864,7 @@
         },
         {
           "name": "比较法方法",
-          "class": "theory"
+          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -1973,8 +1956,8 @@
           "class": "constitutional"
         },
         {
-          "name": "比较制度分析",
-          "class": "procedural"
+          "name": "比较法",
+          "class": "comparative"
         },
         {
           "name": "实证法学",
@@ -2001,7 +1984,7 @@
       "tags": [
         {
           "name": "平台治理",
-          "class": "administrative"
+          "class": "tech"
         },
         {
           "name": "信息法",
@@ -2013,7 +1996,7 @@
         },
         {
           "name": "比较法",
-          "class": "international"
+          "class": "comparative"
         },
         {
           "name": "跨学科研究",
@@ -2083,7 +2066,7 @@
         },
         {
           "name": "比较宪法",
-          "class": "constitutional"
+          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -2102,15 +2085,15 @@
       "tags": [
         {
           "name": "比较法",
-          "class": "international"
+          "class": "comparative"
         },
         {
           "name": "立法评估",
           "class": "administrative"
         },
         {
-          "name": "规制经济学",
-          "class": "theory"
+          "name": "规制理论",
+          "class": "administrative"
         },
         {
           "name": "实证法学",
@@ -2144,8 +2127,8 @@
           "class": "theory"
         },
         {
-          "name": "法律解释学",
-          "class": "theory"
+          "name": "法律解释",
+          "class": "constitutional"
         }
       ],
       "quality_score": 8,
@@ -2176,11 +2159,11 @@
         },
         {
           "name": "规制理论",
-          "class": "theory"
+          "class": "administrative"
         },
         {
           "name": "比较法",
-          "class": "international"
+          "class": "comparative"
         }
       ],
       "quality_score": 8,
@@ -2238,15 +2221,15 @@
       "tags": [
         {
           "name": "法律职业伦理",
-          "class": "procedural"
+          "class": "practice"
         },
         {
           "name": "司法制度",
           "class": "procedural"
         },
         {
-          "name": "信息披露",
-          "class": "administrative"
+          "name": "信息法",
+          "class": "tech"
         },
         {
           "name": "行为经济学",
@@ -2310,7 +2293,7 @@
           "class": "jurisprudence"
         },
         {
-          "name": "规制正当性",
+          "name": "规制理论",
           "class": "administrative"
         }
       ],
@@ -2326,8 +2309,8 @@
       "whyMattersCN": "本文的现实意义在于其前瞻性：在Loper Bright判决后司法审查趋严的背景下，联邦行政机关的策略性调整将深刻影响美国监管体系的运转效率与政策连贯性。特别值得关注的是指导文件扩张这一趋势——行政机关可能大量转向软法工具以规避司法审查，这在提升监管灵活性的同时将引发新的民主问责危机。【论证借鉴】中国语境下存在高度对称的制度现象：国务院各部委大量依赖规范性文件（红头文件）而非正式行政法规进行事实性规制，《行政诉讼法》第53条虽允许附带审查，但实践中法院对规范性文件的司法审查极为保守。可借鉴本文的策略性规制转型框架，对中国行政机关使用软法工具规避司法审查的行为进行实证研究，为《行政诉讼法》司法解释的修订提供实证依据。",
       "tags": [
         {
-          "name": "联邦法规",
-          "class": "administrative"
+          "name": "联邦主义",
+          "class": "constitutional"
         },
         {
           "name": "行政策略",
