@@ -7,11 +7,38 @@ interface BriefFiltersProps {
   selectedSource: string
   onTagChange: (tag: string) => void
   onSourceChange: (source: string) => void
+  sourceLabel?: string
 }
 
-export function BriefFilters({ tags, sources, selectedTag, selectedSource, onTagChange, onSourceChange }: BriefFiltersProps) {
+export function BriefFilters({
+  tags, sources, selectedTag, selectedSource,
+  onTagChange, onSourceChange, sourceLabel = '全部来源'
+}: BriefFiltersProps) {
   return (
-    <div className="flex flex-wrap gap-3">
+    <div className="flex flex-col gap-3">
+      {/* Source filter — top row */}
+      <div className="flex items-center gap-2">
+        <select
+          value={selectedSource}
+          onChange={e => onSourceChange(e.target.value)}
+          className="rounded-md px-3 py-1.5 text-[11px] outline-none"
+          style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', color: 'var(--text-secondary)' }}
+        >
+          <option value="">{sourceLabel}</option>
+          {sources.map(s => <option key={s} value={s}>{s}</option>)}
+        </select>
+        {selectedSource && (
+          <button
+            onClick={() => onSourceChange('')}
+            className="text-[11px]"
+            style={{ color: 'var(--text-tertiary)' }}
+          >
+            ✕ 清除
+          </button>
+        )}
+      </div>
+
+      {/* Tag filters — second row */}
       <div className="flex flex-wrap gap-1.5">
         <button
           onClick={() => onTagChange('')}
@@ -39,15 +66,6 @@ export function BriefFilters({ tags, sources, selectedTag, selectedSource, onTag
           </button>
         ))}
       </div>
-      <select
-        value={selectedSource}
-        onChange={e => onSourceChange(e.target.value)}
-        className="rounded-md px-3 py-1 text-[11px] outline-none"
-        style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', color: 'var(--text-secondary)' }}
-      >
-        <option value="">全部来源</option>
-        {sources.map(s => <option key={s} value={s}>{s}</option>)}
-      </select>
     </div>
   )
 }
