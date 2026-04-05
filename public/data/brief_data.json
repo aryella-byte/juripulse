@@ -2386,7 +2386,8 @@
           "class": "constitutional"
         }
       ],
-      "quality_score": 9
+      "quality_score": 9,
+      "journal": "NYU Law Review"
     },
     {
       "title": "Anti-Domination and Administration",
@@ -2414,7 +2415,8 @@
           "class": "administrative"
         }
       ],
-      "quality_score": 9
+      "quality_score": 9,
+      "journal": "NYU Law Review"
     },
     {
       "title": "New Challenges for Federal Regulations: Executive Branch Responses",
@@ -2442,7 +2444,8 @@
           "class": "administrative"
         }
       ],
-      "quality_score": 8
+      "quality_score": 8,
+      "journal": "NYU Law Review"
     }
   ]
 }
