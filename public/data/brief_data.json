@@ -1106,6 +1106,90 @@
           "class": "criminal"
         }
       ]
+    },
+    {
+      "title": "Court seems sympathetic to death-row inmate's attempt to challenge racial discrimination in jury selection",
+      "titleCN": "最高法院似乎同情死刑犯挑战陪审团选择中种族歧视的诉求",
+      "url": "https://www.scotusblog.com/2026/04/court-appears-sympathetic-to-death-row-inmates-attempt-to-challenge-racial-discrimination-in-jury-selection/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "联邦最高法院就一起死刑案件举行口头辩论，案件焦点在于检察官在陪审员遴选阶段是否存在种族歧视性的理由挑战（peremptory challenge）。根据1986年Batson v. Kentucky先例，检察官不得以种族为由排除陪审员候选人，但实践中举证标准争议不断。本案申请人主张，检察官系统性地将黑人候选人排除于陪审团之外，违反平等保护条款。多名大法官的提问显示出对死刑犯立场的同情，争议核心在于：法院审查陪审团组成的范围与程序正当性边界，以及《联邦人身保护令法》对州法院事实认定的尊重程度。",
+      "whyMattersCN": "本案对美国刑事司法制度具有结构性意义。Batson原则自1986年确立以来，长期因举证困难而形同虚设——检察官只需提出任何中性理由即可免责，导致种族歧视在陪审团选择中以隐蔽方式延续。若最高法院扩大联邦审查范围，将实质性重塑各州刑事诉讼中的陪审团遴选实践。对联邦-州司法关系的影响同样深远：本案可能重新划定《反恐与有效死刑法》28 U.S.C. §2254下联邦法院对州法院事实认定的干预边界。【选题思路】对中国法学研究者而言，此案提供了陪审制度比较法研究的绝佳切入点：中国《刑事诉讼法》第182-188条规定的人民陪审员制度同样存在选取程序透明度不足的问题，2018年《人民陪审员法》虽引入随机抽选机制，但在实证层面能否有效防范结构性偏见尚无充分研究。可借鉴本案的实证方法，对中国陪审员选任数据开展量化分析。",
+      "tags": [
+        {
+          "name": "种族歧视",
+          "class": "criminal"
+        },
+        {
+          "name": "陪审团选择",
+          "class": "criminal"
+        },
+        {
+          "name": "死刑",
+          "class": "criminal"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "The Supreme Court of India",
+      "titleCN": "印度最高法院",
+      "url": "https://www.scotusblog.com/2026/04/the-supreme-court-of-india/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog刊发对印度最高法院的专题介绍，系统梳理其制度架构、管辖权设计及近年重大判决。印度最高法院兼具终审上诉法院与宪法解释机关的双重职能，并享有独特的原始管辖权（original jurisdiction），可直接受理公益诉讼（PIL）。相较美国联邦最高法院，印度最高法院法官人数更多（34名），案件积压问题长期严峻。近年来，该院在LGBTQ+权利、宗教自由与隐私权等领域的判决引发广泛争议，呈现出司法能动主义与司法克制之间的持续张力。法院与行政机关在司法任命问题上的博弈尤为引人注目。",
+      "whyMattersCN": "本文的比较宪法价值在于呈现了与美国、中国均不同的第三条道路——一个后殖民民主国家的司法权力演化路径。印度最高法院通过PIL制度将普通公民与宪法救济直接相连，这一机制在遏制行政权力方面效果显著，但也引发了司法造法的正当性争议。这与中国行政诉讼制度的困境形成鲜明对照：《行政诉讼法》第25条严格限定原告资格，公益诉讼主要由检察院提起，公民个人直接提起宪法性诉讼的渠道几乎封闭。【选题思路】可围绕公益诉讼制度的比较研究立题，以印度PIL、美国集体诉讼与中国检察公益诉讼为三个比较维度，分析不同司法文化与制度结构下公民参与宪法实施的路径差异，对中国检察公益诉讼扩权改革具有参照价值。",
+      "tags": [
+        {
+          "name": "比较宪法",
+          "class": "comparative"
+        },
+        {
+          "name": "印度司法",
+          "class": "comparative"
+        },
+        {
+          "name": "公益诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法能动主义",
+          "class": "jurisprudence"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Who is driving the conversation at the Supreme Court?",
+      "titleCN": "谁在主导最高法院的对话？",
+      "url": "https://www.scotusblog.com/2026/04/who-is-driving-the-conversation-at-the-supreme-court/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog采用实证方法，系统分析当前届期美国联邦最高法院口头辩论中各大法官的发言频率与质量，探究谁真正在主导庭审对话。研究基于对本庭期全部口头辩论记录的量化编码，统计各大法官提问次数、提问时长及提问时机。初步数据显示，首席大法官罗伯茨与大法官卡瓦诺、杰克逊在庭辩中最为活跃，而大法官托马斯的提问则相对集中于特定议题领域。争议在于：庭辩中的话语主导权是否能有效预测最终判决的多数意见走向，以及沉默的大法官是否已在书面审查阶段完成了关键的说服工作。",
+      "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
+      "tags": [
+        {
+          "name": "司法行为",
+          "class": "empirical"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "话语分析",
+          "class": "empirical"
+        }
+      ],
+      "quality_score": 8
     }
   ],
   "research": [
@@ -2175,6 +2259,90 @@
       ],
       "quality_score": 8,
       "source": "Harvard Law Review"
+    },
+    {
+      "title": "Harmonizing Delegation and Deference After Loper Bright",
+      "titleCN": "Loper Bright之后：授权与尊重的调和",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/harmonizing-delegation-and-deference-after-loper-bright/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文系统回应2024年联邦最高法院Loper Bright Enterprises v. Raimondo判决推翻Chevron原则后的行政法理论重构需求。作者核心论点是：Chevron被推翻并不意味着行政机关解释权的终结，而是要求法律体系在国会授权（delegation）与司法尊重（deference）之间建立新的协调机制。作者通过分析大量授权立法的文本结构，归纳出三类授权模式，主张法院应根据授权范围的明确程度差异化适用尊重标准。研究方法融合文本主义（textualism）与制度能力分析（institutional competence analysis），试图在无Chevron时代为行政机关的法律解释预留合法空间。",
+      "whyMattersCN": "Loper Bright是美国行政法自1984年以来最重大的制度变革，其影响将深度重塑联邦行政机关的规制能力与司法对行政的监控强度。本文的学术贡献在于提供了一套操作性框架，而非停留于对判决的规范批判。从比较行政法视角看，这场变革与中国行政解释制度的内在张力构成重要参照：中国《立法法》第65条授权国务院制定行政法规，《行政诉讼法》第53条规定法院可对规章以下的规范性文件进行附带审查，但对行政机关法律解释的司法审查标准至今缺乏系统性规定。【论证借鉴】本文授权类型学的分析框架可直接移植到中国语境：对《行政诉讼法》司法解释中行政行为合法性审查标准进行类型化分析，区分羁束性授权、裁量性授权与专业性授权三类场景下的司法审查密度，为中国行政审判实践提供理论依据。",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "司法尊重原则",
+          "class": "administrative"
+        },
+        {
+          "name": "Chevron",
+          "class": "administrative"
+        },
+        {
+          "name": "授权立法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "Anti-Domination and Administration",
+      "titleCN": "反支配理论与行政法",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文将政治哲学中的反支配（anti-domination）理论引入行政法领域，提出一种新的规制正当性理论。作者核心主张是：现行行政法理论过度关注效率与程序合规，而忽视了行政机关与规制对象之间的权力不对称问题。援引菲利普·佩蒂特（Philip Pettit）的共和主义自由理论，作者论证监管机构对个人和企业施加的权力本身构成一种支配关系，即便未实际行使强制手段。研究方法结合规范理论与行政实践案例分析，试图重塑行政正当性的评价标准，主张将减少支配确立为行政法的核心价值目标，与当前占主导地位的公共利益理论形成竞争。",
+      "whyMattersCN": "这篇文章代表了行政法理论的共和主义转向，对什么是好的规制这一根本问题提出了新答案。其挑战在于：如果减少支配成为行政法的核心标准，那么大量现行管制措施（包括经济管制、环境规制）都需重新接受正当性检验，这将为法院审查行政行为提供新的裁判工具。对中国行政法学而言，此文具有深刻的比较价值：中国《行政许可法》、《行政处罚法》近年均强调比例原则，2021年修订的《行政处罚法》第5条明确规定处罚与违法行为应当相当，这在某种程度上接近反支配关切。【论证借鉴】可借鉴本文的规范理论框架，分析中国放管服改革（减少行政许可、优化监管方式）的深层正当性逻辑，探讨比例原则在中国行政法语境下能否承载反支配的制度功能，为行政法教义学的规范基础研究提供理论资源。",
+      "tags": [
+        {
+          "name": "反支配理论",
+          "class": "jurisprudence"
+        },
+        {
+          "name": "行政法理论",
+          "class": "administrative"
+        },
+        {
+          "name": "共和主义",
+          "class": "jurisprudence"
+        },
+        {
+          "name": "规制正当性",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "New Challenges for Federal Regulations: Executive Branch Responses",
+      "titleCN": "联邦法规面临的新挑战：行政机关的应对策略",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/new-challenges-for-federal-regulations-executive-branch-responses/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文聚焦后Chevron时代行政机关在制定联邦法规方面面临的系统性挑战，重点考察行政机关如何调整其规制策略以适应新的司法审查生态。作者梳理了Loper Bright判决后各联邦机构的实际应对措施，归纳出三种主要策略：一是加强国会授权的明确性论证；二是转向更多依赖指导文件（guidance documents）而非正式规章；三是强化规则制定记录中的技术性证据支撑。研究方法采用对判决后规则制定案例的定性分析，并辅以对联邦行政法规数据库的量化统计。核心命题是：Loper Bright不会导致行政国家的瓦解，而会推动其结构性适应和策略性转型。",
+      "whyMattersCN": "本文的现实意义在于其前瞻性：在Loper Bright判决后司法审查趋严的背景下，联邦行政机关的策略性调整将深刻影响美国监管体系的运转效率与政策连贯性。特别值得关注的是指导文件扩张这一趋势——行政机关可能大量转向软法工具以规避司法审查，这在提升监管灵活性的同时将引发新的民主问责危机。【论证借鉴】中国语境下存在高度对称的制度现象：国务院各部委大量依赖规范性文件（红头文件）而非正式行政法规进行事实性规制，《行政诉讼法》第53条虽允许附带审查，但实践中法院对规范性文件的司法审查极为保守。可借鉴本文的策略性规制转型框架，对中国行政机关使用软法工具规避司法审查的行为进行实证研究，为《行政诉讼法》司法解释的修订提供实证依据。",
+      "tags": [
+        {
+          "name": "联邦法规",
+          "class": "administrative"
+        },
+        {
+          "name": "行政策略",
+          "class": "administrative"
+        },
+        {
+          "name": "司法审查",
+          "class": "administrative"
+        },
+        {
+          "name": "软法",
+          "class": "comparative"
+        }
+      ],
+      "quality_score": 8
     }
   ]
 }
