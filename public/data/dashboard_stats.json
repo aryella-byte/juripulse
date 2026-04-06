@@ -1,0 +1,51 @@
+{
+  "papers": 51385,
+  "journals": 22,
+  "disciplines": 685,
+  "year_range": [
+    2000,
+    2026
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "刑事诉讼法修改",
+      "count": 39,
+      "growth": 3800
+    },
+    {
+      "keyword": "刑法修正案（十二）",
+      "count": 20,
+      "growth": 2000
+    },
+    {
+      "keyword": "人工智能立法",
+      "count": 18,
+      "growth": 1800
+    },
+    {
+      "keyword": "补充责任",
+      "count": 13,
+      "growth": 1200
+    },
+    {
+      "keyword": "民营企业",
+      "count": 12,
+      "growth": 1100
+    },
+    {
+      "keyword": "背信犯罪",
+      "count": 10,
+      "growth": 900
+    },
+    {
+      "keyword": "数据使用权",
+      "count": 9,
+      "growth": 900
+    },
+    {
+      "keyword": "涉案财物处置",
+      "count": 9,
+      "growth": 800
+    }
+  ]
+}

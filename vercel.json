@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://aryella-byte.github.io/juripulse/$1",
+      "permanent": true
+    }
+  ]
+}
