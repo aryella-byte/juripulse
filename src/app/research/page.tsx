@@ -208,7 +208,7 @@ export default function ResearchPage() {
             <div className="space-y-10">
               <div>
                 <h3 className="font-serif mb-4 text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>
-                  学科演变（2007–2026）
+                  学科演变趋势
                 </h3>
                 <DisciplineStack data={landscape.year_matrix} disciplines={discNames} />
               </div>
