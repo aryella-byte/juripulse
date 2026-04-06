@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 import { DebateCard, DebateData } from '@/components/pulse/DebateCard'
 
-const bp = process.env.__NEXT_ROUTER_BASEPATH || ''
+const bp = '/juripulse'
 
 interface DebateFile {
   updated: string

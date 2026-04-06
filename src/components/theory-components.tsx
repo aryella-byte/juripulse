@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useRef } from 'react'
+import Link from 'next/link'
 import { ChevronDown, ChevronUp, Lightbulb, AlertTriangle, CheckCircle, HelpCircle, Copy, Check, ChevronLeft, ChevronRight } from 'lucide-react'
 
 // ============================================================
@@ -331,14 +332,14 @@ export function ChapterNav({ currentChapter }: ChapterNavProps) {
   return (
     <div className="flex items-center justify-between px-4 py-4" style={{ borderTop: '1px solid var(--border)' }}>
       {prev ? (
-        <a href={prev.path} className="flex items-center gap-1 text-sm transition-colors" style={{ color: 'var(--text-tertiary)' }}>
+        <Link href={prev.path} className="flex items-center gap-1 text-sm transition-colors" style={{ color: 'var(--text-tertiary)' }}>
           <ChevronLeft size={16} /> 第{prev.num}章 {prev.title}
-        </a>
+        </Link>
       ) : <div />}
       {next ? (
-        <a href={next.path} className="flex items-center gap-1 text-sm transition-colors" style={{ color: 'var(--text-tertiary)' }}>
+        <Link href={next.path} className="flex items-center gap-1 text-sm transition-colors" style={{ color: 'var(--text-tertiary)' }}>
           第{next.num}章 {next.title} <ChevronRight size={16} />
-        </a>
+        </Link>
       ) : <div />}
     </div>
   )

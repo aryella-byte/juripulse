@@ -585,6 +585,12 @@
       "growth": -88
     },
     {
+      "keyword": "量刑建议",
+      "recent": 4,
+      "earlier": 27,
+      "growth": -85
+    },
+    {
       "keyword": "法律渊源",
       "recent": 2,
       "earlier": 13,
@@ -601,12 +607,6 @@
       "recent": 2,
       "earlier": 12,
       "growth": -83
-    },
-    {
-      "keyword": "法律",
-      "recent": 2,
-      "earlier": 11,
-      "growth": -82
     }
   ]
 }

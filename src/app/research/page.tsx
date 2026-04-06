@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react'
 import { BarChart3, TrendingUp, Network, Layers } from 'lucide-react'
 import { DisciplineTreemap } from '@/components/research/DisciplineTreemap'
 import { JournalBar } from '@/components/research/JournalBar'
-import { YearHeatmap } from '@/components/research/YearHeatmap'
 import { TrendChart } from '@/components/research/TrendChart'
 import { EmergingTable } from '@/components/research/EmergingTable'
 import { AuthorForce } from '@/components/research/AuthorForce'
@@ -12,7 +11,7 @@ import { CitedList } from '@/components/research/CitedList'
 import { JournalMatrix } from '@/components/research/JournalMatrix'
 import { DisciplineStack } from '@/components/research/DisciplineStack'
 
-const bp = process.env.__NEXT_ROUTER_BASEPATH || ''
+const bp = '/juripulse'
 
 const TABS = [
   { id: 'overview', label: '全景概览', icon: BarChart3 },
@@ -152,13 +151,6 @@ export default function ResearchPage() {
                   </h3>
                   <JournalBar data={journalData} />
                 </div>
-              </div>
-              {/* Year × Discipline Heatmap */}
-              <div>
-                <h3 className="font-serif mb-4 text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>
-                  年度 × 学科 发文热力图
-                </h3>
-                <YearHeatmap data={landscape.year_matrix} disciplines={discNames} />
               </div>
             </div>
           )}

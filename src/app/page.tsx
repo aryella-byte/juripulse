@@ -26,7 +26,7 @@ interface KeywordTrends {
   emerging: { keyword: string; recent: number; earlier: number; growth: number }[]
 }
 
-const bp = process.env.__NEXT_ROUTER_BASEPATH || ''
+const bp = '/juripulse'
 
 const features = [
   {
@@ -104,9 +104,7 @@ export default function Home() {
               </p>
 
               <p className="mt-3 text-[14px] leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                {stats
-                  ? `${stats.papers.toLocaleString()} 篇论文 · ${stats.journals} 种 CLSCI 期刊 · ${stats.disciplines} 个学科全覆盖`
-                  : '51,385 篇论文 · 22 种 CLSCI 期刊 · 11 个学科全覆盖'}
+                精准定位研究热点与学术争议，全面覆盖法学核心期刊，为选题与论证提供数据支撑。
               </p>
 
               <div className="mt-8 flex items-center gap-4">

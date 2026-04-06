@@ -16,14 +16,14 @@ const capabilities = [
     title: '深度分析',
     desc: '自动识别学术论争，系统呈现学派观点，追踪引文关系网络',
     highlights: ['论争图谱', '阵营对比', '引文追踪'],
-    accent: '#7c3aed',
+    accent: '#234681',
   },
   {
     icon: TrendingUp,
     title: '趋势洞察',
     desc: '实时监测研究热点变化，发现新兴议题，预判学术走向',
     highlights: ['关键词趋势', '新兴议题', '学科演变'],
-    accent: '#059669',
+    accent: '#0f2340',
   },
   {
     icon: Newspaper,
