@@ -118,7 +118,7 @@ export default function PulsePage() {
       {/* Footer */}
       <div className="mt-16 border-t pt-8" style={{ borderColor: 'var(--border)' }}>
         <p className="text-[12px]" style={{ color: 'var(--text-tertiary)' }}>
-          数据来源：CLSCI 收录期刊全文数据库 · 更新于 {data.updated}
+          数据更新截至 2026 年 2 月
         </p>
       </div>
     </div>
