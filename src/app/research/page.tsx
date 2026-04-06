@@ -106,7 +106,7 @@ export default function ResearchPage() {
         </h1>
         <p className="mt-2 max-w-2xl text-[14px] leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
           {stats
-            ? `基于 ${stats.papers.toLocaleString()} 篇 CLSCI 论文的全景分析 — 覆盖 ${stats.journals} 种核心期刊、${stats.disciplines} 个法学学科`
+            ? `基于 ${stats.papers.toLocaleString()} 篇 CLSCI 论文的全景分析，覆盖 ${stats.journals} 种核心期刊`
             : '基于 CLSCI 核心期刊论文的全景分析'}
         </p>
       </div>

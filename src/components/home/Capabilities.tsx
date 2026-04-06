@@ -8,7 +8,7 @@ const capabilities = [
     icon: Database,
     title: '全面覆盖',
     desc: 'CLSCI 核心期刊全量收录，覆盖法学全部一级学科，持续更新',
-    highlights: ['22 种核心期刊', '11 个学科', '持续增长'],
+    highlights: ['核心期刊', '法学全学科', '持续更新'],
     accent: '#1a365d',
   },
   {

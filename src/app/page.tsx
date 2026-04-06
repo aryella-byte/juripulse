@@ -144,7 +144,6 @@ export default function Home() {
           stats={[
             { value: stats.papers, label: '篇论文' },
             { value: stats.journals, label: 'CLSCI 期刊' },
-            { value: stats.disciplines, label: '法学学科' },
           ]}
         />
       )}
