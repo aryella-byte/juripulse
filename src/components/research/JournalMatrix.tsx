@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useMemo } from 'react'
 import * as d3 from 'd3'
 
 interface Props {
@@ -12,13 +12,27 @@ export function JournalMatrix({ data, disciplines }: Props) {
   const svgRef = useRef<SVGSVGElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
 
+  // Convert raw counts to within-journal percentages
+  const pctData = useMemo(() => {
+    const result: Record<string, Record<string, number>> = {}
+    for (const [journal, discs] of Object.entries(data)) {
+      const total = Object.values(discs).reduce((a, b) => a + b, 0)
+      if (total === 0) continue
+      result[journal] = {}
+      for (const [d, count] of Object.entries(discs)) {
+        result[journal][d] = Math.round((count / total) * 100)
+      }
+    }
+    return result
+  }, [data])
+
   useEffect(() => {
     if (!svgRef.current || !containerRef.current || !disciplines.length) return
 
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
 
-    const journals = Object.keys(data).sort()
+    const journals = Object.keys(pctData).sort()
     const margin = { top: 10, right: 20, bottom: 120, left: 160 }
     const cellSize = 28
     const width = margin.left + journals.length * cellSize + margin.right
@@ -28,25 +42,24 @@ export function JournalMatrix({ data, disciplines }: Props) {
 
     const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`)
 
-    const allValues = journals.flatMap(j => disciplines.map(d => data[j]?.[d] || 0)).filter(v => v > 0)
-    const maxVal = d3.max(allValues) || 1
-
-    const color = d3.scaleSequential([0, maxVal], d3.interpolateBlues)
+    // Color scale: 0% → white, 50%+ → deep navy
+    const color = d3.scaleSequential([0, 50], d3.interpolateBlues)
 
     // Cells
     journals.forEach((j, ji) => {
       disciplines.forEach((d, di) => {
-        const val = data[j]?.[d] || 0
+        const pct = pctData[j]?.[d] || 0
+        const raw = data[j]?.[d] || 0
         g.append('rect')
           .attr('x', ji * cellSize)
           .attr('y', di * cellSize)
           .attr('width', cellSize - 1)
           .attr('height', cellSize - 1)
           .attr('rx', 2)
-          .attr('fill', val > 0 ? color(val) : 'var(--bg-surface)')
+          .attr('fill', pct > 0 ? color(pct) : 'var(--bg-surface)')
           .attr('stroke', 'none')
           .append('title')
-          .text(`${j} × ${d}: ${val}`)
+          .text(`${j} × ${d}: ${pct}%（${raw} 篇）`)
       })
     })
 
@@ -73,11 +86,16 @@ export function JournalMatrix({ data, disciplines }: Props) {
         .text(d)
     })
 
-  }, [data, disciplines])
+  }, [pctData, data, disciplines])
 
   return (
-    <div ref={containerRef} className="overflow-x-auto">
-      <svg ref={svgRef} />
+    <div>
+      <div ref={containerRef} className="overflow-x-auto">
+        <svg ref={svgRef} />
+      </div>
+      <p className="mt-2 text-[11px]" style={{ color: 'var(--text-tertiary)' }}>
+        色深 = 该学科在该期刊中的占比（悬停查看具体百分比和篇数）
+      </p>
     </div>
   )
 }
