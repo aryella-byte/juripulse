@@ -40,9 +40,9 @@ const features = [
   {
     href: '/pulse',
     icon: BookOpen,
-    title: '学术论争',
-    subtitle: 'Research Debates',
-    description: '从海量论文中定位当前核心学术争议，系统呈现各派论点与代表文献',
+    title: '研究图景',
+    subtitle: 'Research Landscape',
+    description: '围绕法学热点话题，系统梳理文献脉络、核心论点与学术争议，呈现完整研究图景',
     tag: '深度分析',
   },
   {
@@ -120,7 +120,7 @@ export default function Home() {
                   className="inline-flex items-center gap-2 rounded-md px-6 py-2.5 text-sm font-medium transition-colors"
                   style={{ border: '1px solid var(--border)', color: 'var(--text-secondary)' }}
                 >
-                  学术论争
+                  研究图景
                 </Link>
               </div>
             </div>

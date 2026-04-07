@@ -8,7 +8,7 @@ import { Menu, X } from 'lucide-react'
 const links = [
   { href: '/', label: '首页' },
   { href: '/research', label: '研究动态' },
-  { href: '/pulse', label: '学术论争' },
+  { href: '/pulse', label: '研究图景' },
   { href: '/brief', label: '法学简报' },
 ]
 
