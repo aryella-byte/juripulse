@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "title": "The case against energy bail-outs",
+      "titleCN": "反对能源救助补贴：市场规律不容政府扭曲",
+      "url": "https://www.economist.com/leaders/2026/03/26/the-case-against-energy-bail-outs",
+      "date": "2026-04-12",
+      "source": "The Economist",
+      "summaryCN": "《经济学人》社论批评各国政府在能源转型压力下对传统能源企业实施救助补贴的政策倾向，指出此举扭曲市场信号、阻碍创新、固化化石能源依赖。文章论证能源救助政策的三重悖论：补贴往往流向效率最低企业、政府介入模糊转型成本真实信号、救助预期导致企业道德风险。社论主张应让市场机制主导能源结构调整，政府角色应限于再就业等社会政策而非产业救助。",
+      "whyMattersCN": "能源救助政策的法律规制涉及行政法、规制理论与经济法的交叉地带。在美国，能源补贴政策须经国会授权，《行政程序法》对规制机构的救助决定设有实质审查标准，FERC以竞争性市场设计为核心理念。与之对比，中国《可再生能源法》和《电力法》构建了政府主导的能源补贴体系，国家发改委拥有广泛价格干预权，形成迥异的规制逻辑。【选题思路】可研究中美两国能源补贴法律规制框架的比较，特别是政府介入能源市场的合法性边界与司法审查标准，结合实证数据评估不同规制模式对能源转型效率的影响，为双碳目标下中国能源法律改革提供比较法参照。",
+      "tags": [
+        {
+          "name": "规制理论",
+          "class": "administrative"
+        },
+        {
+          "name": "能源法",
+          "class": "special"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 7
+    },
+    {
+      "title": "Law, memoir, and the mystery of Justice Anthony Kennedy's writing",
+      "titleCN": "法律、回忆录与肯尼迪大法官文风之谜",
+      "url": "https://www.scotusblog.com/2026/04/law-memoir-and-the-mystery-of-justice-anthony-kennedys-writing/",
+      "date": "2026-04-12",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog深度解析已退休大法官安东尼·肯尼迪的司法写作风格，探讨其充满文学性和个人化表达的判决意见如何挑战传统法律写作规范。肯尼迪以起草Obergefell（同婚案）、Lawrence（反鸡奸法违宪案）等里程碑判决著称，其文风融入大量道德哲学表达，被称为第一人称宪法。文章探究这种写作方式与回忆录体裁的内在联系，以及法官个人经历如何渗透进宪法文本解释，引发司法写作规范性与解释方法论层面的深层反思。",
+      "whyMattersCN": "肯尼迪大法官的写作风格争议揭示了司法写作规范与宪法解释方法论之间的深层张力：个人化修辞是否会侵蚀判决的制度可预期性？这一问题在文本主义与道德读法（moral reading）之争中具有核心意义。比较而言，中国最高人民法院指导性案例制度近年来在裁判文书说理规范化方面有显著进展，《最高人民法院关于加强和规范裁判文书说理的指导意见》明确要求说理充分、逻辑严密，与肯尼迪式个人化写作形成鲜明对照。【选题思路】可基于文本分析方法，对中美法院判决文书的说理风格、修辞结构进行量化比较，探讨司法个人主义与制度约束的张力，为实证法学研究提供新的分析路径。",
+      "tags": [
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律理论",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 7
+    },
+    {
+      "title": "The sports stars, hip-hop artists, and celebrity magicians playing a role in pending Supreme Court petitions",
+      "titleCN": "体育明星、说唱歌手与魔术师：名人效应如何进入最高法院悬案",
+      "url": "https://www.scotusblog.com/2026/04/the-sports-stars-hip-hop-artists-and-celebrity-magicians-playing-a-role-in-pending-supreme-court-petitions/",
+      "date": "2026-04-12",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog梳理多起待审上诉令状中涉及体育明星、说唱艺人和名人魔术师的案件，揭示名人效应如何以当事方、第三方或amicus brief提交人等多种身份渗透联邦最高法院诉讼程序。相关案件涵盖名人肖像权保护、商标权争议、版权合理使用等核心知识产权议题，展现最高法院如何在流行文化语境下处理现代人格权与知识产权的边界问题。",
+      "whyMattersCN": "本文揭示名人文化与高层司法之间复杂的互动关系，具有重要的法律社会学研究价值。在美国，amicus brief制度为名人和利益团体提供了直接影响最高法院决策的制度通道；实证研究显示，知名机构签署的amicus brief可能提升案件获得certiorari的概率。比较而言，中国《民事诉讼法》第56条第三人制度在公众关注案件中的适用尚不成熟，高知名度当事方能否及如何影响裁判结果缺乏系统研究。【选题思路】可研究名人参与最高法院程序的实证规律，分析哪类案件更易吸引名人amicus brief以及对cert grant决策的统计影响，与中国法院处理公众关注案件的制度机制形成比较研究。",
+      "tags": [
+        {
+          "name": "知识产权",
+          "class": "tech"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "民事诉讼",
+          "class": "procedural"
+        },
+        {
+          "name": "法律社会学",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 7
+    },
+    {
       "title": "Supreme Court issues statement that Justice Alito was hospitalized approximately two weeks ago",
       "titleCN": "最高法院就阿利托大法官住院发表声明",
       "url": "https://www.scotusblog.com/2026/04/supreme-court-issues-statement-that-justice-alito-was-hospitalized/",
@@ -1269,6 +1349,89 @@
     }
   ],
   "research": [
+    {
+      "title": "Foreword",
+      "titleCN": "《刑法与犯罪学杂志》第116卷第1期编者按",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/6",
+      "date": "2026-04-12",
+      "source": "J Criminal Law & Criminology",
+      "journal": "J Criminal Law & Criminology",
+      "summaryCN": "《刑法与犯罪学杂志》第116卷第1期前言概述本期学术主题与核心关切，聚焦当代刑事司法改革的紧迫议题：金融罚款执行机制的阶层不平等效应、陪审团选任程序中的宗教歧视问题、以及刑事程序正当性重构。编者梳理各篇文章的理论脉络，强调实证研究方法在推动刑事司法系统性改革中的关键作用，呼吁学界直面结构性不平等对程序公正的侵蚀。",
+      "whyMattersCN": "本期JCLC的主题选择折射出美国刑事法学当前最受关注的议程：系统性不平等、程序公正与实证研究的方法论转向。这三个维度均与中国刑事法学研究具有高度对话潜力。比较而言，中国近年来的刑事司法改革同样面临类似张力：认罪认罚从宽制度改革中如何保障实质性辩护权与程序公正是核心议题，量刑规范化改革亦隐含对结构性不平等的回应逻辑。【论证借鉴】JCLC将前沿实证研究与制度批判相结合的办刊立场，为中国犯罪学和刑事诉讼法学研究者提供了重要的方法论参照：推动以数据驱动的政策评估替代纯粹的规范分析，构建更具实证基础的刑事法学话语体系。",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪学",
+          "class": "criminal"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        }
+      ],
+      "quality_score": 6
+    },
+    {
+      "title": "Paying Financial Sanctions via Incarceration: A Case Study of Sitting Out",
+      "titleCN": "以监禁抵偿金融罚款：坐牢抵债现象的案例研究",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/3",
+      "date": "2026-04-12",
+      "source": "J Criminal Law & Criminology",
+      "journal": "J Criminal Law & Criminology",
+      "summaryCN": "本文通过案例研究方法，深入分析美国刑事司法系统中以监禁抵罚款（sitting out）现象：被告因无力缴纳罚款、法庭手续费或赔偿金，以额外羁押时间折抵金融义务的制度实践。研究揭示该做法对贫困被告造成双重惩罚——既剥夺人身自由，又固化长期经济负担。文章论证此机制如何将收入不平等系统性地转化为刑事司法不平等，构成隐性债务型监禁，挑战第十四修正案平等保护原则。",
+      "whyMattersCN": "本文所揭示的以监禁抵债机制，实质是将财富差异系统性地转化为自由剥夺差异，对刑事司法平等性构成深刻挑战。在美国，Bearden v. Georgia（1983）确立了不得因单纯无力缴纳而监禁的原则，但实践中坐牢抵债绕过了该规则。比较而言，中国《刑法》第53条规定罚金不能一次缴纳的可以分期缴纳，并可强制缴纳，但缺乏以自由折抵金钱的机制；然而司法实践中罚金执行率长期偏低，同样存在执法的阶层不平等问题。【论证借鉴】本文以具体地区司法档案追踪金融罚款与羁押时间对应关系的案例研究方法，可直接应用于中国研究：通过法院档案数据检验罚金执行实践中的经济地位差异，评估以财抵刑与以刑代财的实际执行格局及其阶层效应。",
+      "tags": [
+        {
+          "name": "量刑",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "监狱改革",
+          "class": "criminal"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "Striking Out Bias: A Path Toward Ending Religion-Based Peremptory Strikes",
+      "titleCN": "消除宗教偏见：终结宗教因素无因回避的改革路径",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/4",
+      "date": "2026-04-12",
+      "source": "J Criminal Law & Criminology",
+      "journal": "J Criminal Law & Criminology",
+      "summaryCN": "本文论证将宗教因素作为陪审团无因回避（peremptory strike）理由的做法违反宪法平等保护原则，主张将Batson原则从种族、性别领域扩展适用至宗教领域。文章通过历史分析与实证数据揭示宗教偏见在陪审团选任实践中普遍存在，特别是对穆斯林、犹太教徒及无神论者的系统性排斥显著影响刑事案件结果。作者提出立法与司法双轨并进的改革路径，包括联邦立法介入和扩展Batson审查标准两条路线。",
+      "whyMattersCN": "本文核心贡献在于揭示了美国宪法框架内部的矛盾：第一修正案对宗教信仰给予最高保护，但宗教却仍可作为陪审团筛选的合法依据，形成制度性悖论。Batson规则已延伸至种族（1986）和性别（1994），但宗教这一同样受保护的身份特征仍处于法律灰区。比较而言，中国《人民陪审员法》第13条的回避制度未涉及信仰歧视，但宗教因素在实践中如何影响司法参与同样值得实证研究。【论证借鉴】本文混合方法——将陪审员宗教构成与案件结果的统计关联和规范性宪法论证相结合——值得借鉴。中国研究者可参照此框架，研究人民陪审员遴选中的系统性偏见，如职业、教育、性别构成对案件结果的影响，以数据驱动推动制度改革。",
+      "tags": [
+        {
+          "name": "陪审团制度",
+          "class": "criminal"
+        },
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        }
+      ],
+      "quality_score": 8
+    },
     {
       "title": "Regulatory Settlement, Stare Decisis, and Loper Bright",
       "titleCN": "监管和解协议、遵循先例原则与Loper Bright案",
