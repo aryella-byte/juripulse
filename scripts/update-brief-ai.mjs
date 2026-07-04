@@ -64,14 +64,77 @@ const junkKeywords = [
   'accept manuscripts',
   'accepting submissions',
   'now accepting',
+  'letter from the editor',
+  'foreword',
+]
+
+const legalNativeSources = new Set(['SCOTUSblog', 'JURIST'])
+
+const legalKeywords = [
+  'abortion',
+  'administrative',
+  'appeal',
+  'asylum',
+  'attorney',
+  'border',
+  'case',
+  'civil rights',
+  'constitutional',
+  'constitution',
+  'court',
+  'criminal',
+  'death penalty',
+  'due process',
+  'enforcement',
+  'federal',
+  'fraud',
+  'immigration',
+  'injunction',
+  'judge',
+  'justice',
+  'law',
+  'lawsuit',
+  'legal',
+  'liability',
+  'litigation',
+  'privacy',
+  'regulation',
+  'rights',
+  'rule',
+  'scotus',
+  'sentence',
+  'supreme court',
+  'trial',
+  'trump',
 ]
 
 const maxNews = Number(process.env.MAX_NEWS || 5)
 const maxResearch = Number(process.env.MAX_RESEARCH || 3)
 const model = process.env.BRIEF_AI_MODEL || 'ark-code-latest'
+const feedTimeoutMs = Number(process.env.FEED_TIMEOUT_MS || 15000)
+const aiTimeoutMs = Number(process.env.AI_TIMEOUT_MS || 45000)
 
 function log(message) {
   console.log(`[${new Date().toISOString()}] ${message}`)
+}
+
+async function fetchWithTimeout(url, options, timeoutMs, label) {
+  const controller = new AbortController()
+  const timeout = setTimeout(() => controller.abort(), timeoutMs)
+
+  try {
+    return await fetch(url, {
+      ...options,
+      signal: controller.signal,
+    })
+  } catch (error) {
+    if (error.name === 'AbortError') {
+      throw new Error(`${label} timed out after ${Math.round(timeoutMs / 1000)}s`)
+    }
+    throw error
+  } finally {
+    clearTimeout(timeout)
+  }
 }
 
 function today() {
@@ -113,6 +176,12 @@ function isJunk(title) {
   return junkKeywords.some((keyword) => lower.includes(keyword))
 }
 
+function isLikelyLegal(item, source, isResearch) {
+  if (isResearch || legalNativeSources.has(source)) return true
+  const text = `${item.title} ${item.url}`.toLowerCase()
+  return legalKeywords.some((keyword) => text.includes(keyword))
+}
+
 function parseFeed(xml) {
   const blocks = [
     ...xml.matchAll(/<item[\s\S]*?<\/item>/gi),
@@ -138,12 +207,12 @@ function parseFeed(xml) {
 async function fetchFeed(url, source) {
   try {
     log(`Fetching ${source}`)
-    const response = await fetch(url, {
+    const response = await fetchWithTimeout(url, {
       headers: {
         'User-Agent': 'JuriPulse AI Legal Brief Bot/1.0',
         Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml',
       },
-    })
+    }, feedTimeoutMs, `Feed request for ${source}`)
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`)
     const xml = await response.text()
     const items = parseFeed(xml).slice(0, 15)
@@ -197,6 +266,19 @@ function looseParse(text) {
   }
 }
 
+function extractJsonText(text) {
+  const cleaned = text.trim().replace(/^```json\s*/i, '').replace(/\s*```$/, '')
+  if (cleaned.startsWith('{') && cleaned.endsWith('}')) return cleaned
+
+  const fenced = cleaned.match(/```json\s*([\s\S]*?)\s*```/i)
+  if (fenced) return fenced[1].trim()
+
+  const first = cleaned.indexOf('{')
+  const last = cleaned.lastIndexOf('}')
+  if (first !== -1 && last > first) return cleaned.slice(first, last + 1)
+  return cleaned
+}
+
 async function analyzeWithAi(aiConfig, title, source, isResearch) {
   const contentType = isResearch ? '法学研究论文' : '法律新闻'
   const prompt = `你是 JuriPulse 的法学简报编辑。请分析以下${contentType}，只返回 JSON，不要 markdown 代码块。
@@ -213,7 +295,7 @@ async function analyzeWithAi(aiConfig, title, source, isResearch) {
 
 要求：筛掉明显非法律内容；字段值内不要使用英文双引号。`
 
-  const response = await fetch(aiConfig.url, {
+  const response = await fetchWithTimeout(aiConfig.url, {
     method: 'POST',
     headers: {
       Authorization: `Bearer ${aiConfig.apiKey}`,
@@ -224,16 +306,20 @@ async function analyzeWithAi(aiConfig, title, source, isResearch) {
       max_tokens: 800,
       temperature: 0.6,
       messages: [{ role: 'user', content: prompt }],
+      ...(aiConfig.provider === 'ark' || aiConfig.provider === 'kimi'
+        ? { thinking: { type: 'disabled' } }
+        : {}),
     }),
-  })
+  }, aiTimeoutMs, `AI request for ${source}`)
 
   if (!response.ok) {
     throw new Error(`AI request failed: ${response.status} ${await response.text()}`)
   }
 
   const payload = await response.json()
-  const text = payload.choices?.[0]?.message?.content?.trim() || ''
-  const cleaned = text.replace(/^```json\s*/, '').replace(/\s*```$/, '')
+  const message = payload.choices?.[0]?.message || {}
+  const text = String(message.content || message.reasoning_content || '').trim()
+  const cleaned = extractJsonText(text)
 
   try {
     return JSON.parse(cleaned)
@@ -276,12 +362,13 @@ async function saveData(data) {
   await writeFile(dataFile, `${JSON.stringify(data, null, 2)}\n`, 'utf8')
 }
 
-async function buildQueue(sources) {
+async function buildQueue(sources, { isResearch = false } = {}) {
   const entries = await Promise.all(
-    Object.entries(sources).map(async ([source, url]) => ({
-      source,
-      items: await fetchFeed(url, source),
-    })),
+    Object.entries(sources).map(async ([source, url]) => {
+      const items = (await fetchFeed(url, source)).filter((item) => isLikelyLegal(item, source, isResearch))
+      log(`${source}: ${items.length} likely legal candidates`)
+      return { source, items }
+    }),
   )
 
   const queue = []
@@ -301,7 +388,7 @@ async function buildQueue(sources) {
 
 async function updateSection({ aiConfig, data, sources, key, limit, isResearch }) {
   const existing = new Set((data[key] || []).map((item) => itemId(item.title)))
-  const queue = await buildQueue(sources)
+  const queue = await buildQueue(sources, { isResearch })
   const additions = []
 
   for (const { source, item } of queue) {
@@ -311,7 +398,10 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
     try {
       log(`AI analyzing: ${item.title.slice(0, 80)}`)
       const analysis = await analyzeWithAi(aiConfig, item.title, source, isResearch)
-      if (!analysis?.summaryCN || analysis.summaryCN.length < 20) continue
+      if (!analysis?.summaryCN || analysis.summaryCN.length < 20) {
+        log(`AI result skipped: invalid summary for ${item.title.slice(0, 60)}`)
+        continue
+      }
 
       additions.push({
         title: item.title,
@@ -327,6 +417,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
         ...(isResearch ? { journal: source } : { source }),
       })
       existing.add(itemId(item.title))
+      log(`Added ${key}: ${item.title.slice(0, 80)}`)
     } catch (error) {
       log(`AI analysis skipped: ${error.message}`)
     }

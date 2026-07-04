@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
+      "titleCN": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
+      "url": "https://www.wsj.com/business/the-founder-who-got-fired-for-ignoring-his-own-return-to-office-rules-6b194dd7?mod=pls_whats_news_us_business_f",
+      "date": "2026-07-04",
+      "summaryCN": "华尔街日报报道，一公司创始人因无视其亲自制定的员工重返办公室政策而遭解雇。该事件涉及企业管理层对内部规章的执行不一，引发关于公司治理、劳动纪律及高管信义义务的讨论，凸显企业内部规则在实践中的法律约束力。",
+      "summaryEN": "",
+      "whyMattersCN": "此事件在公司法与劳动法领域具比较法研究价值。高管带头违规暴露企业内部治理与合规机制缺陷。从法学角度审视，高管信义义务要求其维护公司利益与规章制度权威。该案为探讨雇主政策执行标准、内部纪律一致性及高管解雇程序正当性提供了实务案例。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公司法",
+          "class": "constitutional"
+        },
+        {
+          "name": "劳动法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "WSJ"
+    },
+    {
+      "title": "A tale of two justices and their children’s books",
+      "titleCN": "A tale of two justices and their children’s books",
+      "url": "https://www.scotusblog.com/2026/07/a-tale-of-two-justices-and-their-childrens-books/",
+      "date": "2026-07-03",
+      "summaryCN": "本文聚焦两位美国最高法院大法官参与出版儿童法律读物一事。这些读物旨在向青少年普及宪法知识与司法体系运作。然而，此举也引发了外界对大法官公职身份与商业出版活动之间潜在利益冲突及司法伦理边界的探讨，促使公众重新审视最高法院的内部行为准则。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件触及司法伦理的核心议题，具有较高的宪法学与比较法研究价值。它揭示了最高法院大法官在履行公职外参与商业活动时的规范盲区，为比较法视角下探讨司法人员行为守则、司法独立性与公众信任提供了现实案例，同时也折射出美国司法伦理审查机制的滞后性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": "constitutional"
+        },
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "The Trump term?",
+      "titleCN": "The Trump term?",
+      "url": "https://www.scotusblog.com/2026/07/the-trump-term-/",
+      "date": "2026-07-03",
+      "summaryCN": "最高法院即将审查特朗普是否具备总统豁免权，此案核心在于界定前任总统对任内行为的刑事免责边界，判决将深刻影响后续相关诉讼的走向。",
+      "summaryEN": "",
+      "whyMattersCN": "此案触及美国宪政体制中权力分立与法治的深层张力。从比较法视角看，前国家元首刑事豁免权的界定标准极具参考价值，为研究民主转型国家追责机制与司法审查的边界提供了生动范例，是宪法学与刑法交叉研究的经典案例。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "总统豁免权",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Romanians sentenced in London for Iran-directed attack on journalist",
+      "titleCN": "Romanians sentenced in London for Iran-directed attack on journalist",
+      "url": "https://www.ft.com/content/12d30929-9e32-4344-80fd-fc53fc43ff8d",
+      "date": "2026-07-03",
+      "summaryCN": "英国伦敦法院判处多名罗马尼亚人有期徒刑，罪名是受伊朗指使对一名记者实施袭击。此案涉及跨国犯罪团伙受外国势力操纵，在欧洲境内对异见人士进行人身攻击。",
+      "summaryEN": "",
+      "whyMattersCN": "本案凸显跨国受雇暴力与国际恐怖主义及国家安全交织的复杂法律图景。在比较法层面，它展示了英国刑法如何应对域外势力指使的境内犯罪，涉及引渡、政治庇护与国家安全法的交汇，为研究欧洲跨国司法合作及言论自由保护提供了重要实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "跨国犯罪",
+          "class": "criminal"
+        },
+        {
+          "name": "国家安全",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Financial Times"
+    },
+    {
+      "title": "Latin America has turned Trumpy. That creates opportunities",
+      "titleCN": "Latin America has turned Trumpy. That creates opportunities",
+      "url": "https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities",
+      "date": "2026-06-25",
+      "summaryCN": "拉丁美洲多国政治转向右翼民粹主义，即特普化。这种政治思潮的转向促使各国在贸易政策、外商投资审查及监管合规等领域产生新的法律变动，进而为跨国企业和国际律所创造了法律业务机遇。",
+      "summaryEN": "",
+      "whyMattersCN": "拉美政治右倾引发的规则重构对比较法学研究具有重要意义。从宪法层面看，反映民粹主义对权力制衡与法治原则的冲击；从跨国经济法视角观察，贸易保护与投资审查的制度演变，为研究发展中国家法治弹性及跨国合规风险防控提供鲜活样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "拉美政治",
+          "class": ""
+        },
+        {
+          "name": "比较法学",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Economist"
+    },
+    {
       "title": "The case against energy bail-outs",
       "titleCN": "反对能源救助补贴：市场规律不容政府扭曲",
       "url": "https://www.economist.com/leaders/2026/03/26/the-case-against-energy-bail-outs",
@@ -81,6 +191,86 @@
       "quality_score": 7
     },
     {
+      "title": "Court seems sympathetic to death-row inmate's attempt to challenge racial discrimination in jury selection",
+      "titleCN": "最高法院似乎同情死刑犯挑战陪审团选择中种族歧视的诉求",
+      "url": "https://www.scotusblog.com/2026/04/court-appears-sympathetic-to-death-row-inmates-attempt-to-challenge-racial-discrimination-in-jury-selection/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "联邦最高法院就一起死刑案件举行口头辩论，案件焦点在于检察官在陪审员遴选阶段是否存在种族歧视性的理由挑战（peremptory challenge）。根据1986年Batson v. Kentucky先例，检察官不得以种族为由排除陪审员候选人，但实践中举证标准争议不断。本案申请人主张，检察官系统性地将黑人候选人排除于陪审团之外，违反平等保护条款。多名大法官的提问显示出对死刑犯立场的同情，争议核心在于：法院审查陪审团组成的范围与程序正当性边界，以及《联邦人身保护令法》对州法院事实认定的尊重程度。",
+      "whyMattersCN": "本案对美国刑事司法制度具有结构性意义。Batson原则自1986年确立以来，长期因举证困难而形同虚设——检察官只需提出任何中性理由即可免责，导致种族歧视在陪审团选择中以隐蔽方式延续。若最高法院扩大联邦审查范围，将实质性重塑各州刑事诉讼中的陪审团遴选实践。对联邦-州司法关系的影响同样深远：本案可能重新划定《反恐与有效死刑法》28 U.S.C. §2254下联邦法院对州法院事实认定的干预边界。【选题思路】对中国法学研究者而言，此案提供了陪审制度比较法研究的绝佳切入点：中国《刑事诉讼法》第182-188条规定的人民陪审员制度同样存在选取程序透明度不足的问题，2018年《人民陪审员法》虽引入随机抽选机制，但在实证层面能否有效防范结构性偏见尚无充分研究。可借鉴本案的实证方法，对中国陪审员选任数据开展量化分析。",
+      "tags": [
+        {
+          "name": "死刑",
+          "class": "criminal"
+        },
+        {
+          "name": "陪审团制度",
+          "class": "criminal"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 9
+    },
+    {
+      "title": "The Supreme Court of India",
+      "titleCN": "印度最高法院",
+      "url": "https://www.scotusblog.com/2026/04/the-supreme-court-of-india/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog刊发对印度最高法院的专题介绍，系统梳理其制度架构、管辖权设计及近年重大判决。印度最高法院兼具终审上诉法院与宪法解释机关的双重职能，并享有独特的原始管辖权（original jurisdiction），可直接受理公益诉讼（PIL）。相较美国联邦最高法院，印度最高法院法官人数更多（34名），案件积压问题长期严峻。近年来，该院在LGBTQ+权利、宗教自由与隐私权等领域的判决引发广泛争议，呈现出司法能动主义与司法克制之间的持续张力。法院与行政机关在司法任命问题上的博弈尤为引人注目。",
+      "whyMattersCN": "本文的比较宪法价值在于呈现了与美国、中国均不同的第三条道路——一个后殖民民主国家的司法权力演化路径。印度最高法院通过PIL制度将普通公民与宪法救济直接相连，这一机制在遏制行政权力方面效果显著，但也引发了司法造法的正当性争议。这与中国行政诉讼制度的困境形成鲜明对照：《行政诉讼法》第25条严格限定原告资格，公益诉讼主要由检察院提起，公民个人直接提起宪法性诉讼的渠道几乎封闭。【选题思路】可围绕公益诉讼制度的比较研究立题，以印度PIL、美国集体诉讼与中国检察公益诉讼为三个比较维度，分析不同司法文化与制度结构下公民参与宪法实施的路径差异，对中国检察公益诉讼扩权改革具有参照价值。",
+      "tags": [
+        {
+          "name": "比较宪法",
+          "class": "comparative"
+        },
+        {
+          "name": "比较法",
+          "class": "comparative"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
+      "title": "Who is driving the conversation at the Supreme Court?",
+      "titleCN": "谁在主导最高法院的对话？",
+      "url": "https://www.scotusblog.com/2026/04/who-is-driving-the-conversation-at-the-supreme-court/",
+      "date": "2026-04-05",
+      "source": "SCOTUSblog",
+      "summaryCN": "SCOTUSblog采用实证方法，系统分析当前届期美国联邦最高法院口头辩论中各大法官的发言频率与质量，探究谁真正在主导庭审对话。研究基于对本庭期全部口头辩论记录的量化编码，统计各大法官提问次数、提问时长及提问时机。初步数据显示，首席大法官罗伯茨与大法官卡瓦诺、杰克逊在庭辩中最为活跃，而大法官托马斯的提问则相对集中于特定议题领域。争议在于：庭辩中的话语主导权是否能有效预测最终判决的多数意见走向，以及沉默的大法官是否已在书面审查阶段完成了关键的说服工作。",
+      "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
+      "tags": [
+        {
+          "name": "实证法学",
+          "class": "empirical"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律理论",
+          "class": "theory"
+        }
+      ],
+      "quality_score": 8
+    },
+    {
       "title": "Supreme Court issues statement that Justice Alito was hospitalized approximately two weeks ago",
       "titleCN": "最高法院就阿利托大法官住院发表声明",
       "url": "https://www.scotusblog.com/2026/04/supreme-court-issues-statement-that-justice-alito-was-hospitalized/",
@@ -153,26 +343,6 @@
       "quality_score": 8
     },
     {
-      "title": "Announcement of opinions for Tuesday, March 31",
-      "titleCN": "美国最高法院将于3月31日发布判决意见",
-      "url": "https://www.scotusblog.com/2026/03/announcement-of-opinions-for-tuesday-march-31/",
-      "date": "2026-03-27",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国联邦最高法院将于3月31日（周二）发布本庭期一项或多项案件的判决意见。本庭期待决案件涵盖移民法、行政权力边界、第二修正案等重大宪法议题，市场高度关注其对联邦行政法体系和三权分立格局的潜在影响。",
-      "whyMattersCN": "本庭期判决涉及多个关键领域：移民行政裁量权的司法审查标准、联邦仲裁法对零工经济工人的适用范围、以及出生公民权的宪法解释。对中国比较法研究而言，这些判决将为理解美国宪政运作中'司法能动主义'与'司法克制'的动态平衡提供最新素材，尤其在行政权扩张背景下，最高法院如何划定三权边界具有重要参照价值。",
-      "tags": [
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 7
-    },
-    {
       "title": "Iran war splits older and younger conservatives",
       "titleCN": "伊朗战争在美国保守派阵营内引发代际分裂",
       "url": "https://www.bbc.com/news/articles/cjd8e4px12ro",
@@ -219,6 +389,26 @@
         }
       ],
       "quality_score": 8
+    },
+    {
+      "title": "Announcement of opinions for Tuesday, March 31",
+      "titleCN": "美国最高法院将于3月31日发布判决意见",
+      "url": "https://www.scotusblog.com/2026/03/announcement-of-opinions-for-tuesday-march-31/",
+      "date": "2026-03-27",
+      "source": "SCOTUSblog",
+      "summaryCN": "美国联邦最高法院将于3月31日（周二）发布本庭期一项或多项案件的判决意见。本庭期待决案件涵盖移民法、行政权力边界、第二修正案等重大宪法议题，市场高度关注其对联邦行政法体系和三权分立格局的潜在影响。",
+      "whyMattersCN": "本庭期判决涉及多个关键领域：移民行政裁量权的司法审查标准、联邦仲裁法对零工经济工人的适用范围、以及出生公民权的宪法解释。对中国比较法研究而言，这些判决将为理解美国宪政运作中'司法能动主义'与'司法克制'的动态平衡提供最新素材，尤其在行政权扩张背景下，最高法院如何划定三权边界具有重要参照价值。",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7
     },
     {
       "title": "Pentagon restrictions on press violate First Amendment, judge rules",
@@ -1266,89 +1456,75 @@
           "class": "criminal"
         }
       ]
-    },
-    {
-      "title": "Court seems sympathetic to death-row inmate's attempt to challenge racial discrimination in jury selection",
-      "titleCN": "最高法院似乎同情死刑犯挑战陪审团选择中种族歧视的诉求",
-      "url": "https://www.scotusblog.com/2026/04/court-appears-sympathetic-to-death-row-inmates-attempt-to-challenge-racial-discrimination-in-jury-selection/",
-      "date": "2026-04-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "联邦最高法院就一起死刑案件举行口头辩论，案件焦点在于检察官在陪审员遴选阶段是否存在种族歧视性的理由挑战（peremptory challenge）。根据1986年Batson v. Kentucky先例，检察官不得以种族为由排除陪审员候选人，但实践中举证标准争议不断。本案申请人主张，检察官系统性地将黑人候选人排除于陪审团之外，违反平等保护条款。多名大法官的提问显示出对死刑犯立场的同情，争议核心在于：法院审查陪审团组成的范围与程序正当性边界，以及《联邦人身保护令法》对州法院事实认定的尊重程度。",
-      "whyMattersCN": "本案对美国刑事司法制度具有结构性意义。Batson原则自1986年确立以来，长期因举证困难而形同虚设——检察官只需提出任何中性理由即可免责，导致种族歧视在陪审团选择中以隐蔽方式延续。若最高法院扩大联邦审查范围，将实质性重塑各州刑事诉讼中的陪审团遴选实践。对联邦-州司法关系的影响同样深远：本案可能重新划定《反恐与有效死刑法》28 U.S.C. §2254下联邦法院对州法院事实认定的干预边界。【选题思路】对中国法学研究者而言，此案提供了陪审制度比较法研究的绝佳切入点：中国《刑事诉讼法》第182-188条规定的人民陪审员制度同样存在选取程序透明度不足的问题，2018年《人民陪审员法》虽引入随机抽选机制，但在实证层面能否有效防范结构性偏见尚无充分研究。可借鉴本案的实证方法，对中国陪审员选任数据开展量化分析。",
-      "tags": [
-        {
-          "name": "死刑",
-          "class": "criminal"
-        },
-        {
-          "name": "陪审团制度",
-          "class": "criminal"
-        },
-        {
-          "name": "平等保护",
-          "class": "constitutional"
-        },
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 9
-    },
-    {
-      "title": "The Supreme Court of India",
-      "titleCN": "印度最高法院",
-      "url": "https://www.scotusblog.com/2026/04/the-supreme-court-of-india/",
-      "date": "2026-04-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog刊发对印度最高法院的专题介绍，系统梳理其制度架构、管辖权设计及近年重大判决。印度最高法院兼具终审上诉法院与宪法解释机关的双重职能，并享有独特的原始管辖权（original jurisdiction），可直接受理公益诉讼（PIL）。相较美国联邦最高法院，印度最高法院法官人数更多（34名），案件积压问题长期严峻。近年来，该院在LGBTQ+权利、宗教自由与隐私权等领域的判决引发广泛争议，呈现出司法能动主义与司法克制之间的持续张力。法院与行政机关在司法任命问题上的博弈尤为引人注目。",
-      "whyMattersCN": "本文的比较宪法价值在于呈现了与美国、中国均不同的第三条道路——一个后殖民民主国家的司法权力演化路径。印度最高法院通过PIL制度将普通公民与宪法救济直接相连，这一机制在遏制行政权力方面效果显著，但也引发了司法造法的正当性争议。这与中国行政诉讼制度的困境形成鲜明对照：《行政诉讼法》第25条严格限定原告资格，公益诉讼主要由检察院提起，公民个人直接提起宪法性诉讼的渠道几乎封闭。【选题思路】可围绕公益诉讼制度的比较研究立题，以印度PIL、美国集体诉讼与中国检察公益诉讼为三个比较维度，分析不同司法文化与制度结构下公民参与宪法实施的路径差异，对中国检察公益诉讼扩权改革具有参照价值。",
-      "tags": [
-        {
-          "name": "比较宪法",
-          "class": "comparative"
-        },
-        {
-          "name": "比较法",
-          "class": "comparative"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Who is driving the conversation at the Supreme Court?",
-      "titleCN": "谁在主导最高法院的对话？",
-      "url": "https://www.scotusblog.com/2026/04/who-is-driving-the-conversation-at-the-supreme-court/",
-      "date": "2026-04-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog采用实证方法，系统分析当前届期美国联邦最高法院口头辩论中各大法官的发言频率与质量，探究谁真正在主导庭审对话。研究基于对本庭期全部口头辩论记录的量化编码，统计各大法官提问次数、提问时长及提问时机。初步数据显示，首席大法官罗伯茨与大法官卡瓦诺、杰克逊在庭辩中最为活跃，而大法官托马斯的提问则相对集中于特定议题领域。争议在于：庭辩中的话语主导权是否能有效预测最终判决的多数意见走向，以及沉默的大法官是否已在书面审查阶段完成了关键的说服工作。",
-      "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
-      "tags": [
-        {
-          "name": "实证法学",
-          "class": "empirical"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "法律理论",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
     }
   ],
   "research": [
+    {
+      "title": "Can You Be Black and Teach That?",
+      "titleCN": "Can You Be Black and Teach That?",
+      "url": "https://nyulawreview.org/issues/volume-101-number-3/can-you-be-black-and-teach-that/",
+      "date": "2026-06-30",
+      "summaryCN": "该论文探讨了种族身份与学术自由的宪法交叉问题，聚焦少数族裔教师在讲授涉及种族批判理论等敏感议题时面临的制度限制与法律挑战。文章分析了第一修正案在保护此类教学行为时的边界，揭示了反歧视原则与言论自由保护之间的潜在宪法张力。",
+      "summaryEN": "",
+      "whyMattersCN": "本文为宪法学与批判种族理论的交叉研究提供了重要视角。在比较法层面，其探讨的学术自由与身份政治张力，对全球多国处理少数族裔学术表达及反歧视立法具有参考价值。该研究深化了对平等权与言论自由冲突的法学理解，极具理论意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "学术自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
+      "title": "Remedies for a Constitutional Crisis",
+      "titleCN": "Remedies for a Constitutional Crisis",
+      "url": "https://harvardlawreview.org/print/vol-139/remedies-for-a-constitutional-crisis/",
+      "date": "2026-06-10",
+      "summaryCN": "本文探讨了在宪法危机爆发时，现行法律框架内可用的救济机制与应对路径。文章分析了制度失效时的法律工具，评估了司法审查、立法制衡及行政干预的可行性，旨在为维护宪政秩序提供法理支撑与实践方案。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对宪法危机的救济理论进行了深入剖析，拓展了宪制维系与法治底线的研究维度。在比较法层面，其为不同法域应对政治极化与制度崩塌提供了重要参照，对完善违宪审查机制与权力制衡理论具有极高的学术价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法危机",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律救济",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
+    {
+      "title": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
+      "titleCN": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
+      "url": "https://pennlawreview.com/2026/05/08/bigger-than-tiktok-foreign-state-owned-enterprises-and-the-first-amendment/",
+      "date": "2026-05-08",
+      "summaryCN": "本文探讨外国国有企业在美国的言论自由保护问题。以TikTok禁令为引，分析外国政府控制的实体是否享有第一修正案权利。作者指出该议题影响远超社交媒体，涉及经济主权与信息流动，并在现行宪法框架下评估其法律地位及潜在冲突。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究极具比较法与宪法学价值。它突破传统第一修正案仅限本国主体设定的框架，挑战国家主权与企业权利边界。对外国政府资本介入的审查提供了新视角，为平衡国家安全与表达自由原则提供理论支撑，对跨国投资合规亦有重要指导意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "外国国有企业",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
     {
       "title": "Foreword",
       "titleCN": "《刑法与犯罪学杂志》第116卷第1期编者按",
@@ -1431,6 +1607,93 @@
         }
       ],
       "quality_score": 8
+    },
+    {
+      "title": "Harmonizing Delegation and Deference After Loper Bright",
+      "titleCN": "Loper Bright之后：授权与尊重的调和",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/harmonizing-delegation-and-deference-after-loper-bright/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文系统回应2024年联邦最高法院Loper Bright Enterprises v. Raimondo判决推翻Chevron原则后的行政法理论重构需求。作者核心论点是：Chevron被推翻并不意味着行政机关解释权的终结，而是要求法律体系在国会授权（delegation）与司法尊重（deference）之间建立新的协调机制。作者通过分析大量授权立法的文本结构，归纳出三类授权模式，主张法院应根据授权范围的明确程度差异化适用尊重标准。研究方法融合文本主义（textualism）与制度能力分析（institutional competence analysis），试图在无Chevron时代为行政机关的法律解释预留合法空间。",
+      "whyMattersCN": "Loper Bright是美国行政法自1984年以来最重大的制度变革，其影响将深度重塑联邦行政机关的规制能力与司法对行政的监控强度。本文的学术贡献在于提供了一套操作性框架，而非停留于对判决的规范批判。从比较行政法视角看，这场变革与中国行政解释制度的内在张力构成重要参照：中国《立法法》第65条授权国务院制定行政法规，《行政诉讼法》第53条规定法院可对规章以下的规范性文件进行附带审查，但对行政机关法律解释的司法审查标准至今缺乏系统性规定。【论证借鉴】本文授权类型学的分析框架可直接移植到中国语境：对《行政诉讼法》司法解释中行政行为合法性审查标准进行类型化分析，区分羁束性授权、裁量性授权与专业性授权三类场景下的司法审查密度，为中国行政审判实践提供理论依据。",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "遵循先例",
+          "class": "procedural"
+        },
+        {
+          "name": "授权立法",
+          "class": "administrative"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "journal": "NYU Law Review"
+    },
+    {
+      "title": "Anti-Domination and Administration",
+      "titleCN": "反支配理论与行政法",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文将政治哲学中的反支配（anti-domination）理论引入行政法领域，提出一种新的规制正当性理论。作者核心主张是：现行行政法理论过度关注效率与程序合规，而忽视了行政机关与规制对象之间的权力不对称问题。援引菲利普·佩蒂特（Philip Pettit）的共和主义自由理论，作者论证监管机构对个人和企业施加的权力本身构成一种支配关系，即便未实际行使强制手段。研究方法结合规范理论与行政实践案例分析，试图重塑行政正当性的评价标准，主张将减少支配确立为行政法的核心价值目标，与当前占主导地位的公共利益理论形成竞争。",
+      "whyMattersCN": "这篇文章代表了行政法理论的共和主义转向，对什么是好的规制这一根本问题提出了新答案。其挑战在于：如果减少支配成为行政法的核心标准，那么大量现行管制措施（包括经济管制、环境规制）都需重新接受正当性检验，这将为法院审查行政行为提供新的裁判工具。对中国行政法学而言，此文具有深刻的比较价值：中国《行政许可法》、《行政处罚法》近年均强调比例原则，2021年修订的《行政处罚法》第5条明确规定处罚与违法行为应当相当，这在某种程度上接近反支配关切。【论证借鉴】可借鉴本文的规范理论框架，分析中国放管服改革（减少行政许可、优化监管方式）的深层正当性逻辑，探讨比例原则在中国行政法语境下能否承载反支配的制度功能，为行政法教义学的规范基础研究提供理论资源。",
+      "tags": [
+        {
+          "name": "法律理论",
+          "class": "theory"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "行政权",
+          "class": "administrative"
+        },
+        {
+          "name": "规制理论",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 9,
+      "journal": "NYU Law Review"
+    },
+    {
+      "title": "New Challenges for Federal Regulations: Executive Branch Responses",
+      "titleCN": "联邦法规面临的新挑战：行政机关的应对策略",
+      "url": "https://nyulawreview.org/issues/volume-100-number-6/new-challenges-for-federal-regulations-executive-branch-responses/",
+      "date": "2026-04-05",
+      "source": "NYU Law Review",
+      "summaryCN": "本文聚焦后Chevron时代行政机关在制定联邦法规方面面临的系统性挑战，重点考察行政机关如何调整其规制策略以适应新的司法审查生态。作者梳理了Loper Bright判决后各联邦机构的实际应对措施，归纳出三种主要策略：一是加强国会授权的明确性论证；二是转向更多依赖指导文件（guidance documents）而非正式规章；三是强化规则制定记录中的技术性证据支撑。研究方法采用对判决后规则制定案例的定性分析，并辅以对联邦行政法规数据库的量化统计。核心命题是：Loper Bright不会导致行政国家的瓦解，而会推动其结构性适应和策略性转型。",
+      "whyMattersCN": "本文的现实意义在于其前瞻性：在Loper Bright判决后司法审查趋严的背景下，联邦行政机关的策略性调整将深刻影响美国监管体系的运转效率与政策连贯性。特别值得关注的是指导文件扩张这一趋势——行政机关可能大量转向软法工具以规避司法审查，这在提升监管灵活性的同时将引发新的民主问责危机。【论证借鉴】中国语境下存在高度对称的制度现象：国务院各部委大量依赖规范性文件（红头文件）而非正式行政法规进行事实性规制，《行政诉讼法》第53条虽允许附带审查，但实践中法院对规范性文件的司法审查极为保守。可借鉴本文的策略性规制转型框架，对中国行政机关使用软法工具规避司法审查的行为进行实证研究，为《行政诉讼法》司法解释的修订提供实证依据。",
+      "tags": [
+        {
+          "name": "联邦主义",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "administrative"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "授权立法",
+          "class": "administrative"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
     },
     {
       "title": "Regulatory Settlement, Stare Decisis, and Loper Bright",
@@ -2522,93 +2785,10 @@
       ],
       "quality_score": 8,
       "source": "Harvard Law Review"
-    },
-    {
-      "title": "Harmonizing Delegation and Deference After Loper Bright",
-      "titleCN": "Loper Bright之后：授权与尊重的调和",
-      "url": "https://nyulawreview.org/issues/volume-100-number-6/harmonizing-delegation-and-deference-after-loper-bright/",
-      "date": "2026-04-05",
-      "source": "NYU Law Review",
-      "summaryCN": "本文系统回应2024年联邦最高法院Loper Bright Enterprises v. Raimondo判决推翻Chevron原则后的行政法理论重构需求。作者核心论点是：Chevron被推翻并不意味着行政机关解释权的终结，而是要求法律体系在国会授权（delegation）与司法尊重（deference）之间建立新的协调机制。作者通过分析大量授权立法的文本结构，归纳出三类授权模式，主张法院应根据授权范围的明确程度差异化适用尊重标准。研究方法融合文本主义（textualism）与制度能力分析（institutional competence analysis），试图在无Chevron时代为行政机关的法律解释预留合法空间。",
-      "whyMattersCN": "Loper Bright是美国行政法自1984年以来最重大的制度变革，其影响将深度重塑联邦行政机关的规制能力与司法对行政的监控强度。本文的学术贡献在于提供了一套操作性框架，而非停留于对判决的规范批判。从比较行政法视角看，这场变革与中国行政解释制度的内在张力构成重要参照：中国《立法法》第65条授权国务院制定行政法规，《行政诉讼法》第53条规定法院可对规章以下的规范性文件进行附带审查，但对行政机关法律解释的司法审查标准至今缺乏系统性规定。【论证借鉴】本文授权类型学的分析框架可直接移植到中国语境：对《行政诉讼法》司法解释中行政行为合法性审查标准进行类型化分析，区分羁束性授权、裁量性授权与专业性授权三类场景下的司法审查密度，为中国行政审判实践提供理论依据。",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "遵循先例",
-          "class": "procedural"
-        },
-        {
-          "name": "授权立法",
-          "class": "administrative"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 9,
-      "journal": "NYU Law Review"
-    },
-    {
-      "title": "Anti-Domination and Administration",
-      "titleCN": "反支配理论与行政法",
-      "url": "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
-      "date": "2026-04-05",
-      "source": "NYU Law Review",
-      "summaryCN": "本文将政治哲学中的反支配（anti-domination）理论引入行政法领域，提出一种新的规制正当性理论。作者核心主张是：现行行政法理论过度关注效率与程序合规，而忽视了行政机关与规制对象之间的权力不对称问题。援引菲利普·佩蒂特（Philip Pettit）的共和主义自由理论，作者论证监管机构对个人和企业施加的权力本身构成一种支配关系，即便未实际行使强制手段。研究方法结合规范理论与行政实践案例分析，试图重塑行政正当性的评价标准，主张将减少支配确立为行政法的核心价值目标，与当前占主导地位的公共利益理论形成竞争。",
-      "whyMattersCN": "这篇文章代表了行政法理论的共和主义转向，对什么是好的规制这一根本问题提出了新答案。其挑战在于：如果减少支配成为行政法的核心标准，那么大量现行管制措施（包括经济管制、环境规制）都需重新接受正当性检验，这将为法院审查行政行为提供新的裁判工具。对中国行政法学而言，此文具有深刻的比较价值：中国《行政许可法》、《行政处罚法》近年均强调比例原则，2021年修订的《行政处罚法》第5条明确规定处罚与违法行为应当相当，这在某种程度上接近反支配关切。【论证借鉴】可借鉴本文的规范理论框架，分析中国放管服改革（减少行政许可、优化监管方式）的深层正当性逻辑，探讨比例原则在中国行政法语境下能否承载反支配的制度功能，为行政法教义学的规范基础研究提供理论资源。",
-      "tags": [
-        {
-          "name": "法律理论",
-          "class": "theory"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "行政权",
-          "class": "administrative"
-        },
-        {
-          "name": "规制理论",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 9,
-      "journal": "NYU Law Review"
-    },
-    {
-      "title": "New Challenges for Federal Regulations: Executive Branch Responses",
-      "titleCN": "联邦法规面临的新挑战：行政机关的应对策略",
-      "url": "https://nyulawreview.org/issues/volume-100-number-6/new-challenges-for-federal-regulations-executive-branch-responses/",
-      "date": "2026-04-05",
-      "source": "NYU Law Review",
-      "summaryCN": "本文聚焦后Chevron时代行政机关在制定联邦法规方面面临的系统性挑战，重点考察行政机关如何调整其规制策略以适应新的司法审查生态。作者梳理了Loper Bright判决后各联邦机构的实际应对措施，归纳出三种主要策略：一是加强国会授权的明确性论证；二是转向更多依赖指导文件（guidance documents）而非正式规章；三是强化规则制定记录中的技术性证据支撑。研究方法采用对判决后规则制定案例的定性分析，并辅以对联邦行政法规数据库的量化统计。核心命题是：Loper Bright不会导致行政国家的瓦解，而会推动其结构性适应和策略性转型。",
-      "whyMattersCN": "本文的现实意义在于其前瞻性：在Loper Bright判决后司法审查趋严的背景下，联邦行政机关的策略性调整将深刻影响美国监管体系的运转效率与政策连贯性。特别值得关注的是指导文件扩张这一趋势——行政机关可能大量转向软法工具以规避司法审查，这在提升监管灵活性的同时将引发新的民主问责危机。【论证借鉴】中国语境下存在高度对称的制度现象：国务院各部委大量依赖规范性文件（红头文件）而非正式行政法规进行事实性规制，《行政诉讼法》第53条虽允许附带审查，但实践中法院对规范性文件的司法审查极为保守。可借鉴本文的策略性规制转型框架，对中国行政机关使用软法工具规避司法审查的行为进行实证研究，为《行政诉讼法》司法解释的修订提供实证依据。",
-      "tags": [
-        {
-          "name": "联邦主义",
-          "class": "constitutional"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        },
-        {
-          "name": "授权立法",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 8,
-      "journal": "NYU Law Review"
     }
-  ]
+  ],
+  "meta": {
+    "updatedAt": "2026-07-04T16:34:11.974Z",
+    "generator": "ai"
+  }
 }
