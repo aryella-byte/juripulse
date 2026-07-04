@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect, useMemo } from 'react'
-import { Newspaper, BookOpen, Clock } from 'lucide-react'
+import { Newspaper, BookOpen, Clock, CalendarDays, RefreshCw } from 'lucide-react'
 import { BriefCard, BriefItem } from '@/components/brief/BriefCard'
 import { BriefFilters } from '@/components/brief/BriefFilters'
 import { TimelineView } from '@/components/brief/TimelineView'
@@ -20,6 +20,11 @@ const TABS = [
 type TabId = (typeof TABS)[number]['id']
 
 const byDateDesc = (a: BriefItem, b: BriefItem) => b.date.localeCompare(a.date)
+
+const formatDate = (date: string) => {
+  if (!date) return '待更新'
+  return date.replaceAll('-', '.')
+}
 
 export default function BriefPage() {
   const [data, setData] = useState<BriefData | null>(null)
@@ -92,15 +97,43 @@ export default function BriefPage() {
   const filteredNews = filterItems(data.news)
   const filteredResearch = filterItems(data.research)
   const allFiltered = [...data.news, ...data.research].sort(byDateDesc)
+  const latestDate = allFiltered[0]?.date || ''
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-10">
-      <div className="mb-10">
-        <p className="text-[11px] font-medium uppercase tracking-widest" style={{ color: 'var(--gold)' }}>Legal Brief</p>
-        <h1 className="font-serif mt-2 text-2xl font-semibold tracking-tight" style={{ letterSpacing: '-0.02em' }}>法学简报</h1>
-        <p className="mt-2 text-[13px]" style={{ color: 'var(--text-tertiary)' }}>
-          双语法学新闻简报 · {data.news.length} 条新闻 · {data.research.length} 篇研究 · AI 驱动分析
-        </p>
+      <div className="mb-10 border-b pb-8" style={{ borderColor: 'var(--border)' }}>
+        <div className="mb-4 inline-flex items-center gap-2 rounded-md px-2.5 py-1 text-[11px] font-medium uppercase tracking-widest" style={{ background: 'var(--accent-glow)', color: 'var(--navy)' }}>
+          <RefreshCw size={12} />
+          AI Daily Legal Brief
+        </div>
+        <div className="flex flex-col justify-between gap-5 sm:flex-row sm:items-end">
+          <div>
+            <h1 className="font-serif text-3xl font-semibold tracking-tight" style={{ letterSpacing: '-0.02em', color: 'var(--text-primary)' }}>法学简报</h1>
+            <p className="mt-3 max-w-2xl text-[14px] leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              由 AI 每日检索、筛选并生成的双语法学新闻与学术研究简报，聚合国际法学动态、重要判例、政策变化和最新论文，并提供中文解读。
+            </p>
+          </div>
+          <div className="rounded-md px-4 py-3 text-sm" style={{ background: 'var(--bg-card)', border: '1px solid var(--border)' }}>
+            <div className="flex items-center gap-2 text-[11px]" style={{ color: 'var(--text-tertiary)' }}>
+              <CalendarDays size={13} />
+              最新更新
+            </div>
+            <div className="mt-1 font-serif text-xl font-semibold" style={{ color: 'var(--navy)' }}>{formatDate(latestDate)}</div>
+          </div>
+        </div>
+
+        <div className="mt-6 grid gap-3 sm:grid-cols-3">
+          {[
+            { label: '新闻速递', value: data.news.length },
+            { label: '学术研究', value: data.research.length },
+            { label: '生成方式', value: 'AI每日' },
+          ].map((item) => (
+            <div key={item.label} className="rounded-md px-4 py-3" style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border)' }}>
+              <div className="text-[11px]" style={{ color: 'var(--text-tertiary)' }}>{item.label}</div>
+              <div className="mt-1 text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{item.value}</div>
+            </div>
+          ))}
+        </div>
       </div>
 
       {/* Tabs */}

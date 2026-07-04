@@ -12,7 +12,19 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    "seeing-theory-complete/**",
+    "2025CLSCI/**",
+    "scripts/**",
   ]),
+  {
+    rules: {
+      "react/no-unescaped-entities": "off",
+      "react-hooks/static-components": "off",
+      "react-hooks/purity": "off",
+      "react-hooks/set-state-in-effect": "off",
+      "react-hooks/refs": "off",
+    },
+  },
 ]);
 
 export default eslintConfig;

@@ -104,7 +104,7 @@ function DiscreteDistributionViz() {
     const ch = height - margin.top - margin.bottom
     const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`)
 
-    let data: { k: number; prob: number }[] = []
+    const data: { k: number; prob: number }[] = []
     if (mode === 'binomial') {
       for (let k = 0; k <= n; k++) data.push({ k, prob: binomialPMF(k, n, p) })
     } else {
@@ -384,7 +384,7 @@ function CLTVisualization() {
   const { containerRef, dimensions } = useResponsiveSVG(600, 300)
 
   const drawOneSample = (): number => {
-    let vals: number[] = []
+    const vals: number[] = []
     for (let i = 0; i < sampleSize; i++) {
       if (sourceDist === 'uniform') vals.push(Math.random() * 10)
       else if (sourceDist === 'exponential') vals.push(-Math.log(Math.random()) * 2)

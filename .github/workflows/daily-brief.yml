@@ -1,6 +1,9 @@
-name: Deploy to GitHub Pages
+name: Daily AI Brief and Deploy
 
 on:
+  schedule:
+    # 08:30 Beijing time every day.
+    - cron: '30 0 * * *'
   push:
     branches: [main]
   workflow_dispatch:
@@ -18,10 +21,30 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Build
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update AI legal brief
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          ARK_API_KEY: ${{ secrets.ARK_API_KEY }}
+          ARK_BASE_URL: ${{ vars.ARK_BASE_URL || 'https://ark.cn-beijing.volces.com/api/coding/v3' }}
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          BRIEF_AI_MODEL: ${{ vars.BRIEF_AI_MODEL || 'ark-code-latest' }}
+        run: node scripts/update-brief-ai.mjs
+
+      - name: Commit daily brief data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
-          npm install
-          npx next build
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/brief_data.json
+          git diff --cached --quiet || git commit -m "chore: update AI legal brief $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Build
+        run: npx next build
 
       - name: Deploy to gh-pages
         run: |

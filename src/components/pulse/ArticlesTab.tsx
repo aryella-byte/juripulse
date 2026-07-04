@@ -20,7 +20,7 @@ export function ArticlesTab({ articles }: { articles: Article[] }) {
   }), [articles])
 
   const filtered = useMemo(() => {
-    let result = articles.filter(a => {
+    const result = articles.filter(a => {
       if (query && !a.title.includes(query) && !a.journal.includes(query)) return false
       if (journalFilter && a.journal !== journalFilter) return false
       if (issueFilter && a.issue !== issueFilter) return false
