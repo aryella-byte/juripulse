@@ -435,7 +435,7 @@ export default function Chapter1Page() {
           overview={
             <>
               <p className="mb-3">本章从<strong>抛硬币实验</strong>开始，通过交互式可视化让你直观感受概率和大数定律。</p>
-              <p>随后，我们将通过一个<strong>DNA证据案例</strong>，揭示为什么高准确率的检测在司法实践中仍可能导致误判。</p>
+              <p>随后，我们将通过一个<strong>DNA证据案例</strong>，揭示为什么低随机匹配概率在数据库搜索中仍可能导致误判。</p>
             </>
           }
         />
@@ -521,7 +521,7 @@ export default function Chapter1Page() {
         <Checkpoint type="think">
           <div className="space-y-3">
             <p className="font-medium">思考问题：</p>
-            <p>如果你是陪审团成员，听到"DNA检测准确率99.9%"的证据，你会如何评估？</p>
+            <p>如果你是陪审团成员，听到"DNA随机匹配概率极低"的证据，你会如何评估？</p>
           </div>
         </Checkpoint>
 
@@ -530,7 +530,7 @@ export default function Chapter1Page() {
             '概率量化不确定性，取值范围为 [0, 1]，遵循柯尔莫哥洛夫公理',
             '大数定律：频率随试验次数增加趋近于理论概率',
             '期望值是分布的"中心"，方差衡量数据的离散程度',
-            '检察官谬误：混淆 P(证据|有罪) 与 P(有罪|证据)'
+            '检察官谬误：混淆 P(证据|无辜) 与 P(无辜|证据)'
           ]}
           question="警方在DNA数据库（100万人）中搜索到一个匹配，随机匹配概率为百万分之一。请用贝叶斯定理计算该匹配者真正是罪犯的概率。"
           hint="P(真凶|匹配) ≈ 50%，远非'几乎必然有罪'！"

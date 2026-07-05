@@ -33,6 +33,9 @@ jobs:
           MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           BRIEF_AI_MODEL: ${{ vars.BRIEF_AI_MODEL || 'ark-code-latest' }}
+          MAX_NEWS: 3
+          MAX_RESEARCH: 1
+          MIN_EXISTING_QUALITY: 7
         run: node scripts/update-brief-ai.mjs
 
       - name: Commit daily brief data

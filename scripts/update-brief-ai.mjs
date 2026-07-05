@@ -14,18 +14,21 @@ const dataFile = path.join(projectRoot, 'public', 'data', 'brief_data.json')
 const newsSources = {
   SCOTUSblog: 'https://www.scotusblog.com/feed/',
   JURIST: 'https://www.jurist.org/feed/',
-  'Financial Times': 'https://www.ft.com/rss/home',
-  'The Economist': 'https://www.economist.com/leaders/rss.xml',
-  WSJ: 'https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness',
+  'Just Security': 'https://www.justsecurity.org/feed/',
+  'ABA Journal': 'https://www.abajournal.com/rss',
 }
 
 const researchSources = {
   'Harvard Law Review': 'https://harvardlawreview.org/feed/',
+  'Stanford Law Review': 'https://www.stanfordlawreview.org/feed/',
+  'Columbia Law Review': 'https://columbialawreview.org/feed/',
   'NYU Law Review': 'https://www.nyulawreview.org/feed/',
   'Penn Law Review': 'https://www.pennlawreview.com/feed/',
   'Michigan Law Review': 'https://michiganlawreview.org/feed/',
   'Duke Law Journal': 'https://dlj.law.duke.edu/feed/',
   'Cornell Law Review': 'https://cornelllawreview.org/feed/',
+  'Virginia Law Review': 'https://virginialawreview.org/feed/',
+  'Northwestern Law Review': 'https://northwesternlawreview.org/feed/',
   'J Criminal Law & Criminology': 'https://scholarlycommons.law.northwestern.edu/jclc/recent.rss',
 }
 
@@ -49,6 +52,11 @@ const junkKeywords = [
   'hello world',
   'in memoriam',
   'appendix to',
+  'book review',
+  'book notes',
+  'case note',
+  'recent case',
+  'recent cases',
   'present -',
   'presents -',
   'discuss',
@@ -66,9 +74,32 @@ const junkKeywords = [
   'now accepting',
   'letter from the editor',
   'foreword',
+  'afterword',
+  'preface',
+  'dedication',
 ]
 
-const legalNativeSources = new Set(['SCOTUSblog', 'JURIST'])
+const softNewsKeywords = [
+  'announcement of opinions',
+  'attorney switcheroo',
+  'children’s books',
+  "children's books",
+  'celebrity magicians',
+  'driving the conversation',
+  'hospitalized',
+  'inscrutable',
+  'law, memoir',
+  'mystery of justice',
+  'sports stars',
+  'supreme court of canada',
+  'supreme court of india',
+  'the biggest names on the briefs',
+  'the trump term',
+]
+
+const legalNativeSources = new Set(Object.keys(newsSources))
+const approvedNewsSources = new Set(Object.keys(newsSources))
+const approvedResearchSources = new Set(Object.keys(researchSources))
 
 const legalKeywords = [
   'abortion',
@@ -108,8 +139,47 @@ const legalKeywords = [
   'trump',
 ]
 
-const maxNews = Number(process.env.MAX_NEWS || 5)
-const maxResearch = Number(process.env.MAX_RESEARCH || 3)
+const researchKeywords = [
+  'abstract',
+  'article',
+  'claim',
+  'constitutional',
+  'criminal',
+  'doctrine',
+  'empirical',
+  'enforcement',
+  'federal',
+  'governance',
+  'institution',
+  'jurisdiction',
+  'law',
+  'legal',
+  'liability',
+  'litigation',
+  'regulation',
+  'rights',
+  'statutory',
+  'theory',
+]
+
+const expandedResearchSources = new Set([
+  ...approvedResearchSources,
+  'Boston U Law Review',
+  'Minnesota Law Review',
+  'UCLA Law Review',
+  'Wash U Law Review',
+])
+
+const sourceWeights = {
+  SCOTUSblog: 9,
+  JURIST: 8,
+  'Just Security': 8,
+  'ABA Journal': 7,
+}
+
+const maxNews = Number(process.env.MAX_NEWS || 3)
+const maxResearch = Number(process.env.MAX_RESEARCH || 1)
+const minExistingQuality = Number(process.env.MIN_EXISTING_QUALITY || 7)
 const model = process.env.BRIEF_AI_MODEL || 'ark-code-latest'
 const feedTimeoutMs = Number(process.env.FEED_TIMEOUT_MS || 15000)
 const aiTimeoutMs = Number(process.env.AI_TIMEOUT_MS || 45000)
@@ -171,15 +241,42 @@ function normalizeDate(value) {
   return parsed.toISOString().slice(0, 10)
 }
 
+function ageInDays(date) {
+  const parsed = new Date(date)
+  if (Number.isNaN(parsed.getTime())) return 999
+  return Math.max(0, Math.floor((Date.now() - parsed.getTime()) / 86400000))
+}
+
 function isJunk(title) {
   const lower = title.toLowerCase()
-  return junkKeywords.some((keyword) => lower.includes(keyword))
+  return [
+    ...junkKeywords,
+    ...softNewsKeywords,
+  ].some((keyword) => lower.includes(keyword))
 }
 
 function isLikelyLegal(item, source, isResearch) {
-  if (isResearch || legalNativeSources.has(source)) return true
-  const text = `${item.title} ${item.url}`.toLowerCase()
+  const text = `${item.title} ${item.excerpt || ''} ${item.url}`.toLowerCase()
+  if (isResearch) {
+    return researchKeywords.some((keyword) => text.includes(keyword))
+  }
+  if (legalNativeSources.has(source)) return true
   return legalKeywords.some((keyword) => text.includes(keyword))
+}
+
+function keywordHits(text, keywords) {
+  const lower = text.toLowerCase()
+  return keywords.reduce((score, keyword) => score + (lower.includes(keyword) ? 1 : 0), 0)
+}
+
+function candidateScore(item, source, isResearch) {
+  const text = `${item.title} ${item.excerpt || ''} ${item.url}`
+  const freshness = Math.max(0, 10 - ageInDays(item.date))
+  const sourceScore = sourceWeights[source] || (isResearch ? 8 : 5)
+  const topicality = isResearch
+    ? keywordHits(text, researchKeywords)
+    : keywordHits(text, legalKeywords)
+  return sourceScore + freshness + topicality * 2
 }
 
 function parseFeed(xml) {
@@ -198,8 +295,17 @@ function parseFeed(xml) {
         textBetween(block, 'pubDate') ||
         textBetween(block, 'published') ||
         textBetween(block, 'updated')
+      const excerpt =
+        textBetween(block, 'description') ||
+        textBetween(block, 'summary') ||
+        textBetween(block, 'content:encoded')
 
-      return { title: title.trim(), url: link.trim(), date: normalizeDate(date) }
+      return {
+        title: title.trim(),
+        url: link.trim(),
+        date: normalizeDate(date),
+        excerpt: excerpt.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 700),
+      }
     })
     .filter((item) => item.title && item.url && !isJunk(item.title))
 }
@@ -255,10 +361,20 @@ function looseParse(text) {
     const match = text.match(new RegExp(`"${key}"\\s*:\\s*"([\\s\\S]*?)"\\s*(?:,\\s*"|\\n|})`))
     return match ? match[1].trim() : ''
   }
+  const grabBoolean = (key, fallback) => {
+    const match = text.match(new RegExp(`"${key}"\\s*:\\s*(true|false)`, 'i'))
+    return match ? match[1].toLowerCase() === 'true' : fallback
+  }
+  const grabNumber = (key) => {
+    const match = text.match(new RegExp(`"${key}"\\s*:\\s*([0-9]+(?:\\.[0-9]+)?)`))
+    return match ? Number(match[1]) : Number(grab(key)) || 0
+  }
   const tagsBlock = text.match(/"tags"\s*:\s*\[([\s\S]*?)\]/)
   const tags = tagsBlock ? [...tagsBlock[1].matchAll(/"([^"]+)"/g)].map((m) => m[1]) : []
 
   return {
+    shouldInclude: grabBoolean('shouldInclude', !/false/i.test(grab('shouldInclude'))),
+    qualityScore: grabNumber('qualityScore'),
     summaryCN: grab('summaryCN'),
     whyMattersCN: grab('whyMattersCN'),
     tags,
@@ -279,21 +395,29 @@ function extractJsonText(text) {
   return cleaned
 }
 
-async function analyzeWithAi(aiConfig, title, source, isResearch) {
+async function analyzeWithAi(aiConfig, item, source, isResearch) {
   const contentType = isResearch ? '法学研究论文' : '法律新闻'
+  const selectionRule = isResearch
+    ? '只收录正式法学论文、评论或实证研究；排除 foreword、introduction、book review、case note、征稿、会议、播客、新闻稿和纯目录页。优先选择有明确研究问题、方法、制度贡献或比较法价值的论文。'
+    : '只收录具有明确法律制度影响的新闻：重要法院判决、监管执法、立法政策、宪政争议、刑事司法、国际法、科技法或公司合规。排除泛政治、泛商业、人物八卦、单纯观点评论和没有法律增量的新闻。'
   const prompt = `你是 JuriPulse 的法学简报编辑。请分析以下${contentType}，只返回 JSON，不要 markdown 代码块。
 
-标题：${title}
+标题：${item.title}
 来源：${source}
+发布日期：${item.date}
+RSS摘要：${item.excerpt || '无'}
 
 {
-  "summaryCN": "60-100字中文摘要",
-  "whyMattersCN": "80-120字重要性分析，包含比较法或法学研究价值",
+  "shouldInclude": true,
+  "qualityScore": 1-10,
+  "summaryCN": "120-180字中文摘要，交代事实或论文问题、核心规则/论证、最新进展或结论",
+  "whyMattersCN": "160-240字重要性分析，必须指出具体制度、判例、监管、研究方法或中国法/比较法启发，避免空泛套话",
   "tags": ["标签1", "标签2"],
   "category": "constitutional|criminal|international|corporate|tech|general"
 }
 
-要求：筛掉明显非法律内容；字段值内不要使用英文双引号。`
+选稿标准：${selectionRule}
+要求：如果不符合选稿标准，返回 shouldInclude=false，qualityScore 不高于 4；字段值内不要使用英文双引号。`
 
   const response = await fetchWithTimeout(aiConfig.url, {
     method: 'POST',
@@ -303,8 +427,8 @@ async function analyzeWithAi(aiConfig, title, source, isResearch) {
     },
     body: JSON.stringify({
       model,
-      max_tokens: 800,
-      temperature: 0.6,
+      max_tokens: 1400,
+      temperature: 0.45,
       messages: [{ role: 'user', content: prompt }],
       ...(aiConfig.provider === 'ark' || aiConfig.provider === 'kimi'
         ? { thinking: { type: 'disabled' } }
@@ -350,6 +474,47 @@ async function loadData() {
   return JSON.parse(raw)
 }
 
+function hasSoftNewsSignal(item) {
+  const title = String(item.title || '').toLowerCase()
+  return softNewsKeywords.some((keyword) => title.includes(keyword))
+}
+
+function shouldKeepExistingNews(item) {
+  if (!approvedNewsSources.has(item.source)) return false
+  if ((item.quality_score || 0) < minExistingQuality) return false
+  if (isJunk(item.title || '') || hasSoftNewsSignal(item)) return false
+  return true
+}
+
+function shouldKeepExistingResearch(item) {
+  const source = item.journal || item.source
+  if (!expandedResearchSources.has(source)) return false
+  if ((item.quality_score || 0) < minExistingQuality) return false
+  if (isJunk(item.title || '')) return false
+  return true
+}
+
+function pruneExistingData(data) {
+  const before = {
+    news: data.news?.length || 0,
+    research: data.research?.length || 0,
+  }
+
+  data.news = (data.news || []).filter(shouldKeepExistingNews)
+  data.research = (data.research || []).filter(shouldKeepExistingResearch)
+
+  const after = {
+    news: data.news.length,
+    research: data.research.length,
+  }
+
+  if (before.news !== after.news || before.research !== after.research) {
+    log(`Pruned existing brief data: news ${before.news}->${after.news}, research ${before.research}->${after.research}`)
+    return true
+  }
+  return false
+}
+
 async function saveData(data) {
   data.meta = {
     ...(data.meta || {}),
@@ -365,7 +530,10 @@ async function saveData(data) {
 async function buildQueue(sources, { isResearch = false } = {}) {
   const entries = await Promise.all(
     Object.entries(sources).map(async ([source, url]) => {
-      const items = (await fetchFeed(url, source)).filter((item) => isLikelyLegal(item, source, isResearch))
+      const items = (await fetchFeed(url, source))
+        .filter((item) => isLikelyLegal(item, source, isResearch))
+        .map((item) => ({ ...item, score: candidateScore(item, source, isResearch) }))
+        .sort((a, b) => b.score - a.score)
       log(`${source}: ${items.length} likely legal candidates`)
       return { source, items }
     }),
@@ -397,7 +565,12 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
 
     try {
       log(`AI analyzing: ${item.title.slice(0, 80)}`)
-      const analysis = await analyzeWithAi(aiConfig, item.title, source, isResearch)
+      const analysis = await analyzeWithAi(aiConfig, item, source, isResearch)
+      const qualityScore = Number(analysis?.qualityScore || 0)
+      if (analysis?.shouldInclude === false || qualityScore < 6) {
+        log(`AI result skipped: low editorial score for ${item.title.slice(0, 60)}`)
+        continue
+      }
       if (!analysis?.summaryCN || analysis.summaryCN.length < 20) {
         log(`AI result skipped: invalid summary for ${item.title.slice(0, 60)}`)
         continue
@@ -413,7 +586,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
         whyMattersCN: analysis.whyMattersCN || '',
         whyMattersEN: '',
         tags: tagsFor(analysis.category, analysis.tags),
-        quality_score: 8,
+        quality_score: qualityScore || Math.min(10, Math.max(7, Math.round(item.score / 3))),
         ...(isResearch ? { journal: source } : { source }),
       })
       existing.add(itemId(item.title))
@@ -428,16 +601,18 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
 }
 
 async function main() {
-  const aiConfig = createAiConfig()
-  if (!aiConfig) {
-    log('No ARK_API_KEY, MOONSHOT_API_KEY, or KIMI_API_KEY. Existing brief data preserved.')
-    return
-  }
-  log(`Using ${aiConfig.provider} model: ${model}`)
-
   const data = await loadData()
   data.news ||= []
   data.research ||= []
+
+  const pruned = pruneExistingData(data)
+  const aiConfig = createAiConfig()
+  if (!aiConfig) {
+    if (pruned) await saveData(data)
+    log('No ARK_API_KEY, MOONSHOT_API_KEY, or KIMI_API_KEY. Existing brief data cleaned when needed; no new items generated.')
+    return
+  }
+  log(`Using ${aiConfig.provider} model: ${model}`)
 
   await updateSection({ aiConfig, data, sources: newsSources, key: 'news', limit: maxNews, isResearch: false })
   await updateSection({ aiConfig, data, sources: researchSources, key: 'research', limit: maxResearch, isResearch: true })

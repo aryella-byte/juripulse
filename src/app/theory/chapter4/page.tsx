@@ -287,8 +287,8 @@ export default function Chapter4Page() {
 
         <BeginnerExplanation title="初学者指南">
           <div className="space-y-4">
-            <p><strong>置信区间</strong>像"射箭的靶子范围"。95%置信区间意味着如果射100箭，约95箭会落在这个范围内。</p>
-            <p><strong>p值</strong>像"巧合的可能性"。p=0.05意味着只有5%的可能性是巧合。</p>
+            <p><strong>置信区间</strong>像一套会随样本变化的估计程序。95%置信水平意味着如果反复抽样并用同一方法构造区间，长期约95%的区间会覆盖真实参数。</p>
+            <p><strong>p值</strong>表示在原假设为真时，观察到当前数据或更极端数据的概率。p=0.05并不表示原假设只有5%的概率为真。</p>
             <p><strong>假设检验</strong>像"法庭上的无罪推定"。先假设无罪，再看证据是否足够推翻。</p>
           </div>
         </BeginnerExplanation>

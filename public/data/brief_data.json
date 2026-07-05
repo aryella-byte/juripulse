@@ -1,61 +1,17 @@
 {
   "news": [
     {
-      "title": "Trump delivers July 4 address after storms disrupt independence celebrations",
-      "titleCN": "Trump delivers July 4 address after storms disrupt independence celebrations",
-      "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
+      "title": "Chemerinsky: Supreme Court leaves many Second Amendment issues unresolved",
+      "titleCN": "Chemerinsky: Supreme Court leaves many Second Amendment issues unresolved",
+      "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;supreme&#45;court&#45;leaves&#45;many&#45;second&#45;amendment&#45;issues&#45;unresolved/",
       "date": "2026-07-05",
-      "summaryCN": "据《金融时报》报道，受暴风雨天气影响，美国独立日庆祝活动遭到 disruptions。随后，特朗普发表了七月四日演讲。此事件主要涉及公共集会与国家法定节日活动的行政安排调整。",
+      "summaryCN": "宪法学者Chemerinsky指出，目前宪法领域诉讼最频繁的是第二修正案。自2022年布鲁恩案确立枪支管制必须符合历史传统的审查标准后，大量相关案件涌入法院。然而，最高法院近期判决并未解决核心争议，在涉枪资格法、攻击性武器禁令及敏感场所限制等关键问题上留下了巨大法律空白。这使得下级法院在历史类比论证中产生严重分歧，导致全国枪支监管规则陷入碎片化，后续诉讼浪潮仍将持续。",
       "summaryEN": "",
-      "whyMattersCN": "此新闻本身缺乏直接法学研究价值，但其涉及国家庆典与公共集会的应急管理。在比较法视角下，可探讨行政机构在突发公共事件中的紧急权力边界与集会自由保障。然就报道内容而言，属一般时政新闻，无实质性规范冲突或法律适用争议。",
+      "whyMattersCN": "本篇新闻触及美国宪政核心争议，尤其是布鲁恩案确立的历史传统审查标准对现代枪支监管带来的制度性冲击。该标准要求法官通过历史类比裁决当代案件，引发法学界对裁判方法论和司法客观性的深刻反思。从比较法视角看，这种将历史文本绝对化的原旨主义解释进路，为研究权利保障边界与司法审查密度提供了极佳样本。中国法学者可借此透视美国司法如何在公共政策安全与宪法权利之间摇摆，以及判例法体系在应对新兴社会危机时面临的方法论局限与规则滞后困境。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "公共集会",
-          "class": ""
-        },
-        {
-          "name": "应急管理",
-          "class": ""
-        }
-      ],
-      "quality_score": 8,
-      "source": "Financial Times"
-    },
-    {
-      "title": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
-      "titleCN": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
-      "url": "https://www.wsj.com/business/the-founder-who-got-fired-for-ignoring-his-own-return-to-office-rules-6b194dd7?mod=pls_whats_news_us_business_f",
-      "date": "2026-07-04",
-      "summaryCN": "华尔街日报报道，一公司创始人因无视其亲自制定的员工重返办公室政策而遭解雇。该事件涉及企业管理层对内部规章的执行不一，引发关于公司治理、劳动纪律及高管信义义务的讨论，凸显企业内部规则在实践中的法律约束力。",
-      "summaryEN": "",
-      "whyMattersCN": "此事件在公司法与劳动法领域具比较法研究价值。高管带头违规暴露企业内部治理与合规机制缺陷。从法学角度审视，高管信义义务要求其维护公司利益与规章制度权威。该案为探讨雇主政策执行标准、内部纪律一致性及高管解雇程序正当性提供了实务案例。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "公司法",
-          "class": "constitutional"
-        },
-        {
-          "name": "劳动法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "source": "WSJ"
-    },
-    {
-      "title": "A tale of two justices and their children’s books",
-      "titleCN": "A tale of two justices and their children’s books",
-      "url": "https://www.scotusblog.com/2026/07/a-tale-of-two-justices-and-their-childrens-books/",
-      "date": "2026-07-03",
-      "summaryCN": "本文聚焦两位美国最高法院大法官参与出版儿童法律读物一事。这些读物旨在向青少年普及宪法知识与司法体系运作。然而，此举也引发了外界对大法官公职身份与商业出版活动之间潜在利益冲突及司法伦理边界的探讨，促使公众重新审视最高法院的内部行为准则。",
-      "summaryEN": "",
-      "whyMattersCN": "该事件触及司法伦理的核心议题，具有较高的宪法学与比较法研究价值。它揭示了最高法院大法官在履行公职外参与商业活动时的规范盲区，为比较法视角下探讨司法人员行为守则、司法独立性与公众信任提供了现实案例，同时也折射出美国司法伦理审查机制的滞后性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "司法伦理",
+          "name": "第二修正案",
           "class": "constitutional"
         },
         {
@@ -64,112 +20,24 @@
         }
       ],
       "quality_score": 8,
-      "source": "SCOTUSblog"
-    },
-    {
-      "title": "The Trump term?",
-      "titleCN": "The Trump term?",
-      "url": "https://www.scotusblog.com/2026/07/the-trump-term-/",
-      "date": "2026-07-03",
-      "summaryCN": "最高法院即将审查特朗普是否具备总统豁免权，此案核心在于界定前任总统对任内行为的刑事免责边界，判决将深刻影响后续相关诉讼的走向。",
-      "summaryEN": "",
-      "whyMattersCN": "此案触及美国宪政体制中权力分立与法治的深层张力。从比较法视角看，前国家元首刑事豁免权的界定标准极具参考价值，为研究民主转型国家追责机制与司法审查的边界提供了生动范例，是宪法学与刑法交叉研究的经典案例。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "总统豁免权",
-          "class": "constitutional"
-        },
-        {
-          "name": "联邦最高法院",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "source": "SCOTUSblog"
-    },
-    {
-      "title": "Romanians sentenced in London for Iran-directed attack on journalist",
-      "titleCN": "Romanians sentenced in London for Iran-directed attack on journalist",
-      "url": "https://www.ft.com/content/12d30929-9e32-4344-80fd-fc53fc43ff8d",
-      "date": "2026-07-03",
-      "summaryCN": "英国伦敦法院判处多名罗马尼亚人有期徒刑，罪名是受伊朗指使对一名记者实施袭击。此案涉及跨国犯罪团伙受外国势力操纵，在欧洲境内对异见人士进行人身攻击。",
-      "summaryEN": "",
-      "whyMattersCN": "本案凸显跨国受雇暴力与国际恐怖主义及国家安全交织的复杂法律图景。在比较法层面，它展示了英国刑法如何应对域外势力指使的境内犯罪，涉及引渡、政治庇护与国家安全法的交汇，为研究欧洲跨国司法合作及言论自由保护提供了重要实证素材。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "跨国犯罪",
-          "class": "criminal"
-        },
-        {
-          "name": "国家安全",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 8,
-      "source": "Financial Times"
-    },
-    {
-      "title": "250 and the court",
-      "titleCN": "250 and the court",
-      "url": "https://www.scotusblog.com/2026/07/250-and-the-court/",
-      "date": "2026-07-03",
-      "summaryCN": "本文关注美国最高法院2024年10月期即将迎来的第250起上诉案件。文章梳理了当前法院案件库的填补进度，并探讨了在此期间可能被大法官选中的潜在热门上诉案件，为观察美国联邦最高法院的最新审查动向提供了线索。",
-      "summaryEN": "",
-      "whyMattersCN": "美国最高法院的案件筛选机制具有极高的比较法研究价值。通过观察其年度案件配额的填补过程与潜在审查热点，法学研究者可深入剖析最高法院的司法政策偏好、议程设置策略及其对美国法治走向的深远影响，为判例法体系的运作机制提供实证分析素材。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "美国最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "诉讼程序",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "source": "SCOTUSblog"
+      "source": "ABA Journal"
     },
     {
       "title": "An immigration law error in the court’s asylum decision threatens immigration courts",
       "titleCN": "An immigration law error in the court’s asylum decision threatens immigration courts",
       "url": "https://www.scotusblog.com/2026/07/an-immigration-law-error-in-the-courts-asylum-decision-threatens-immigration-courts/",
       "date": "2026-07-02",
-      "summaryCN": "最高法院在庇护裁决中出现的移民法错误引发广泛关注。该错误可能对整个移民法院系统产生深远威胁，影响未来庇护案件的判例标准与裁决一致性，凸显了司法审查在复杂移民案件中的关键作用。",
+      "summaryCN": "最高法院在Mullin v. Al Otro Lado案中裁定，在国际边界被拦截的移民无权申请庇护。该判决主要依据联邦移民法的文本，但多数派意见暴露出大法官对国会创设的越境程序存在误解。评论认为，若大法官真正理解该程序，便不会轻易赋予边境官员切断庇护通道的权力。案件核心涉及《移民与国籍法》中针对人员抵达美国陆地边境口岸时的适用条款，引发对边境执法权与庇护申请权平衡的广泛关注。",
       "summaryEN": "",
-      "whyMattersCN": "此案具有显著的比较法与法学研究价值。它揭示了行政法院系统在适用复杂移民法规时的系统性漏洞，为研究司法审查边界、迁徙自由权保障及难民认定标准提供了绝佳素材。对我国完善涉外法治与相关司法审查机制亦有重要借鉴意义。",
+      "whyMattersCN": "此案深刻揭示了最高法院在解释复杂移民成文法时，因缺乏对行政执法实际运作的准确认知而导致权力配置失衡的问题。判决聚焦《移民与国籍法》的文本解释，实质上赋予了边境官员极大的自由裁量权以封锁庇护通道，这直接重塑了美国庇护制度的准入门槛。从比较法视角看，该案反映了司法审查在面对行政边境管制与个体权利保障冲突时的张力，提示我国在完善出入境管理及难民庇护审查机制时，需警惕行政权力的过度扩张，并关注司法裁判对法定程序理解的准确性对实体权利的决定性影响。",
       "whyMattersEN": "",
       "tags": [
         {
           "name": "移民法",
-          "class": ""
-        },
-        {
-          "name": "庇护裁决",
-          "class": ""
-        }
-      ],
-      "quality_score": 8,
-      "source": "SCOTUSblog"
-    },
-    {
-      "title": "After Slaughter and Cook: future Fed fights, and maybe some midnight firings",
-      "titleCN": "After Slaughter and Cook: future Fed fights, and maybe some midnight firings",
-      "url": "https://www.scotusblog.com/2026/07/after-slaughter-and-cook-future-fed-fights-and-maybe-some-midnight-firings-/",
-      "date": "2026-07-02",
-      "summaryCN": "最高法院在Slaughter和Cook案裁决后，为未来联邦权力斗争定下基调。此判决可能引发关于总统午夜解职权的法律争议，涉及行政官员免职的宪法边界及独立机构独立性。",
-      "summaryEN": "",
-      "whyMattersCN": "该案触及美国宪法分权核心，对行政权与立法权制衡具有深远影响。从比较法视角看，总统免职权边界为研究不同宪政体制下的行政问责与公务员独立性提供了重要参照，极具公法学研究价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "美国宪法",
           "class": "constitutional"
         },
         {
-          "name": "分权制衡",
+          "name": "最高法院",
           "class": "constitutional"
         }
       ],
@@ -177,128 +45,26 @@
       "source": "SCOTUSblog"
     },
     {
-      "title": "Latin America has turned Trumpy. That creates opportunities",
-      "titleCN": "Latin America has turned Trumpy. That creates opportunities",
-      "url": "https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities",
-      "date": "2026-06-25",
-      "summaryCN": "拉丁美洲多国政治转向右翼民粹主义，即特普化。这种政治思潮的转向促使各国在贸易政策、外商投资审查及监管合规等领域产生新的法律变动，进而为跨国企业和国际律所创造了法律业务机遇。",
+      "title": "Court rules that states can exclude transgender athletes from girls’ and women’s sports teams",
+      "titleCN": "Court rules that states can exclude transgender athletes from girls’ and women’s sports teams",
+      "url": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+      "date": "2026-06-30",
+      "summaryCN": "美国最高法院于2026年6月30日裁定，各州可依据生理性别限制跨性别运动员参与女子体育赛事。卡瓦诺大法官在29页的意见书中指出，爱达荷州和西弗吉尼亚州的相关法律未违反联邦民权法。大法官们一致认为，允许各州为生理女性保留女子体育项目符合《教育法第九编》与平等保护条款。然而，对于西弗吉尼亚州法律是否在该案具体当事人的适用上违宪，大法官们产生了分歧。该裁决明确了各州在女子体育赛事资格认定上的立法权限。",
       "summaryEN": "",
-      "whyMattersCN": "拉美政治右倾引发的规则重构对比较法学研究具有重要意义。从宪法层面看，反映民粹主义对权力制衡与法治原则的冲击；从跨国经济法视角观察，贸易保护与投资审查的制度演变，为研究发展中国家法治弹性及跨国合规风险防控提供鲜活样本。",
+      "whyMattersCN": "此判决深刻影响美国跨性别者权利与女子体育赛事的制度构建。裁决核心在于对《教育法第九编》中性别平等条款的解释边界，确认了州法以生理性别作为参赛资格标准的合宪性。在比较法层面，该案凸显了平等保护条款在处理性别认同与生理性别冲突时的司法审查逻辑。对中国法学研究的启发在于，当新兴权利主张与传统单性别制度发生碰撞时，立法者如何通过比例原则与实质平等理论界定准入标准，以及司法机关如何平衡群体包容与竞技公平，该案提供了典型的利益衡量样本。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "拉美政治",
-          "class": ""
-        },
-        {
-          "name": "比较法学",
-          "class": ""
-        }
-      ],
-      "quality_score": 8,
-      "source": "The Economist"
-    },
-    {
-      "title": "Global imbalances have little to do with Europe’s industrial woes",
-      "titleCN": "Global imbalances have little to do with Europe’s industrial woes",
-      "url": "https://www.economist.com/leaders/2026/06/25/global-imbalances-have-little-to-do-with-europes-industrial-woes",
-      "date": "2026-06-25",
-      "summaryCN": "本文剖析欧洲工业困境根源，指出其与全球失衡关联甚微。相较外部贸易因素，欧洲内部严苛的监管环境、高昂的能源成本及绿色转型政策才是核心制约。这反映出欧盟在经贸与产业监管规则上的重塑，正深刻影响其工业竞争力与内部市场运作。",
-      "summaryEN": "",
-      "whyMattersCN": "该文具有显著的经济法与比较法研究价值。欧盟通过绿色协议等产业法规强化监管，虽推动了环保法治转型，却引发规则成本与市场竞争力的法益冲突。对比美欧产业补贴与监管路径，有助于探讨全球化背景下国内监管权与国际经贸规则的博弈关系。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "欧盟监管",
-          "class": ""
-        },
-        {
-          "name": "经济法",
-          "class": ""
-        }
-      ],
-      "quality_score": 8,
-      "source": "The Economist"
-    },
-    {
-      "title": "The case against energy bail-outs",
-      "titleCN": "反对能源救助补贴：市场规律不容政府扭曲",
-      "url": "https://www.economist.com/leaders/2026/03/26/the-case-against-energy-bail-outs",
-      "date": "2026-04-12",
-      "source": "The Economist",
-      "summaryCN": "《经济学人》社论批评各国政府在能源转型压力下对传统能源企业实施救助补贴的政策倾向，指出此举扭曲市场信号、阻碍创新、固化化石能源依赖。文章论证能源救助政策的三重悖论：补贴往往流向效率最低企业、政府介入模糊转型成本真实信号、救助预期导致企业道德风险。社论主张应让市场机制主导能源结构调整，政府角色应限于再就业等社会政策而非产业救助。",
-      "whyMattersCN": "能源救助政策的法律规制涉及行政法、规制理论与经济法的交叉地带。在美国，能源补贴政策须经国会授权，《行政程序法》对规制机构的救助决定设有实质审查标准，FERC以竞争性市场设计为核心理念。与之对比，中国《可再生能源法》和《电力法》构建了政府主导的能源补贴体系，国家发改委拥有广泛价格干预权，形成迥异的规制逻辑。【选题思路】可研究中美两国能源补贴法律规制框架的比较，特别是政府介入能源市场的合法性边界与司法审查标准，结合实证数据评估不同规制模式对能源转型效率的影响，为双碳目标下中国能源法律改革提供比较法参照。",
-      "tags": [
-        {
-          "name": "规制理论",
-          "class": "administrative"
-        },
-        {
-          "name": "能源法",
-          "class": "special"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 7
-    },
-    {
-      "title": "Law, memoir, and the mystery of Justice Anthony Kennedy's writing",
-      "titleCN": "法律、回忆录与肯尼迪大法官文风之谜",
-      "url": "https://www.scotusblog.com/2026/04/law-memoir-and-the-mystery-of-justice-anthony-kennedys-writing/",
-      "date": "2026-04-12",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog深度解析已退休大法官安东尼·肯尼迪的司法写作风格，探讨其充满文学性和个人化表达的判决意见如何挑战传统法律写作规范。肯尼迪以起草Obergefell（同婚案）、Lawrence（反鸡奸法违宪案）等里程碑判决著称，其文风融入大量道德哲学表达，被称为第一人称宪法。文章探究这种写作方式与回忆录体裁的内在联系，以及法官个人经历如何渗透进宪法文本解释，引发司法写作规范性与解释方法论层面的深层反思。",
-      "whyMattersCN": "肯尼迪大法官的写作风格争议揭示了司法写作规范与宪法解释方法论之间的深层张力：个人化修辞是否会侵蚀判决的制度可预期性？这一问题在文本主义与道德读法（moral reading）之争中具有核心意义。比较而言，中国最高人民法院指导性案例制度近年来在裁判文书说理规范化方面有显著进展，《最高人民法院关于加强和规范裁判文书说理的指导意见》明确要求说理充分、逻辑严密，与肯尼迪式个人化写作形成鲜明对照。【选题思路】可基于文本分析方法，对中美法院判决文书的说理风格、修辞结构进行量化比较，探讨司法个人主义与制度约束的张力，为实证法学研究提供新的分析路径。",
-      "tags": [
-        {
-          "name": "司法独立",
+          "name": "美国最高法院",
           "class": "constitutional"
         },
         {
-          "name": "最高法院",
+          "name": "平等保护条款",
           "class": "constitutional"
-        },
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        },
-        {
-          "name": "法律理论",
-          "class": "theory"
         }
       ],
-      "quality_score": 7
-    },
-    {
-      "title": "The sports stars, hip-hop artists, and celebrity magicians playing a role in pending Supreme Court petitions",
-      "titleCN": "体育明星、说唱歌手与魔术师：名人效应如何进入最高法院悬案",
-      "url": "https://www.scotusblog.com/2026/04/the-sports-stars-hip-hop-artists-and-celebrity-magicians-playing-a-role-in-pending-supreme-court-petitions/",
-      "date": "2026-04-12",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog梳理多起待审上诉令状中涉及体育明星、说唱艺人和名人魔术师的案件，揭示名人效应如何以当事方、第三方或amicus brief提交人等多种身份渗透联邦最高法院诉讼程序。相关案件涵盖名人肖像权保护、商标权争议、版权合理使用等核心知识产权议题，展现最高法院如何在流行文化语境下处理现代人格权与知识产权的边界问题。",
-      "whyMattersCN": "本文揭示名人文化与高层司法之间复杂的互动关系，具有重要的法律社会学研究价值。在美国，amicus brief制度为名人和利益团体提供了直接影响最高法院决策的制度通道；实证研究显示，知名机构签署的amicus brief可能提升案件获得certiorari的概率。比较而言，中国《民事诉讼法》第56条第三人制度在公众关注案件中的适用尚不成熟，高知名度当事方能否及如何影响裁判结果缺乏系统研究。【选题思路】可研究名人参与最高法院程序的实证规律，分析哪类案件更易吸引名人amicus brief以及对cert grant决策的统计影响，与中国法院处理公众关注案件的制度机制形成比较研究。",
-      "tags": [
-        {
-          "name": "知识产权",
-          "class": "tech"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "民事诉讼",
-          "class": "procedural"
-        },
-        {
-          "name": "法律社会学",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 7
+      "quality_score": 9,
+      "source": "SCOTUSblog"
     },
     {
       "title": "Court seems sympathetic to death-row inmate's attempt to challenge racial discrimination in jury selection",
@@ -329,78 +95,6 @@
       "quality_score": 9
     },
     {
-      "title": "The Supreme Court of India",
-      "titleCN": "印度最高法院",
-      "url": "https://www.scotusblog.com/2026/04/the-supreme-court-of-india/",
-      "date": "2026-04-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog刊发对印度最高法院的专题介绍，系统梳理其制度架构、管辖权设计及近年重大判决。印度最高法院兼具终审上诉法院与宪法解释机关的双重职能，并享有独特的原始管辖权（original jurisdiction），可直接受理公益诉讼（PIL）。相较美国联邦最高法院，印度最高法院法官人数更多（34名），案件积压问题长期严峻。近年来，该院在LGBTQ+权利、宗教自由与隐私权等领域的判决引发广泛争议，呈现出司法能动主义与司法克制之间的持续张力。法院与行政机关在司法任命问题上的博弈尤为引人注目。",
-      "whyMattersCN": "本文的比较宪法价值在于呈现了与美国、中国均不同的第三条道路——一个后殖民民主国家的司法权力演化路径。印度最高法院通过PIL制度将普通公民与宪法救济直接相连，这一机制在遏制行政权力方面效果显著，但也引发了司法造法的正当性争议。这与中国行政诉讼制度的困境形成鲜明对照：《行政诉讼法》第25条严格限定原告资格，公益诉讼主要由检察院提起，公民个人直接提起宪法性诉讼的渠道几乎封闭。【选题思路】可围绕公益诉讼制度的比较研究立题，以印度PIL、美国集体诉讼与中国检察公益诉讼为三个比较维度，分析不同司法文化与制度结构下公民参与宪法实施的路径差异，对中国检察公益诉讼扩权改革具有参照价值。",
-      "tags": [
-        {
-          "name": "比较宪法",
-          "class": "comparative"
-        },
-        {
-          "name": "比较法",
-          "class": "comparative"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Who is driving the conversation at the Supreme Court?",
-      "titleCN": "谁在主导最高法院的对话？",
-      "url": "https://www.scotusblog.com/2026/04/who-is-driving-the-conversation-at-the-supreme-court/",
-      "date": "2026-04-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog采用实证方法，系统分析当前届期美国联邦最高法院口头辩论中各大法官的发言频率与质量，探究谁真正在主导庭审对话。研究基于对本庭期全部口头辩论记录的量化编码，统计各大法官提问次数、提问时长及提问时机。初步数据显示，首席大法官罗伯茨与大法官卡瓦诺、杰克逊在庭辩中最为活跃，而大法官托马斯的提问则相对集中于特定议题领域。争议在于：庭辩中的话语主导权是否能有效预测最终判决的多数意见走向，以及沉默的大法官是否已在书面审查阶段完成了关键的说服工作。",
-      "whyMattersCN": "这项研究代表了司法行为实证研究的前沿方法——将话语分析引入最高法院研究，突破了以往仅依赖判决书文本与投票记录的局限。从制度设计视角看，口头辩论的实质功能争议已久：若庭辩主要服务于大法官之间的相互说服而非与律师的实质交流，则需重新评估辩护制度的结构性作用。【选题思路】对中国法学研究者而言，此类实证方法具有直接移植价值：最高人民法院近年推行法官会议制度，可借鉴本研究框架，对公开的庭审直播记录进行话语频率编码，分析审判长、合议庭成员与书记员的话语权力分布，探究中国最高司法机关内部的非正式权力结构。《人民法院组织法》第39条的合议庭制度在实践中的运作规律，是一个被严重低估的实证研究领域。",
-      "tags": [
-        {
-          "name": "实证法学",
-          "class": "empirical"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "法律理论",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Supreme Court issues statement that Justice Alito was hospitalized approximately two weeks ago",
-      "titleCN": "最高法院就阿利托大法官住院发表声明",
-      "url": "https://www.scotusblog.com/2026/04/supreme-court-issues-statement-that-justice-alito-was-hospitalized/",
-      "date": "2026-04-04",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国联邦最高法院正式发表声明，确认大法官塞缪尔·阿利托约两周前曾住院治疗，目前已返回工作岗位。此次声明打破了最高法院对大法官健康状况一贯保持沉默的惯例，引发外界对阿利托能否参与本庭期剩余案件审理的关注。争议焦点在于：大法官健康信息的透明度义务与司法独立性之间的张力，以及若阿利托须回避某些案件，4-4平局将对保守-自由派投票格局产生的结构性影响。本庭期阿利托参与了多宗重大案件，包括出生公民权、移民驱逐等政治敏感议题，其健康状况直接牵动判决走向。",
-      "whyMattersCN": "此事件对美国联邦司法制度具有深远影响。首先，终身制大法官的健康不透明性在民主问责层面存在制度性缺陷——不同于总统有《25修正案》处理无行为能力情形，大法官缺乏类似机制，导致\"影子投票\"风险长期存在。其次，若本庭期出现4-4平局，相关下级法院判决将被自动确认，这对正处于司法审查关键节点的行政移民政策具有实质性后果。【选题思路】对法学研究者而言，此事件揭示了比较宪制研究中\"司法机构信息披露义务\"这一被忽视的议题：中国法官法及《法官行为准则》对法官健康、回避义务有制度性规定，但最高人民法院层面的透明度机制同样付之阙如；可聚焦\"司法健康透明度\"与\"裁判可信度\"的实证关联，形成中美比较研究。",
-      "tags": [
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "What oral argument told us in the birthright citizenship case",
       "titleCN": "出生公民权案口头辩论深度解读",
       "url": "https://www.scotusblog.com/2026/04/what-oral-argument-told-us-in-the-birthright-citizenship-case/",
@@ -427,170 +121,6 @@
         }
       ],
       "quality_score": 9
-    },
-    {
-      "title": "The inscrutable Chief Justice John Roberts",
-      "titleCN": "难以捉摸的首席大法官约翰·罗伯茨",
-      "url": "https://www.scotusblog.com/2026/04/the-inscrutable-chief-justice-john-roberts/",
-      "date": "2026-04-04",
-      "source": "SCOTUSblog",
-      "summaryCN": "SCOTUSblog对首席大法官约翰·罗伯茨司法风格进行深度剖析。文章指出，罗伯茨在保守派占据超级多数的当下法院扮演关键的\"调适者\"角色：他既保护最高法院的制度声誉，又推进保守派法律议程，但会刻意控制变革的幅度与节奏。争议焦点在于：罗伯茨的\"狭窄判决\"策略是真正的司法克制主义，还是一种延迟但不减损保守主义目标的战略选择。文章梳理了其在堕胎权、投票权、行政法等重大议题上的投票模式，揭示出其\"保守结果-渐进路径\"的一贯逻辑。",
-      "whyMattersCN": "本文触及比较司法政治学的核心命题：最高法院大法官是法律技艺人还是政策制定者？罗伯茨的案例为\"战略性司法行为\"（strategic judicial behavior）理论提供了最新实证素材。从比较法院研究视角，罗伯茨对\"最高法院机构信誉\"的高度关注，与中国最高人民法院发布指导性案例、司法解释时所展现的\"稳健主义\"导向形成有趣的跨制度对照——两者都面临在政策诉求与法律确定性之间取得平衡的压力，但制度约束与问责机制截然不同。【选题思路】可将罗伯茨的\"最小化判决\"（minimalist jurisprudence）策略与中国最高人民法院近年\"案例指导制度\"的渐进扩展进行比较，探讨顶层司法机构如何在变革压力下维护法律体系稳定性，为司法能动主义与克制主义的规范研究开辟新视角。",
-      "tags": [
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Iran war splits older and younger conservatives",
-      "titleCN": "伊朗战争在美国保守派阵营内引发代际分裂",
-      "url": "https://www.bbc.com/news/articles/cjd8e4px12ro",
-      "date": "2026-03-28",
-      "source": "BBC World",
-      "summaryCN": "在保守派政治行动大会(CPAC)上，伊朗冲突成为主导议题，年长保守派倾向支持军事行动，年轻保守派则主张外交解决。这一代际分裂反映了后伊拉克战争时代美国右翼在干涉主义与孤立主义之间的深层张力，可能重塑2026年中期选举的外交政策辩论格局。",
-      "whyMattersCN": "本事件揭示了美国《战争权力法》实施中的政治极化问题：总统军事行动的国会授权机制正被党派内部分歧进一步弱化。对中国比较法研究而言，美国保守派内部的'鹰派vs孤立主义'分裂，为理解民主制度中战争决策的制度性约束提供了鲜活案例。同时，中东冲突升级对全球能源法律秩序的冲击——特别是霍尔木兹海峡通行自由的国际法基础——值得持续关注。",
-      "tags": [
-        {
-          "name": "战争权力",
-          "class": "international"
-        },
-        {
-          "name": "国际法",
-          "class": "international"
-        },
-        {
-          "name": "行政权",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "titleCN": "全球关注转向伊朗，加沙和平前景更加不确定",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo",
-      "date": "2026-03-28",
-      "source": "BBC World",
-      "summaryCN": "随着国际社会注意力转向美伊冲突，加沙停火谈判陷入僵局。联合国人道主义协调办公室数据显示，加沙地区人道危机持续恶化，而国际调解资源被分流至伊朗问题。这一'议题竞争'现象对国际人道法的执行效力构成系统性挑战。",
-      "whyMattersCN": "本事件凸显了国际法中'选择性执法'的结构性困境：当多个危机并存时，大国博弈决定了国际人道法的优先适用顺序。对中国而言，这为理解联合国安理会决议执行机制的局限性提供了实证案例，也为中国推动'人类命运共同体'理念下的多边冲突解决机制提供了现实背景。在比较法层面，可关注战争法中'区分原则'和'比例原则'在多战场并存情境下的适用标准。",
-      "tags": [
-        {
-          "name": "国际法",
-          "class": "international"
-        },
-        {
-          "name": "战争权力",
-          "class": "international"
-        },
-        {
-          "name": "国际人权法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Announcement of opinions for Tuesday, March 31",
-      "titleCN": "美国最高法院将于3月31日发布判决意见",
-      "url": "https://www.scotusblog.com/2026/03/announcement-of-opinions-for-tuesday-march-31/",
-      "date": "2026-03-27",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国联邦最高法院将于3月31日（周二）发布本庭期一项或多项案件的判决意见。本庭期待决案件涵盖移民法、行政权力边界、第二修正案等重大宪法议题，市场高度关注其对联邦行政法体系和三权分立格局的潜在影响。",
-      "whyMattersCN": "本庭期判决涉及多个关键领域：移民行政裁量权的司法审查标准、联邦仲裁法对零工经济工人的适用范围、以及出生公民权的宪法解释。对中国比较法研究而言，这些判决将为理解美国宪政运作中'司法能动主义'与'司法克制'的动态平衡提供最新素材，尤其在行政权扩张背景下，最高法院如何划定三权边界具有重要参照价值。",
-      "tags": [
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 7
-    },
-    {
-      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
-      "titleCN": "Pentagon restrictions on press violate First Amendment, judge rules",
-      "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-23",
-      "source": "BBC World",
-      "summaryCN": "美国联邦法官裁定国防部对媒体采访五角大楼的限制措施违反宪法第一修正案。本案源于美联社记者因报道争议内容被限制进入国防部设施，法院认定该限制构成'观点歧视'。判决确立'军事设施访问权'属于受保护的言论自由范畴，适用严格审查标准。这是自1972年Branzburg案以来，联邦法院对新闻自由与国家安全平衡的重要司法续造，为'嵌入式报道'制度提供了宪法基准。",
-      "summaryEN": "",
-      "whyMattersCN": "制度层面，本案重塑了美国'国家安全例外'的司法边界，法院拒绝采纳国防部主张的'军事自主权'抗辩，将第一修正案的保护范围从'出版自由'扩展至'信息获取权'，可能触发《信息自由法》修订及军方媒体政策的系统性重构。比较法视角下，中国《政府信息公开条例》第14条同样涉及'三安全一稳定'例外，但缺乏独立的司法审查机制；本案的'严格审查+举证责任倒置'模式可为完善我国重大行政决策程序中的公众参与权提供参照。商业维度，国防承包商（如Lockheed Martin、Palantir）的ESG披露将面临更高透明度要求，跨国科技企业需重新评估与军方合作项目的媒体策略；投资者应关注'国防+媒体'交叉领域的诉讼风险敞口，建议将'新闻自由指数'纳入军工板块估值模型。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "言论自由",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "policyTimeline": {
-        "shortTerm": "国防部修订媒体接触规则，设立独立申诉机制",
-        "mediumTerm": "国会启动《国防授权法》新闻自由条款修订",
-        "longTerm": "形成'军事-媒体'关系判例群，影响北约盟国立法"
-      },
-      "actionItems": {
-        "scholar": "比较研究'信息获取权'的宪法化路径与司法审查强度",
-        "policymaker": "建立重大决策公众参与的'比例原则+程序保障'双轨制",
-        "entrepreneur": "将媒体关系合规纳入政府合同风险管理框架"
-      }
-    },
-    {
-      "title": "US lifts sanctions on some Iranian oil as energy prices soar",
-      "titleCN": "US lifts sanctions on some Iranian oil as energy prices soar",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-23",
-      "source": "BBC Business",
-      "summaryCN": "面对全球能源价格飙升，拜登政府通过《伊朗制裁法》豁免机制，有限度解除对伊朗石油出口的二级制裁，允许部分国家继续进口伊朗原油。此举涉及《国际紧急经济权力法》(IEEPA)的行政裁量权行使，标志着制裁政策从\"极限施压\"向\"弹性务实\"转型。据IEA数据，伊朗原油日出口量或增50-80万桶，短期可平抑布伦特油价约5-8美元/桶，但豁免条款附带的\"人道主义通道\"限制与核谈判挂钩的 sunset clause 设计，凸显制裁法作为地缘政治工具的复合功能。",
-      "summaryEN": "",
-      "whyMattersCN": "【制度变迁逻辑】此次政策调整揭示美国制裁体系从\"规则刚性\"向\"目标弹性\"的深层转型：IEEPA授权下的制裁豁免权正成为行政分支对冲国内通胀压力的政策工具，削弱国会《2017年制裁法案》的立法约束效力，形成\"制裁—豁免—再制裁\"的周期性制度疲劳，长远将侵蚀美元制裁网络的公信力。【比较法价值】对中国而言，美国次级制裁的\"长臂管辖\"与豁免机制的\"选择性放松\"形成对照，为完善《反外国制裁法》的阻断条款与不可靠实体清单制度提供镜鉴——如何在维护主权反制能力与保持能源贸易灵活性之间建立动态平衡机制。【行动启示】跨国能源贸易商需重构制裁合规框架：建立\"制裁地图+豁免追踪\"双轨监测系统，评估伊朗石油重新进入全球供应链对迪拜/阿曼原油升贴水的价格发现机制冲击；主权财富基金应关注美伊核谈判进展对制裁豁免可持续性的期权定价影响。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "经济制裁",
-          "class": "international"
-        },
-        {
-          "name": "能源法",
-          "class": "special"
-        },
-        {
-          "name": "国际法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "伊朗原油出口增量入市，油价波动率下降，合规成本重构",
-        "mediumTerm": "核谈判僵局或致豁免到期，制裁风险溢价重新定价",
-        "longTerm": "制裁工具信用损耗，多极结算体系加速替代美元"
-      },
-      "actionItems": {
-        "scholar": "研究制裁豁免的行政裁量边界与司法审查缺位问题",
-        "policymaker": "构建反制裁法中的\"人道主义例外\"对等豁免机制",
-        "entrepreneur": "部署AI驱动的实时制裁名单筛查与豁免条款追踪系统"
-      }
     },
     {
       "title": "Unanimous court allows street preacher’s free speech case to move forward",
@@ -665,42 +195,6 @@
       }
     },
     {
-      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
-      "titleCN": "[BBC World] US lifts sanctions on some Iranian oil as gas prices soar",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-21",
-      "source": "BBC World",
-      "summaryCN": "拜登政府因国内汽油价格高企，悄然放宽对伊朗石油出口的制裁执行力度，允许部分受制裁原油流入全球市场。此举体现美国制裁政策与能源安全、通胀管控之间的制度性张力。据估计，伊朗原油出口量已从2020年的日均10万桶增至2023年的日均100万桶以上，增幅主要来自\"影子船队\"及第三方中转。该政策转向揭示了单边制裁的弹性边界——当国内政治经济压力超越外交战略目标时，制裁执行强度成为可谈判变量，为研究\"制裁疲劳\"与能源地缘政治交叉领域提供了鲜活案例。",
-      "summaryEN": "",
-      "whyMattersCN": "【制度变迁逻辑】此事件暴露美国制裁体系的内在张力：IEEPA授权下的经济制裁本应服务于国家安全目标，却在选举周期与通胀压力下被工具化调整。这印证了制裁研究中的\"执行差距\"理论——法律文本的刚性vs行政裁量的弹性，形成所谓\"制裁套利空间\"。对国际制度而言，此举削弱美元清算体系的公信力，加速去美元化进程。\n【中国比较法价值】中国《反外国制裁法》第12条的阻断条款与不可靠实体清单制度，可借鉴美国制裁执行的\"动态调整\"机制，建立更具弹性的反制工具箱。同时，中国企业需关注美国次级制裁的\"选择性执法\"风险——政策松动期恰是合规窗口期，但需预判2024大选后的政策回调。\n【Actionable Insights】跨国能源贸易商应建立\"制裁情景分析\"模型，量化评估OFAC执法强度指数；投资者需重新定价伊朗原油重返市场的概率权重；政策制定者应研究制裁豁免的\"临时性-永久性\"转化机制，设计更具可预测性的能源安全储备制度。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "经济制裁",
-          "class": "international"
-        },
-        {
-          "name": "能源法",
-          "class": "special"
-        },
-        {
-          "name": "国际法",
-          "class": "international"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "伊朗原油出口增量50-80万桶/日，布伦特油价回落5-8%",
-        "mediumTerm": "伊核谈判重启窗口期，制裁豁免或制度化",
-        "longTerm": "美国制裁工具信用损耗，多边制裁协调机制重构"
-      },
-      "actionItems": {
-        "scholar": "构建制裁执行强度的量化评估模型与预测指数",
-        "policymaker": "设计反制裁工具的弹性触发与退出机制",
-        "entrepreneur": "建立制裁合规的动态情景分析与压力测试体系"
-      }
-    },
-    {
       "title": "Justices to consider rules pardoning omissions by bankrupt debtors",
       "titleCN": "[SCOTUSblog] Justices to consider rules pardoning omissions by bankrupt d",
       "url": "https://www.scotusblog.com/2026/03/justices-to-consider-rules-pardoning-omissions-by-bankrupt-debtors/",
@@ -770,42 +264,6 @@
         "scholar": "比较法视野下行政裁量权的程序控制与国家安全例外研究",
         "policymaker": "借鉴美国经验完善我国签证拒签说明理由与复议程序制度",
         "entrepreneur": "跨国企业应建立签证合规预警系统并预留宪法诉讼预算"
-      }
-    },
-    {
-      "title": "Trump administration says it is not considering oil export ban as prices surge",
-      "titleCN": "[Financial Times] Trump administration says it is not considering oil export b",
-      "url": "https://www.ft.com/content/126efbff-251b-4a0f-8031-29864385d7fe",
-      "date": "2026-03-20",
-      "source": "Financial Times",
-      "summaryCN": "特朗普政府正式否认考虑实施原油出口禁令，以应对油价上涨压力。此举涉及《能源政策与保护法》第103条授权边界、总统紧急权力与WTO《关税与贸易总协定》第XI条数量限制禁令的冲突。2015年美国废除40年原油出口禁令后，出口量从50万桶/日激增至400万桶/日，占全球贸易量15%。当前政策立场反映共和党能源自由化理念与通胀政治压力的平衡，亦为2025年《能源独立与安全法》修订谈判奠定基调。",
-      "summaryEN": "",
-      "whyMattersCN": "【制度深层影响】此决定巩固美国从\"能源进口国\"向\"弹性供应者\"的身份转型，重塑全球石油定价权结构——布伦特-西德州价差收窄机制得以延续，削弱OPEC+产量决策的边际影响力。行政分支主动自我限制紧急权力，形成可预期的监管承诺，降低国际买家对美国供应的政治风险溢价。【中国比较法价值】中国《石油储备条例》第28条授权国务院在\"供应中断\"时实施进出口管制，但缺乏程序性约束与期限限制。美国商务部BIS出口许可制度的透明度规则（15 CFR 754）、司法审查通道（如2022年Citgo诉商务部案确立的正当程序标准），可为我国《出口管制法》第12条\"管控清单\"动态调整机制提供程序法治参照。【跨国行动启示】能源贸易商应关注2025年Q2战略石油储备（SPR）补库招标节奏；主权财富基金需重新评估北美中游管道资产的政治风险权重；中资企业投资美国二叠纪盆地时，应在SPA中嵌入\"监管变化\"不可抗力条款，明确出口限制是否触发MAC（重大不利变化）条款。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "能源法",
-          "class": "special"
-        },
-        {
-          "name": "国际法",
-          "class": "international"
-        },
-        {
-          "name": "行政权",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 9,
-      "policyTimeline": {
-        "shortTerm": "SPR释放与沙特增产谈判并行，WTI波动区间收窄至70-80美元",
-        "mediumTerm": "2025财年NDAA能源安全条款纳入关键矿产出口审查联动机制",
-        "longTerm": "美欧能源贸易协定(TTIP能源章节)谈判重启，碳边境税与LNG挂钩"
-      },
-      "actionItems": {
-        "scholar": "构建\"紧急权力自我约束\"的比较行政法分析框架，对比美欧日中制度",
-        "policymaker": "在《能源法》修订中引入出口管制\"日落条款\"与独立专家审查程序",
-        "entrepreneur": "锁定2025-2027年墨西哥湾LNG长协，对冲欧盟碳边境税成本"
       }
     },
     {
@@ -921,58 +379,6 @@
       }
     },
     {
-      "title": "The Supreme Court of Canada",
-      "titleCN": "The Supreme Court of Canada",
-      "url": "https://www.scotusblog.com/2026/03/the-supreme-court-of-canada/",
-      "date": "2026-03-18",
-      "source": "SCOTUSblog",
-      "summaryCN": "加拿大最高法院近期就宪法第35条原住民权利作出重要裁决。在R. v. Desautel案中，法院以6:3多数裁定，美国境内的原住民跨境进入加拿大狩猎仍受宪法第35条保护，只要其能证明祖先在加拿大境内有传统领土。争议焦点在于'原住民'定义是否仅限于加拿大公民，以及第35条权利是否具有跨境效力。多数意见采纳'民族连续性'标准，强调权利与土地的历史联系而非现代国界；少数意见则主张严格领土管辖，警告跨境适用将削弱国家主权。本案涉及《1867年宪法法》第91(24)条'印第安人及印第安保留地'联邦管辖权条款，以及1982年《宪法法》第35条原住民权利条款的解释。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国/国际法律制度的影响：本案确立的'民族连续性'标准可能重塑北美跨境原住民权利框架，影响美加墨三国间类似条约谈判。美国最高法院在McGirt v. Oklahoma案后正重新审视部落主权边界，加拿大判决提供了比较参照。国际层面，本案涉及《联合国土著人民权利宣言》第36条跨境联系权与国内法衔接问题。对中国的比较法价值：中国面临跨境民族权利保护难题，如中缅边境景颇族、中哈边境哈萨克族的传统资源利用权。加拿大'民族连续性'标准与'属地主义'的权衡，可为《民族区域自治法》修订及跨境民族权益保障提供方法论参考。中国学者长期关注原住民权利的比较研究，但多聚焦澳新北美，对跨境维度关注不足。【选题思路】'跨境民族传统资源利用权的宪法保护——以加拿大R. v. Desautel案与中国边境民族地区实践为比较'，或'从领土主权到民族连续性：原住民权利解释方法的范式转型及其对中国的启示'。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "比较法",
-          "class": "comparative"
-        },
-        {
-          "name": "比较宪法",
-          "class": "comparative"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "The biggest names on the briefs",
-      "titleCN": "The biggest names on the briefs",
-      "url": "https://www.scotusblog.com/2026/03/the-biggest-names-on-the-briefs/",
-      "date": "2026-03-18",
-      "source": "SCOTUSblog",
-      "summaryCN": "本文报道了2024-2025年度美国最高法院审理案件中，各大律师事务所和律师代理情况的统计排名。Amicus Law Group以代理13起案件位居榜首，Williams & Connolly和Goldstein & Russell分别以12起和11起紧随其后。文章特别分析了'法庭之友'（amicus curiae）制度在本年度的活跃程度，涉及堕胎权、枪支管制、行政权力等核心议题。在United States Agency for International Development v. Alliance for Open Society International, Inc.案中，共有76份法庭之友意见书提交；在FDA v. Alliance for Hippocratic Medicine案中，堕胎药物监管争议吸引了68份意见书。文章还提及大法官们在口头辩论中频繁引用法庭之友观点的现象，以及Kavanaugh大法官对'过度诉讼'（litigation overload）现象的批评。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国法律制度而言，本文揭示了联邦最高法院案件代理市场的集中化趋势与法庭之友制度的工具化风险。顶级律所的垄断性参与可能加剧司法资源分配的不平等，而法庭之友意见书的爆炸式增长（部分案件超过70份）正在改变传统对抗制诉讼的结构，引发关于'信息过载'是否稀释司法质量的制度性反思。Kavanaugh大法官的批评更触及美国公益诉讼与制度性诉讼（institutional reform litigation）的正当性边界。对中国的比较法价值在于：第一，中国最高人民法院近年来推行的'专家论证'与'典型案例'制度与美国法庭之友功能相似，可比较两者在知识输入与民主参与方面的制度效能；第二，中国行政诉讼中检察机关与行政机关的诉讼地位问题，可借鉴美国'诉讼过载'讨论反思'官告官'模式的程序负荷；第三，中国司法改革中的'类案检索'机制面临与美国相似的信息筛选难题。【选题思路】美国最高法院'法庭之友'制度的信息过载危机与中国类案检索制度的算法治理——基于司法认知负荷理论的比较研究",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法独立",
-          "class": "constitutional"
-        },
-        {
-          "name": "法律职业伦理",
-          "class": "practice"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "The remaining questions after the Supreme Court’s tariffs ruling",
       "titleCN": "The remaining questions after the Supreme Court’s tariffs ruling",
       "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
@@ -1029,32 +435,6 @@
       "quality_score": 9
     },
     {
-      "title": "'143 degrees': Man immersed toddler in bathtub of hot water and caused her to suffer horrific burns and scars for life",
-      "titleCN": "143华氏度热水虐童案：德州男子被判终身监禁",
-      "url": "https://lawandcrime.com/crime/143-degrees-man-immersed-toddler-in-bathtub-of-hot-water-and-caused-her-to-suffer-horrific-burns-and-scars-for-life/",
-      "date": "2026-03-15",
-      "source": "Law & Crime",
-      "summaryCN": "德州男子Miguel Santiago Gonzalez将20个月大幼儿浸入143华氏度（约62°C）热水中致其全身超过一半面积严重烧伤，被判处终身监禁。被告辩称只是短暂离开浴室，幼儿自己打开了热水龙头。但专家证据揭示烧伤模式符合\"浸入虐待\"特征：烧伤集中在下半身且边界清晰，上半身和躯干未被烫伤，没有挣扎溅水的不规则痕迹。调查人员指出，以幼儿的年龄，不可能在极端疼痛中保持安静或不尝试爬出浴缸。热水温度测试证实最高达143华氏度。受害女童将终身承受疤痕和多次手术的痛苦，被告需服刑30年后方可申请假释。",
-      "summaryEN": "",
-      "whyMattersCN": "儿童虐待案件的量刑政策在中美两国均受关注。美国德州对此类犯罪的最高刑罚为终身监禁，反映了对儿童保护的严厉立场。本案展示了专家证据（烧伤模式分析）在事实认定中的关键作用——通过科学分析揭穿被告虚假陈述，为类似案件的事实认定提供方法论参考。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        },
-        {
-          "name": "刑事程序",
-          "class": "criminal"
-        },
-        {
-          "name": "量刑",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
       "title": "Florida Bar reverses itself, says it is not investigating Lindsey Halligan",
       "titleCN": "佛州律协调查反转：前联邦检察官Halligan案引发程序公信力争议",
       "url": "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/",
@@ -1105,104 +485,6 @@
         }
       ],
       "quality_score": 9
-    },
-    {
-      "title": "AI danger gets real",
-      "titleCN": "AI danger gets real",
-      "url": "https://www.economist.com/leaders/2026/03/05/ai-danger-gets-real",
-      "date": "2026-03-12",
-      "source": "The Economist Leaders",
-      "summaryCN": "《经济学人》社论指出AI风险已从理论转向现实：深度伪造干扰选举、自主武器系统失控、通用人工智能(AGI)生存威胁三重风险叠加。美国监管碎片化与欧盟《AI法案》形成制度竞争，企业合规成本陡增，全球AI治理秩序面临重构。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国而言，2024年大选年深度伪造泛滥将测试《虚假信息治理》行政令实效，联邦与州立法冲突可能催生'布鲁塞尔效应'反向输出；对中国而言，欧盟风险分级监管框架（禁止性/高风险/有限风险/最小风险）为《生成式AI服务管理暂行办法》的迭代提供比较法样本，同时中企出海面临双重合规——既需满足中国算法备案，又须适配欧盟CE标识及美国州法拼图，合规架构设计成为核心竞争力。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "AI治理",
-          "class": "tech"
-        },
-        {
-          "name": "规制理论",
-          "class": "administrative"
-        },
-        {
-          "name": "信息法",
-          "class": "tech"
-        }
-      ],
-      "quality_score": 7,
-      "policyTimeline": {
-        "shortTerm": "美国大选前深度伪造应急立法，欧盟AI法案合规窗口期启动",
-        "mediumTerm": "G7广岛AI进程硬化为具约束力多边机制，中国出台AI安全评估国家标准",
-        "longTerm": "AGI国际治理框架成型，类似IAEA的AI监管机构建立，算力出口管制多边化"
-      },
-      "actionItems": {
-        "scholar": "开展'算法影响评估'比较法研究，构建中美欧监管成本效益分析模型",
-        "policymaker": "建立'监管沙盒'跨境互认机制，避免中企遭遇'合规叠加'困境",
-        "entrepreneur": "前置部署'可解释AI'技术栈，将伦理设计嵌入产品底层架构"
-      }
-    },
-    {
-      "title": "Donald Trump must stop soon",
-      "titleCN": "Donald Trump must stop soon",
-      "url": "https://www.economist.com/leaders/2026/03/05/donald-trump-must-stop-soon",
-      "date": "2026-03-12",
-      "source": "The Economist Leaders",
-      "summaryCN": "《经济学人》社论指出特朗普若2024年胜选将构成宪政危机，因其承诺系统性破坏法治、滥用行政权力打压异己，并拒绝接受选举结果。文章呼吁美国制度在选前有效遏制其反宪政倾向，核心争议在于总统权力边界与民主制度的自我纠错能力。",
-      "summaryEN": "",
-      "whyMattersCN": "1) 美国层面：测试三权分立与联邦制的韧性，若宪政规范被政治极化解构，将削弱全球民主治理的示范效应；2) 国际与中国参考：揭示民选强人政治对法治的侵蚀路径，为中国企业出海提供政治风险评估框架——需关注东道国行政权力扩张对合同执行、产权保护及争端解决机制的冲击，同时反思威权与民粹双重压力下法律制度的稳定性设计。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法",
-          "class": "constitutional"
-        },
-        {
-          "name": "权力分立",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 7,
-      "policyTimeline": {
-        "shortTerm": "2024大选前司法系统加速审理特朗普刑事案件",
-        "mediumTerm": "新政府任期首年爆发行政-司法宪政冲突",
-        "longTerm": "美国宪政惯例成文化改革或制度性崩溃"
-      },
-      "actionItems": {
-        "scholar": "比较研究行政权扩张的司法审查阈值与宪政韧性指标",
-        "policymaker": "设计政治中立性条款与紧急状态权力的 sunset clause",
-        "entrepreneur": "构建多法域资产布局与政治风险保险组合"
-      }
-    },
-    {
-      "title": "A week of war in charts: the impact on the US",
-      "titleCN": "A week of war in charts: the impact on the US",
-      "url": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
-      "date": "2026-03-09",
-      "source": "Financial Times",
-      "summaryCN": "本文以图表形式分析某周战争对美国的影响，核心法律争议涉及《战争权力法》(War Powers Resolution of 1973)的宪法边界问题。该法要求总统在派兵海外48小时内通知国会，并在60天内获得授权，但历届总统均以\"军事行动\"非\"战争\"为由规避。当前冲突中，拜登政府援引《2001年反恐授权法》(AUMF)作为法律依据，引发国会两党对行政权扩张的质疑。图表数据显示军费开支、难民安置及制裁措施的经济成本，其中制裁涉及《国际紧急经济权力法》(IEEPA)的适用争议，以及SWIFT剔除银行是否违反《第三国制裁法案》中比例原则的宪法审查问题。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国法律制度的影响：第一，触发\"单一行政权理论\"(Unitary Executive Theory)与国会战争权的经典张力，可能催生新的《战争权力法》修订案；第二，IEEPA的广泛适用面临非授权原则(non-delegation doctrine)的司法挑战，第五巡回法院已有相关判例；第三，制裁措施的域外效力引发与欧盟《阻断法案》的冲突，考验国际礼让原则。对中国的比较法价值：中国《反外国制裁法》与IEEPA在阻断立法、反制措施设计上存在制度竞争关系，但中国在行政程序正当性、司法审查强度方面缺乏成熟机制。【选题思路】\"行政战争权的宪法控制：美国《战争权力法》的司法回避与中国《国防法》的规范完善——以'军事行动'概念的法律解释为切入\"，可比较两国对'战争'定义的法律技术差异，分析中国如何在保持行政效率的同时构建程序约束机制。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "战争权力",
-          "class": "international"
-        },
-        {
-          "name": "经济制裁",
-          "class": "international"
-        },
-        {
-          "name": "行政权",
-          "class": "administrative"
-        }
-      ],
-      "quality_score": 8
     },
     {
       "title": "Birthright citizenship: the exceptions provide the rule",
@@ -1256,32 +538,6 @@
         {
           "name": "宪法",
           "class": "constitutional"
-        }
-      ],
-      "quality_score": 8
-    },
-    {
-      "title": "Is the nightmare scenario for global energy here?",
-      "titleCN": "Is the nightmare scenario for global energy here?",
-      "url": "https://www.ft.com/content/5a74c0f8-1cf2-4a6b-9339-a098fcbeb100",
-      "date": "2026-03-08",
-      "source": "Financial Times",
-      "summaryCN": "本文报道特朗普政府于2025年4月15日宣布对伊朗石油买家实施'次级制裁'（secondary sanctions），要求中国、印度等国在5月12日前停止购买伊朗原油，否则将面临美元结算系统（SWIFT）切断等金融惩罚。此举援引《2012年国防授权法》第1245条及《伊朗制裁法案》第104条，但法律争议在于：美国能否依据国内法对非美国实体实施域外管辖？欧盟已启动《阻断法案》（Blocking Statute）反制，中国外交部则援引《反外国制裁法》第12条予以回应。案件核心涉及国际法中的'长臂管辖'（long-arm jurisdiction）与'反制立法'的冲突。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国/国际法律制度的影响：本案凸显美国单边制裁体系的'过度扩张'危机。特朗普政府首次将伊朗石油制裁与'232条款'国家安全调查挂钩，试图绕过《联合国宪章》第41条的多边授权框架，实质构成对国际能源贸易法的'制度性破坏'。欧盟《阻断法案》第5条明确禁止欧洲企业遵守美国次级制裁，形成'法律冲突僵局'，可能触发《世界贸易组织争端解决谅解》第23条的合规性审查。\n\n对中国的比较法价值：中国2021年《反外国制裁法》与欧盟《阻断法案》形成'阻断立法'的两大范式，但二者在适用范围（第12条'反制清单'vs欧盟第2271/96号条例附件）、救济机制（中国'禁令+赔偿'vs欧盟'损害赔偿诉讼'）及域外效力设计上存在显著差异。中国尚未建立针对次级制裁的'阻断令'（blocking order）司法审查程序，企业合规困境缺乏制度出口。\n\n【选题思路】次级制裁的域外效力边界与中国阻断立法的司法激活机制研究——以《反外国制裁法》第12条与欧盟《阻断法案》的比较为视角",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "经济制裁",
-          "class": "international"
-        },
-        {
-          "name": "能源法",
-          "class": "special"
-        },
-        {
-          "name": "域外管辖权",
-          "class": "international"
         }
       ],
       "quality_score": 8
@@ -1378,32 +634,6 @@
         {
           "name": "移民法",
           "class": "immigration"
-        }
-      ],
-      "quality_score": 9
-    },
-    {
-      "title": "The SCOTUS attorney switcheroo",
-      "titleCN": "The SCOTUS attorney switcheroo",
-      "url": "https://www.scotusblog.com/2026/03/the-scotus-attorney-switcheroo/",
-      "date": "2026-03-05",
-      "source": "SCOTUSblog",
-      "summaryCN": "美国联邦最高法院允许诉讼当事人在案件审理中途更换政府律师，引发关于律师连续性、政府立场一致性与司法效率的争议。核心问题在于行政分支内部人员变动是否应影响已提交最高法院的诉讼立场，以及政府律师作为'法庭之友'的伦理义务如何界定。",
-      "summaryEN": "",
-      "whyMattersCN": "对美国制度而言，此事关涉三权分立中行政权与司法权的互动边界，以及政府律师作为'法庭之友'的伦理义务。对中国具有比较法价值：我国行政诉讼中行政机关负责人出庭应诉制度、以及政府法律顾问/公职律师制度，可借鉴美国经验思考——当政府换届或人事调整时，如何保障诉讼立场的连贯性与诚信，避免'新官不理旧账'影响司法权威与相对人信赖利益。\n\n【选题思路】可研究'政府诉讼立场的连续性义务'，比较中美行政诉讼中政府立场反复的法律后果，特别是《行政诉讼法》中行政机关应诉规范与美国Solicitor General制度的功能比较。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律职业伦理",
-          "class": "practice"
-        },
-        {
-          "name": "最高法院",
-          "class": "constitutional"
         }
       ],
       "quality_score": 9
@@ -1541,31 +771,6 @@
         }
       ],
       "quality_score": 8
-    },
-    {
-      "title": "Court rejects ICE contractor's right to immediate appeal",
-      "titleCN": "最高法院驳回ICE承包商即时上诉请求",
-      "url": "https://www.scotusblog.com/2026/02/court-rejects-ice-contractors-right-to-immediate-appeal/",
-      "date": "2026-02-26",
-      "source": "SCOTUSblog",
-      "summaryCN": "最高法院驳回移民与海关执法局(ICE)外包承包商的即时上诉权请求。承包商主张其作为政府职能的私人执行者，应享有与联邦机构同等的法律地位和程序性特权。法院拒绝了这一'政府职能延伸'的论证逻辑，明确私人承包商不自动继承政府的诉讼特权。",
-      "summaryEN": "The Supreme Court rules that private prison contractor GEO Group cannot immediately appeal a judgment regarding conditions at its detention facility.",
-      "whyMattersCN": "本案界定了政府职能外包中私人主体的法律地位边界，在公共服务私营化全球趋势下具有标志性意义。\n\n【选题思路】可研究'政府职能外包中的法律身份传导'，比较中美两国政府购买服务中私人主体的法律地位。中国PPP项目、政府购买公共服务中，社会资本方能否援引政府特权（如行政优先权、执行豁免）是一个日益突出的实践问题，本案的拒绝传导逻辑提供了重要的比较法参照。",
-      "whyMattersEN": "This case involves the legal boundaries of private prison oversight and human rights protections in immigration detention.",
-      "tags": [
-        {
-          "name": "移民法",
-          "class": "immigration"
-        },
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        }
-      ]
     }
   ],
   "research": [
@@ -1614,48 +819,26 @@
       "journal": "Harvard Law Review"
     },
     {
-      "title": "A First Amendment Right to Know",
-      "titleCN": "A First Amendment Right to Know",
-      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-first-amendment-right-to-know",
-      "date": "2026-05-26",
-      "summaryCN": "本文主张美国宪法第一修正案应包含知情权。作者提出，获取信息的自由是言论自由的重要前提，尤其是在政府透明度不足的情况下，公众获取信息的权利应得到宪法的明确保护，以促进民主监督与公共参与。",
+      "title": "Some Realism About Constitutional Remedies",
+      "titleCN": "Some Realism About Constitutional Remedies",
+      "url": "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies/",
+      "date": "2026-06-10",
+      "summaryCN": "本文探讨美国最高法院在行政权与宪法救济问题上的两种进路：制度形式主义与现实主义。形式主义倾向于以刻板的权力分立框架来裁决行政权争议，而现实主义则注重考量权力的实际运作及制度互动。论文试图引入现实主义视角重新审视宪法救济机制，主张在解决行政权越界等问题时，应打破传统形式主义教条，基于制度现实与实际后果来设计或适用救济措施。该研究揭示了最高法院相关判例立场的摇摆不定，并呼吁在宪法救济领域采取更具实效性与现实契合度的裁判路径。",
       "summaryEN": "",
-      "whyMattersCN": "该文拓展了传统言论自由的理论边界，为知情权的宪法化提供了教义学支撑。在比较法层面，其与美国信息公开制度的互动探讨，为研究其他国家如何平衡国家秘密与公众知情权提供了重要参照，具有极高的宪法学与比较法学研究价值。",
+      "whyMattersCN": "该论文的重要价值在于解构了美国最高法院处理行政权争议时形式主义与现实主义的对立，为宪法救济机制的设计提供了新的理论视角。在方法论上，它超越了单纯的规范分析，引入对权力实际运作的制度现实主义考量，对研究违宪审查后的救济措施如何平衡权力结构与权利保护具有启发意义。对于比较法研究而言，文章对美国行政权扩张与司法制约的探讨，能为中国行政诉讼中撤销重作、确认违法等判决方式的适用，以及司法权与行政权边界的动态调适提供深度的理论参照，有助于反思公法救济的实效性。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "第一修正案",
+          "name": "宪法救济",
           "class": "constitutional"
         },
         {
-          "name": "知情权",
+          "name": "行政权",
           "class": "constitutional"
         }
       ],
       "quality_score": 8,
-      "journal": "Cornell Law Review"
-    },
-    {
-      "title": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
-      "titleCN": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
-      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3",
-      "date": "2026-05-26",
-      "summaryCN": "本文探讨在水污染治理中，针对《清洁水法》刑事责任追究的固有缺陷，提出创新法律路径：以伤害罪起诉水污染者。作者剖析传统环境规制威慑力不足，主张将污染行为纳入传统刑法体系，以弥补环境立法漏洞并强化对公共健康威胁的刑事惩戒。",
-      "summaryEN": "",
-      "whyMattersCN": "该研究突破传统环境法单一规制框架，探索环境犯罪与传统人身犯罪的交叉适用，具有显著的比较法与法学研究价值。它为弥补专门环境立法在刑事责任设定上的威慑不足提供了创新视角，对我国完善生态环境损害赔偿制度及探讨环境公益诉讼与刑事制裁衔接机制具有重要借鉴意义。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "清洁水法",
-          "class": "criminal"
-        },
-        {
-          "name": "环境刑法",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 8,
-      "journal": "J Criminal Law & Criminology"
+      "journal": "Harvard Law Review"
     },
     {
       "title": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
@@ -1678,31 +861,6 @@
       ],
       "quality_score": 8,
       "journal": "Penn Law Review"
-    },
-    {
-      "title": "Foreword",
-      "titleCN": "《刑法与犯罪学杂志》第116卷第1期编者按",
-      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/6",
-      "date": "2026-04-12",
-      "source": "J Criminal Law & Criminology",
-      "journal": "J Criminal Law & Criminology",
-      "summaryCN": "《刑法与犯罪学杂志》第116卷第1期前言概述本期学术主题与核心关切，聚焦当代刑事司法改革的紧迫议题：金融罚款执行机制的阶层不平等效应、陪审团选任程序中的宗教歧视问题、以及刑事程序正当性重构。编者梳理各篇文章的理论脉络，强调实证研究方法在推动刑事司法系统性改革中的关键作用，呼吁学界直面结构性不平等对程序公正的侵蚀。",
-      "whyMattersCN": "本期JCLC的主题选择折射出美国刑事法学当前最受关注的议程：系统性不平等、程序公正与实证研究的方法论转向。这三个维度均与中国刑事法学研究具有高度对话潜力。比较而言，中国近年来的刑事司法改革同样面临类似张力：认罪认罚从宽制度改革中如何保障实质性辩护权与程序公正是核心议题，量刑规范化改革亦隐含对结构性不平等的回应逻辑。【论证借鉴】JCLC将前沿实证研究与制度批判相结合的办刊立场，为中国犯罪学和刑事诉讼法学研究者提供了重要的方法论参照：推动以数据驱动的政策评估替代纯粹的规范分析，构建更具实证基础的刑事法学话语体系。",
-      "tags": [
-        {
-          "name": "刑事司法",
-          "class": "criminal"
-        },
-        {
-          "name": "犯罪学",
-          "class": "criminal"
-        },
-        {
-          "name": "实证法学",
-          "class": "empirical"
-        }
-      ],
-      "quality_score": 6
     },
     {
       "title": "Paying Financial Sanctions via Incarceration: A Case Study of Sitting Out",
@@ -2581,37 +1739,6 @@
       "quality_score": 8
     },
     {
-      "title": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
-      "titleCN": "Duke Law Journal Hosts Its 54th Annual Administrative Law Symposium: On Democracy in the Administrative State",
-      "url": "https://dlj.law.duke.edu/2024/03/duke-law-journal-hosts-its-54th-annual-administrative-law-symposium-on-democracy-in-the-administrative-state/",
-      "date": "2026-03-15",
-      "journal": "Duke Law Journal",
-      "summaryCN": "本文记录了杜克大学法学院第54届行政法年度研讨会，主题为\"行政国家中的民主\"。研讨会采用对话式研讨方法，邀请联邦上诉法院法官、前政府高官及顶尖学者，围绕三个核心议题展开辩论：行政国家与民主的关系、行政程序法（APA）的民主功能、以及司法审查与民主治理的互动。核心论点呈现多元张力：一派认为行政国家通过专业知识与程序参与补强代议民主的不足；另一派则担忧官僚自主性侵蚀民主问责。研究方法体现为制度分析与规范理论的结合，通过案例研讨（如FDA烟草监管、FCC网络中立规则）检验理论命题，最终形成对\"行政民主\"概念的多维理解——既非纯粹的代议制延伸，也非技术官僚的替代，而是需要程序设计与司法审查双重校准的混合型治理模式。",
-      "summaryEN": "",
-      "whyMattersCN": "本文的论证方法对中国行政法学研究具有显著的方法论启示价值。【论证借鉴1】议题设置技术：研讨会以\"民主\"作为元概念统摄具体制度争议，将分散的APA解释、司法审查强度、规制正当性等问题整合于同一分析框架。中国研究者可借鉴此\"概念锚定\"策略，例如以\"法治政府\"或\"数字治理中的程序正义\"为核心议题，组织跨部门法的对话式研讨，避免部门法研究的碎片化。【论证借鉴2】制度比较与经验嵌入的论证结构：每位发言者均结合具体行政决策场景（如规则制定中的公众评论、科学证据的司法审查标准）展开规范论证，形成\"经验事实—制度功能—价值评价\"的三层分析。中国研究者可移植此框架，在讨论行政复议改革或重大决策程序时，嵌入对特定领域（如环境标准制定、数据算法治理）的实证观察，增强规范命题的可检验性。【论证借鉴3】对抗性共识建构方法：研讨会刻意安排立场相左的学者与法官对话，通过记录分歧点而非强行调和，呈现学术共识的形成过程。中国法学研究可借鉴此\"结构化争鸣\"设计，在研讨会或论文写作中明确标识理论分歧的节点（如司法谦抑与能动之辩），以分歧映射制度选择的代价，而非追求虚假的共识。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "行政法",
-          "class": "administrative"
-        },
-        {
-          "name": "法律理论",
-          "class": "theory"
-        },
-        {
-          "name": "规制理论",
-          "class": "administrative"
-        },
-        {
-          "name": "司法审查",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "source": "Duke Law Journal"
-    },
-    {
       "title": "COVID-19 and Indian Country: A Legal Dispatch from the Navajo Nation",
       "titleCN": "COVID-19 and Indian Country: A Legal Dispatch from the Navajo Nation",
       "url": "https://northwesternlawreview.org/uncategorized/covid-19-and-indian-country-a-legal-dispatch-from-the-navajo-nation/",
@@ -2790,33 +1917,6 @@
       "source": "Harvard Law Review"
     },
     {
-      "title": "BETTING ON THE FUTURE: DISCUSSING PATHS FORWARD FOR MINNESOTA TO LEGALIZE SPORTS BETTING",
-      "titleCN": "BETTING ON THE FUTURE: DISCUSSING PATHS FORWARD FOR MINNESOTA TO LEGALIZE SPORTS BETTING",
-      "url": "https://minnesotalawreview.org/2024/01/12/betting-on-the-future-discussing-paths-forward-for-minnesota-to-legalize-sports-betting/",
-      "date": "2026-03-14",
-      "journal": "Minnesota Law Review",
-      "summaryCN": "本文以明尼苏达州体育博彩合法化为研究对象，采用比较州法分析与实证预测相结合的方法，系统评估了三种立法路径：赌场主导模式、彩票主导模式及混合模式。作者运用公共选择理论分析利益集团博弈，通过成本-收益框架量化税收潜力与社会成本，并借助邻近州（爱荷华、伊利诺伊）的自然实验数据进行政策效果模拟。核心发现表明，混合模式最能平衡监管效率与公共收入最大化，但需配套问题赌博防治基金与部落赌场协议修订条款。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的论证结构对中国法学研究具有显著方法论参考价值。其一，【论证借鉴】采用\"邻近司法管辖区自然实验\"作为准实证方法——作者并未等待本州政策实施，而是利用已合法化州的实际运营数据（税收收入、赌博成瘾率、非法市场萎缩程度）构建预测模型，这种\"空间换时间\"的研究设计可移植至中国区域试点政策评估（如海南自贸港、横琴粤澳深度合作区的特殊制度试验效果预测）。其二，【论证借鉴】利益集团博弈的可视化分析——论文以表格形式列明赌场运营商、部落博彩、职业体育联盟、反赌博团体等六方主体的立场强度与政治资源，并绘制政策变迁的\"否决点\"流程图，此分析框架可直接应用于中国数据要素确权、平台反垄断等涉及多元利益冲突的立法研究。其三，【论证借鉴】\"日落条款+触发机制\"的制度设计技术——作者为各立法路径设计了以税收达标率、问题赌博发生率等指标为条件的自动评估条款，这种将实体规范与程序性再评估机制捆绑的立法技术，可借鉴用于中国新兴领域（如人工智能、基因编辑）的适应性规制研究，解决法律滞后性与技术快速迭代之间的矛盾。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "规制理论",
-          "class": "administrative"
-        },
-        {
-          "name": "实证法学",
-          "class": "empirical"
-        },
-        {
-          "name": "联邦主义",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "source": "Harvard Law Review"
-    },
-    {
       "title": "Land-Grant Universities",
       "titleCN": "Land-Grant Universities",
       "url": "https://wustllawreview.org/2026/01/19/land-grant-universities/",
@@ -2879,37 +1979,6 @@
       "source": "Harvard Law Review"
     },
     {
-      "title": "Online Symposium – Carla D. Pratt’s Indianness as Property",
-      "titleCN": "Online Symposium – Carla D. Pratt’s Indianness as Property",
-      "url": "https://www.bu.edu/bulawreview/2025/03/31/online-symposium-carla-d-pratts-indianness-as-property/",
-      "date": "2026-03-14",
-      "journal": "Boston U Law Review",
-      "summaryCN": "该论文集围绕Carla D. Pratt的《Indianness as Property》一书展开学术研讨，核心论点是将\"印第安身份\"(Indianness)视为一种财产权(property)进行分析。Pratt提出印第安身份具有财产属性——可被占有、转让、排斥他人使用，并受知识产权法保护。研究方法采用批判种族理论与财产法理论交叉分析，结合历史文献梳理与当代案例研究，探讨印第安身份如何在法律体系中被商品化与挪用。主要发现包括：印第安身份作为财产加剧了原住民的文化异化；现行知识产权法未能充分保护部落文化；需要建立集体性的文化财产权制度。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文集的论证逻辑呈现典型的\"理论建构—批判回应—制度重构\"三阶结构，具有显著的方法论示范价值。【论证借鉴1：隐喻理论的法律化操作】Pratt将Wynter的\"Indianness\"概念转化为法学分析范畴\"财产\"，这种跨学科概念移植可通过\"核心特征提取—法律要件匹配—制度漏洞识别\"三步实现。中国研究者可借鉴此方法，将\"中华民族共同体意识\"\"非物质文化遗产\"等政治/文化概念转化为具体的权利客体分析，例如探讨民族服饰元素的商品化是否构成新型财产权。【论证借鉴2： Symposium式批判建构】该论文集采用\"主论+多视角回应\"结构，四位学者分别从知识产权法、信托法、批判理论、原住民主权角度展开对话，最终形成制度建议。中国法学研究可设计类似的多学科工作坊，例如围绕\"数据权属\"议题，组织民法、宪法、竞争法、技术专家进行结构化辩论，以突破单一学科视角局限。【论证借鉴3：历史制度主义的微观运用】Pratt通过追溯1886年至1978年印第安身份认证政策的演变，揭示法律分类如何塑造社会身份。中国研究者可采用\"关键节点—路径依赖—制度层叠\"框架分析户籍制度、民族识别政策的历史变迁，特别关注政策文本与社会实践之间的张力空间。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律理论",
-          "class": "theory"
-        },
-        {
-          "name": "平等保护",
-          "class": "constitutional"
-        },
-        {
-          "name": "知识产权",
-          "class": "tech"
-        },
-        {
-          "name": "法律史",
-          "class": "theory"
-        }
-      ],
-      "quality_score": 8,
-      "source": "Harvard Law Review"
-    },
-    {
       "title": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
       "titleCN": "Caseload Transparency: A New Approach to the Ethics of Excessive Caseloads",
       "url": "https://www.uclalawreview.org/caseload-transparency-a-new-approach-to-the-ethics-of-excessive-caseloads/",
@@ -2939,32 +2008,10 @@
       ],
       "quality_score": 8,
       "source": "Harvard Law Review"
-    },
-    {
-      "title": "DLJ &#038; Duke Center for Firearms Law Present &#8211; Bruen: History, Ethics, and the Future of Second Amendment Jurisprudence",
-      "titleCN": "DLJ &#038; Duke Center for Firearms Law Present &#8211; Bruen: History, Ethics, and the Future of Second Amendment Jurisprudence",
-      "url": "https://dlj.law.duke.edu/2024/03/dlj-duke-center-for-firearms-law-present-bruen-history-ethics-and-the-future-of-second-amendment-jurisprudence/",
-      "date": "2024-03-26",
-      "summaryCN": "本文探讨了布鲁恩案对第二修正案法学的影响，从历史和伦理双重视角剖析其法理基础。研究回顾了历史传统在枪支管控司法审查中的核心地位，并展望了该裁决对未来美国枪支权利与监管立法的深远塑造作用。",
-      "summaryEN": "",
-      "whyMattersCN": "该文具有显著的比较法与法学研究价值。布鲁恩案确立了历史文本主义的审查标准，标志着宪法解释方法的重大转向。深入剖析此案有助于学者反思判例法中历史叙事的运用逻辑，并为各国处理宪法基本权利与社会公共安全之间的张力提供了重要的比较法素材与法理启示。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "第二修正案",
-          "class": "constitutional"
-        },
-        {
-          "name": "宪法解释",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "journal": "Duke Law Journal"
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-05T04:38:40.249Z",
+    "updatedAt": "2026-07-05T15:49:19.555Z",
     "generator": "ai"
   }
 }

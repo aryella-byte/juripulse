@@ -11,7 +11,6 @@ import {
 
 const CHAPTER_COLOR = '#9c4221'
 const AXIS_COLOR = '#8a8a8a'
-const GRID_COLOR = 'rgba(0,0,0,0.04)'
 const NAVY = '#1a365d'
 const GREEN = '#047857'
 
@@ -24,6 +23,7 @@ function VennDiagramVisualization() {
   const svgRef = useRef<SVGSVGElement>(null)
   const { containerRef, dimensions } = useResponsiveSVG(600, 380)
   const [operation, setOperation] = useState<SetOp>('intersection')
+  const [draggingCircle, setDraggingCircle] = useState<'A' | 'B' | null>(null)
   const [posA, setPosA] = useState({ x: 210, y: 190 })
   const [posB, setPosB] = useState({ x: 340, y: 190 })
   const dragging = useRef<'A' | 'B' | null>(null)
@@ -31,6 +31,7 @@ function VennDiagramVisualization() {
 
   const handlePointerDown = useCallback((circle: 'A' | 'B') => {
     dragging.current = circle
+    setDraggingCircle(circle)
   }, [])
 
   const handlePointerMove = useCallback((e: React.PointerEvent) => {
@@ -46,7 +47,10 @@ function VennDiagramVisualization() {
     else setPosB(pos)
   }, [dimensions])
 
-  const handlePointerUp = useCallback(() => { dragging.current = null }, [])
+  const handlePointerUp = useCallback(() => {
+    dragging.current = null
+    setDraggingCircle(null)
+  }, [])
 
   // Compute overlap area
   const dist = Math.sqrt((posA.x - posB.x) ** 2 + (posA.y - posB.y) ** 2)
@@ -66,23 +70,23 @@ function VennDiagramVisualization() {
   const pA = +(areaCircle / totalArea).toFixed(4)
   const pB = +(areaCircle / totalArea).toFixed(4)
   const pIntersection = +(overlapArea / totalArea).toFixed(4)
-  const pUnion = +(2 * areaCircle - overlapArea).toFixed(4) / totalArea
+  const pUnion = +((2 * areaCircle - overlapArea) / totalArea).toFixed(4)
 
   const ops: { key: SetOp; label: string }[] = [
-    { key: 'intersection', label: 'A \u2229 B' },
-    { key: 'union', label: 'A \u222A B' },
+    { key: 'intersection', label: 'A ∩ B' },
+    { key: 'union', label: 'A ∪ B' },
     { key: 'complementA', label: "A'" },
     { key: 'difference', label: 'A - B' },
   ]
 
-  const getClipPath = (op: SetOp) => {
-    switch (op) {
-      case 'intersection': return 'intersection'
-      case 'union': return 'union'
-      case 'complementA': return 'complementA'
-      case 'difference': return 'difference'
-    }
-  }
+  const selectedProbability = {
+    intersection: pIntersection,
+    union: pUnion,
+    complementA: +(1 - pA).toFixed(4),
+    difference: +(pA - pIntersection).toFixed(4),
+  }[operation]
+
+  const operationLabel = ops.find(o => o.key === operation)?.label
 
   return (
     <div ref={containerRef}>
@@ -99,12 +103,12 @@ function VennDiagramVisualization() {
         ))}
       </div>
 
-      <div className="grid grid-cols-4 gap-3 mb-4">
+      <div className="grid grid-cols-2 gap-3 mb-4 sm:grid-cols-4">
         {[
           { label: 'P(A)', value: pA.toFixed(3) },
           { label: 'P(B)', value: pB.toFixed(3) },
-          { label: 'P(A\u2229B)', value: pIntersection.toFixed(3) },
-          { label: 'P(A\u222AB)', value: pUnion.toFixed(3) },
+          { label: 'P(A∩B)', value: pIntersection.toFixed(3) },
+          { label: 'P(A∪B)', value: pUnion.toFixed(3) },
         ].map((s, i) => (
           <div key={i} className="p-3 rounded-lg text-center" style={{ background: 'var(--bg-secondary)' }}>
             <div className="text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>{s.value}</div>
@@ -112,50 +116,61 @@ function VennDiagramVisualization() {
           </div>
         ))}
       </div>
+      <div className="mb-4 rounded-lg px-4 py-3 text-center text-sm" style={{ background: `${CHAPTER_COLOR}10`, color: 'var(--text-secondary)', border: `1px solid ${CHAPTER_COLOR}22` }}>
+        当前高亮：<strong style={{ color: CHAPTER_COLOR }}>{operationLabel}</strong>
+        <span className="mx-2">=</span>
+        <span className="font-mono font-semibold" style={{ color: 'var(--text-primary)' }}>{selectedProbability.toFixed(3)}</span>
+      </div>
 
       <div className="rounded-xl p-4" style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border)' }}>
         <svg ref={svgRef}
           viewBox={`0 0 ${dimensions.width} ${dimensions.height}`}
-          style={{ width: '100%', height: 'auto', cursor: dragging.current ? 'grabbing' : 'default', touchAction: 'none' }}
+          style={{ width: '100%', height: 'auto', cursor: draggingCircle ? 'grabbing' : 'default', touchAction: 'none' }}
           onPointerMove={handlePointerMove}
           onPointerUp={handlePointerUp}
           onPointerLeave={handlePointerUp}>
           <defs>
-            <clipPath id="clipA"><circle cx={posA.x} cy={posA.y} r={R} /></clipPath>
-            <clipPath id="clipB"><circle cx={posB.x} cy={posB.y} r={R} /></clipPath>
+            <mask id="venn-mask-a" maskUnits="userSpaceOnUse">
+              <rect width={dimensions.width} height={dimensions.height} fill="black" />
+              <circle cx={posA.x} cy={posA.y} r={R} fill="white" />
+            </mask>
+            <mask id="venn-mask-intersection" maskUnits="userSpaceOnUse">
+              <rect width={dimensions.width} height={dimensions.height} fill="black" />
+              <circle cx={posB.x} cy={posB.y} r={R} fill="white" mask="url(#venn-mask-a)" />
+            </mask>
+            <mask id="venn-mask-union" maskUnits="userSpaceOnUse">
+              <rect width={dimensions.width} height={dimensions.height} fill="black" />
+              <circle cx={posA.x} cy={posA.y} r={R} fill="white" />
+              <circle cx={posB.x} cy={posB.y} r={R} fill="white" />
+            </mask>
+            <mask id="venn-mask-complement-a" maskUnits="userSpaceOnUse">
+              <rect width={dimensions.width} height={dimensions.height} fill="white" />
+              <circle cx={posA.x} cy={posA.y} r={R} fill="black" />
+            </mask>
+            <mask id="venn-mask-difference" maskUnits="userSpaceOnUse">
+              <rect width={dimensions.width} height={dimensions.height} fill="black" />
+              <circle cx={posA.x} cy={posA.y} r={R} fill="white" />
+              <circle cx={posB.x} cy={posB.y} r={R} fill="black" />
+            </mask>
           </defs>
 
           {/* Universal set background */}
           <rect width={dimensions.width} height={dimensions.height} fill="transparent" />
 
           {/* Highlight based on operation */}
-          {operation === 'intersection' && (
-            <circle cx={posB.x} cy={posB.y} r={R} fill={CHAPTER_COLOR} opacity={0.35} clipPath="url(#clipA)" />
-          )}
-          {operation === 'union' && (
-            <>
-              <circle cx={posA.x} cy={posA.y} r={R} fill={CHAPTER_COLOR} opacity={0.25} />
-              <circle cx={posB.x} cy={posB.y} r={R} fill={CHAPTER_COLOR} opacity={0.25} />
-            </>
-          )}
-          {operation === 'complementA' && (
-            <>
-              <rect width={dimensions.width} height={dimensions.height} fill={CHAPTER_COLOR} opacity={0.15} />
-              <circle cx={posA.x} cy={posA.y} r={R} fill="var(--bg-secondary)" />
-            </>
-          )}
-          {operation === 'difference' && (
-            <>
-              <circle cx={posA.x} cy={posA.y} r={R} fill={CHAPTER_COLOR} opacity={0.3} />
-              <circle cx={posB.x} cy={posB.y} r={R} fill="var(--bg-secondary)" clipPath="url(#clipA)" />
-            </>
-          )}
+          <rect
+            width={dimensions.width}
+            height={dimensions.height}
+            fill={CHAPTER_COLOR}
+            opacity={operation === 'complementA' ? 0.14 : 0.28}
+            mask={`url(#venn-mask-${operation === 'complementA' ? 'complement-a' : operation})`}
+          />
 
           {/* Circle outlines */}
-          <circle cx={posA.x} cy={posA.y} r={R} fill="none" stroke={NAVY} strokeWidth={2.5}
-            style={{ cursor: 'grab' }} onPointerDown={() => handlePointerDown('A')} />
-          <circle cx={posB.x} cy={posB.y} r={R} fill="none" stroke={GREEN} strokeWidth={2.5}
-            style={{ cursor: 'grab' }} onPointerDown={() => handlePointerDown('B')} />
+          <circle cx={posA.x} cy={posA.y} r={R} fill={`${NAVY}08`} stroke={NAVY} strokeWidth={2.5}
+            style={{ cursor: draggingCircle === 'A' ? 'grabbing' : 'grab' }} onPointerDown={() => handlePointerDown('A')} />
+          <circle cx={posB.x} cy={posB.y} r={R} fill={`${GREEN}08`} stroke={GREEN} strokeWidth={2.5}
+            style={{ cursor: draggingCircle === 'B' ? 'grabbing' : 'grab' }} onPointerDown={() => handlePointerDown('B')} />
 
           {/* Labels */}
           <text x={posA.x - R * 0.5} y={posA.y - R - 10} textAnchor="middle" fill={NAVY} fontSize={14} fontWeight={600}>A</text>
@@ -192,7 +207,7 @@ function ConditionalProbTree() {
     if (!svgRef.current) return
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
-    const { width, height } = dimensions
+    const { height } = dimensions
     const g = svg.append('g')
 
     const rootX = 60, rootY = height / 2
@@ -210,10 +225,10 @@ function ConditionalProbTree() {
     ]
 
     const outcomes: { x: number; y: number; label: string; prob: number; key: string }[] = [
-      { x: endX, y: endYs[0], label: 'A \u2229 B', prob: pAB, key: 'AB' },
-      { x: endX, y: endYs[1], label: "A' \u2229 B", prob: pB * pNotA_givenB, key: 'notAB' },
-      { x: endX, y: endYs[2], label: "A \u2229 B'", prob: pANotB, key: 'AnotB' },
-      { x: endX, y: endYs[3], label: "A' \u2229 B'", prob: pNotB * pNotA_givenNotB, key: 'notAnotB' },
+      { x: endX, y: endYs[0], label: 'A ∩ B', prob: pAB, key: 'AB' },
+      { x: endX, y: endYs[1], label: "A' ∩ B", prob: pB * pNotA_givenB, key: 'notAB' },
+      { x: endX, y: endYs[2], label: "A ∩ B'", prob: pANotB, key: 'AnotB' },
+      { x: endX, y: endYs[3], label: "A' ∩ B'", prob: pNotB * pNotA_givenNotB, key: 'notAnotB' },
     ]
 
     const isHighlighted = (path: string) => {
@@ -271,7 +286,7 @@ function ConditionalProbTree() {
         .style('pointer-events', 'none')
     })
 
-  }, [pB, pA_givenB, pA_givenNotB, highlight, dimensions])
+  }, [pB, pA_givenB, pA_givenNotB, pNotB, pNotA_givenB, pNotA_givenNotB, pAB, pANotB, highlight, dimensions])
 
   const sliders = [
     { label: 'P(B)', value: pB, set: setPB, min: 0.05, max: 0.95, step: 0.01 },
@@ -352,7 +367,7 @@ function MultiplicationRuleDemo() {
     if (!svgRef.current) return
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
-    const { width, height } = dimensions
+    const { height } = dimensions
 
     // Draw urn
     const urnX = 80, urnY = height / 2, urnW = 100, urnH = 140
@@ -492,8 +507,8 @@ function MultiplicationRuleDemo() {
       </div>
       <p className="mt-3 text-[12px] text-center" style={{ color: 'var(--text-tertiary)' }}>
         {mode === 'without'
-          ? 'P(A\u2229B) = P(A) \u00D7 P(B|A) -- 不放回时，后续概率随前次结果变化'
-          : 'P(A\u2229B) = P(A) \u00D7 P(B) -- 放回时，事件相互独立'}
+          ? 'P(A∩B) = P(A) × P(B|A) -- 不放回时，后续概率随前次结果变化'
+          : 'P(A∩B) = P(A) × P(B) -- 放回时，事件相互独立'}
       </p>
     </div>
   )
@@ -513,7 +528,6 @@ function DrugTestCase() {
 
   const pPositive = sens * prev + (1 - spec) * (1 - prev)
   const ppv = pPositive > 0 ? (sens * prev) / pPositive : 0
-  const npv = (1 - prev) > 0 ? (spec * (1 - prev)) / (spec * (1 - prev) + (1 - sens) * prev) : 0
 
   // For 1000 people illustration
   const pop = 10000
@@ -534,7 +548,7 @@ function DrugTestCase() {
       <p className="leading-relaxed mb-6" style={{ color: 'var(--text-secondary)' }}>
         某公司对所有员工进行毒品检测。检测的灵敏度（真阳性率）和特异度（真阴性率）都很高。
         如果一名员工检测呈阳性，他/她实际吸毒的概率是多少？
-        直觉上，99%准确率的检测应该意味着阳性结果几乎可以确认吸毒——但事实并非如此。
+        直觉上，灵敏度和特异度都接近 99% 的检测似乎可以几乎确认吸毒——但事实并非如此。
       </p>
 
       <div className="space-y-5 mb-8">
@@ -584,11 +598,11 @@ function DrugTestCase() {
 
       <div className="p-4 rounded-xl flex items-start gap-3" style={{ background: `${CHAPTER_COLOR}10`, border: `1px solid ${CHAPTER_COLOR}30` }}>
         <div>
-          <strong style={{ color: 'var(--text-primary)' }}>核心洞察：P(吸毒|阳性) \u2260 P(阳性|吸毒)</strong>
+          <strong style={{ color: 'var(--text-primary)' }}>核心洞察：P(吸毒|阳性) ≠ P(阳性|吸毒)</strong>
           <p className="mt-1" style={{ color: 'var(--text-secondary)' }}>
-            即使检测准确率高达 {sensitivity.toFixed(1)}%，当吸毒率仅为 {prevalence.toFixed(1)}% 时，
+            即使检测灵敏度高达 {sensitivity.toFixed(1)}%，当吸毒率仅为 {prevalence.toFixed(1)}% 时，
             阳性结果中真正吸毒者只占 {(ppv * 100).toFixed(1)}%。
-            在低患病率群体中，大量假阳性会淹没真阳性。这就是为什么不能直接用检测准确率来判定个案。
+            在低基率群体中，大量假阳性会淹没真阳性。这就是为什么不能直接用灵敏度或特异度来判定个案。
           </p>
         </div>
       </div>
@@ -654,7 +668,7 @@ export default function Chapter2Page() {
             <>
               <p className="mb-3">本章从<strong>Venn图</strong>出发，直观理解集合运算如何对应概率计算。</p>
               <p className="mb-3">接着通过<strong>条件概率树</strong>和<strong>抽球实验</strong>，掌握乘法规则和贝叶斯定理。</p>
-              <p>最后通过一个<strong>毒品检测案例</strong>，揭示高准确率检测为何仍会产生大量假阳性。</p>
+              <p>最后通过一个<strong>毒品检测案例</strong>，揭示高灵敏度、高特异度检测为何仍会产生大量假阳性。</p>
             </>
           }
         />
@@ -676,9 +690,9 @@ export default function Chapter2Page() {
           </p>
         </ScrollReveal>
 
-        <FormulaBox title="加法规则 (Addition Rule)" latex="P(A \u222A B) = P(A) + P(B) - P(A \u2229 B)"
+        <FormulaBox title="加法规则 (Addition Rule)" latex="P(A ∪ B) = P(A) + P(B) - P(A ∩ B)"
           explanation={
-            <p>两个事件并集的概率等于各自概率之和减去交集概率，避免重复计算。当 A、B 互斥时，P(A \u2229 B) = 0。</p>
+            <p>两个事件并集的概率等于各自概率之和减去交集概率，避免重复计算。当 A、B 互斥时，P(A ∩ B) = 0。</p>
           }
         />
 
@@ -690,8 +704,8 @@ export default function Chapter2Page() {
           <div className="space-y-3">
             <p className="font-medium">实验任务：</p>
             <ol className="list-decimal list-inside space-y-2 pl-2">
-              <li>将两个圆完全重叠，观察 P(A \u2229 B) 和 P(A \u222A B) 的值</li>
-              <li>将两个圆完全分开，验证 P(A \u222A B) = P(A) + P(B)</li>
+              <li>将两个圆完全重叠，观察 P(A ∩ B) 和 P(A ∪ B) 的值</li>
+              <li>将两个圆完全分开，验证 P(A ∪ B) = P(A) + P(B)</li>
               <li>切换到 A - B 模式，理解差集的含义</li>
             </ol>
           </div>
@@ -706,13 +720,13 @@ export default function Chapter2Page() {
           </p>
         </ScrollReveal>
 
-        <FormulaBox title="条件概率 (Conditional Probability)" latex="P(A|B) = P(A \u2229 B) / P(B)"
+        <FormulaBox title="条件概率 (Conditional Probability)" latex="P(A|B) = P(A ∩ B) / P(B)"
           explanation={
             <p>在B已经发生的前提下，A发生的概率等于A和B同时发生的概率除以B发生的概率。注意：P(A|B) 通常不等于 P(B|A)。</p>
           }
         />
 
-        <FormulaBox title="贝叶斯定理 (Bayes' Theorem)" latex="P(A|B) = P(B|A) \u00D7 P(A) / P(B)"
+        <FormulaBox title="贝叶斯定理 (Bayes' Theorem)" latex="P(A|B) = P(B|A) × P(A) / P(B)"
           explanation={
             <ul className="space-y-2">
               <li><span className="font-semibold" style={{ color: CHAPTER_COLOR }}>P(A)：</span>先验概率，在看到证据B之前对A的信念</li>
@@ -743,11 +757,11 @@ export default function Chapter2Page() {
           </p>
         </ScrollReveal>
 
-        <FormulaBox title="乘法规则 (Multiplication Rule)" latex="P(A \u2229 B) = P(A) \u00D7 P(B|A)"
+        <FormulaBox title="乘法规则 (Multiplication Rule)" latex="P(A ∩ B) = P(A) × P(B|A)"
           explanation={
             <ul className="space-y-2">
-              <li><span className="font-semibold" style={{ color: CHAPTER_COLOR }}>一般情况：</span>P(A \u2229 B) = P(A) \u00D7 P(B|A)</li>
-              <li><span className="font-semibold" style={{ color: CHAPTER_COLOR }}>独立事件：</span>若 A、B 独立，则 P(B|A) = P(B)，因此 P(A \u2229 B) = P(A) \u00D7 P(B)</li>
+              <li><span className="font-semibold" style={{ color: CHAPTER_COLOR }}>一般情况：</span>P(A ∩ B) = P(A) × P(B|A)</li>
+              <li><span className="font-semibold" style={{ color: CHAPTER_COLOR }}>独立事件：</span>若 A、B 独立，则 P(B|A) = P(B)，因此 P(A ∩ B) = P(A) × P(B)</li>
             </ul>
           }
         />
@@ -779,19 +793,19 @@ export default function Chapter2Page() {
           <div className="space-y-3">
             <p className="font-medium">法律思考：</p>
             <p>
-              如果你是法官，收到一份"准确率99%"的毒品检测阳性报告，
-              你会如何指导陪审团理解这份证据？你认为是否需要额外的证据来支持指控？
+              如果你是法官，收到一份"灵敏度和特异度均为99%"的毒品检测阳性报告，
+              你会如何指导陪审团区分灵敏度、特异度与阳性预测值？你认为是否需要额外的证据来支持指控？
             </p>
           </div>
         </Checkpoint>
 
         <SectionOutro
           keyPoints={[
-            '加法规则：P(A \u222A B) = P(A) + P(B) - P(A \u2229 B)，处理"或"的概率',
-            '条件概率：P(A|B) = P(A \u2229 B) / P(B)，已知B发生时A的概率',
+            '加法规则：P(A ∪ B) = P(A) + P(B) - P(A ∩ B)，处理"或"的概率',
+            '条件概率：P(A|B) = P(A ∩ B) / P(B)，已知B发生时A的概率',
             '贝叶斯定理：P(A|B) = P(B|A)P(A)/P(B)，从似然性推导后验概率',
-            '乘法规则：P(A \u2229 B) = P(A) \u00D7 P(B|A)，独立时简化为 P(A) \u00D7 P(B)',
-            '检察官谬误：混淆 P(证据|无辜) 与 P(无辜|证据)，低基率下高准确率检测仍会产生大量假阳性'
+            '乘法规则：P(A ∩ B) = P(A) × P(B|A)，独立时简化为 P(A) × P(B)',
+            '检察官谬误：混淆 P(证据|无辜) 与 P(无辜|证据)，低基率下高灵敏度检测仍可能产生大量假阳性'
           ]}
           question="某城市吸毒率为2%，检测灵敏度95%，特异度95%。一人检测阳性，求其实际吸毒的概率。"
           hint="P(吸毒|阳性) = (0.95 x 0.02) / (0.95 x 0.02 + 0.05 x 0.98) = 0.019 / 0.068 = 27.9%，远低于95%！"
