@@ -207,7 +207,7 @@ function ConditionalProbTree() {
     if (!svgRef.current) return
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
-    const { height } = dimensions
+    const { width, height } = dimensions
     const g = svg.append('g')
 
     const rootX = 60, rootY = height / 2
