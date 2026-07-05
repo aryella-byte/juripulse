@@ -37,7 +37,7 @@ export default function BriefPage() {
   const [selectedSource, setSelectedSource] = useState('')
 
   useEffect(() => {
-    fetch(`/juripulse/data/brief_data.json`)
+    fetch(`/juripulse/data/brief_data.json?v=${Date.now()}`, { cache: 'no-store' })
       .then(r => r.json())
       .then(d => setData(d))
       .catch(() => setData({ news: [], research: [] }))
