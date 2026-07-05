@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Trump delivers July 4 address after storms disrupt independence celebrations",
+      "titleCN": "Trump delivers July 4 address after storms disrupt independence celebrations",
+      "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
+      "date": "2026-07-05",
+      "summaryCN": "据《金融时报》报道，受暴风雨天气影响，美国独立日庆祝活动遭到 disruptions。随后，特朗普发表了七月四日演讲。此事件主要涉及公共集会与国家法定节日活动的行政安排调整。",
+      "summaryEN": "",
+      "whyMattersCN": "此新闻本身缺乏直接法学研究价值，但其涉及国家庆典与公共集会的应急管理。在比较法视角下，可探讨行政机构在突发公共事件中的紧急权力边界与集会自由保障。然就报道内容而言，属一般时政新闻，无实质性规范冲突或法律适用争议。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公共集会",
+          "class": ""
+        },
+        {
+          "name": "应急管理",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "Financial Times"
+    },
+    {
       "title": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
       "titleCN": "The Company Founder Who Got Fired for Ignoring His Own Return-to-Office Rules",
       "url": "https://www.wsj.com/business/the-founder-who-got-fired-for-ignoring-his-own-return-to-office-rules-6b194dd7?mod=pls_whats_news_us_business_f",
@@ -89,6 +111,72 @@
       "source": "Financial Times"
     },
     {
+      "title": "250 and the court",
+      "titleCN": "250 and the court",
+      "url": "https://www.scotusblog.com/2026/07/250-and-the-court/",
+      "date": "2026-07-03",
+      "summaryCN": "本文关注美国最高法院2024年10月期即将迎来的第250起上诉案件。文章梳理了当前法院案件库的填补进度，并探讨了在此期间可能被大法官选中的潜在热门上诉案件，为观察美国联邦最高法院的最新审查动向提供了线索。",
+      "summaryEN": "",
+      "whyMattersCN": "美国最高法院的案件筛选机制具有极高的比较法研究价值。通过观察其年度案件配额的填补过程与潜在审查热点，法学研究者可深入剖析最高法院的司法政策偏好、议程设置策略及其对美国法治走向的深远影响，为判例法体系的运作机制提供实证分析素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "诉讼程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "An immigration law error in the court’s asylum decision threatens immigration courts",
+      "titleCN": "An immigration law error in the court’s asylum decision threatens immigration courts",
+      "url": "https://www.scotusblog.com/2026/07/an-immigration-law-error-in-the-courts-asylum-decision-threatens-immigration-courts/",
+      "date": "2026-07-02",
+      "summaryCN": "最高法院在庇护裁决中出现的移民法错误引发广泛关注。该错误可能对整个移民法院系统产生深远威胁，影响未来庇护案件的判例标准与裁决一致性，凸显了司法审查在复杂移民案件中的关键作用。",
+      "summaryEN": "",
+      "whyMattersCN": "此案具有显著的比较法与法学研究价值。它揭示了行政法院系统在适用复杂移民法规时的系统性漏洞，为研究司法审查边界、迁徙自由权保障及难民认定标准提供了绝佳素材。对我国完善涉外法治与相关司法审查机制亦有重要借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": ""
+        },
+        {
+          "name": "庇护裁决",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "After Slaughter and Cook: future Fed fights, and maybe some midnight firings",
+      "titleCN": "After Slaughter and Cook: future Fed fights, and maybe some midnight firings",
+      "url": "https://www.scotusblog.com/2026/07/after-slaughter-and-cook-future-fed-fights-and-maybe-some-midnight-firings-/",
+      "date": "2026-07-02",
+      "summaryCN": "最高法院在Slaughter和Cook案裁决后，为未来联邦权力斗争定下基调。此判决可能引发关于总统午夜解职权的法律争议，涉及行政官员免职的宪法边界及独立机构独立性。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及美国宪法分权核心，对行政权与立法权制衡具有深远影响。从比较法视角看，总统免职权边界为研究不同宪政体制下的行政问责与公务员独立性提供了重要参照，极具公法学研究价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "分权制衡",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Latin America has turned Trumpy. That creates opportunities",
       "titleCN": "Latin America has turned Trumpy. That creates opportunities",
       "url": "https://www.economist.com/leaders/2026/06/25/latin-america-has-turned-trumpy-that-creates-opportunities",
@@ -104,6 +192,28 @@
         },
         {
           "name": "比较法学",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Economist"
+    },
+    {
+      "title": "Global imbalances have little to do with Europe’s industrial woes",
+      "titleCN": "Global imbalances have little to do with Europe’s industrial woes",
+      "url": "https://www.economist.com/leaders/2026/06/25/global-imbalances-have-little-to-do-with-europes-industrial-woes",
+      "date": "2026-06-25",
+      "summaryCN": "本文剖析欧洲工业困境根源，指出其与全球失衡关联甚微。相较外部贸易因素，欧洲内部严苛的监管环境、高昂的能源成本及绿色转型政策才是核心制约。这反映出欧盟在经贸与产业监管规则上的重塑，正深刻影响其工业竞争力与内部市场运作。",
+      "summaryEN": "",
+      "whyMattersCN": "该文具有显著的经济法与比较法研究价值。欧盟通过绿色协议等产业法规强化监管，虽推动了环保法治转型，却引发规则成本与市场竞争力的法益冲突。对比美欧产业补贴与监管路径，有助于探讨全球化背景下国内监管权与国际经贸规则的博弈关系。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "欧盟监管",
+          "class": ""
+        },
+        {
+          "name": "经济法",
           "class": ""
         }
       ],
@@ -1504,6 +1614,50 @@
       "journal": "Harvard Law Review"
     },
     {
+      "title": "A First Amendment Right to Know",
+      "titleCN": "A First Amendment Right to Know",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-first-amendment-right-to-know",
+      "date": "2026-05-26",
+      "summaryCN": "本文主张美国宪法第一修正案应包含知情权。作者提出，获取信息的自由是言论自由的重要前提，尤其是在政府透明度不足的情况下，公众获取信息的权利应得到宪法的明确保护，以促进民主监督与公共参与。",
+      "summaryEN": "",
+      "whyMattersCN": "该文拓展了传统言论自由的理论边界，为知情权的宪法化提供了教义学支撑。在比较法层面，其与美国信息公开制度的互动探讨，为研究其他国家如何平衡国家秘密与公众知情权提供了重要参照，具有极高的宪法学与比较法学研究价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "知情权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
+      "title": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
+      "titleCN": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3",
+      "date": "2026-05-26",
+      "summaryCN": "本文探讨在水污染治理中，针对《清洁水法》刑事责任追究的固有缺陷，提出创新法律路径：以伤害罪起诉水污染者。作者剖析传统环境规制威慑力不足，主张将污染行为纳入传统刑法体系，以弥补环境立法漏洞并强化对公共健康威胁的刑事惩戒。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究突破传统环境法单一规制框架，探索环境犯罪与传统人身犯罪的交叉适用，具有显著的比较法与法学研究价值。它为弥补专门环境立法在刑事责任设定上的威慑不足提供了创新视角，对我国完善生态环境损害赔偿制度及探讨环境公益诉讼与刑事制裁衔接机制具有重要借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "清洁水法",
+          "class": "criminal"
+        },
+        {
+          "name": "环境刑法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
       "titleCN": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
       "url": "https://pennlawreview.com/2026/05/08/bigger-than-tiktok-foreign-state-owned-enterprises-and-the-first-amendment/",
@@ -2785,10 +2939,32 @@
       ],
       "quality_score": 8,
       "source": "Harvard Law Review"
+    },
+    {
+      "title": "DLJ &#038; Duke Center for Firearms Law Present &#8211; Bruen: History, Ethics, and the Future of Second Amendment Jurisprudence",
+      "titleCN": "DLJ &#038; Duke Center for Firearms Law Present &#8211; Bruen: History, Ethics, and the Future of Second Amendment Jurisprudence",
+      "url": "https://dlj.law.duke.edu/2024/03/dlj-duke-center-for-firearms-law-present-bruen-history-ethics-and-the-future-of-second-amendment-jurisprudence/",
+      "date": "2024-03-26",
+      "summaryCN": "本文探讨了布鲁恩案对第二修正案法学的影响，从历史和伦理双重视角剖析其法理基础。研究回顾了历史传统在枪支管控司法审查中的核心地位，并展望了该裁决对未来美国枪支权利与监管立法的深远塑造作用。",
+      "summaryEN": "",
+      "whyMattersCN": "该文具有显著的比较法与法学研究价值。布鲁恩案确立了历史文本主义的审查标准，标志着宪法解释方法的重大转向。深入剖析此案有助于学者反思判例法中历史叙事的运用逻辑，并为各国处理宪法基本权利与社会公共安全之间的张力提供了重要的比较法素材与法理启示。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法解释",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Duke Law Journal"
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-04T16:34:11.974Z",
+    "updatedAt": "2026-07-05T04:38:40.249Z",
     "generator": "ai"
   }
 }
