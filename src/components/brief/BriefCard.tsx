@@ -8,6 +8,7 @@ export interface BriefItem {
   titleCN?: string
   url: string
   date: string
+  addedAt?: string
   source?: string
   journal?: string
   summaryCN: string

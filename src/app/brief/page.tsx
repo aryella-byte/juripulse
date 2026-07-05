@@ -9,6 +9,9 @@ import { TimelineView } from '@/components/brief/TimelineView'
 interface BriefData {
   news: BriefItem[]
   research: BriefItem[]
+  meta?: {
+    updatedAt?: string
+  }
 }
 
 const TABS = [
@@ -19,7 +22,8 @@ const TABS = [
 
 type TabId = (typeof TABS)[number]['id']
 
-const byDateDesc = (a: BriefItem, b: BriefItem) => b.date.localeCompare(a.date)
+const sortKey = (item: BriefItem) => item.addedAt || item.date
+const byDateDesc = (a: BriefItem, b: BriefItem) => sortKey(b).localeCompare(sortKey(a))
 
 const formatDate = (date: string) => {
   if (!date) return '待更新'
@@ -97,7 +101,7 @@ export default function BriefPage() {
   const filteredNews = filterItems(data.news)
   const filteredResearch = filterItems(data.research)
   const allFiltered = [...data.news, ...data.research].sort(byDateDesc)
-  const latestDate = allFiltered[0]?.date || ''
+  const latestDate = data.meta?.updatedAt?.slice(0, 10) || allFiltered[0]?.date || ''
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-10">

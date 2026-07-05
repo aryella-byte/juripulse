@@ -516,13 +516,19 @@ function pruneExistingData(data) {
 }
 
 async function saveData(data) {
+  const sortBriefItems = (items) => items.sort((a, b) => {
+    const aKey = a.addedAt || a.date || ''
+    const bKey = b.addedAt || b.date || ''
+    return String(bKey).localeCompare(String(aKey))
+  })
+
   data.meta = {
     ...(data.meta || {}),
     updatedAt: new Date().toISOString(),
     generator: 'ai',
   }
-  data.news.sort((a, b) => String(b.date).localeCompare(String(a.date)))
-  data.research.sort((a, b) => String(b.date).localeCompare(String(a.date)))
+  sortBriefItems(data.news)
+  sortBriefItems(data.research)
   await mkdir(path.dirname(dataFile), { recursive: true })
   await writeFile(dataFile, `${JSON.stringify(data, null, 2)}\n`, 'utf8')
 }
@@ -558,6 +564,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
   const existing = new Set((data[key] || []).map((item) => itemId(item.title)))
   const queue = await buildQueue(sources, { isResearch })
   const additions = []
+  const addedAt = new Date().toISOString()
 
   for (const { source, item } of queue) {
     if (additions.length >= limit) break
@@ -581,6 +588,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
         titleCN: item.title,
         url: item.url,
         date: item.date,
+        addedAt,
         summaryCN: analysis.summaryCN,
         summaryEN: '',
         whyMattersCN: analysis.whyMattersCN || '',
