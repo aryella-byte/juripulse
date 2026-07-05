@@ -1,0 +1,758 @@
+{
+  "papers": [
+    {
+      "title": "从隐私到个人信息：利益再衡量的理论与制度安排",
+      "author": "张新宝",
+      "journal": "中国法学",
+      "year": 2015,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 163
+    },
+    {
+      "title": "认罪认罚从宽制度研究",
+      "author": "陈卫东",
+      "journal": "中国法学",
+      "year": 2016,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 160
+    },
+    {
+      "title": "论大数据时代的个人数据权利",
+      "author": "程啸",
+      "journal": "中国社会科学",
+      "year": 2018,
+      "discipline": "民商法学",
+      "cited_count": 145
+    },
+    {
+      "title": "论个人信息权的法律保护——以个人信息权与隐私权的界分为中心",
+      "author": "王利明",
+      "journal": "现代法学",
+      "year": 2013,
+      "discipline": "宪法学与行政法学|民商法学",
+      "cited_count": 139
+    },
+    {
+      "title": "法理：法理学的中心主题和法学的共同关注",
+      "author": "张文显",
+      "journal": "清华法学",
+      "year": 2017,
+      "discipline": "法学理论",
+      "cited_count": 136
+    },
+    {
+      "title": "个人信息保护：从个人控制到社会控制",
+      "author": "高富平",
+      "journal": "法学研究",
+      "year": 2018,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 136
+    },
+    {
+      "title": "数据新型财产权构建及其体系研究",
+      "author": "龙卫球",
+      "journal": "政法论坛",
+      "year": 2017,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 126
+    },
+    {
+      "title": "实质解释论的再提倡",
+      "author": "张明楷",
+      "journal": "中国法学",
+      "year": 2010,
+      "discipline": "刑法学",
+      "cited_count": 117
+    },
+    {
+      "title": "积极刑法立法观在中国的确立",
+      "author": "周光权",
+      "journal": "法学研究",
+      "year": 2016,
+      "discipline": "刑法学",
+      "cited_count": 112
+    },
+    {
+      "title": "数据的私法定位与保护",
+      "author": "纪海龙",
+      "journal": "法学研究",
+      "year": 2018,
+      "discipline": "民商法学",
+      "cited_count": 110
+    },
+    {
+      "title": "个人信息国家保护义务及展开",
+      "author": "王锡锌",
+      "journal": "中国法学",
+      "year": 2021,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 107
+    },
+    {
+      "title": "法秩序统一性视野下违法判断的相对性",
+      "author": "王昭武",
+      "journal": "中外法学",
+      "year": 2015,
+      "discipline": "刑法学",
+      "cited_count": 107
+    },
+    {
+      "title": "论作为新型财产权的数据财产权",
+      "author": "张新宝",
+      "journal": "中国社会科学",
+      "year": 2023,
+      "discipline": "民商法学",
+      "cited_count": 104
+    },
+    {
+      "title": "在分享和控制之间数据保护的私法局限和公共秩序构建",
+      "author": "梅夏英",
+      "journal": "中外法学",
+      "year": 2019,
+      "discipline": "宪法学与行政法学|民商法学",
+      "cited_count": 103
+    },
+    {
+      "title": "智慧社会背景下的“第四代人权”及其保障",
+      "author": "马长山",
+      "journal": "中国法学",
+      "year": 2019,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 100
+    },
+    {
+      "title": "数字法学的理论表达",
+      "author": "马长山",
+      "journal": "中国法学",
+      "year": 2022,
+      "discipline": "法学理论",
+      "cited_count": 100
+    },
+    {
+      "title": "比例原则在民法上的适用及展开",
+      "author": "郑晓剑",
+      "journal": "中国法学",
+      "year": 2016,
+      "discipline": "民商法学|宪法学与行政法学",
+      "cited_count": 100
+    },
+    {
+      "title": "论盗窃财产性利益",
+      "author": "黎宏",
+      "journal": "清华法学",
+      "year": 2013,
+      "discipline": "刑法学",
+      "cited_count": 98
+    },
+    {
+      "title": "大数据有限排他权的基础理论",
+      "author": "崔国斌",
+      "journal": "法学研究",
+      "year": 2019,
+      "discipline": "民商法学",
+      "cited_count": 96
+    },
+    {
+      "title": "目的正当性与比例原则的重构",
+      "author": "刘权",
+      "journal": "中国法学",
+      "year": 2014,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 95
+    },
+    {
+      "title": "法条主义、民意与难办案件",
+      "author": "苏力",
+      "journal": "中外法学",
+      "year": 2009,
+      "discipline": "未分类",
+      "cited_count": 95
+    },
+    {
+      "title": "两种宪法案件：从合宪性解释看宪法对司法的可能影响",
+      "author": "张翔",
+      "journal": "中国法学",
+      "year": 2008,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 94
+    },
+    {
+      "title": "网络平台的公共性及其实现——以电商平台的法律规制为视角",
+      "author": "刘权",
+      "journal": "法学研究",
+      "year": 2020,
+      "discipline": "经济法学|宪法学与行政法学",
+      "cited_count": 93
+    },
+    {
+      "title": "比较法视野下的认罪认罚从宽制度——兼论刑事诉讼“第四范式”",
+      "author": "熊秋红",
+      "journal": "比较法研究",
+      "year": 2019,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 92
+    },
+    {
+      "title": "法治与国家治理现代化",
+      "author": "张文显",
+      "journal": "中国法学",
+      "year": 2014,
+      "discipline": "法学理论",
+      "cited_count": 91
+    },
+    {
+      "title": "人性民法与物性刑法的融合发展",
+      "author": "刘艳红",
+      "journal": "中国社会科学",
+      "year": 2020,
+      "discipline": "民商法学",
+      "cited_count": 91
+    },
+    {
+      "title": "社会治理“过度刑法化”的法哲学批判",
+      "author": "何荣功",
+      "journal": "中外法学",
+      "year": 2015,
+      "discipline": "刑法学|法学理论",
+      "cited_count": 90
+    },
+    {
+      "title": "避免将行政违法认定为刑事犯罪：理念、方法与路径",
+      "author": "张明楷",
+      "journal": "中国法学",
+      "year": 2017,
+      "discipline": "刑法学",
+      "cited_count": 88
+    },
+    {
+      "title": "大数据时代个人信息保护的路径重构",
+      "author": "范为",
+      "journal": "环球法律评论",
+      "year": 2016,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 88
+    },
+    {
+      "title": "论中国式法治现代化新道路",
+      "author": "张文显",
+      "journal": "中国法学",
+      "year": 2022,
+      "discipline": "法学理论",
+      "cited_count": 86
+    },
+    {
+      "title": "社会危害性理论：进一步的批判性清理",
+      "author": "陈兴良",
+      "journal": "中国法学",
+      "year": 2006,
+      "discipline": "刑法学",
+      "cited_count": 85
+    },
+    {
+      "title": "个人信息自决权理论及其检讨——兼论个人信息保护法之保护客体",
+      "author": "杨芳",
+      "journal": "比较法研究",
+      "year": 2015,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 85
+    },
+    {
+      "title": "智能互联网时代的法律变革",
+      "author": "马长山",
+      "journal": "法学研究",
+      "year": 2018,
+      "discipline": "法学理论",
+      "cited_count": 84
+    },
+    {
+      "title": "论数据权益：以“权利束”为视角",
+      "author": "王利明",
+      "journal": "政治与法律",
+      "year": 2022,
+      "discipline": "民商法学|宪法学与行政法学",
+      "cited_count": 83
+    },
+    {
+      "title": "人工智能时代的制度安排与法律规制",
+      "author": "吴汉东",
+      "journal": "法律科学",
+      "year": 2017,
+      "discipline": "法学理论|民商法学",
+      "cited_count": 82
+    },
+    {
+      "title": "个人信息保护的法律定位",
+      "author": "周汉华",
+      "journal": "法商研究",
+      "year": 2020,
+      "discipline": "宪法学与行政法学|民商法学",
+      "cited_count": 79
+    },
+    {
+      "title": "行政犯违法性判断的从属性和独立性研究",
+      "author": "孙国祥",
+      "journal": "法学家",
+      "year": 2017,
+      "discipline": "刑法学",
+      "cited_count": 79
+    },
+    {
+      "title": "侵权法中权利与利益的区分方法",
+      "author": "于飞",
+      "journal": "法学研究",
+      "year": 2011,
+      "discipline": "民商法学",
+      "cited_count": 78
+    },
+    {
+      "title": "形式解释论的再宣示",
+      "author": "陈兴良",
+      "journal": "中国法学",
+      "year": 2010,
+      "discipline": "刑法学",
+      "cited_count": 76
+    },
+    {
+      "title": "刑事立法的法教义学反思——基于《刑法修正案（九）》的分析",
+      "author": "车浩",
+      "journal": "法学",
+      "year": 2015,
+      "discipline": "刑法学|法学理论",
+      "cited_count": 76
+    },
+    {
+      "title": "法教义学的基本立场",
+      "author": "雷磊",
+      "journal": "中外法学",
+      "year": 2015,
+      "discipline": "法学理论",
+      "cited_count": 76
+    },
+    {
+      "title": "完善认罪认罚从宽制度：中国语境下的关键词展开",
+      "author": "魏晓娜",
+      "journal": "法学研究",
+      "year": 2016,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 76
+    },
+    {
+      "title": "探索激励相容的个人数据治理之道——中国个人信息保护法的立法方向",
+      "author": "周汉华",
+      "journal": "法学研究",
+      "year": 2018,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 76
+    },
+    {
+      "title": "数据确权的误区",
+      "author": "周汉华",
+      "journal": "法学研究",
+      "year": 2023,
+      "discipline": "民商法学",
+      "cited_count": 76
+    },
+    {
+      "title": "企业合规不起诉改革的八大争议问题",
+      "author": "陈瑞华",
+      "journal": "中国法律评论",
+      "year": 2021,
+      "discipline": "刑法学|刑事诉讼法学",
+      "cited_count": 76
+    },
+    {
+      "title": "大数据技术下个人数据信息私权保护论批判",
+      "author": "吴伟光",
+      "journal": "政治与法律",
+      "year": 2016,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 75
+    },
+    {
+      "title": "数据何以确权",
+      "author": "王利明",
+      "journal": "法学研究",
+      "year": 2023,
+      "discipline": "民商法学",
+      "cited_count": 75
+    },
+    {
+      "title": "我国国家权力配置原则的功能主义解释",
+      "author": "张翔",
+      "journal": "中外法学",
+      "year": 2018,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 74
+    },
+    {
+      "title": "中国行政基本法典的精神气质",
+      "author": "周佑勇",
+      "journal": "政法论坛",
+      "year": 2022,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 74
+    },
+    {
+      "title": "论法教义学与价值判断——以民法方法为重点",
+      "author": "许德风",
+      "journal": "中外法学",
+      "year": 2008,
+      "discipline": "法学理论|民商法学",
+      "cited_count": 73
+    }
+  ],
+  "recent": [
+    {
+      "title": "论预防型法治",
+      "author": "黄文艺",
+      "journal": "法学研究",
+      "year": 2024,
+      "discipline": "法学理论",
+      "cited_count": 50
+    },
+    {
+      "title": "《刑事诉讼法》再修改的若干重要问题探讨",
+      "author": "陈光中",
+      "journal": "政法论坛",
+      "year": 2024,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 38
+    },
+    {
+      "title": "犯罪圈均衡化与刑罚轻缓化：轻罪时代我国刑事立法发展方向",
+      "author": "刘艳红",
+      "journal": "中国刑事法杂志",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 29
+    },
+    {
+      "title": "论合同违反强制性规定无效的判断标准——以《民法典合同编通则解释》第16条为中心",
+      "author": "易军",
+      "journal": "清华法学",
+      "year": 2024,
+      "discipline": "民商法学",
+      "cited_count": 28
+    },
+    {
+      "title": "全球比较下的我国人工智能立法",
+      "author": "丁晓东",
+      "journal": "比较法研究",
+      "year": 2024,
+      "discipline": "法学理论|宪法学与行政法学|民商法学",
+      "cited_count": 27
+    },
+    {
+      "title": "《刑事诉讼法》第四次修改前瞻",
+      "author": "陈卫东",
+      "journal": "政法论坛",
+      "year": 2024,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 24
+    },
+    {
+      "title": "帮助信息网络犯罪活动罪的再探讨",
+      "author": "张明楷",
+      "journal": "法商研究",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 24
+    },
+    {
+      "title": "轻罪时代我国应该进行非犯罪化刑事立法——写在《刑法修正案（十二）》颁布之际",
+      "author": "刘艳红",
+      "journal": "比较法研究",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 23
+    },
+    {
+      "title": "论人工智能生成内容的可版权性：实务、法理与制度",
+      "author": "吴汉东",
+      "journal": "中国法律评论",
+      "year": 2024,
+      "discipline": "法学理论|民商法学",
+      "cited_count": 23
+    },
+    {
+      "title": "法秩序统一性原理之建构",
+      "author": "雷磊",
+      "journal": "法学研究",
+      "year": 2025,
+      "discipline": "法学理论|刑法学",
+      "cited_count": 22
+    },
+    {
+      "title": "人工智能风险的法律规制——以欧盟《人工智能法》为例",
+      "author": "丁晓东",
+      "journal": "法律科学",
+      "year": 2024,
+      "discipline": "法学理论|宪法学与行政法学",
+      "cited_count": 22
+    },
+    {
+      "title": "中国需要一部怎样的《人工智能法》？——中国人工智能立法的基本逻辑与制度架构",
+      "author": "张凌寒",
+      "journal": "法律科学",
+      "year": 2024,
+      "discipline": "法学理论|国际法学",
+      "cited_count": 21
+    },
+    {
+      "title": "法典化时代刑事诉讼法再修改的基本向度",
+      "author": "喻海松",
+      "journal": "法学论坛",
+      "year": 2024,
+      "discipline": "刑事诉讼法学",
+      "cited_count": 20
+    },
+    {
+      "title": "论人工智能法的多维规制体系",
+      "author": "赵精武",
+      "journal": "法学论坛",
+      "year": 2024,
+      "discipline": "法学理论",
+      "cited_count": 20
+    },
+    {
+      "title": "未缴纳出资股权转让的责任规则构建",
+      "author": "林一英",
+      "journal": "环球法律评论",
+      "year": 2024,
+      "discipline": "民商法学",
+      "cited_count": 19
+    },
+    {
+      "title": "醉酒型危险驾驶的治罪与治理——兼论我国轻罪治理体系的完善",
+      "author": "苗生明",
+      "journal": "中国刑事法杂志",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 19
+    },
+    {
+      "title": "技艺和程序：刑法修正的检视——《刑法修正案（十二）》新增民企工作人员犯罪条款的展开",
+      "author": "罗翔",
+      "journal": "法学评论",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 18
+    },
+    {
+      "title": "数字权力如何塑造法治？——关于数字法治的逻辑与使命",
+      "author": "孙笑侠",
+      "journal": "法制与社会发展",
+      "year": 2024,
+      "discipline": "法学理论|宪法学与行政法学",
+      "cited_count": 18
+    },
+    {
+      "title": "法治现代化的“共同特征”和“中国特色”",
+      "author": "张文显",
+      "journal": "政治与法律",
+      "year": 2024,
+      "discipline": "法学理论",
+      "cited_count": 18
+    },
+    {
+      "title": "数据要素全生命周期安全风险的刑事保障制度研究",
+      "author": "刘艳红",
+      "journal": "法学论坛",
+      "year": 2024,
+      "discipline": "刑法学|经济法学",
+      "cited_count": 18
+    },
+    {
+      "title": "企业内部人员职务犯罪的刑事治理完善",
+      "author": "田宏杰",
+      "journal": "中国刑事法杂志",
+      "year": 2024,
+      "discipline": "刑法学|民商法学",
+      "cited_count": 18
+    },
+    {
+      "title": "包容审慎监管的行政法理与中国实践",
+      "author": "卢超",
+      "journal": "中外法学",
+      "year": 2024,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 17
+    },
+    {
+      "title": "论人工智能立法的基本路径",
+      "author": "林洹民",
+      "journal": "中国法学",
+      "year": 2024,
+      "discipline": "法学理论",
+      "cited_count": 16
+    },
+    {
+      "title": "从部门立法到领域立法：数字时代国家立法新趋势",
+      "author": "周佑勇",
+      "journal": "现代法学",
+      "year": 2024,
+      "discipline": "法学理论",
+      "cited_count": 16
+    },
+    {
+      "title": "超级平台重要规则制定权的规制",
+      "author": "解志勇",
+      "journal": "清华法学",
+      "year": 2024,
+      "discipline": "宪法学与行政法学",
+      "cited_count": 16
+    },
+    {
+      "title": "违反强制性规定的合同效力",
+      "author": "",
+      "journal": "中国法律评论",
+      "year": 2025,
+      "discipline": "民商法学",
+      "cited_count": 16
+    },
+    {
+      "title": "连带责任的法定化与部分的连带责任",
+      "author": "程啸",
+      "journal": "法学家",
+      "year": 2025,
+      "discipline": "民商法学",
+      "cited_count": 15
+    },
+    {
+      "title": "论虚开增值税专用发票罪的构造",
+      "author": "张明楷",
+      "journal": "清华法学",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 15
+    },
+    {
+      "title": "论轻微犯罪记录封存制度的构建",
+      "author": "李思远",
+      "journal": "清华法学",
+      "year": 2024,
+      "discipline": "刑法学",
+      "cited_count": 15
+    },
+    {
+      "title": "三论人工智能生成的内容在著作权法中的定位",
+      "author": "王迁",
+      "journal": "法商研究",
+      "year": 2024,
+      "discipline": "民商法学|法学理论",
+      "cited_count": 15
+    }
+  ],
+  "journal_impact": [
+    {
+      "journal": "中国法学",
+      "papers": 2619,
+      "citations": 21738
+    },
+    {
+      "journal": "法学研究",
+      "papers": 1402,
+      "citations": 15298
+    },
+    {
+      "journal": "法学",
+      "papers": 5194,
+      "citations": 13538
+    },
+    {
+      "journal": "中外法学",
+      "papers": 1840,
+      "citations": 11685
+    },
+    {
+      "journal": "法学家",
+      "papers": 2638,
+      "citations": 9190
+    },
+    {
+      "journal": "法律科学",
+      "papers": 2782,
+      "citations": 8752
+    },
+    {
+      "journal": "政法论坛",
+      "papers": 2857,
+      "citations": 8613
+    },
+    {
+      "journal": "政治与法律",
+      "papers": 4310,
+      "citations": 8593
+    },
+    {
+      "journal": "比较法研究",
+      "papers": 2059,
+      "citations": 7550
+    },
+    {
+      "journal": "现代法学",
+      "papers": 3049,
+      "citations": 7126
+    },
+    {
+      "journal": "法制与社会发展",
+      "papers": 2355,
+      "citations": 7088
+    },
+    {
+      "journal": "清华法学",
+      "papers": 1335,
+      "citations": 6830
+    },
+    {
+      "journal": "当代法学",
+      "papers": 3910,
+      "citations": 6156
+    },
+    {
+      "journal": "法学评论",
+      "papers": 2601,
+      "citations": 5649
+    },
+    {
+      "journal": "华东政法大学学报",
+      "papers": 2658,
+      "citations": 4979
+    },
+    {
+      "journal": "法学论坛",
+      "papers": 2684,
+      "citations": 4323
+    },
+    {
+      "journal": "中国法律评论",
+      "papers": 1382,
+      "citations": 3876
+    },
+    {
+      "journal": "环球法律评论",
+      "papers": 1395,
+      "citations": 3454
+    },
+    {
+      "journal": "法商研究",
+      "papers": 923,
+      "citations": 3315
+    },
+    {
+      "journal": "中国刑事法杂志",
+      "papers": 1013,
+      "citations": 2930
+    },
+    {
+      "journal": "法学杂志",
+      "papers": 2272,
+      "citations": 2183
+    },
+    {
+      "journal": "中国社会科学",
+      "papers": 107,
+      "citations": 1588
+    }
+  ]
+}

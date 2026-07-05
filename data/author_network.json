@@ -1,0 +1,1986 @@
+{
+  "nodes": [
+    {
+      "id": "张明楷",
+      "papers": 154,
+      "cited": 2947,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "王利明",
+      "papers": 157,
+      "cited": 2123,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "陈兴良",
+      "papers": 162,
+      "cited": 1937,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "陈瑞华",
+      "papers": 106,
+      "cited": 1640,
+      "discipline": "宪法学与行政法学|刑事诉讼法学|民事诉讼法学"
+    },
+    {
+      "id": "刘艳红",
+      "papers": 106,
+      "cited": 1626,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "周光权",
+      "papers": 91,
+      "cited": 1278,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "劳东燕",
+      "papers": 56,
+      "cited": 1040,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "张文显",
+      "papers": 59,
+      "cited": 994,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "雷磊",
+      "papers": 57,
+      "cited": 943,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "张翔",
+      "papers": 44,
+      "cited": 892,
+      "discipline": "宪法学与行政法学|法学理论"
+    },
+    {
+      "id": "龙宗智",
+      "papers": 75,
+      "cited": 874,
+      "discipline": "民事诉讼法学|刑法学|诉讼法学"
+    },
+    {
+      "id": "程啸",
+      "papers": 64,
+      "cited": 820,
+      "discipline": "民商法学|宪法学与行政法学"
+    },
+    {
+      "id": "张卫平",
+      "papers": 68,
+      "cited": 819,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "左卫民",
+      "papers": 77,
+      "cited": 805,
+      "discipline": "刑事诉讼法学"
+    },
+    {
+      "id": "张新宝",
+      "papers": 34,
+      "cited": 770,
+      "discipline": "民商法学|法学理论"
+    },
+    {
+      "id": "陈景辉",
+      "papers": 41,
+      "cited": 732,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "崔建远",
+      "papers": 76,
+      "cited": 707,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "车浩",
+      "papers": 36,
+      "cited": 679,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "黎宏",
+      "papers": 44,
+      "cited": 667,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "丁晓东",
+      "papers": 40,
+      "cited": 610,
+      "discipline": "宪法学与行政法学"
+    },
+    {
+      "id": "陈卫东",
+      "papers": 49,
+      "cited": 580,
+      "discipline": "刑事诉讼法学"
+    },
+    {
+      "id": "王贵松",
+      "papers": 44,
+      "cited": 564,
+      "discipline": "宪法学与行政法学|民商法学"
+    },
+    {
+      "id": "马长山",
+      "papers": 31,
+      "cited": 564,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "高圣平",
+      "papers": 62,
+      "cited": 561,
+      "discipline": "经济法学"
+    },
+    {
+      "id": "苏力",
+      "papers": 40,
+      "cited": 543,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "许德风",
+      "papers": 30,
+      "cited": 525,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "吴汉东",
+      "papers": 40,
+      "cited": 475,
+      "discipline": "民商法学|法学理论"
+    },
+    {
+      "id": "陈璇",
+      "papers": 34,
+      "cited": 472,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "刘权",
+      "papers": 23,
+      "cited": 469,
+      "discipline": "宪法学与行政法学|民商法学"
+    },
+    {
+      "id": "韩大元",
+      "papers": 67,
+      "cited": 467,
+      "discipline": "宪法学与行政法学|国际法学"
+    },
+    {
+      "id": "杨立新",
+      "papers": 64,
+      "cited": 455,
+      "discipline": "民商法学|法学理论"
+    },
+    {
+      "id": "周佑勇",
+      "papers": 38,
+      "cited": 453,
+      "discipline": "刑法学|宪法学与行政法学"
+    },
+    {
+      "id": "刘宪权",
+      "papers": 79,
+      "cited": 445,
+      "discipline": "刑法学|民商法学|法学理论"
+    },
+    {
+      "id": "张守文",
+      "papers": 63,
+      "cited": 433,
+      "discipline": "法学理论|经济法学"
+    },
+    {
+      "id": "黄文艺",
+      "papers": 43,
+      "cited": 421,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "周汉华",
+      "papers": 19,
+      "cited": 419,
+      "discipline": "未分类"
+    },
+    {
+      "id": "梁根林",
+      "papers": 31,
+      "cited": 411,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "王锴",
+      "papers": 34,
+      "cited": 410,
+      "discipline": "宪法学与行政法学"
+    },
+    {
+      "id": "刘明祥",
+      "papers": 37,
+      "cited": 394,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "孙国祥",
+      "papers": 32,
+      "cited": 386,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "王锡锌",
+      "papers": 25,
+      "cited": 380,
+      "discipline": "宪法学与行政法学|法学理论"
+    },
+    {
+      "id": "蒋大兴",
+      "papers": 45,
+      "cited": 377,
+      "discipline": "经济法学"
+    },
+    {
+      "id": "叶金强",
+      "papers": 32,
+      "cited": 372,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "叶名怡",
+      "papers": 29,
+      "cited": 370,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "吕忠梅",
+      "papers": 28,
+      "cited": 370,
+      "discipline": "经济法学"
+    },
+    {
+      "id": "姜涛",
+      "papers": 70,
+      "cited": 367,
+      "discipline": "刑法学|宪法学与行政法学"
+    },
+    {
+      "id": "童之伟",
+      "papers": 47,
+      "cited": 362,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "高富平",
+      "papers": 17,
+      "cited": 346,
+      "discipline": "未分类"
+    },
+    {
+      "id": "王钢",
+      "papers": 26,
+      "cited": 341,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "顾培东",
+      "papers": 20,
+      "cited": 339,
+      "discipline": "民事诉讼法学|民商法学|法学理论"
+    },
+    {
+      "id": "李浩",
+      "papers": 51,
+      "cited": 324,
+      "discipline": "民事诉讼法学"
+    },
+    {
+      "id": "王轶",
+      "papers": 24,
+      "cited": 323,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "赵宏",
+      "papers": 28,
+      "cited": 322,
+      "discipline": "宪法学与行政法学|刑法学"
+    },
+    {
+      "id": "何荣功",
+      "papers": 24,
+      "cited": 320,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "熊秋红",
+      "papers": 25,
+      "cited": 319,
+      "discipline": "法学理论|刑事诉讼法学"
+    },
+    {
+      "id": "沈岿",
+      "papers": 28,
+      "cited": 306,
+      "discipline": "宪法学与行政法学"
+    },
+    {
+      "id": "于飞",
+      "papers": 14,
+      "cited": 304,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "纪海龙",
+      "papers": 14,
+      "cited": 302,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "朱广新",
+      "papers": 41,
+      "cited": 297,
+      "discipline": "经济法学|民商法学"
+    },
+    {
+      "id": "梅夏英",
+      "papers": 15,
+      "cited": 295,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "巩固",
+      "papers": 25,
+      "cited": 292,
+      "discipline": "民商法学|宪法学与行政法学"
+    },
+    {
+      "id": "龙俊",
+      "papers": 17,
+      "cited": 286,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "朱虎",
+      "papers": 26,
+      "cited": 285,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "王迁",
+      "papers": 46,
+      "cited": 283,
+      "discipline": "民商法学|国际法学"
+    },
+    {
+      "id": "薛军",
+      "papers": 31,
+      "cited": 278,
+      "discipline": "宪法学与行政法学|民商法学"
+    },
+    {
+      "id": "余凌云",
+      "papers": 35,
+      "cited": 276,
+      "discipline": "宪法学与行政法学"
+    },
+    {
+      "id": "任重",
+      "papers": 27,
+      "cited": 274,
+      "discipline": "民事诉讼法学|刑法学"
+    },
+    {
+      "id": "谢鸿飞",
+      "papers": 24,
+      "cited": 273,
+      "discipline": "未分类"
+    },
+    {
+      "id": "李忠夏",
+      "papers": 18,
+      "cited": 271,
+      "discipline": "宪法学与行政法学|经济法学"
+    },
+    {
+      "id": "陈柏峰",
+      "papers": 35,
+      "cited": 267,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "张凌寒",
+      "papers": 13,
+      "cited": 264,
+      "discipline": "法学理论"
+    },
+    {
+      "id": "崔国斌",
+      "papers": 15,
+      "cited": 259,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "李奋飞",
+      "papers": 30,
+      "cited": 259,
+      "discipline": "法学理论|诉讼法学"
+    },
+    {
+      "id": "付立庆",
+      "papers": 34,
+      "cited": 255,
+      "discipline": "刑法学"
+    },
+    {
+      "id": "李永军",
+      "papers": 44,
+      "cited": 255,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "冯军",
+      "papers": 12,
+      "cited": 254,
+      "discipline": "刑法学|刑事诉讼法学"
+    },
+    {
+      "id": "梁上上",
+      "papers": 17,
+      "cited": 254,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "孔祥俊",
+      "papers": 21,
+      "cited": 253,
+      "discipline": "经济法学"
+    },
+    {
+      "id": "王洪亮",
+      "papers": 30,
+      "cited": 249,
+      "discipline": "民商法学"
+    },
+    {
+      "id": "谢增毅",
+      "papers": 37,
+      "cited": 249,
+      "discipline": "社会法学"
+    }
+  ],
+  "edges": [
+    {
+      "source": "任重",
+      "target": "张卫平",
+      "weight": 95
+    },
+    {
+      "source": "姜涛",
+      "target": "张明楷",
+      "weight": 86
+    },
+    {
+      "source": "刘艳红",
+      "target": "周佑勇",
+      "weight": 80
+    },
+    {
+      "source": "刘艳红",
+      "target": "张明楷",
+      "weight": 72
+    },
+    {
+      "source": "李奋飞",
+      "target": "陈瑞华",
+      "weight": 71
+    },
+    {
+      "source": "程啸",
+      "target": "王利明",
+      "weight": 56
+    },
+    {
+      "source": "姜涛",
+      "target": "陈兴良",
+      "weight": 51
+    },
+    {
+      "source": "刘明祥",
+      "target": "张明楷",
+      "weight": 42
+    },
+    {
+      "source": "周光权",
+      "target": "张明楷",
+      "weight": 41
+    },
+    {
+      "source": "刘艳红",
+      "target": "陈兴良",
+      "weight": 36
+    },
+    {
+      "source": "劳东燕",
+      "target": "陈兴良",
+      "weight": 34
+    },
+    {
+      "source": "车浩",
+      "target": "陈兴良",
+      "weight": 31
+    },
+    {
+      "source": "雷磊",
+      "target": "陈景辉",
+      "weight": 29
+    },
+    {
+      "source": "陈兴良",
+      "target": "张明楷",
+      "weight": 27
+    },
+    {
+      "source": "劳东燕",
+      "target": "张明楷",
+      "weight": 25
+    },
+    {
+      "source": "程啸",
+      "target": "张新宝",
+      "weight": 25
+    },
+    {
+      "source": "张明楷",
+      "target": "陈兴良",
+      "weight": 24
+    },
+    {
+      "source": "雷磊",
+      "target": "张文显",
+      "weight": 24
+    },
+    {
+      "source": "姜涛",
+      "target": "周光权",
+      "weight": 23
+    },
+    {
+      "source": "张明楷",
+      "target": "周光权",
+      "weight": 23
+    },
+    {
+      "source": "陈柏峰",
+      "target": "张文显",
+      "weight": 23
+    },
+    {
+      "source": "陈璇",
+      "target": "周光权",
+      "weight": 23
+    },
+    {
+      "source": "劳东燕",
+      "target": "周光权",
+      "weight": 21
+    },
+    {
+      "source": "陈璇",
+      "target": "张明楷",
+      "weight": 21
+    },
+    {
+      "source": "黎宏",
+      "target": "张明楷",
+      "weight": 21
+    },
+    {
+      "source": "姜涛",
+      "target": "劳东燕",
+      "weight": 20
+    },
+    {
+      "source": "张明楷",
+      "target": "孙国祥",
+      "weight": 20
+    },
+    {
+      "source": "张翔",
+      "target": "王锴",
+      "weight": 20
+    },
+    {
+      "source": "赵宏",
+      "target": "王贵松",
+      "weight": 20
+    },
+    {
+      "source": "韩大元",
+      "target": "童之伟",
+      "weight": 20
+    },
+    {
+      "source": "劳东燕",
+      "target": "黎宏",
+      "weight": 19
+    },
+    {
+      "source": "张新宝",
+      "target": "王利明",
+      "weight": 19
+    },
+    {
+      "source": "付立庆",
+      "target": "张明楷",
+      "weight": 18
+    },
+    {
+      "source": "周光权",
+      "target": "陈兴良",
+      "weight": 18
+    },
+    {
+      "source": "孙国祥",
+      "target": "张明楷",
+      "weight": 18
+    },
+    {
+      "source": "丁晓东",
+      "target": "周汉华",
+      "weight": 17
+    },
+    {
+      "source": "刘宪权",
+      "target": "张明楷",
+      "weight": 17
+    },
+    {
+      "source": "张明楷",
+      "target": "劳东燕",
+      "weight": 17
+    },
+    {
+      "source": "张明楷",
+      "target": "黎宏",
+      "weight": 17
+    },
+    {
+      "source": "朱虎",
+      "target": "王利明",
+      "weight": 17
+    },
+    {
+      "source": "陈柏峰",
+      "target": "顾培东",
+      "weight": 17
+    },
+    {
+      "source": "何荣功",
+      "target": "张明楷",
+      "weight": 16
+    },
+    {
+      "source": "崔建远",
+      "target": "王利明",
+      "weight": 16
+    },
+    {
+      "source": "李奋飞",
+      "target": "陈卫东",
+      "weight": 16
+    },
+    {
+      "source": "王利明",
+      "target": "高圣平",
+      "weight": 16
+    },
+    {
+      "source": "陈兴良",
+      "target": "周光权",
+      "weight": 16
+    },
+    {
+      "source": "丁晓东",
+      "target": "张新宝",
+      "weight": 15
+    },
+    {
+      "source": "李忠夏",
+      "target": "张翔",
+      "weight": 15
+    },
+    {
+      "source": "王利明",
+      "target": "程啸",
+      "weight": 15
+    },
+    {
+      "source": "龙俊",
+      "target": "崔建远",
+      "weight": 15
+    },
+    {
+      "source": "丁晓东",
+      "target": "王利明",
+      "weight": 14
+    },
+    {
+      "source": "劳东燕",
+      "target": "梁根林",
+      "weight": 14
+    },
+    {
+      "source": "周光权",
+      "target": "刘艳红",
+      "weight": 14
+    },
+    {
+      "source": "王钢",
+      "target": "周光权",
+      "weight": 14
+    },
+    {
+      "source": "陈璇",
+      "target": "劳东燕",
+      "weight": 14
+    },
+    {
+      "source": "高圣平",
+      "target": "王利明",
+      "weight": 14
+    },
+    {
+      "source": "姜涛",
+      "target": "刘艳红",
+      "weight": 13
+    },
+    {
+      "source": "张明楷",
+      "target": "王钢",
+      "weight": 13
+    },
+    {
+      "source": "李奋飞",
+      "target": "熊秋红",
+      "weight": 13
+    },
+    {
+      "source": "李奋飞",
+      "target": "龙宗智",
+      "weight": 13
+    },
+    {
+      "source": "梁根林",
+      "target": "周光权",
+      "weight": 13
+    },
+    {
+      "source": "王利明",
+      "target": "王轶",
+      "weight": 13
+    },
+    {
+      "source": "纪海龙",
+      "target": "龙俊",
+      "weight": 13
+    },
+    {
+      "source": "陈卫东",
+      "target": "龙宗智",
+      "weight": 13
+    },
+    {
+      "source": "陈璇",
+      "target": "冯军",
+      "weight": 13
+    },
+    {
+      "source": "刘明祥",
+      "target": "周光权",
+      "weight": 12
+    },
+    {
+      "source": "叶金强",
+      "target": "龙俊",
+      "weight": 12
+    },
+    {
+      "source": "姜涛",
+      "target": "冯军",
+      "weight": 12
+    },
+    {
+      "source": "梁根林",
+      "target": "劳东燕",
+      "weight": 12
+    },
+    {
+      "source": "王锴",
+      "target": "张翔",
+      "weight": 12
+    },
+    {
+      "source": "车浩",
+      "target": "张明楷",
+      "weight": 12
+    },
+    {
+      "source": "付立庆",
+      "target": "黎宏",
+      "weight": 11
+    },
+    {
+      "source": "刘宪权",
+      "target": "刘明祥",
+      "weight": 11
+    },
+    {
+      "source": "刘明祥",
+      "target": "付立庆",
+      "weight": 11
+    },
+    {
+      "source": "刘明祥",
+      "target": "陈兴良",
+      "weight": 11
+    },
+    {
+      "source": "周光权",
+      "target": "王钢",
+      "weight": 11
+    },
+    {
+      "source": "张明楷",
+      "target": "冯军",
+      "weight": 11
+    },
+    {
+      "source": "朱虎",
+      "target": "程啸",
+      "weight": 11
+    },
+    {
+      "source": "李浩",
+      "target": "张卫平",
+      "weight": 11
+    },
+    {
+      "source": "梁根林",
+      "target": "张明楷",
+      "weight": 11
+    },
+    {
+      "source": "王贵松",
+      "target": "赵宏",
+      "weight": 11
+    },
+    {
+      "source": "赵宏",
+      "target": "劳东燕",
+      "weight": 11
+    },
+    {
+      "source": "赵宏",
+      "target": "陈璇",
+      "weight": 11
+    },
+    {
+      "source": "高圣平",
+      "target": "崔建远",
+      "weight": 11
+    },
+    {
+      "source": "高圣平",
+      "target": "朱广新",
+      "weight": 11
+    },
+    {
+      "source": "付立庆",
+      "target": "周光权",
+      "weight": 10
+    },
+    {
+      "source": "何荣功",
+      "target": "周光权",
+      "weight": 10
+    },
+    {
+      "source": "刘明祥",
+      "target": "车浩",
+      "weight": 10
+    },
+    {
+      "source": "刘艳红",
+      "target": "王利明",
+      "weight": 10
+    },
+    {
+      "source": "周佑勇",
+      "target": "余凌云",
+      "weight": 10
+    },
+    {
+      "source": "周光权",
+      "target": "劳东燕",
+      "weight": 10
+    },
+    {
+      "source": "周光权",
+      "target": "车浩",
+      "weight": 10
+    },
+    {
+      "source": "孙国祥",
+      "target": "刘艳红",
+      "weight": 10
+    },
+    {
+      "source": "左卫民",
+      "target": "苏力",
+      "weight": 10
+    },
+    {
+      "source": "巩固",
+      "target": "吕忠梅",
+      "weight": 10
+    },
+    {
+      "source": "张翔",
+      "target": "雷磊",
+      "weight": 10
+    },
+    {
+      "source": "张翔",
+      "target": "韩大元",
+      "weight": 10
+    },
+    {
+      "source": "王利明",
+      "target": "朱虎",
+      "weight": 10
+    },
+    {
+      "source": "王利明",
+      "target": "许德风",
+      "weight": 10
+    },
+    {
+      "source": "王洪亮",
+      "target": "王利明",
+      "weight": 10
+    },
+    {
+      "source": "程啸",
+      "target": "周汉华",
+      "weight": 10
+    },
+    {
+      "source": "程啸",
+      "target": "王锡锌",
+      "weight": 10
+    },
+    {
+      "source": "车浩",
+      "target": "黎宏",
+      "weight": 10
+    },
+    {
+      "source": "陈兴良",
+      "target": "刘艳红",
+      "weight": 10
+    },
+    {
+      "source": "陈卫东",
+      "target": "熊秋红",
+      "weight": 10
+    },
+    {
+      "source": "陈卫东",
+      "target": "陈瑞华",
+      "weight": 10
+    },
+    {
+      "source": "雷磊",
+      "target": "刘权",
+      "weight": 10
+    },
+    {
+      "source": "黄文艺",
+      "target": "张文显",
+      "weight": 10
+    },
+    {
+      "source": "丁晓东",
+      "target": "王锡锌",
+      "weight": 9
+    },
+    {
+      "source": "刘权",
+      "target": "周汉华",
+      "weight": 9
+    },
+    {
+      "source": "劳东燕",
+      "target": "冯军",
+      "weight": 9
+    },
+    {
+      "source": "周佑勇",
+      "target": "刘艳红",
+      "weight": 9
+    },
+    {
+      "source": "姜涛",
+      "target": "张翔",
+      "weight": 9
+    },
+    {
+      "source": "姜涛",
+      "target": "梁根林",
+      "weight": 9
+    },
+    {
+      "source": "孙国祥",
+      "target": "周光权",
+      "weight": 9
+    },
+    {
+      "source": "左卫民",
+      "target": "陈瑞华",
+      "weight": 9
+    },
+    {
+      "source": "张守文",
+      "target": "张文显",
+      "weight": 9
+    },
+    {
+      "source": "张新宝",
+      "target": "程啸",
+      "weight": 9
+    },
+    {
+      "source": "张明楷",
+      "target": "何荣功",
+      "weight": 9
+    },
+    {
+      "source": "张明楷",
+      "target": "刘明祥",
+      "weight": 9
+    },
+    {
+      "source": "李永军",
+      "target": "王利明",
+      "weight": 9
+    },
+    {
+      "source": "梁根林",
+      "target": "陈兴良",
+      "weight": 9
+    },
+    {
+      "source": "梁根林",
+      "target": "陈璇",
+      "weight": 9
+    },
+    {
+      "source": "王轶",
+      "target": "王利明",
+      "weight": 9
+    },
+    {
+      "source": "王钢",
+      "target": "张明楷",
+      "weight": 9
+    },
+    {
+      "source": "陈璇",
+      "target": "黎宏",
+      "weight": 9
+    },
+    {
+      "source": "雷磊",
+      "target": "张翔",
+      "weight": 9
+    },
+    {
+      "source": "丁晓东",
+      "target": "梅夏英",
+      "weight": 8
+    },
+    {
+      "source": "付立庆",
+      "target": "车浩",
+      "weight": 8
+    },
+    {
+      "source": "付立庆",
+      "target": "陈兴良",
+      "weight": 8
+    },
+    {
+      "source": "任重",
+      "target": "李浩",
+      "weight": 8
+    },
+    {
+      "source": "刘宪权",
+      "target": "陈兴良",
+      "weight": 8
+    },
+    {
+      "source": "刘宪权",
+      "target": "黎宏",
+      "weight": 8
+    },
+    {
+      "source": "刘权",
+      "target": "马长山",
+      "weight": 8
+    },
+    {
+      "source": "刘艳红",
+      "target": "周光权",
+      "weight": 8
+    },
+    {
+      "source": "刘艳红",
+      "target": "陈瑞华",
+      "weight": 8
+    },
+    {
+      "source": "劳东燕",
+      "target": "陈璇",
+      "weight": 8
+    },
+    {
+      "source": "叶金强",
+      "target": "王利明",
+      "weight": 8
+    },
+    {
+      "source": "周佑勇",
+      "target": "王锡锌",
+      "weight": 8
+    },
+    {
+      "source": "姜涛",
+      "target": "车浩",
+      "weight": 8
+    },
+    {
+      "source": "巩固",
+      "target": "朱虎",
+      "weight": 8
+    },
+    {
+      "source": "张明楷",
+      "target": "刘艳红",
+      "weight": 8
+    },
+    {
+      "source": "张翔",
+      "target": "李忠夏",
+      "weight": 8
+    },
+    {
+      "source": "张翔",
+      "target": "赵宏",
+      "weight": 8
+    },
+    {
+      "source": "杨立新",
+      "target": "王利明",
+      "weight": 8
+    },
+    {
+      "source": "杨立新",
+      "target": "王洪亮",
+      "weight": 8
+    },
+    {
+      "source": "梁根林",
+      "target": "付立庆",
+      "weight": 8
+    },
+    {
+      "source": "王利明",
+      "target": "雷磊",
+      "weight": 8
+    },
+    {
+      "source": "王洪亮",
+      "target": "崔建远",
+      "weight": 8
+    },
+    {
+      "source": "王钢",
+      "target": "车浩",
+      "weight": 8
+    },
+    {
+      "source": "赵宏",
+      "target": "张明楷",
+      "weight": 8
+    },
+    {
+      "source": "赵宏",
+      "target": "沈岿",
+      "weight": 8
+    },
+    {
+      "source": "陈卫东",
+      "target": "左卫民",
+      "weight": 8
+    },
+    {
+      "source": "雷磊",
+      "target": "许德风",
+      "weight": 8
+    },
+    {
+      "source": "雷磊",
+      "target": "陈兴良",
+      "weight": 8
+    },
+    {
+      "source": "叶名怡",
+      "target": "王洪亮",
+      "weight": 7
+    },
+    {
+      "source": "周佑勇",
+      "target": "王贵松",
+      "weight": 7
+    },
+    {
+      "source": "周佑勇",
+      "target": "陈瑞华",
+      "weight": 7
+    },
+    {
+      "source": "周光权",
+      "target": "黎宏",
+      "weight": 7
+    },
+    {
+      "source": "孙国祥",
+      "target": "李奋飞",
+      "weight": 7
+    },
+    {
+      "source": "巩固",
+      "target": "李忠夏",
+      "weight": 7
+    },
+    {
+      "source": "张卫平",
+      "target": "李浩",
+      "weight": 7
+    },
+    {
+      "source": "张守文",
+      "target": "梅夏英",
+      "weight": 7
+    },
+    {
+      "source": "张新宝",
+      "target": "丁晓东",
+      "weight": 7
+    },
+    {
+      "source": "张新宝",
+      "target": "高富平",
+      "weight": 7
+    },
+    {
+      "source": "李忠夏",
+      "target": "韩大元",
+      "weight": 7
+    },
+    {
+      "source": "熊秋红",
+      "target": "左卫民",
+      "weight": 7
+    },
+    {
+      "source": "熊秋红",
+      "target": "陈瑞华",
+      "weight": 7
+    },
+    {
+      "source": "王利明",
+      "target": "丁晓东",
+      "weight": 7
+    },
+    {
+      "source": "王锡锌",
+      "target": "程啸",
+      "weight": 7
+    },
+    {
+      "source": "纪海龙",
+      "target": "高圣平",
+      "weight": 7
+    },
+    {
+      "source": "车浩",
+      "target": "冯军",
+      "weight": 7
+    },
+    {
+      "source": "车浩",
+      "target": "梁根林",
+      "weight": 7
+    },
+    {
+      "source": "陈卫东",
+      "target": "张文显",
+      "weight": 7
+    },
+    {
+      "source": "陈柏峰",
+      "target": "黄文艺",
+      "weight": 7
+    },
+    {
+      "source": "陈璇",
+      "target": "车浩",
+      "weight": 7
+    },
+    {
+      "source": "雷磊",
+      "target": "陈柏峰",
+      "weight": 7
+    },
+    {
+      "source": "雷磊",
+      "target": "马长山",
+      "weight": 7
+    },
+    {
+      "source": "顾培东",
+      "target": "陈卫东",
+      "weight": 7
+    },
+    {
+      "source": "龙俊",
+      "target": "王利明",
+      "weight": 7
+    },
+    {
+      "source": "龙俊",
+      "target": "高圣平",
+      "weight": 7
+    },
+    {
+      "source": "龙宗智",
+      "target": "陈瑞华",
+      "weight": 7
+    },
+    {
+      "source": "丁晓东",
+      "target": "刘权",
+      "weight": 6
+    },
+    {
+      "source": "丁晓东",
+      "target": "高富平",
+      "weight": 6
+    },
+    {
+      "source": "任重",
+      "target": "王利明",
+      "weight": 6
+    },
+    {
+      "source": "刘宪权",
+      "target": "吴汉东",
+      "weight": 6
+    },
+    {
+      "source": "刘权",
+      "target": "余凌云",
+      "weight": 6
+    },
+    {
+      "source": "刘艳红",
+      "target": "左卫民",
+      "weight": 6
+    },
+    {
+      "source": "刘艳红",
+      "target": "张文显",
+      "weight": 6
+    },
+    {
+      "source": "刘艳红",
+      "target": "李奋飞",
+      "weight": 6
+    },
+    {
+      "source": "刘艳红",
+      "target": "龙宗智",
+      "weight": 6
+    },
+    {
+      "source": "劳东燕",
+      "target": "车浩",
+      "weight": 6
+    },
+    {
+      "source": "吕忠梅",
+      "target": "巩固",
+      "weight": 6
+    },
+    {
+      "source": "周光权",
+      "target": "何荣功",
+      "weight": 6
+    },
+    {
+      "source": "周光权",
+      "target": "冯军",
+      "weight": 6
+    },
+    {
+      "source": "周光权",
+      "target": "陈璇",
+      "weight": 6
+    },
+    {
+      "source": "周汉华",
+      "target": "王利明",
+      "weight": 6
+    },
+    {
+      "source": "姜涛",
+      "target": "何荣功",
+      "weight": 6
+    },
+    {
+      "source": "姜涛",
+      "target": "刘权",
+      "weight": 6
+    },
+    {
+      "source": "左卫民",
+      "target": "熊秋红",
+      "weight": 6
+    },
+    {
+      "source": "张卫平",
+      "target": "任重",
+      "weight": 6
+    },
+    {
+      "source": "张新宝",
+      "target": "杨立新",
+      "weight": 6
+    },
+    {
+      "source": "张明楷",
+      "target": "付立庆",
+      "weight": 6
+    },
+    {
+      "source": "张翔",
+      "target": "劳东燕",
+      "weight": 6
+    },
+    {
+      "source": "张翔",
+      "target": "王利明",
+      "weight": 6
+    },
+    {
+      "source": "李永军",
+      "target": "龙俊",
+      "weight": 6
+    },
+    {
+      "source": "熊秋红",
+      "target": "龙宗智",
+      "weight": 6
+    },
+    {
+      "source": "王利明",
+      "target": "王洪亮",
+      "weight": 6
+    },
+    {
+      "source": "王钢",
+      "target": "黎宏",
+      "weight": 6
+    },
+    {
+      "source": "王锡锌",
+      "target": "王利明",
+      "weight": 6
+    },
+    {
+      "source": "王锴",
+      "target": "吕忠梅",
+      "weight": 6
+    },
+    {
+      "source": "程啸",
+      "target": "杨立新",
+      "weight": 6
+    },
+    {
+      "source": "程啸",
+      "target": "高圣平",
+      "weight": 6
+    },
+    {
+      "source": "谢增毅",
+      "target": "周汉华",
+      "weight": 6
+    },
+    {
+      "source": "谢鸿飞",
+      "target": "王利明",
+      "weight": 6
+    },
+    {
+      "source": "谢鸿飞",
+      "target": "高圣平",
+      "weight": 6
+    },
+    {
+      "source": "陈卫东",
+      "target": "李奋飞",
+      "weight": 6
+    },
+    {
+      "source": "陈景辉",
+      "target": "张翔",
+      "weight": 6
+    },
+    {
+      "source": "陈瑞华",
+      "target": "熊秋红",
+      "weight": 6
+    },
+    {
+      "source": "韩大元",
+      "target": "张翔",
+      "weight": 6
+    },
+    {
+      "source": "顾培东",
+      "target": "苏力",
+      "weight": 6
+    },
+    {
+      "source": "高圣平",
+      "target": "朱虎",
+      "weight": 6
+    },
+    {
+      "source": "黎宏",
+      "target": "陈兴良",
+      "weight": 6
+    },
+    {
+      "source": "龙宗智",
+      "target": "黎宏",
+      "weight": 6
+    },
+    {
+      "source": "于飞",
+      "target": "杨立新",
+      "weight": 5
+    },
+    {
+      "source": "于飞",
+      "target": "王利明",
+      "weight": 5
+    },
+    {
+      "source": "付立庆",
+      "target": "刘明祥",
+      "weight": 5
+    },
+    {
+      "source": "付立庆",
+      "target": "刘艳红",
+      "weight": 5
+    },
+    {
+      "source": "刘宪权",
+      "target": "王迁",
+      "weight": 5
+    },
+    {
+      "source": "刘明祥",
+      "target": "刘艳红",
+      "weight": 5
+    },
+    {
+      "source": "刘权",
+      "target": "丁晓东",
+      "weight": 5
+    },
+    {
+      "source": "刘权",
+      "target": "张新宝",
+      "weight": 5
+    },
+    {
+      "source": "刘权",
+      "target": "王锡锌",
+      "weight": 5
+    },
+    {
+      "source": "刘权",
+      "target": "高富平",
+      "weight": 5
+    },
+    {
+      "source": "刘艳红",
+      "target": "孙国祥",
+      "weight": 5
+    },
+    {
+      "source": "刘艳红",
+      "target": "张新宝",
+      "weight": 5
+    },
+    {
+      "source": "吕忠梅",
+      "target": "张文显",
+      "weight": 5
+    },
+    {
+      "source": "周光权",
+      "target": "刘宪权",
+      "weight": 5
+    },
+    {
+      "source": "姜涛",
+      "target": "陈瑞华",
+      "weight": 5
+    },
+    {
+      "source": "孔祥俊",
+      "target": "朱虎",
+      "weight": 5
+    },
+    {
+      "source": "孔祥俊",
+      "target": "王利明",
+      "weight": 5
+    },
+    {
+      "source": "孙国祥",
+      "target": "陈瑞华",
+      "weight": 5
+    },
+    {
+      "source": "左卫民",
+      "target": "龙宗智",
+      "weight": 5
+    },
+    {
+      "source": "张卫平",
+      "target": "程啸",
+      "weight": 5
+    },
+    {
+      "source": "张卫平",
+      "target": "雷磊",
+      "weight": 5
+    },
+    {
+      "source": "张守文",
+      "target": "王锡锌",
+      "weight": 5
+    },
+    {
+      "source": "张新宝",
+      "target": "周汉华",
+      "weight": 5
+    },
+    {
+      "source": "张明楷",
+      "target": "陈璇",
+      "weight": 5
+    },
+    {
+      "source": "朱虎",
+      "target": "陈景辉",
+      "weight": 5
+    },
+    {
+      "source": "李奋飞",
+      "target": "黎宏",
+      "weight": 5
+    },
+    {
+      "source": "李忠夏",
+      "target": "王锴",
+      "weight": 5
+    },
+    {
+      "source": "李永军",
+      "target": "崔建远",
+      "weight": 5
+    },
+    {
+      "source": "杨立新",
+      "target": "张新宝",
+      "weight": 5
+    },
+    {
+      "source": "梁根林",
+      "target": "何荣功",
+      "weight": 5
+    },
+    {
+      "source": "梅夏英",
+      "target": "丁晓东",
+      "weight": 5
+    },
+    {
+      "source": "王利明",
+      "target": "崔建远",
+      "weight": 5
+    },
+    {
+      "source": "王利明",
+      "target": "张卫平",
+      "weight": 5
+    },
+    {
+      "source": "王利明",
+      "target": "张新宝",
+      "weight": 5
+    },
+    {
+      "source": "王利明",
+      "target": "朱广新",
+      "weight": 5
+    },
+    {
+      "source": "王洪亮",
+      "target": "叶名怡",
+      "weight": 5
+    },
+    {
+      "source": "王洪亮",
+      "target": "龙俊",
+      "weight": 5
+    },
+    {
+      "source": "王迁",
+      "target": "吴汉东",
+      "weight": 5
+    },
+    {
+      "source": "王钢",
+      "target": "劳东燕",
+      "weight": 5
+    },
+    {
+      "source": "王锡锌",
+      "target": "丁晓东",
+      "weight": 5
+    },
+    {
+      "source": "王锡锌",
+      "target": "张新宝",
+      "weight": 5
+    },
+    {
+      "source": "王锴",
+      "target": "雷磊",
+      "weight": 5
+    },
+    {
+      "source": "程啸",
+      "target": "朱虎",
+      "weight": 5
+    },
+    {
+      "source": "程啸",
+      "target": "高富平",
+      "weight": 5
+    },
+    {
+      "source": "纪海龙",
+      "target": "薛军",
+      "weight": 5
+    },
+    {
+      "source": "纪海龙",
+      "target": "谢鸿飞",
+      "weight": 5
+    },
+    {
+      "source": "蒋大兴",
+      "target": "梁上上",
+      "weight": 5
+    },
+    {
+      "source": "陈兴良",
+      "target": "车浩",
+      "weight": 5
+    },
+    {
+      "source": "陈兴良",
+      "target": "陈璇",
+      "weight": 5
+    },
+    {
+      "source": "陈柏峰",
+      "target": "苏力",
+      "weight": 5
+    },
+    {
+      "source": "陈瑞华",
+      "target": "李奋飞",
+      "weight": 5
+    },
+    {
+      "source": "陈瑞华",
+      "target": "龙宗智",
+      "weight": 5
+    },
+    {
+      "source": "陈璇",
+      "target": "姜涛",
+      "weight": 5
+    },
+    {
+      "source": "陈璇",
+      "target": "王钢",
+      "weight": 5
+    },
+    {
+      "source": "陈璇",
+      "target": "陈兴良",
+      "weight": 5
+    },
+    {
+      "source": "雷磊",
+      "target": "于飞",
+      "weight": 5
+    },
+    {
+      "source": "雷磊",
+      "target": "黄文艺",
+      "weight": 5
+    },
+    {
+      "source": "高圣平",
+      "target": "谢鸿飞",
+      "weight": 5
+    },
+    {
+      "source": "龙宗智",
+      "target": "陈卫东",
+      "weight": 5
+    },
+    {
+      "source": "丁晓东",
+      "target": "吴汉东",
+      "weight": 4
+    },
+    {
+      "source": "丁晓东",
+      "target": "张凌寒",
+      "weight": 4
+    },
+    {
+      "source": "丁晓东",
+      "target": "张守文",
+      "weight": 4
+    },
+    {
+      "source": "丁晓东",
+      "target": "程啸",
+      "weight": 4
+    },
+    {
+      "source": "丁晓东",
+      "target": "马长山",
+      "weight": 4
+    },
+    {
+      "source": "付立庆",
+      "target": "何荣功",
+      "weight": 4
+    },
+    {
+      "source": "付立庆",
+      "target": "冯军",
+      "weight": 4
+    },
+    {
+      "source": "付立庆",
+      "target": "梁根林",
+      "weight": 4
+    },
+    {
+      "source": "任重",
+      "target": "张文显",
+      "weight": 4
+    },
+    {
+      "source": "任重",
+      "target": "程啸",
+      "weight": 4
+    },
+    {
+      "source": "何荣功",
+      "target": "刘艳红",
+      "weight": 4
+    },
+    {
+      "source": "刘明祥",
+      "target": "刘宪权",
+      "weight": 4
+    },
+    {
+      "source": "刘明祥",
+      "target": "黎宏",
+      "weight": 4
+    },
+    {
+      "source": "刘权",
+      "target": "沈岿",
+      "weight": 4
+    },
+    {
+      "source": "刘权",
+      "target": "陈景辉",
+      "weight": 4
+    },
+    {
+      "source": "刘艳红",
+      "target": "苏力",
+      "weight": 4
+    },
+    {
+      "source": "刘艳红",
+      "target": "黎宏",
+      "weight": 4
+    }
+  ]
+}

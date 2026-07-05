@@ -1,0 +1,8 @@
+:HL["/juripulse/_next/static/chunks/3b4f7ef2c021717a.css","style"]
+:HL["/juripulse/_next/static/chunks/eeefd35d090f0526.css","style"]
+:HL["/juripulse/_next/static/chunks/5209563915e54728.css","style"]
+:HL["/juripulse/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/juripulse/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/juripulse/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/juripulse/_next/static/media/f112ed7f0b91582f-s.p.12569d31.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"Q_XlWSxtnKghHYSaoSk6g","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"brief","paramType":null,"paramKey":"brief","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

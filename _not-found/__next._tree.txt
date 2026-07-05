@@ -1,0 +1,4 @@
+:HL["/juripulse/_next/static/chunks/3b4f7ef2c021717a.css","style"]
+:HL["/juripulse/_next/static/chunks/eeefd35d090f0526.css","style"]
+:HL["/juripulse/_next/static/chunks/5209563915e54728.css","style"]
+0:{"buildId":"Q_XlWSxtnKghHYSaoSk6g","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
