@@ -216,6 +216,16 @@ function itemId(title) {
 }
 
 function decodeEntities(text) {
+  const decodeCodePoint = (value, radix = 10) => {
+    const codePoint = Number.parseInt(value, radix)
+    if (!Number.isFinite(codePoint)) return ''
+    try {
+      return String.fromCodePoint(codePoint)
+    } catch {
+      return ''
+    }
+  }
+
   return text
     .replaceAll('&amp;', '&')
     .replaceAll('&lt;', '<')
@@ -223,6 +233,8 @@ function decodeEntities(text) {
     .replaceAll('&quot;', '"')
     .replaceAll('&#39;', "'")
     .replaceAll('&apos;', "'")
+    .replace(/&#(\d+);/g, (_, code) => decodeCodePoint(code))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => decodeCodePoint(code, 16))
 }
 
 function stripCdata(text) {
@@ -232,6 +244,10 @@ function stripCdata(text) {
 function textBetween(xml, tag) {
   const match = xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i'))
   return match ? decodeEntities(stripCdata(match[1].trim())) : ''
+}
+
+function normalizeUrl(value) {
+  return decodeEntities(String(value || '').trim())
 }
 
 function normalizeDate(value) {
@@ -290,7 +306,7 @@ function parseFeed(xml) {
       const title = textBetween(block, 'title')
       const link =
         textBetween(block, 'link') ||
-        (block.match(/<link[^>]*href=["']([^"']+)["'][^>]*>/i)?.[1] ?? '')
+        normalizeUrl(block.match(/<link[^>]*href=["']([^"']+)["'][^>]*>/i)?.[1] ?? '')
       const date =
         textBetween(block, 'pubDate') ||
         textBetween(block, 'published') ||
@@ -302,7 +318,7 @@ function parseFeed(xml) {
 
       return {
         title: title.trim(),
-        url: link.trim(),
+        url: normalizeUrl(link),
         date: normalizeDate(date),
         excerpt: excerpt.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 700),
       }
@@ -327,6 +343,28 @@ async function fetchFeed(url, source) {
   } catch (error) {
     log(`${source} failed: ${error.message}`)
     return []
+  }
+}
+
+async function isReachableUrl(url, source) {
+  try {
+    const response = await fetchWithTimeout(url, {
+      method: 'GET',
+      headers: {
+        'User-Agent': 'JuriPulse AI Legal Brief Bot/1.0',
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        Range: 'bytes=0-0',
+      },
+      redirect: 'follow',
+    }, feedTimeoutMs, `URL validation for ${source}`)
+
+    response.body?.cancel()
+    if (response.ok || (response.status >= 300 && response.status < 400)) return true
+    log(`${source}: skipped unreachable URL ${response.status} ${url}`)
+    return false
+  } catch (error) {
+    log(`${source}: skipped URL validation failure for ${url}: ${error.message}`)
+    return false
   }
 }
 
@@ -571,6 +609,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
     if (existing.has(itemId(item.title))) continue
 
     try {
+      if (!(await isReachableUrl(item.url, source))) continue
       log(`AI analyzing: ${item.title.slice(0, 80)}`)
       const analysis = await analyzeWithAi(aiConfig, item, source, isResearch)
       const qualityScore = Number(analysis?.qualityScore || 0)
