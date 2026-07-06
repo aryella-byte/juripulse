@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trump selects newly confirmed federal judge for open seat on 5th Circuit",
+      "titleCN": "Trump selects newly confirmed federal judge for open seat on 5th Circuit",
+      "url": "https://www.abajournal.com/news/article/trump-selects-new-federal-judge-for-open-seat-on-5th-circuit/",
+      "date": "2026-07-06",
+      "addedAt": "2026-07-06T04:49:12.881Z",
+      "summaryCN": "美国总统唐纳德·特朗普已提名一位近期获确认的联邦地区法院法官，填补位于新奥尔良的美国第五巡回上诉法院的空缺。第五巡回上诉法院管辖范围涵盖路易斯安那州等南部多州，在联邦司法体系中具有举足轻重的地位。此举反映了现任政府通过任命具有保守派司法理念的法官，以重塑该巡回法院乃至整个联邦司法系统意识形态构成的持续战略。该提名后续将进入参议院审议与确认程序，预计对未来的司法审查和宪法争议裁决产生深远影响。",
+      "summaryEN": "",
+      "whyMattersCN": "美国联邦上诉法院法官的任命具有重大的宪政与制度意义。第五巡回法院常审理涉及行政权边界、移民执法与联邦监管越权等敏感议题，其法官的释法立场直接影响总统行政令与独立监管机构规则的合法性审查标准。从比较法视角看，此新闻凸显了美国通过政治任命程序将特定司法哲学注入司法体系的制度逻辑。它提示我们观察立法与行政分支在法官提名确认机制上的权力博弈，也为研究司法独立、违宪审查的政治化倾向以及法官选任制度的域外比较提供了极具价值的一手素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦法院任命",
+          "class": "constitutional"
+        },
+        {
+          "name": "第五巡回上诉法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
+      "titleCN": "Court grants several new cases, including on whether the Second Amendment protects possession of semiautomatic rifles",
+      "url": "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/",
+      "date": "2026-06-30",
+      "addedAt": "2026-07-06T04:49:12.881Z",
+      "summaryCN": "美国最高法院在近期推翻夏威夷州限制隐蔽携枪场所的法律后，再次宣布将审理针对AR-15等半自动步枪禁令的合宪性案件。该决定由法官们于六月二十九日的清理会议上作出，旨在处理此前因等待实体判决而搁置的复审申请。此举标志着第二修正案在枪支管控领域的适用边界将进一步明确，核心法律问题在于特定类型半自动步枪是否受宪法第二修正案保护。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直击美国宪法第二修正案在枪支管控领域的适用边界，具有重大宪政争议价值。最高法院在布鲁恩案确立历史传统审查标准后，逐步将审查触角延伸至具体枪支类型与持枪场所限制。对半自动步枪禁令的审理，将迫使法院界定受第二修正案保护的武器范围及历史类比的适用逻辑。从比较法视角看，该案揭示了基本权利审查中历史解释方法的运作机制及其局限性，为中国学者研究权利宪法保障、司法审查标准及公共政策合宪性控制提供了极具价值的观察样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "枪支管控",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "University of Kentucky’s board of trustees changes rules after controversial law dean pick",
+      "titleCN": "University of Kentucky’s board of trustees changes rules after controversial law dean pick",
+      "url": "https://www.abajournal.com/news/article/university-of-kentucky-trustees-change-rules-after-controversial-law-dean-pick/",
+      "date": "2026-07-06",
+      "addedAt": "2026-07-06T04:49:12.881Z",
+      "summaryCN": "肯塔基大学董事会任命一位肯塔基州联邦法官担任其法学院院长，此举引发巨大争议。随后，该校董事会修改了相关规则。该事件触及了司法伦理与学术独立之间的界限，尤其是联邦法官在任期间转任学术行政职务的合规性问题。董事会的修规行为被视为对上述争议的回应，旨在通过制度层面的调整规范未来类似的人事任命。最新进展表明，大学治理机构正试图以新规则填补原有制度漏洞，确保遴选程序的透明度与合法性。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件涉及美国联邦司法伦理准则与高校自治的制度碰撞。联邦法官转任法学院院长触及司法人员行为准则中关于兼职、薪酬及利益冲突的限制。大学董事会通过修改规则回应争议，展现了内部治理机制对合法性危机的制度性纠偏。比较法视角下，此案对中国研究法官离职从业限制及高校与司法机构的人员流转具有参考价值，提示了学术机构行政任命须恪守法律职业伦理底线，凸显了人员流动中明晰公权力与学术边界的重要性，亦为防范旋转门效应提供了规则演进样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": ""
+        },
+        {
+          "name": "大学治理",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Chemerinsky: Supreme Court leaves many Second Amendment issues unresolved",
       "titleCN": "Chemerinsky: Supreme Court leaves many Second Amendment issues unresolved",
       "url": "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-leaves-many-second-amendment-issues-unresolved/",
@@ -775,6 +844,52 @@
   ],
   "research": [
     {
+      "title": "The Sexual Harassment Silo",
+      "titleCN": "The Sexual Harassment Silo",
+      "url": "https://pennlawreview.com/2026/05/08/the-sexual-harassment-silo/",
+      "date": "2026-05-08",
+      "addedAt": "2026-07-06T04:49:46.733Z",
+      "summaryCN": "本文探讨了职场性骚扰法律治理的碎片化问题。针对救济不足的困境，联邦与州立法者通过扩大诉诸法院的机会、加强救济措施、强制要求培训与数据收集，以及修改实体法（如废除受害者证明严重心理伤害的要求）等方式予以回应。作者指出，这些分散的改革措施形成了各自为战的孤岛效应，难以实现系统性的规制协同。论文剖析了当前反性骚扰法律体系的结构性缺陷，提出应通过整合实体规则与程序机制来构建统一且更具实效的防治框架，从而为受害者提供更为完善的法律保护。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对反性骚扰立法改革的碎片化趋势进行了批判性反思，具有重要的制度比较价值。文章揭示了美国各法域在扩大法院管辖、增设企业合规义务及修改实体侵权要件等具体制度演进中的协同缺失。这种孤岛效应分析为中国法提供了比较法启发：中国在完善防治职场性骚扰的法律体系时，应注重实体权责界定、企业内部预防机制与外部行政监管的系统性整合。论文采用的跨法域规范分析与制度协同评估方法，为评估类似劳动者权益保护立法的整体效能提供了新颖的研究范式。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "职场性骚扰",
+          "class": ""
+        },
+        {
+          "name": "法律改革",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "Some Realism About Constitutional Remedies",
+      "titleCN": "Some Realism About Constitutional Remedies",
+      "url": "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies/",
+      "date": "2026-06-10",
+      "summaryCN": "本文探讨美国最高法院在行政权与宪法救济问题上的两种进路：制度形式主义与现实主义。形式主义倾向于以刻板的权力分立框架来裁决行政权争议，而现实主义则注重考量权力的实际运作及制度互动。论文试图引入现实主义视角重新审视宪法救济机制，主张在解决行政权越界等问题时，应打破传统形式主义教条，基于制度现实与实际后果来设计或适用救济措施。该研究揭示了最高法院相关判例立场的摇摆不定，并呼吁在宪法救济领域采取更具实效性与现实契合度的裁判路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的重要价值在于解构了美国最高法院处理行政权争议时形式主义与现实主义的对立，为宪法救济机制的设计提供了新的理论视角。在方法论上，它超越了单纯的规范分析，引入对权力实际运作的制度现实主义考量，对研究违宪审查后的救济措施如何平衡权力结构与权利保护具有启发意义。对于比较法研究而言，文章对美国行政权扩张与司法制约的探讨，能为中国行政诉讼中撤销重作、确认违法等判决方式的适用，以及司法权与行政权边界的动态调适提供深度的理论参照，有助于反思公法救济的实效性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法救济",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review",
+      "addedAt": "2026-07-05T15:46:01.778Z"
+    },
+    {
       "title": "Can You Be Black and Teach That?",
       "titleCN": "Can You Be Black and Teach That?",
       "url": "https://nyulawreview.org/issues/volume-101-number-3/can-you-be-black-and-teach-that/",
@@ -817,29 +932,6 @@
       ],
       "quality_score": 8,
       "journal": "Harvard Law Review"
-    },
-    {
-      "title": "Some Realism About Constitutional Remedies",
-      "titleCN": "Some Realism About Constitutional Remedies",
-      "url": "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies/",
-      "date": "2026-06-10",
-      "summaryCN": "本文探讨美国最高法院在行政权与宪法救济问题上的两种进路：制度形式主义与现实主义。形式主义倾向于以刻板的权力分立框架来裁决行政权争议，而现实主义则注重考量权力的实际运作及制度互动。论文试图引入现实主义视角重新审视宪法救济机制，主张在解决行政权越界等问题时，应打破传统形式主义教条，基于制度现实与实际后果来设计或适用救济措施。该研究揭示了最高法院相关判例立场的摇摆不定，并呼吁在宪法救济领域采取更具实效性与现实契合度的裁判路径。",
-      "summaryEN": "",
-      "whyMattersCN": "该论文的重要价值在于解构了美国最高法院处理行政权争议时形式主义与现实主义的对立，为宪法救济机制的设计提供了新的理论视角。在方法论上，它超越了单纯的规范分析，引入对权力实际运作的制度现实主义考量，对研究违宪审查后的救济措施如何平衡权力结构与权利保护具有启发意义。对于比较法研究而言，文章对美国行政权扩张与司法制约的探讨，能为中国行政诉讼中撤销重作、确认违法等判决方式的适用，以及司法权与行政权边界的动态调适提供深度的理论参照，有助于反思公法救济的实效性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "宪法救济",
-          "class": "constitutional"
-        },
-        {
-          "name": "行政权",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 8,
-      "journal": "Harvard Law Review",
-      "addedAt": "2026-07-05T15:46:01.778Z"
     },
     {
       "title": "Bigger than TikTok: Foreign State-Owned Enterprises and the First Amendment",
@@ -2012,7 +2104,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-05T15:49:19.555Z",
+    "updatedAt": "2026-07-06T04:49:55.424Z",
     "generator": "ai"
   }
 }
