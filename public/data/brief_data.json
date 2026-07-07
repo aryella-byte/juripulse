@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
+      "titleCN": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
+      "url": "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
+      "date": "2026-07-06",
+      "addedAt": "2026-07-07T04:31:28.997Z",
+      "summaryCN": "美国最高法院于周一发布两项未署名简令，允许德克萨斯州在诉讼期间继续执行《应用商店问责法》（SB 2420）。该法要求应用商店验证用户年龄，并在未成年人下载应用或进行应用内购买时获取父母同意。最高法院驳回了挑战者要求恢复奥斯汀联邦法官禁令的请求，该禁令曾试图阻止该法实施。目前命令无公开反对意见。本案挑战者包括学生团体等，核心争议在于该年龄验证机制是否会侵犯成年用户的言论自由。",
+      "summaryEN": "",
+      "whyMattersCN": "本案体现了未成年人网络保护与成年人宪法权利之间的张力。德州SB 2420法案将未成年人保护义务直接下沉至应用商店平台，确立了基于年龄网关的合规框架。最高法院基于司法谦抑性允许法案在诉讼期间生效，暗示了对平台内容分层管理这一新型监管路径的初步认可。对中国比较法研究而言，该案为探讨应用商店平台责任、年龄验证技术标准及家长同意机制提供了重要参考，也为审视未成年人网络保护立法中比例原则的适用边界提供了典型样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "tech"
+        },
+        {
+          "name": "未成年人保护",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "The powerful, resilient, independent Supreme Court",
+      "titleCN": "The powerful, resilient, independent Supreme Court",
+      "url": "https://www.scotusblog.com/2026/07/the-powerful-resilient-independent-supreme-court/",
+      "date": "2026-07-06",
+      "addedAt": "2026-07-07T04:31:28.997Z",
+      "summaryCN": "本文反思了特朗普2.0时期爆发的宪政危机，指出最高法院在其中扮演了推波助澜的角色。摘要指出，政府通过消除内部法律制约，实施了大量涉嫌违法的争议性行为，打破了总统权力的法律约束。同时，由总统所在政党控制的国会对此保持沉默或纵容，甚至放任行政权僭越立法权。在传统权力制衡机制内部失灵、外部私人机构无力抵抗的背景下，最高法院作为独立司法机构的韧性与制衡作用成为焦点，凸显了司法权在应对行政权扩张与宪政危机时的关键地位。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及美国三权分立与宪政危机的核心命题，具有高度的宪法学增量。具体而言，它揭示了行政权通过消除内部律师摩擦绕过法律制约、以及立法机构因党派极化而怠于行使制衡权所引发的制度性失灵。在此语境下，最高法院的独立性与司法审查权成为约束行政越权的最后防线。对比较法与中国法研究而言，该案提供的启示在于：内部法律合规机制对行政权的约束效力具有脆弱性；当立法问责机制失效时，司法审查在维持宪法秩序与防范行政专断中扮演着不可替代的救济角色。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪政危机",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Judge faces possible fine for more than 900 political donations to left-leaning causes",
+      "titleCN": "Judge faces possible fine for more than 900 political donations to left-leaning causes",
+      "url": "https://www.abajournal.com/news/article/florida-judge-facing-reprimand-for-900-political-donations-to-left-leaning-causes/",
+      "date": "2026-07-07",
+      "addedAt": "2026-07-07T04:31:28.997Z",
+      "summaryCN": "佛罗里达州最高法院正考虑对奥兰多一名法官处以罚款等纪律处分。该法官承认向左翼政治事业进行了900多次政治捐款。根据美国司法行为准则，法官通常被限制进行政治捐款，以维护司法独立与中立。本案标志着州最高司法机关对严重违反司法操守行为的监管执法。此案明确了法官大规模参与政治捐款的违纪性质及纪律惩戒后果，反映了美国司法问责机制的运作。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国司法伦理的核心制度，即司法行为准则对法官政治活动的严格限制。法官的900多次政治捐款不仅违反职业操守，更直接触及司法中立与程序正当的底线。州最高法院的介入展现了司法内部惩戒与问责机制的实际运作，为防范司法政治化提供了制度参照。在比较法层面上，此案对中国法具有启发意义。中国法官法及法官职业道德基本准则同样严禁法官参与营利性活动或发表不当政治言论以维护司法公正。该案为反思法官业外活动边界、司法公信力保障机制及内部纪律惩戒尺度提供了具体实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": "constitutional"
+        },
+        {
+          "name": "法官惩戒",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trump selects newly confirmed federal judge for open seat on 5th Circuit",
       "titleCN": "Trump selects newly confirmed federal judge for open seat on 5th Circuit",
       "url": "https://www.abajournal.com/news/article/trump-selects-new-federal-judge-for-open-seat-on-5th-circuit/",
@@ -843,6 +912,29 @@
     }
   ],
   "research": [
+    {
+      "title": "An Empirical Examination of the Dangerous Patient Exception",
+      "titleCN": "An Empirical Examination of the Dangerous Patient Exception",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/an-empirical-examination-of-the-dangerous-patient-exception/?utm_source=rss&utm_medium=rss&utm_campaign=an-empirical-examination-of-the-dangerous-patient-exception",
+      "date": "2026-05-26",
+      "addedAt": "2026-07-07T04:31:58.095Z",
+      "summaryCN": "本文以实证方法研究了精神治疗师与患者证据豁免权中危险患者例外的实际影响。美国联邦最高法院在Jaffee v. Redmond案中首次确立了该豁免权，禁止心理健康专业人士就患者为治疗目的所作的保密陈述出庭作证。然而，自该案判决以来，联邦巡回法院在适用危险患者例外时存在分歧。该例外旨在当患者对公众构成严重危险时突破保密限制。本文通过实证数据评估该例外规则的运行效果及其对临床实践与司法程序的影响。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的学术与实践价值在于其运用实证研究方法，检验了Jaffee案所确立的精神治疗师与患者证据特权及其危险患者例外在联邦巡回法院的适用现状。证据法中的作证豁免权直接关系到患者隐私保护与公共安全防范之间的利益平衡。该研究不仅为美国法院在未来完善该例外规则的适用标准提供了数据支撑，也为比较法视阈下的中国证据法研究提供了重要启发，特别是在如何设置强制医疗与心理治疗保密义务冲突的例外规则方面。通过实证视角揭示规则运行实效，对完善司法鉴定程序具有显著参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "证据法",
+          "class": ""
+        },
+        {
+          "name": "实证研究",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
     {
       "title": "The Sexual Harassment Silo",
       "titleCN": "The Sexual Harassment Silo",
@@ -2104,7 +2196,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-06T04:49:55.424Z",
+    "updatedAt": "2026-07-07T04:32:15.308Z",
     "generator": "ai"
   }
 }
