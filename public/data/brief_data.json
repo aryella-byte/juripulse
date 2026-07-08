@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The Supreme Court’s disturbing approach to federal spending",
+      "titleCN": "The Supreme Court’s disturbing approach to federal spending",
+      "url": "https://www.scotusblog.com/2026/07/the-supreme-courts-disturbing-approach-to-federal-spending/",
+      "date": "2026-07-07",
+      "addedAt": "2026-07-08T03:53:09.978Z",
+      "summaryCN": "美国最高法院于6月23日对兰多尔诉路易斯安那州惩教局案作出裁决。尽管同一任期内关于出生公民权与行政国的判决备受瞩目，本案却蕴含重大宪法隐患。多数意见确立了一个核心前提：联邦支出项目应被视为合同。这一论断并非首例，此前亦被作为拒绝联邦法院受理针对特朗普政府非法拨款行为挑战的法律依据。将联邦资金分配拟制为契约关系，从根本上重塑了联邦财政权力的司法审查路径。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法支出条款的根本性重构。将联邦支出项目拟制为合同，意味着联邦资金的发放与接受被纳入私法契约框架，这直接改变了联邦与州及私人主体间的公法关系属性。在制度层面，此逻辑若被系统运用，将极大限缩联邦法院对违法财政拨款的司法审查管辖权，使得行政分支得以通过所谓契约违约规避公法约束。对比较法研究而言，这揭示了财政权力契约化运作的危险倾向，为中国行政法学界审视政府补贴、转移支付等财政干预行为的法律定性与救济路径提供了反向警示。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦支出条款",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "2 former partners sue Clifford Chance over alleged compensation clawbacks",
+      "titleCN": "2 former partners sue Clifford Chance over alleged compensation clawbacks",
+      "url": "https://www.abajournal.com/news/article/2-former-partners-sue-clifford-chance-over-compensation-clawbacks/",
+      "date": "2026-07-08",
+      "addedAt": "2026-07-08T03:53:09.978Z",
+      "summaryCN": "国际律所年利达面临前合伙人提起的联邦诉讼。两名离职合伙人指控律所要求其偿还近580万美元的薪酬。此类纠纷通常涉及合伙人协议中关于退伙或利润追回的条款。原告认为律所的追偿行为违法，该案将审查律所内部利润分配机制及合伙人退伙时的资本账户结算规则。目前案件已进入联邦法院程序，核心争议在于薪酬追回条款的合法性与执行边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及大型律所合伙人薪酬追回机制，对合伙企业法及公司合规具有制度参考价值。从比较法视角看，合伙协议中资本账户核算、退伙利润扣减及追回条款的效力边界，是合伙制度的核心难点。该联邦诉讼将厘清美国法下律所内部经济安排的合法性审查标准，为中国法下有限合伙协议解除、违约退伙结算及GP/LP责任分配的司法实践提供有益的比较法素材，具有明确的法律增量。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "合伙人协议",
+          "class": "constitutional"
+        },
+        {
+          "name": "薪酬追回",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "After state AG’s indictment for alleged intimidation, malfeasance, Louisiana Supreme Court steps in",
+      "titleCN": "After state AG’s indictment for alleged intimidation, malfeasance, Louisiana Supreme Court steps in",
+      "url": "https://www.abajournal.com/news/article/louisiana-supreme-court-steps-in-after-ag-indicted-for-intimidation-malfeasance/",
+      "date": "2026-07-08",
+      "addedAt": "2026-07-08T03:53:09.978Z",
+      "summaryCN": "美国路易斯安那州奥尔良教区大陪审团对该州总检察长莉兹·穆里尔提起16项重罪指控，罪名涉及恐吓与公职不当行为。作为对该刑事起诉的回应，路易斯安那州最高法院随即介入此案。此案聚焦于州级最高执法官员被指控在履行职务期间滥用权力与违法乱纪的问题，州最高法院的干预意味着该州司法系统已启动针对高级别官员涉嫌职务犯罪的审查与应对程序，案件后续将对涉案官员的刑事定罪及职务去留产生决定性影响。",
+      "summaryEN": "",
+      "whyMattersCN": "此案触及美国州级公职人员刑事追诉与司法权介入的宪法与制度互动机制。总检察长作为州首席执法官员遭遇重罪指控并引发州最高法院直接介入，凸显了司法系统在高级别行政官员涉嫌职务犯罪时的紧急干预权与权力制衡功能。对中国法及比较法研究的启发在于：一方面可观察美国大陪审团制度在制约行政首脑职权中的独立起诉过滤作用；另一方面可探讨当地方行政首长涉嫌犯罪时，司法权如何通过临时程序介入以维护公共利益与政府运转。这为公职人员惩戒程序、职务犯罪管辖权冲突及检察权独立行使提供了比较法视角的实务样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公职人员职务犯罪",
+          "class": "constitutional"
+        },
+        {
+          "name": "大陪审团起诉",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
       "titleCN": "Supreme Court allows Texas to enforce law requiring age verification and parental consent on apps",
       "url": "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
@@ -912,6 +981,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Connecting Mens Rea and Actus Reus: Toward a New Theory of Correspondence",
+      "titleCN": "Connecting Mens Rea and Actus Reus: Toward a New Theory of Correspondence",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/1",
+      "date": "2026-05-26",
+      "addedAt": "2026-07-08T03:54:03.028Z",
+      "summaryCN": "本文探讨英美刑法中犯罪意图与犯罪行为之间的对应关系。文章指出，仅有意图和行为不足以正当化刑事责任，二者必须以特定方式连接，但现有文献对这种对应关系的性质缺乏清晰理解。作者从刑事法学文献和司法推理中提炼出三种相互冲突的对应理论：要求时间重叠的同时性理论、强调意图驱动行为的行为激发理论，以及规范理论。论文旨在厘清这些理论分歧，为构建新的对应关系理论奠定基础，从而完善刑事责任归责的正当性证成。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的理论贡献在于系统梳理并反思了英美刑法中犯罪意图与犯罪行为的对应关系这一核心归责要件。对于中国刑法比较法研究而言，这不仅有助于深化对主观与客观相统一原则的理解，更提供了审视罪过与实行行为时间错位问题的分析框架。同时，文章对司法推理中隐性理论的提炼方法，对研究中国复杂刑事案件中的因果流程偏离与归责边界问题具有方法论上的借鉴价值，为完善犯罪论体系提供了新视角。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑法",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪意图",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
     {
       "title": "An Empirical Examination of the Dangerous Patient Exception",
       "titleCN": "An Empirical Examination of the Dangerous Patient Exception",
@@ -2196,7 +2288,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-07T04:32:15.308Z",
+    "updatedAt": "2026-07-08T03:54:33.643Z",
     "generator": "ai"
   }
 }
