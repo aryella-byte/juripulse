@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The Supreme Court’s quiet coup",
+      "titleCN": "The Supreme Court’s quiet coup",
+      "url": "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
+      "date": "2026-07-08",
+      "addedAt": "2026-07-09T04:33:14.724Z",
+      "summaryCN": "SCOTUSblog于2026年7月8日刊发外部评论文章指出，美国正在经历现代以来总统权力的最大规模扩张，同时最高法院正在系统性地削弱国会权力。文章认为，这种国会宪法职权的侵蚀并非偶然，而是罗伯茨法院通过持续且精心算计的干预，实质性剥夺了国会作为人民直接代表撰写法律的权力。该文聚焦于联邦最高法院通过司法审查对立法权的侵入，揭示了美国三权分立结构中立法与行政权力平衡的重大转移。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国宪政体制中三权分立的核心争议，即司法审查边界与立法权保留问题。罗伯茨法院通过系列判例实质性限缩国会立法空间，反映行政特权扩张与司法能动主义交织的深层制度变迁。对中国法与比较法研究而言，该现象为考察权力制衡机制失灵、非代表制机构对民主代议机构的反制提供了典型案例。研究可关注最高法院解释宪法商业条款及重大问题原则的适用标准，分析法院如何利用文本主义与原旨主义方法论重构联邦权力边界，从而警示制度设计中司法权越界的宪政风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "权力分立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "AI startup founder pleads guilty to receiving insider tips from BigLaw lawyers",
+      "titleCN": "AI startup founder pleads guilty to receiving insider tips from BigLaw lawyers",
+      "url": "https://www.abajournal.com/news/article/ai-startup-founder-pleaded-guilty-to-receiving-insider-tips-from-biglaw-lawyers/",
+      "date": "2026-07-09",
+      "addedAt": "2026-07-09T04:33:14.724Z",
+      "summaryCN": "一家人工智能初创公司的创始人承认参与了内幕交易 scheme。该案涉及大型律师事务所的律师向交易员提前泄露其律所负责的即将到来的并购交易信息。被告于去年承认了自己的罪行，目前相关执法机构正在深入推进此案的刑事追责。此案揭示了传统法律职业伦理规范与保密义务在防范内幕交易中的核心作用，并突显了美国证券执法对律所信息泄露零容忍的态度。",
+      "summaryEN": "",
+      "whyMattersCN": "本案具有显著的公司合规与刑事司法制度影响。首先，它触及美国证券法中的内幕交易归责理论，特别是关于信息内部人违背信义义务并向外部人传递非公开重大信息的经典要素。其次，案件凸显了大型律所信息墙制度及律师职业伦理监管的脆弱点，为中国法下完善律师保密义务、防范利益冲突及建立金融机构合规体系提供了比较法视角的警示。此外，案件涉及AI初创企业高管，反映出科技资本圈对内幕信息的套利动机，对跨行业合规监管具有启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "内幕交易",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律职业伦理",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Is the Roberts court hyperopic or willfully blind?",
+      "titleCN": "Is the Roberts court hyperopic or willfully blind?",
+      "url": "https://www.scotusblog.com/2026/07/is-the-roberts-court-hyperopic-or-willfully-blind/",
+      "date": "2026-07-06",
+      "addedAt": "2026-07-09T04:33:14.724Z",
+      "summaryCN": "针对美国最高法院最新审理期，本文通过分析律师Kannon Shanmugam的观察指出，罗伯茨法院在裁判中呈现出一种规律：在涉及广泛意义的宏观议题上，保守派立场通常胜出；而在针对特定行政部门的争议中，结果却时有不同。作者认同此观点，并以此切入探讨法院的保守主义倾向，质疑其在宏观议题上究竟是缺乏远见还是带有主观偏见，引发对美国最高法院在重大社会议题中政治立场与司法哲学的广泛讨论。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国最高法院的司法哲学与裁判逻辑，其重要性在于揭示了保守派法院在宏观原则与微观行政个案中的双重审查标准。这种对行政权与司法权边界的界定，直接关涉美国宪政体制中的权力制衡机制。在比较法视野下，该现象为中国研究司法能动主义、最高法院宏观政策塑造功能及行政行为司法审查标准提供了重要参考。分析美国最高法院如何在特定政府任期内的争议中权衡法律原则与政治现实，有助于深化对普通法系下法官意识形态如何影响裁判结果及制度演变的理解。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法哲学",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "The Supreme Court’s disturbing approach to federal spending",
       "titleCN": "The Supreme Court’s disturbing approach to federal spending",
       "url": "https://www.scotusblog.com/2026/07/the-supreme-courts-disturbing-approach-to-federal-spending/",
@@ -981,6 +1050,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Amending Linguistic Textualism",
+      "titleCN": "Amending Linguistic Textualism",
+      "url": "https://nyulawreview.org/issues/volume-101-number-3/amending-linguistic-textualism/",
+      "date": "2026-06-30",
+      "addedAt": "2026-07-09T04:33:56.933Z",
+      "summaryCN": "本文以美国最高法院邦迪诉范德斯特克案为切入点，探讨该判决对制定法解释方法的影响。判决汲取法律与语言学的交叉研究，在词汇含义的探求中引入了新的实证方法，作者将其概括为语言文本主义。文章主张，鉴于该方法可能对未来的司法裁判产生深远影响，法学界必须认真对待并审视这一新兴解释路径。作者试图界定该方法的内涵与边界，评估其在司法实践中的适用潜力及潜在风险，从而为理解美国当代法律解释学的演变提供全新框架。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的重要性在于揭示了美国最高法院判例中法律解释方法的实质性转向，将语言学实证研究正式引入司法裁判。这种法律与语言学交叉的方法论，为破解法条语义模糊性提供了非主观的科学工具，挑战了传统的意图主义与原旨主义。对比较法研究而言，该方法为中国法官在面临制定法文义不明或滞后时，如何借助语言学、语料库等跨学科实证手段进行说理提供了新视角。研究展示了法律语言学在提升裁判客观性与可预测性方面的巨大潜力，具有显著的制度与方法论启发价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律解释",
+          "class": ""
+        },
+        {
+          "name": "法律语言学",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
     {
       "title": "Connecting Mens Rea and Actus Reus: Toward a New Theory of Correspondence",
       "titleCN": "Connecting Mens Rea and Actus Reus: Toward a New Theory of Correspondence",
@@ -2288,7 +2380,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-08T03:54:33.643Z",
+    "updatedAt": "2026-07-09T04:34:28.596Z",
     "generator": "ai"
   }
 }
