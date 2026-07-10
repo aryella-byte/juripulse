@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "2 judges suspended in separate cases after being indicted on criminal charges",
+      "titleCN": "2 judges suspended in separate cases after being indicted on criminal charges",
+      "url": "https://www.abajournal.com/news/article/two-texas-judges-suspended-in-separate-cases/",
+      "date": "2026-07-10",
+      "addedAt": "2026-07-10T04:31:47.725Z",
+      "summaryCN": "据ABA Journal报道，美国德克萨斯州两名治安法官因在各自独立的案件中面临刑事重罪指控而被暂停职务。其中一名法官被指控犯有重罪毒品持有罪。针对被起诉的司法人员，相关司法委员会依法启动了纪律处分程序，决定暂停其履行法官职责。此事件凸显了刑事指控对司法人员任职资格与职务履行的直接影响，目前两名法官的司法工作已处于停滞状态，等待刑事程序的进一步裁决与最终的司法纪律处分结果。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻涉及美国司法问责与法官惩戒制度的核心机制。德州法官在被刑事起诉后遭停职，体现了司法纪律程序与刑事追诉的有效衔接，即通过行政性停职防止涉案法官继续履职损害司法公信力。从比较法视角看，这为完善中国法官惩戒制度提供了启发：如何构建刑事立案与法官暂停职务的自动衔接机制，如何在刑事定罪前通过听证程序保障法官权利的同时维护司法纯洁性，以及如何平衡司法独立与公众对司法系统的信任。此案清晰展示了司法人员涉嫌重罪时的程序处理路径。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法惩戒",
+          "class": "criminal"
+        },
+        {
+          "name": "法官停职",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Convicted ex-judge gets $5K fine but no prison time in immigration case",
+      "titleCN": "Convicted ex-judge gets $5K fine but no prison time in immigration case",
+      "url": "https://www.abajournal.com/news/article/ex-milwaukee-judge-gets-5000-fine-but-no-prison-time-in-immigration-case/",
+      "date": "2026-07-10",
+      "addedAt": "2026-07-10T04:31:47.725Z",
+      "summaryCN": "一名被定罪的威斯康星州前法官因妨碍移民执法被处以5000美元罚款，但免于入狱。此前陪审团裁定其妨碍了相关部门的移民执法行动。该案核心在于司法官员在联邦移民执法过程中干预执法所面临的刑事追责。最终法院仅作出罚款判决而未判处监禁，这一量刑结果引发了关于司法人员职务犯罪量刑标准及司法独立与联邦执法冲突的讨论。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国联邦移民法与州司法系统之间的权力张力。前法官因试图庇护非法移民而遭联邦刑事追诉，凸显了联邦执法优先权与地方司法保护倾向的制度性冲突。此外，陪审团定罪后法院仅判处罚金而免除监禁，折射出针对公职人员妨害司法公正行为的量刑裁量标准。在比较法层面，该案为中国法探讨司法人员职务犯罪、妨害公务罪的认定标准，以及中央与地方执法权限冲突的解决机制提供了极具价值的参考样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Who is the Supreme Court’s most “ideological” justice? And does that question even make sense?",
+      "titleCN": "Who is the Supreme Court’s most “ideological” justice? And does that question even make sense?",
+      "url": "https://www.scotusblog.com/2026/07/who-is-the-supreme-courts-most-ideological-justice-and-does-that-question-even-make-sense-/",
+      "date": "2026-07-09",
+      "addedAt": "2026-07-10T04:31:47.725Z",
+      "summaryCN": "该文探讨最高法院大法官意识形态标签的局限性。传统观点将九名大法官划分为三位保守派、三位自由派和居中的三位温和派。然而，作者指出这种基于任命党派的线性分类法掩盖了重要事实：大法官的投票倾向实际上受案件领域、案卷组成、联盟构建、案件筛选机制及投票公开度等多重因素共同塑造。文章论证认为，单纯的左右翼政治标签无法准确反映司法决策的复杂逻辑，呼吁公众摒弃简化的意识形态叙事，转而关注具体司法场域中的动态博弈。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及司法行为学的核心研究方法，对比较宪法研究具重要启发。标签化的意识形态叙事常掩盖司法裁判的复杂逻辑。美国最高法院的立场不仅受大法官个人偏好影响，更受案卷控制权、案件筛选程序及议题领域等制度性因素制约。这为中国法学者反思司法裁判的测量方法提供镜鉴：在评价本国司法改革或裁判统一性时，应避免单一的左与右标签，而需精细考察特定案由、审判委员会机制及指导性案例制度如何实质塑造法官的决策联盟与裁判结果。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法行为学",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法学",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "The Supreme Court’s quiet coup",
       "titleCN": "The Supreme Court’s quiet coup",
       "url": "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 8,
       "source": "ABA Journal"
-    },
-    {
-      "title": "Is the Roberts court hyperopic or willfully blind?",
-      "titleCN": "Is the Roberts court hyperopic or willfully blind?",
-      "url": "https://www.scotusblog.com/2026/07/is-the-roberts-court-hyperopic-or-willfully-blind/",
-      "date": "2026-07-06",
-      "addedAt": "2026-07-09T04:33:14.724Z",
-      "summaryCN": "针对美国最高法院最新审理期，本文通过分析律师Kannon Shanmugam的观察指出，罗伯茨法院在裁判中呈现出一种规律：在涉及广泛意义的宏观议题上，保守派立场通常胜出；而在针对特定行政部门的争议中，结果却时有不同。作者认同此观点，并以此切入探讨法院的保守主义倾向，质疑其在宏观议题上究竟是缺乏远见还是带有主观偏见，引发对美国最高法院在重大社会议题中政治立场与司法哲学的广泛讨论。",
-      "summaryEN": "",
-      "whyMattersCN": "该文触及美国最高法院的司法哲学与裁判逻辑，其重要性在于揭示了保守派法院在宏观原则与微观行政个案中的双重审查标准。这种对行政权与司法权边界的界定，直接关涉美国宪政体制中的权力制衡机制。在比较法视野下，该现象为中国研究司法能动主义、最高法院宏观政策塑造功能及行政行为司法审查标准提供了重要参考。分析美国最高法院如何在特定政府任期内的争议中权衡法律原则与政治现实，有助于深化对普通法系下法官意识形态如何影响裁判结果及制度演变的理解。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "美国最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法哲学",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 6,
-      "source": "SCOTUSblog"
     },
     {
       "title": "The Supreme Court’s disturbing approach to federal spending",
@@ -1050,6 +1096,29 @@
     }
   ],
   "research": [
+    {
+      "title": "The Ambitions of History and Tradition in and Beyond the Second Amendment",
+      "titleCN": "The Ambitions of History and Tradition in and Beyond the Second Amendment",
+      "url": "https://pennlawreview.com/2026/05/08/the-ambitions-of-history-and-tradition-in-and-beyond-the-second-amendment/",
+      "date": "2026-05-08",
+      "addedAt": "2026-07-10T04:32:30.351Z",
+      "summaryCN": "本文探讨了历史与传统审查在第二修正案及其他领域的适用野心。在布鲁恩案和拉希米案中，罗伯茨法院摒弃了目的手段审查，转而采用历史类比方法，声称以此限制司法自由裁量权并维护建国者的民主决策。然而，作者对上述案件的分析表明，该历史方法并未真正约束法官裁量。相反，它赋予了法官广泛的权力，使其能根据自身偏好选择历史先例。这种做法不仅无法实现约束司法的初衷，还可能对其他宪法领域的审查标准产生深远的溢出效应。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文深刻揭示了美国最高法院在第二修正案判决中采用的历史类比方法的内在矛盾，对比较宪法研究具有重要价值。它指出放弃比例原则或目的手段审查而转向纯粹的历史传统考察，实质上扩大而非限制了司法裁量权。这对于反思中国宪法学中的原旨主义倾向、历史解释方法的适用边界，以及法官如何在遵循历史传统与避免主观擅断之间寻求平衡，提供了关键的批判性视角。其制度贡献在于警示了历史先例选择过程中的主观性风险，为法理学和宪法解释方法的比较研究提供了重要参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "历史与传统审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
     {
       "title": "Amending Linguistic Textualism",
       "titleCN": "Amending Linguistic Textualism",
@@ -2380,7 +2449,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-09T04:34:28.596Z",
+    "updatedAt": "2026-07-10T04:33:01.160Z",
     "generator": "ai"
   }
 }
