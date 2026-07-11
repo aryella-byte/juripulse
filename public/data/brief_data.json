@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "5th Circuit leads Supreme Court reversals for third consecutive time",
+      "titleCN": "5th Circuit leads Supreme Court reversals for third consecutive time",
+      "url": "https://www.abajournal.com/news/article/5th-circuit-is-most-reversed-by-us-supreme-court-for-third-consecutive-time/",
+      "date": "2026-07-11",
+      "addedAt": "2026-07-11T03:50:42.399Z",
+      "summaryCN": "美国第五巡回上诉法院连续第三个任期成为被最高法院撤销判决数量最多的联邦上诉法院。本任期内，该法院多项裁决被最高法院推翻，凸显了保守派主导的下级法院与最高法院在具体法律适用上的张力。第五巡回法院常在移民、行政国家及宗教自由等议题上作出激进裁决，其撤销率高企反映了最高法院在纠偏极端判决的同时，仍总体推进保守的法理议程。这一数据不仅是司法统计，更折射出美国联邦司法系统内部上下级法院间的深刻互动与宪制摩擦。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻对美国司法审查制度与联邦上诉机制研究具重要指标意义。第五巡回法院连续领跑撤销率，揭示了下级法院法官在特定法理议程下采取策略性越界裁判的现象。从比较法视角看，这为研究司法系统内部的裁判分歧控制、上下级法院博弈及判决稳定性提供了生动样本。中国法学者可借此反思上诉审制度的功能定位：最高法院如何通过个案撤销发挥统一法律适用与规制下级法院裁量权的作用，以及如何防止上诉法院因政策倾向而偏离最高司法意志。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "第五巡回上诉法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The limits of the Second Amendment",
+      "titleCN": "The limits of the Second Amendment",
+      "url": "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/",
+      "date": "2026-07-10",
+      "addedAt": "2026-07-11T03:50:42.399Z",
+      "summaryCN": "本文探讨了美国宪法第二修正案在 Heller 案后遗留的核心法律问题。此前文章分析了修正案文本中谁属于人民及何谓武器的界限。本文进一步指出，虽然 Heller 案确立了公民在家持有手枪自卫的个人权利，但最高法院尚未对武器使用的完整历史背景进行系统分析。这涉及第二修正案对携带武器地点、武器类型及使用方式的限制边界。作者聚焦于该修正案在文本解释与历史传统适用方面的未决争议，揭示最高法院在界定持枪权保护范围时面临的法律挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国最高法院对第二修正案解释方法的深层转变，即从文本主义转向历史传统分析。Heller 案确立了个人持枪权，却留下巨大裁判空白。明确武器类型、使用场景及主体资格的法律边界，直接决定各州枪支管控立法的合宪性审查标准。从比较法视角看，此案展示了宪法基本权利保障与公共安全法益平衡的司法路径。最高法院依赖历史考证而非单纯文义的裁判方法，对原旨主义解释的运用及对地方立法权的限制，为宪法权利边界的界定提供了重要的制度与研究启示。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "持枪权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "2 lawyers suspended after settling dead client’s cases, taking money",
+      "titleCN": "2 lawyers suspended after settling dead client’s cases, taking money",
+      "url": "https://www.abajournal.com/news/article/2-lawyers-suspended-after-settling-dead-clients-cases-taking-money/",
+      "date": "2026-07-11",
+      "addedAt": "2026-07-11T03:50:42.399Z",
+      "summaryCN": "两名佛罗里达州律师因在客户死亡后隐瞒死讯、擅自了结其诉讼案件并截留赔偿金，本周起被处以三年暂停执业的纪律处罚。律师纪律机构查明，涉案律师未依法通知法院及对方当事人客户已死亡的事实，利用信息差违规推进和解程序，将本应归属客户遗产的款项据为己有。此处罚体现了监管机构对律师违反信义义务及程序诚信行为的严厉打击，目前两人已开始执行停牌处分。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及律师职业伦理与代理法中的核心制度：当事人死亡对诉讼权利能力的直接影响。律师隐瞒当事人死讯并擅自和解，严重违背信义义务与诚实信用原则。在比较法层面，该案凸显了英美法系对律师挪用客户遗产的监管惩戒机制；对中国法亦有启发，提示应细化当事人死亡后诉讼程序中止与遗产处理的衔接规则，并强化对律师违反忠实义务、侵占客户财产等行为的行业惩戒与刑事追责衔接机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业伦理",
+          "class": ""
+        },
+        {
+          "name": "纪律处分",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "2 judges suspended in separate cases after being indicted on criminal charges",
       "titleCN": "2 judges suspended in separate cases after being indicted on criminal charges",
       "url": "https://www.abajournal.com/news/article/two-texas-judges-suspended-in-separate-cases/",
@@ -1096,6 +1165,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Phase II: Managing the Remedial Phase in Aggregate Litigation",
+      "titleCN": "Phase II: Managing the Remedial Phase in Aggregate Litigation",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/phase-ii-managing-the-remedial-phase-in-aggregate-litigation/?utm_source=rss&utm_medium=rss&utm_campaign=phase-ii-managing-the-remedial-phase-in-aggregate-litigation",
+      "date": "2026-05-11",
+      "addedAt": "2026-07-11T03:51:25.233Z",
+      "summaryCN": "本文聚焦大规模侵权或事故诉讼中的赔偿阶段管理难题，提出九种处理损害赔偿的方法。在第一阶段责任审判原告胜诉后，或案件进入破产法院需进行估值时，法院面临海量个体损害认定的挑战。文章系统梳理了这九种方法，旨在为法院在群体诉讼和破产重整程序中高效分配赔偿提供实务指南，填补了诉讼后期补救阶段的管理理论空白，为解决大规模索赔提供了程序法层面的创新框架。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对群体性诉讼的补救阶段进行了精细化研究，突破了传统研究仅关注责任认定的局限。在大规模侵权案件中，责任认定后的损害赔偿计算往往是司法实践的最大痛点。文章提出的九种损害赔偿处理方法，为美国集团诉讼和破产程序交叉领域的损害估值提供了制度性贡献。对中国法而言，此研究具有显著的比较法价值：中国现行代表人诉讼制度在损害赔偿计算和分配阶段仍显粗疏，本文的程序分流思路和损害批量认定机制，可为完善中国大规模侵权诉讼的配套规则、提升群体性纠纷的实质性化解效能提供有益参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "群体诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "大规模侵权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
     {
       "title": "The Ambitions of History and Tradition in and Beyond the Second Amendment",
       "titleCN": "The Ambitions of History and Tradition in and Beyond the Second Amendment",
@@ -2449,7 +2541,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-10T04:33:01.160Z",
+    "updatedAt": "2026-07-11T03:51:54.335Z",
     "generator": "ai"
   }
 }
