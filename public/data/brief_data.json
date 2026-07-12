@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Ohio governor signs bill prohibiting foreign litigation funding",
+      "titleCN": "Ohio governor signs bill prohibiting foreign litigation funding",
+      "url": "https://www.abajournal.com/news/article/ohio-governor-signs-bill-prohibiting-foreign-litigation-funding/",
+      "date": "2026-07-12",
+      "addedAt": "2026-07-12T04:06:06.483Z",
+      "summaryCN": "2026年7月12日，美国俄亥俄州州长Mike DeWine签署了一项全面法案，正式禁止外国诉讼资助者在该州开展业务。该立法旨在限制境外资本介入本地诉讼程序，防范外部势力对州司法系统施加不当影响。这标志着俄亥俄州在规制第三方诉讼资助方面迈出关键一步，对外国资本参与美国州层面民事诉讼的活动设立了严格的法律禁区。",
+      "summaryEN": "",
+      "whyMattersCN": "该立法涉及第三方诉讼资助（TPF）监管这一前沿制度。外国资本介入诉讼可能引发国家安全、司法主权及当事人利益冲突等风险。俄亥俄州直接采取全面禁止外国资本的进路，为比较法研究提供了重要参照。中国学界与实务界在探索建立本土诉讼资助规制框架时，可对比该州的绝对禁止模式与其他法域的登记披露模式。此法案为如何平衡诉讼融资的积极效用与防范境外资本干预司法提供了具体的立法例参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "诉讼资助",
+          "class": "constitutional"
+        },
+        {
+          "name": "第三方资助",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The rarity of Supreme Court do-overs",
+      "titleCN": "The rarity of Supreme Court do-overs",
+      "url": "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
+      "date": "2026-07-10",
+      "addedAt": "2026-07-12T04:06:06.483Z",
+      "summaryCN": "本文探讨了美国最高法院极少进行案件重审（do-overs）的现象，指出这类重新审理通常仅在极特殊情况下发生。此外，文章还回顾了SCOTUSblog的任期回顾活动，重点报道了律师Cecillia Wang关于在最高法院辩论出生公民权案件的体会。该案触及美国宪法第十四修正案的核心议题，Wang分享了她针对此案法律争点及法庭辩论策略的见解，揭示了当前最高法院在处理涉及基本公民权利争议时的司法态度。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及两项核心宪法制度：最高法院的重审程序规则与第十四修正案下的出生公民权。最高法院极少进行案件重审，反映了遵循先例与司法终局性的制度考量。同时，出生公民权辩论直接关乎美国国籍法根基，在移民政策争议背景下极具宪政价值。对比较法研究而言，这为分析美国最高法院程序运作与宪法基本权利的解释演进提供了鲜活素材，其关于司法克制与权利保障的张力也为中国宪法学探讨公民身份认定与司法审查边界提供了有益的跨文化参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Blank Rome sued over data breach that exposed more than 57K people’s information",
+      "titleCN": "Blank Rome sued over data breach that exposed more than 57K people’s information",
+      "url": "https://www.abajournal.com/news/article/blank-rome-sued-over-data-breach-that-exposed-more-than-57000-peoples-information/",
+      "date": "2026-07-12",
+      "addedAt": "2026-07-12T04:06:06.483Z",
+      "summaryCN": "美国知名律所Blank Rome因数据泄露事件面临两项拟议集体诉讼。该事件导致超过5.7万名现任、前任员工及相关人员的个人信息被暴露。原告指控律所在保护敏感数据方面存在疏忽，未能采取合理的安全措施防止网络攻击。诉讼寻求确立集体诉讼资格并要求律所对数据泄露造成的潜在风险和损失承担赔偿责任，凸显了专业服务机构在数据处理上的合规风险。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及网络安全法与侵权责任在数据泄露场景下的适用，核心在于数据控制者的安全保障义务及违约与侵权竞合时的救济路径。律所作为专业法律服务提供者被诉，凸显了专业机构自身合规的盲区，具有显著的职业警示效应。从比较法视角看，美国集体诉讼机制在分散性损害聚合中的威慑力，与中国个人信息保护法下的公益诉讼及个体维权模式形成对照。该案对企业构建数据安全体系、界定泄露事件中的过错推定标准与损害赔偿认定规则具有实务参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "数据泄露",
+          "class": "tech"
+        },
+        {
+          "name": "集体诉讼",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "5th Circuit leads Supreme Court reversals for third consecutive time",
       "titleCN": "5th Circuit leads Supreme Court reversals for third consecutive time",
       "url": "https://www.abajournal.com/news/article/5th-circuit-is-most-reversed-by-us-supreme-court-for-third-consecutive-time/",
@@ -1165,6 +1234,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Closed for Business – Open for Litigation?",
+      "titleCN": "Closed for Business – Open for Litigation?",
+      "url": "https://northwesternlawreview.org/uncategorized/closed-for-business-open-for-litigation/",
+      "date": "2020-04-29",
+      "addedAt": "2026-07-12T04:06:46.410Z",
+      "summaryCN": "本文探讨疫情期间政府颁布的商业地产关停管制措施是否构成美国宪法第五修正案意义上的征收。面对突发公共卫生危机，政府通常会采取强制疫苗接种或隔离等限制措施来遏制疾病传播。作者结合历史判例与征收条款法理，分析了此类防疫管制对商业财产权造成的干预程度，探讨了财产所有者寻求司法救济与获取赔偿的可能性，揭示了公共卫生权力与私人财产权保护之间的法律张力。",
+      "summaryEN": "",
+      "whyMattersCN": "该文的研究价值在于将公卫应急管制与财产权征收赔偿问题相结合，触及了突发危机下政府警察权与公民财产权的宪法边界。文章从联邦最高法院Jacobson等强制疫苗接种与隔离先例切入，为评估现代防疫关停令的法律定性与补偿机制提供了规范分析路径。对中国比较法研究具有显著启发：在完善中国突发事件应对法与行政补偿制度时，可借鉴美国法中关于管制性征收的比例审查标准与公共利益界限，反思重大公共卫生事件下限制私人营业自由的法治约束与救济机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "征收条款",
+          "class": "constitutional"
+        },
+        {
+          "name": "公共卫生",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Northwestern Law Review"
+    },
     {
       "title": "Phase II: Managing the Remedial Phase in Aggregate Litigation",
       "titleCN": "Phase II: Managing the Remedial Phase in Aggregate Litigation",
@@ -2541,7 +2633,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-11T03:51:54.335Z",
+    "updatedAt": "2026-07-12T04:07:06.880Z",
     "generator": "ai"
   }
 }
