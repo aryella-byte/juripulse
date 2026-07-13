@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trump wants court to rehear birthright citizenship case",
+      "titleCN": "Trump wants court to rehear birthright citizenship case",
+      "url": "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+      "date": "2026-07-09",
+      "addedAt": "2026-07-13T04:08:14.218Z",
+      "summaryCN": "特朗普政府向法院请求对出生公民权案件进行重新听证。此案核心争议在于第十四修正案中关于属地主义原则的适用边界，即无合法身份父母在美所生子女是否自动获得美国国籍。此前法院的裁决对政府限制出生公民权的行政令构成阻碍。政府现寻求重审，意图推翻不利判决。该诉求标志着联邦行政分支与司法系统在宪法解释权上的博弈进入新阶段，相关听证结果将直接决定美国国籍法基础规则的走向。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法第十四修正案的核心解释，涉及出生公民权这一 foundational 制度。行政令试图通过单方面解释宪法修正案来改变延续百年的国籍取得规则，引发严重的三权分立与宪政争议。从比较法视角看，国籍取得存在属地主义与血统主义的根本分野，本案为反思国籍法基础原则、行政权边界以及司法审查标准提供了鲜活样本。若法院支持重审并改变规则，不仅重塑美国移民与国籍法制，更将对成文宪法国家如何应对行政权扩张提供重要参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        },
+        {
+          "name": "第十四修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Al-fueled boom in data centers has been big business for lawyers",
+      "titleCN": "Al-fueled boom in data centers has been big business for lawyers",
+      "url": "https://www.abajournal.com/magazine/article/al-fueled-boom-in-data-centers-has-been-big-business-for-lawyers/",
+      "date": "2026-07-13",
+      "addedAt": "2026-07-13T04:08:14.218Z",
+      "summaryCN": "随着人工智能产业的爆发式增长，大型数据中心的建设与扩张为法律行业带来了巨大的业务增量。此类交易的复杂性使得律师在项目生命周期中不可或缺。法律服务主要集中于土地用途审批、大额能源供应合同谈判、环境影响评估以及复杂的跨境合规审查。数据中心运转需要消耗海量电力与水资源，这促使各地政府出台更为严格的环保与土地监管措施。律师通过设计合规架构、规避反垄断与数据安全风险，有力保障了巨额基础设施投资的合法性与商业可行性。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻揭示了人工智能基础设施扩张对科技法与行政监管的深远影响。数据中心的用地审批、能耗标准及环境评估已成为各国土地规划法与环保监管的核心议题，反映了技术与资源约束之间的法律张力。对中国法具有显著比较法启发：在国内推进算力中心建设时，同样面临严格的土地指标管控、绿电交易机制及数据跨境流动合规要求。此外，巨额算力基础设施投资中的反垄断审查与政府采购合规，正成为非诉公司合规业务的新增长极，反映了科技产业政策与实证监管规则的深度耦合。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "数据中心",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Kagan and Barrett to testify before Congress",
+      "titleCN": "Kagan and Barrett to testify before Congress",
+      "url": "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/",
+      "date": "2026-07-08",
+      "addedAt": "2026-07-13T04:08:14.218Z",
+      "summaryCN": "美国最高法院大法官卡根和巴雷特将前往国会作证。与此同时，特朗普要求最高法院重新审查对其五百万美元陪审团裁决的上诉。前者涉及最高法院与立法机关之间的互动，后者则关乎巨额民事赔偿裁决的司法审查进程。",
+      "summaryEN": "",
+      "whyMattersCN": "此新闻具有明确的制度影响。大法官在国会作证触及美国权力分立原则及司法独立与立法监督的边界，是观察美国宪政运作的重要窗口。特朗普的五百万美元陪审团裁决上诉则涉及民事司法实践中上诉审标准的界定。在比较法层面，美国陪审团裁决机制及上诉审查制度，与中国由法官主导的事实认定和审级监督制度形成鲜明对比，为研究司法权配置、事实审与法律审的划分提供了有价值的参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "国会作证",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Ohio governor signs bill prohibiting foreign litigation funding",
       "titleCN": "Ohio governor signs bill prohibiting foreign litigation funding",
       "url": "https://www.abajournal.com/news/article/ohio-governor-signs-bill-prohibiting-foreign-litigation-funding/",
@@ -1234,6 +1303,29 @@
     }
   ],
   "research": [
+    {
+      "title": "“A Whole New Ideology”: The Right to Humane Treatment and the Louisiana Constitution of 1974",
+      "titleCN": "“A Whole New Ideology”: The Right to Humane Treatment and the Louisiana Constitution of 1974",
+      "url": "https://pennlawreview.com/2026/07/12/a-whole-new-ideology-the-right-to-humane-treatment-and-the-louisiana-constitution-of-1974/",
+      "date": "2026-07-12",
+      "addedAt": "2026-07-13T04:09:26.928Z",
+      "summaryCN": "本文探讨1974年路易斯安那州宪法中的人道待遇权条款。该州深受种族压迫和公民自由受限的历史困扰，新宪法旨在大幅扩展宪法权利。第一条第20款通过禁止安乐死、酷刑以及残酷、过度或不寻常的惩罚来实现此目标。该条款在联邦宪法标准基础上进行了蓄意超越，反映了制宪者构建全新权利保障理念的意图。研究梳理了该条款的历史渊源与文本演变，评估其在司法实践中的适用情况及对公民权利保护的实际影响，为州宪法的权利扩张提供了制度分析视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的学术价值在于提供了州宪法权利扩张的微观制度样本。其对路易斯安那州人道待遇权条款的历史溯源与司法适用分析，展示了地方宪法如何通过文本设计突破联邦宪法第八修正案的最低保障底线。在比较法层面，这种通过宪法文本明确禁止酷刑与过度惩罚并赋予其宽泛解释空间的立法技术，为我国基本权利保障体系的完善提供了参考。研究中采用的宪法文本历史演进与司法判例实证相结合的方法，对国内宪法学探讨量刑人道化及基本权利具体化路径具有显著的方法论借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法权利",
+          "class": "constitutional"
+        },
+        {
+          "name": "人道待遇权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
     {
       "title": "Closed for Business – Open for Litigation?",
       "titleCN": "Closed for Business – Open for Litigation?",
@@ -2633,7 +2725,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-12T04:07:06.880Z",
+    "updatedAt": "2026-07-13T04:09:37.390Z",
     "generator": "ai"
   }
 }
