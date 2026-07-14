@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Lawyer’s use of “fake and hallucinated” citations gets reprimand from U.S. appeals court",
+      "titleCN": "Lawyer’s use of “fake and hallucinated” citations gets reprimand from U.S. appeals court",
+      "url": "https://www.abajournal.com/news/article/lawyers-use-of-fake-and-hallucinated-case-gets-reprimand-from-us-appeals-court/",
+      "date": "2026-07-14",
+      "addedAt": "2026-07-14T03:44:04.745Z",
+      "summaryCN": "美国第十一巡回上诉法院对佛罗里达州一名律师兼县级官员提出正式训诫，因其提交的法律文书包含了人工智能生成的虚假和幻觉案例引用。法院明确指出，律师在提交文书前未尽到合理核查义务，违反了执业操守。此案反映了生成式人工智能在法律实践中应用所带来的直接合规风险，法院重申律师对提交材料真实性负有最终责任，使用AI工具不能作为免责事由。",
+      "summaryEN": "",
+      "whyMattersCN": "此案具有显著的比较法启示与制度增量。随着生成式人工智能在法律检索与文书起草中的普及，大模型幻觉导致的虚假引证问题已成为全球司法监管焦点。该判例明确了美国上诉法院对AI幻觉零容忍的司法态度，确立了律师对AI生成内容承担严格核查义务的执业规则。对中国法亦有启发：面对技术冲击，应通过律师执业规范或法庭纪律明确人工智能辅助办案的核查边界，探索引入强制披露机制，防范虚假证据污染司法裁判。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": ""
+        },
+        {
+          "name": "法律职业伦理",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "A dissent worthy of a World Cup",
+      "titleCN": "A dissent worthy of a World Cup",
+      "url": "https://www.scotusblog.com/2026/07/a-dissent-worthy-of-a-world-cup/",
+      "date": "2026-07-13",
+      "addedAt": "2026-07-14T03:44:04.745Z",
+      "summaryCN": "本文回顾了北美足球联赛诉 NFL 反垄断案。四十四年前，拥有贝利的纽约宇宙队所属联赛指控 NFL 规定禁止球队老板跨界拥有其他大联盟球队，涉嫌扼杀竞争。下级法院支持了 NASL，NFL 遂向最高法院求助。最高法院拒绝介入，但 William Rehnquist 大法官对此提出异议，认为应当受理并审查该规则的反竞争影响。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国反垄断法在职业体育联盟跨界所有权规则上的适用边界。大法官的异议意见凸显了体育联盟单设排他性规则可能产生的市场封锁效应与竞争损害评估问题。对于比较法研究而言，该案为审视职业体育联赛准入限制、交叉持股监管以及反垄断豁免提供了重要参考。在中国反垄断法与体育法交叉领域，如何规制体育组织的排他性商业规则、平衡产业特殊性与市场竞争秩序，此案的法理分析具有直接借鉴价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "反垄断法",
+          "class": "constitutional"
+        },
+        {
+          "name": "职业体育",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Judge orders DOJ to allow disabled lawyers to telework",
+      "titleCN": "Judge orders DOJ to allow disabled lawyers to telework",
+      "url": "https://www.abajournal.com/news/article/judge-orders-doj-to-allow-disabled-lawyers-to-telework/",
+      "date": "2026-07-14",
+      "addedAt": "2026-07-14T03:44:04.745Z",
+      "summaryCN": "两名残疾律师对司法部提起诉讼，挑战移民审查执行办公室实施的无远程办公政策。原告主张该强制返岗规定对身心障碍雇员构成了歧视，剥夺了他们依据康复法案等联邦残障保护法律应享有的合理便利。法官最终颁布裁决，命令司法部必须允许涉案残疾律师继续远程办公。该判决明确了雇主在面对残疾雇员便利请求时，不能以僵化的全员在岗政策一刀切予以拒绝，而需履行个别化评估义务，确认了远程工作可作为法定的合理便利措施。",
+      "summaryEN": "",
+      "whyMattersCN": "此案触及职场残疾歧视与合理便利的法定边界，核心在于远程办公是否构成康复法案所要求的强制义务。判决对僵化返岗政策的合法性形成强力制约，要求雇主进行个别化评估而非机械适用一刀切规则。从比较法视角观察，该案为中国残疾人保障法及劳动法中的合理便利制度提供了参考：随着用工模式数字化，远程办公能否且应如何被纳入法定便利清单。此进展凸显了通过司法干预矫正行政机构内部用工政策的必要性，对中国完善反歧视诉讼机制及雇员平等权保障具有制度启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "残疾歧视",
+          "class": ""
+        },
+        {
+          "name": "合理便利",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trump wants court to rehear birthright citizenship case",
       "titleCN": "Trump wants court to rehear birthright citizenship case",
       "url": "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
@@ -1303,6 +1372,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Procedure, Substance, and Judge Shopping",
+      "titleCN": "Procedure, Substance, and Judge Shopping",
+      "url": "https://pennlawreview.com/2026/07/12/procedure-substance-and-judge-shopping/",
+      "date": "2026-07-12",
+      "addedAt": "2026-07-14T03:44:57.982Z",
+      "summaryCN": "本文探讨了诉讼中普遍存在的择地行诉与择官行诉现象。原被告双方常通过管辖权异议、异地审理申请或移转联邦法院等程序工具争夺有利的审理法院。文章分析了这种程序博弈的实质影响，指出看似中立的程序规则实际上会改变案件的实体结果。作者考察了法官分配机制与管辖权规则的运作，论证了现行制度在防止策略性诉讼上的漏洞，并提出应通过完善程序机制来抑制恶性的择官行诉，维护司法公正。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及诉讼法与司法制度的核心交叉点，将传统的择地行诉延伸至备受争议的择官行诉问题。在制度层面，文章深入剖析了美国法中的管辖权异议、案件移送以及法官分配规则，揭示了程序工具如何被异化为影响实体裁判的策略。这为中国法提供了重要的比较法启示：面对我国跨行政区划法院改革及管辖权下放引发的实践争议，研究如何通过细化管辖权异议审查标准、完善随机分案系统来规制恶意管辖选择具有极强的现实借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "择地行诉",
+          "class": ""
+        },
+        {
+          "name": "择官行诉",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
     {
       "title": "“A Whole New Ideology”: The Right to Humane Treatment and the Louisiana Constitution of 1974",
       "titleCN": "“A Whole New Ideology”: The Right to Humane Treatment and the Louisiana Constitution of 1974",
@@ -2725,7 +2817,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-13T04:09:37.390Z",
+    "updatedAt": "2026-07-14T03:45:43.111Z",
     "generator": "ai"
   }
 }
