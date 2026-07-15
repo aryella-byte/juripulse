@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Two cheers – but not three – for Roberts and Barrett",
+      "titleCN": "Two cheers – but not three – for Roberts and Barrett",
+      "url": "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
+      "date": "2026-07-14",
+      "addedAt": "2026-07-15T03:43:50.875Z",
+      "summaryCN": "美国最高法院首席大法官罗伯茨与巴雷特大法官在本届司法年度末的两起关键案件中发挥了决定性作用，值得高度评价。在特朗普诉芭芭拉案中，两人与三名自由派大法官组成五人多数阵营，确认美国宪法第十四修正案中的平等保护条款保障了出生公民权。其他四位大法官均反对该项宪法裁决，其中卡瓦诺大法官虽承认制定法赋予几乎所有在美出生儿童公民权，但排除了外国外交官子女，在解释论上与多数意见形成显著分歧。",
+      "summaryEN": "",
+      "whyMattersCN": "该案对美国宪政制度产生深远影响，通过第十四修正案平等保护条款再度确认出生公民权，直接触及美国国籍法与移民法核心。本案展现了最高法院内部意识形态分野及微弱多数的结盟逻辑，对后续涉移民权利、平权及国会立法权的司法审查具判例约束力。从比较法视角看，该判决为研究国籍取得原则提供了重要素材：中国国籍法确立血统主义为主，而美国坚守属地主义，该案凸显两国在国籍基础理论、宪法解释方法及出生地原则适用边界上的根本差异，对中国学者探讨国籍立法与宪法权利保障极具启发价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "The biggest Supreme Court surprises this term",
+      "titleCN": "The biggest Supreme Court surprises this term",
+      "url": "https://www.scotusblog.com/2026/07/the-biggest-supreme-court-surprises-this-term/",
+      "date": "2026-07-14",
+      "addedAt": "2026-07-15T03:43:50.875Z",
+      "summaryCN": "SCOTUSblog对最高法院本年度庭审期的意外判决进行了总结。作者指出，在关税、总统免职权、跨性别运动员限制等高关注度案件中，判决结果均符合其预期。真正令其意外的是出生公民权案特朗普诉芭芭拉案的表决阵营。该案核心争议在于特朗普总统的行政命令是否违反第十四修正案。鉴于第十四修正案的历史背景与文本内涵，本以为法院会形成更明确的共识，但最高法院最终以五比四的微弱比例作出裁决，凸显了宪法解释的深刻分歧。",
+      "summaryEN": "",
+      "whyMattersCN": "本案聚焦第十四修正案的解释与总统行政令的合宪性审查，直接触及美国宪政体制的核心。五比四的分裂判决表明，在出生公民权这一传统宪法议题上，最高法院内部对历史文本原旨主义的适用存在严重分歧。从比较法视角看，该案为中国研究国籍法基础原则、行政权与司法审查边界提供了重要参照。它不仅测试了权利法案对现代行政权力的制约力度，也反映了保守派与自由派大法官在宪法文本解释方法上的根本差异，对后续移民政策及行政法判例走向具有制度性指标意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Justices Kagan and Barrett testify before Congress",
+      "titleCN": "Justices Kagan and Barrett testify before Congress",
+      "url": "https://www.scotusblog.com/2026/07/justices-kagan-and-barrett-testify-before-congress/",
+      "date": "2026-07-14",
+      "addedAt": "2026-07-15T03:43:50.875Z",
+      "summaryCN": "美国最高法院大法官卡根和巴雷特七年来首次出席国会听证会，在参众两院就法院预算作证。2027财年最高法院预算将超2.2亿美元。尽管听证核心是拨款问题，但两位大法官广泛讨论了法院安保、伦理准则的执行机制，以及紧急裁决程序。卡根倾向于将此程序称为临时而非紧急案件表，反映了司法界对当前影子案档机制滥用的反思。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国最高法院与国会的权力制衡。预算拨款权是国会监督司法分支的核心手段，大法官罕见出席听证，反映出在伦理丑闻背景下国会正强化对最高法院的合规约束。讨论紧急裁决程序直指备受争议的影子案档制度，该机制对下级法院禁令及行政行为的即时干预，深刻影响美国宪政秩序与权利保障。这对中国比较法研究具有启发，特别是在司法透明度、独立机构规则制定程序审查以及最高司法机构内部监督机制的构建方面。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法预算",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Lawyer’s use of “fake and hallucinated” citations gets reprimand from U.S. appeals court",
       "titleCN": "Lawyer’s use of “fake and hallucinated” citations gets reprimand from U.S. appeals court",
       "url": "https://www.abajournal.com/news/article/lawyers-use-of-fake-and-hallucinated-case-gets-reprimand-from-us-appeals-court/",
@@ -1372,6 +1441,29 @@
     }
   ],
   "research": [
+    {
+      "title": "Criminal Data Function Creep",
+      "titleCN": "Criminal Data Function Creep",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/2",
+      "date": "2026-01-31",
+      "addedAt": "2026-07-15T03:44:31.738Z",
+      "summaryCN": "本文关注现代生活中日益自动化的犯罪背景调查，指出自动化数据驱动决策会引发不公与歧视。论文结合法学、技术、反歧视法、消费者保护法及社会学理论，提出犯罪记录数据存在功能蔓延现象，即数据被意外用于其他目的，从而导致特定危害。文章主要贡献在于：首先对当代数据驱动的背景筛查进行了实证评估，揭示了自动化系统在处理犯罪记录时如何超出原有目的被滥用，进而产生新的社会不平等与法律风险。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的突出价值在于将社会学中的功能蔓延理论与实证研究方法引入法学分析，揭示了犯罪记录数据在自动化背景调查中被滥用的制度性风险。研究打破了传统的数据合规盲区，指出即便数据收集初始合法，跨场景的二次利用仍会触发反歧视与消费者保护问题。这对中国法具有强烈比较法启发：在完善《个人信息保护法》目的限制原则及规范算法自动化决策时，可借鉴其分析框架，防范征信及涉诉数据在就业、信贷等场景中被越界滥用，为数据最小化与场景化合规提供理论支撑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "数据合规",
+          "class": "tech"
+        },
+        {
+          "name": "算法歧视",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
     {
       "title": "Procedure, Substance, and Judge Shopping",
       "titleCN": "Procedure, Substance, and Judge Shopping",
@@ -2817,7 +2909,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-14T03:45:43.111Z",
+    "updatedAt": "2026-07-15T03:45:15.530Z",
     "generator": "ai"
   }
 }
