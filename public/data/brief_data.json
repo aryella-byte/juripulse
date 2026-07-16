@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "‘Extremely excessive’ research, fees alleged in ‘It Ends With Us’ litigation",
+      "titleCN": "‘Extremely excessive’ research, fees alleged in ‘It Ends With Us’ litigation",
+      "url": "https://www.abajournal.com/news/article/extremely-excessive-research-fees-alleged-in-it-ends-with-us-litigation/",
+      "date": "2026-07-16",
+      "addedAt": "2026-07-16T03:46:27.466Z",
+      "summaryCN": "在电影《它结束于我们》相关诉讼的审前阶段，两家大型律所产生了超过700万美元的律师费。对方当事人提出异议，认为该研究与收费极其过度，绝非典型的合理费用。本案争议焦点在于如何在复杂商业与名誉诉讼中界定律师费的合理性边界，以及法院审查高额预审法律工作量的标准。这一纠纷不仅引发业界对大律所计费模式的审视，也为民事诉讼中费用转移与审查规则提供了重要参考。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国民事诉讼中律师费合理性审查这一核心程序法制度。法院对所谓极其过度的研究与计费的判定，将细化律师费用尽职审查的具体标准，明确审前程序的工作量合理边界，直接影响败诉方费用承担规则。此争议为比较法研究提供了生动素材，中国法在民事诉讼律师费转付及合理性审查机制上仍有待完善，美国法院针对大律所复杂诉讼计费实践的事后审查经验，对防范过度收费、保障当事人权益及规范律师收费合规具有重要参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师费用",
+          "class": ""
+        },
+        {
+          "name": "民事诉讼",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Iowa Supreme Court suspends license of lawyer accused of child sex abuse crimes in two states",
+      "titleCN": "Iowa Supreme Court suspends license of lawyer accused of child sex abuse crimes in two states",
+      "url": "https://www.abajournal.com/news/article/iowa-supreme-court-suspends-license-of-lawyer-accused-of-child-sex-abuse-crimes/",
+      "date": "2026-07-16",
+      "addedAt": "2026-07-16T03:46:27.466Z",
+      "summaryCN": "美国爱荷华州最高法院对面临两项州级刑事指控的律师Enoch Keoki作出了暂停其执业资格的决定。该律师被指控在两个州涉嫌对儿童实施性虐待犯罪。法院在刑事程序推进期间采取了律师执业资格保全措施，暂时褫夺其执业能力，以保护公众利益并维护法律职业的声誉与职业伦理底线。目前相关刑事司法程序仍在进一步审理中。",
+      "summaryEN": "",
+      "whyMattersCN": "该案展示了美国律师行业纪律处分与刑事司法程序并行的双轨制监管逻辑。爱荷华州最高法院在刑事定罪前即果断暂停涉案律师执业，体现了行业自律机制中预防性保全措施的运用。对中国法的比较法启发在于：如何完善律师法中关于执业资格暂停与刑事追诉衔接的程序设计。中国《律师法》规定吊销执照通常以刑事判决生效为前提，而美国基于公共利益优先原则设立的临时停牌制度，为完善我国律师执业风险早期干预机制与行业惩戒程序提供了有益参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业纪律",
+          "class": ""
+        },
+        {
+          "name": "刑事司法",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Narrow holdings with broad consequences",
+      "titleCN": "Narrow holdings with broad consequences",
+      "url": "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/",
+      "date": "2026-07-15",
+      "addedAt": "2026-07-16T03:46:27.466Z",
+      "summaryCN": "美国最高法院于六月作出两项第二修正案判决。在Hemani案中，法院一致裁定支持被告挑战，认定因非法使用受控物质而持有枪支的18 U.S.C. § 922(g)(3)条款下的指控违宪。在Wolford案中，法院裁定夏威夷州要求隐蔽持枪许可持有人在将枪支带入向公众开放的私人领地前须获得财产所有人明示同意的法律违宪。这两项判决被框定为对最高法院面前具体问题的狭义回应，但在第二修正案适用上具有深远影响。",
+      "summaryEN": "",
+      "whyMattersCN": "这两起案件深化了最高法院在New York State Rifle & Pistol Assn. v. Bruen案后确立的历史传统合宪性审查标准。Hemani案触及了基于身份或行为分类的枪支管制界限，Wolford案则厘清了隐蔽持枪权利与私人财产权冲突时的宪法边界。对比较法而言，该系列判决为研究基本权利的审查基准、宪法权利的第三人效力以及私产边界上的权利冲突提供了鲜活素材。同时，其在历史文本解释方法上的运用，对中国宪法学探讨权利保障范围及法律解释方法论具有重要参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Two cheers – but not three – for Roberts and Barrett",
       "titleCN": "Two cheers – but not three – for Roberts and Barrett",
       "url": "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
@@ -1441,6 +1510,29 @@
     }
   ],
   "research": [
+    {
+      "title": "The Supreme Court Under Threat: Early Lessons in Judicial Self-Protection",
+      "titleCN": "The Supreme Court Under Threat: Early Lessons in Judicial Self-Protection",
+      "url": "https://harvardlawreview.org/print/vol-139/the-supreme-court-under-threat-early-lessons-in-judicial-self-protection/",
+      "date": "2026-06-10",
+      "addedAt": "2026-07-16T03:47:55.233Z",
+      "summaryCN": "本文探讨美国最高法院在面对外部威胁时的自我保护机制。由于最高法院缺乏资金和执行权等实质武力，其权力主要建立在公众信任与制度威信之上。论文聚焦最高法院在历史与当下应对政治压力、公众批评及制度危机时的策略，分析了法院如何通过裁判逻辑、程序设置与司法克制来维系自身合法性。研究表明，最高法院并非被动接受外部冲击，而是通过自我约束与战略退让等早期防御策略，在维持权力边界的同时化解政治危机，从而确保其司法审查功能得以延续。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及司法独立与司法权威维系这一核心宪法学命题，具有显著的比较法价值。研究揭示了最高法院在缺乏强制执行力的前提下，如何通过制度威信与战略裁判实现自我保护，为理解司法权与政治权力的互动提供了新视角。对中国法学研究而言，该文所探讨的司法自我约束机制、公众信任构建以及法院在政治压力下的生存策略，可为中国司法体制改革、裁判说理机制完善及法院在复杂社会环境中的定位提供有益的比较法借鉴。其历史与实证结合的分析方法也值得国内学界在研究司法制度时参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
     {
       "title": "Criminal Data Function Creep",
       "titleCN": "Criminal Data Function Creep",
@@ -2909,7 +3001,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-15T03:45:15.530Z",
+    "updatedAt": "2026-07-16T03:48:30.607Z",
     "generator": "ai"
   }
 }
