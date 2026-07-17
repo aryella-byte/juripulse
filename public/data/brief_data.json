@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The court’s criminal law term: overview and observations",
+      "titleCN": "The court’s criminal law term: overview and observations",
+      "url": "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
+      "date": "2026-07-15",
+      "addedAt": "2026-07-17T03:45:46.054Z",
+      "summaryCN": "美国联邦最高法院2025至2026开庭期已结案。在总计57起经过全面辩论的案件中，有16起属于纯刑事案件，占总数的百分之二十八。若将涉及州总检察长调查传票起诉资格的民事案First Choice v. Davenport计入，则纯刑事案件达17起，占比近百分之三十。该数据表明，最高法院虽未对案件类型作官方区分，但在本开庭期实质性地承担了大量刑事法解释工作，刑事司法已成为其司法审查的核心议题之一。",
+      "summaryEN": "",
+      "whyMattersCN": "本篇摘要为观察美国最高法院司法议程结构提供了关键量化依据。最高法院在单期内将近百分之三十的审查资源投入纯刑事案件，折射出其在证据规则、实体定罪及检诉权力边界等维度的审查倾斜。其中First Choice v. Davenport案将州总检察长调查传票的起诉资格予以民事定性，触及了地方行政权与公民权利的程序博弈，对比较法上的行政调查与司法审查互动研究极具参考价值。对中国学界研究最高审判机关案件分配机制及刑事政策导向亦有借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Increasing popularity of smart glasses could lead to more workplace disputes",
+      "titleCN": "Increasing popularity of smart glasses could lead to more workplace disputes",
+      "url": "https://www.abajournal.com/news/article/increasing-popularity-of-smart-glasses-could-lead-to-more-workplace-disputes/",
+      "date": "2026-07-17",
+      "addedAt": "2026-07-17T03:45:46.054Z",
+      "summaryCN": "随着智能眼镜在工作场所的普及，雇主可能面临更多诉讼。美国律师协会指出， attorneys 预期相关纠纷将增加。在一项联邦诉讼中，智能眼镜的隐蔽录像功能引发了隐私与数据合规争议。员工佩戴此类设备可能无意间记录敏感商业信息或同事互动，从而引发违反监听法、侵犯隐私权及违反企业保密义务的法律指控。此类技术进步对现有雇佣法与数据保护框架构成挑战，迫使企业重新评估工作场所的监控政策与合规边界，以防范潜在的法律风险。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及了可穿戴技术与职场监控交织时的前沿法律问题。核心制度影响在于其挑战了美国联邦《电子通信隐私法》及各州双向同意录音法在隐蔽式穿戴设备场景下的适用边界。从比较法视角看，这对中国法具有重要启发：中国《个人信息保护法》关于职场个人信息处理的合法性基础与最小必要原则，以及民法典对隐私权的保护，均面临智能眼镜无感采集的执法难题。企业必须更新内部合规制度，明确工作场所穿戴设备的禁用场景与数据处理规则，否则极易引发劳动争议与侵权诉讼。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "智能眼镜",
+          "class": "tech"
+        },
+        {
+          "name": "职场隐私",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The administrative agency cases were not the court’s only significant separation of powers decisions this term",
+      "titleCN": "The administrative agency cases were not the court’s only significant separation of powers decisions this term",
+      "url": "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/",
+      "date": "2026-07-16",
+      "addedAt": "2026-07-17T03:45:46.054Z",
+      "summaryCN": "美国最高法院本审理期作出了多项重要分权判决。在特朗普诉斯劳特案和特朗普诉库克案中，法院处理了国会与行政分支行政机构之间的关系。此外，在拉瑟福德诉美国案和费尔南德斯诉美国案这两起较少被关注的案件中，大法官们审视了国会与司法部门之间的权力分配。尽管这两起案件作为分权判决未获充分重视，但它们对国会与法院的权力平衡产生了实质性影响，具有深远的宪政意义。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道触及美国宪政核心的分权制衡原则，特别是立法权与司法权、行政权之间的边界划分。特朗普相关案深化了对国会规制行政机构权力的审查标准；而拉瑟福德案和费尔南德斯案则触及国会是否逾越界限干涉司法核心职能的宪法问题。这为比较法研究提供了鲜活素材，尤其对中国行政法学界探讨人大监督权与独立审判权之边界、行政机关规章制定权的合宪性审查标准具有制度参考价值，提示需警惕立法权对司法程序实体性干预的合宪性边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "分权制衡",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "‘Extremely excessive’ research, fees alleged in ‘It Ends With Us’ litigation",
       "titleCN": "‘Extremely excessive’ research, fees alleged in ‘It Ends With Us’ litigation",
       "url": "https://www.abajournal.com/news/article/extremely-excessive-research-fees-alleged-in-it-ends-with-us-litigation/",
@@ -1511,6 +1580,29 @@
   ],
   "research": [
     {
+      "title": "Linguistics and Textualism",
+      "titleCN": "Linguistics and Textualism",
+      "url": "https://nyulawreview.org/issues/volume-101-number-3/linguistics-and-textualism/",
+      "date": "2026-06-30",
+      "addedAt": "2026-07-17T03:46:23.919Z",
+      "summaryCN": "本文探讨语言学是否应影响文本主义解释方法。当法律理论涉及其它学科领域时，该学科通常能提供启发，如历史学之于原旨主义或经济学之于法经济学。尽管文本主义裁判与学术争议中充斥着大量关于语言的论断，但作为科学研究人类语言的语言学却较少被引入。当前，批评者开始质疑文本主义者是否在缺乏科学语言学支撑的情况下，对词语含义作出主观假设。文章旨在揭示语言学如何修正文本主义的内在缺陷，并为法律解释提供跨学科的科学视角。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的贡献在于将语言学科学引入法律解释方法，反思美国法中文本主义的认识论基础。传统文本解释常依赖法官日常语感，而本文强调运用语言学方法（如语义学、语用学）分析法律文本，为克服解释的主观性提供了新路径。对中国法而言，该方法具有显著比较法价值。我国在民法典等法律适用与语义解释中，同样面临如何科学界定法律概念内涵与外延的问题。引入语言学分析方法，有助于完善中国法律解释学体系，提升裁判文书说理的客观性与严谨性，并拓展法学与交叉学科的研究边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律解释",
+          "class": ""
+        },
+        {
+          "name": "文本主义",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "The Supreme Court Under Threat: Early Lessons in Judicial Self-Protection",
       "titleCN": "The Supreme Court Under Threat: Early Lessons in Judicial Self-Protection",
       "url": "https://harvardlawreview.org/print/vol-139/the-supreme-court-under-threat-early-lessons-in-judicial-self-protection/",
@@ -3001,7 +3093,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-16T03:48:30.607Z",
+    "updatedAt": "2026-07-17T03:46:53.442Z",
     "generator": "ai"
   }
 }
