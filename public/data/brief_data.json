@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "title": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
+      "titleCN": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
+      "url": "https://www.scotusblog.com/2026/07/in-birthright-citizenship-dissent-justice-thomas-stakes-out-an-ideological-claim-of-who-counts-a/",
+      "date": "2026-07-17",
+      "addedAt": "2026-07-18T03:40:59.964Z",
+      "summaryCN": "最高法院就特朗普诉芭芭拉案作出裁决，以五比多数判定特朗普限制出生公民权的行政令违反第十四修正案公民条款，阻止了联邦政府执行该令。卡瓦诺大法官对此持保留意见。值得关注的是，托马斯与戈萨奇大法官在异议中将此案超越第十四修正案文本争议，上升为关于美国人身份界定的意识形态之战。该案落槌虽明确了行政令的违法性，却暴露出最高法院内部关于国籍根基与司法审查边界的深刻分歧。",
+      "summaryEN": "",
+      "whyMattersCN": "",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律动态",
+          "class": ""
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Three profound constitutional provisions – and how the Supreme Court has avoided dealing with them",
+      "titleCN": "Three profound constitutional provisions – and how the Supreme Court has avoided dealing with them",
+      "url": "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/",
+      "date": "2026-07-17",
+      "addedAt": "2026-07-18T03:40:59.964Z",
+      "summaryCN": "美国宪法部分条款备受最高法院关注，如第一、第二和第四修正案，但第十三修正案的“例外条款”、第四条的“保障条款”以及第三修正案却长期处于雷达之下。这些条款影响深远，却极少被最高法院实质审理。文章指出，当这些罕见条款偶尔出现时，最高法院的回避态度或处理方式，深刻反映了大法官对自身司法角色的认知及法院的权力边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本文揭示了美国最高法院通过程序性门槛和政治问题原则规避特定宪法争议的司法哲学，为比较宪法研究提供了重要切入视角。第十三修正案例外条款涉及强迫劳动的合宪边界，第四条保障条款关乎共和政体的司法可诉性，第三修正案则牵涉军事权力与私权冲突。这对中国法讨论基本权利的第三人效力、国家权力的司法审查边界以及政治问题原则的适用具有显著比较法启发，也为研究宪法 dormant clauses 的激活机制提供了实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lone Star State sees rise in complaints of non-lawyers practicing without a license",
+      "titleCN": "Lone Star State sees rise in complaints of non-lawyers practicing without a license",
+      "url": "https://www.abajournal.com/news/article/lone-star-state-sees-rise-in-complaints-of-non-lawyers-practicing-without-a-license/",
+      "date": "2026-07-18",
+      "addedAt": "2026-07-18T03:40:59.964Z",
+      "summaryCN": "得克萨斯州近期针对非律师人员无证从事法律服务的投诉数量显著上升。这一趋势部分由移民法律援助需求激增所推动。非律师人员在未取得执业资格的情况下提供法律咨询与服务，直接触及未经授权执业法律的监管红线。此举不仅违反州律师协会的执业准入规定，更可能因专业能力不足损害移民申请人合法权益。州监管机构正面临加大执法力度与满足庞大移民援助需求之间的双重挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件触及未经授权执业法律（UPL）这一核心监管制度，凸显了法律服务准入门槛与底层援助需求之间的张力。在比较法层面，其为中国法带来启发：面对庞大的移民或基层法律服务需求，如何界定非律师人员合法辅助的边界。中国基层法律服务工作者制度同样面临类似准入与规范问题。美国各州对UPL的严格执法标准与消费者保护机制，为我国规范法律服务市场、防范非专业人士越界提供法律咨询、完善法律服务分级监管体系提供了有价值的制度对照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "非律师执业",
+          "class": ""
+        },
+        {
+          "name": "法律服务监管",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "The court’s criminal law term: overview and observations",
       "titleCN": "The court’s criminal law term: overview and observations",
       "url": "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
@@ -1580,6 +1645,29 @@
   ],
   "research": [
     {
+      "title": "Judging the Judgement Rule: The Case for Regulating the Use of Museum Deaccessioning",
+      "titleCN": "Judging the Judgement Rule: The Case for Regulating the Use of Museum Deaccessioning",
+      "url": "https://pennlawreview.com/2026/07/12/judging-the-judgement-rule-the-case-for-regulating-the-use-of-museum-deaccessioning/",
+      "date": "2026-07-12",
+      "addedAt": "2026-07-18T03:41:32.650Z",
+      "summaryCN": "本文探讨了博物馆作为公益慈善组织在出售其馆藏艺术品后，如何合法使用所获资金这一争议问题。博物馆通常将藏品视为为公众利益而持有的信托财产，当博物馆决定正式注销并出售藏品时，相关资金的使用规则引发了持续讨论。文章审视了现有的行业自律规范与信托法理，论证了应当对博物馆出售藏品资金的使用进行更为明确的法律监管，以防公益属性受损，并提出了完善相关监管规则的法律建议。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究触及信托法与慈善法的交叉地带，对博物馆藏品的信托性质与资产处置限制进行了深入剖析。其制度价值在于反思仅依靠博物馆行业自律规范的不足，探讨如何通过法律监管确保藏品出售收益继续用于公益目的。这为中国慈善组织财产_scope_管理、非营利法人的资产锁定规则以及公益信托制度的完善提供了比较法参考。其从信托信义义务角度分析博物馆处分行为的研究方法，对国内构建类似文化机构的资产处置合规审查机制具有借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "信托法",
+          "class": ""
+        },
+        {
+          "name": "非营利组织",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Linguistics and Textualism",
       "titleCN": "Linguistics and Textualism",
       "url": "https://nyulawreview.org/issues/volume-101-number-3/linguistics-and-textualism/",
@@ -3093,7 +3181,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-17T03:46:53.442Z",
+    "updatedAt": "2026-07-18T03:41:55.497Z",
     "generator": "ai"
   }
 }
