@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
+      "titleCN": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
+      "url": "https://www.abajournal.com/news/article/judge-regrets-entitled-little-snot-comment-but-still-fit-for-the-bench/",
+      "date": "2026-07-19",
+      "addedAt": "2026-07-19T04:02:48.324Z",
+      "summaryCN": "佛罗里达州杰克逊维尔一名法官在多起案件中称女性当事人为自以为是的小屁孩，并发表带有偏见的言论，引发对其司法操守的质疑。该法官的辩护律师表示，法官对此言论感到懊悔，但认为其依然适合继续担任法官职务。此事件触及司法伦理与法官行为准则的边界，核心争议在于法官庭外或庭审中的不当言辞是否构成足以剥夺其司法资格的偏见。目前案件涉及司法行为审查程序，相关辩护强调悔过态度与司法能力。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国司法行为准则中关于法官公正性与中立性的核心制度要求。法官的不当言辞可能违反美国律师协会关于司法操守的示范准则，引发司法纪律审查。对比较法研究而言，此案展示了美国通过州级司法纪律委员会监督法官言行的机制，对比中国法官法及相关纪律处分条例，可为司法人员行为边界与责任追究提供制度镜鉴。此外，案件凸显司法信任与法官个人言论自由的张力，具有显著的法理与实践探讨价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": ""
+        },
+        {
+          "name": "法官惩戒",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Top prosecutor for International Criminal Court accused of sexual misconduct",
+      "titleCN": "Top prosecutor for International Criminal Court accused of sexual misconduct",
+      "url": "https://www.abajournal.com/news/article/top-prosecutor-for-international-criminal-court-accused-of-sexual-misconduct/",
+      "date": "2026-07-19",
+      "addedAt": "2026-07-19T04:02:48.324Z",
+      "summaryCN": "国际刑事法院（ICC）首席检察官卡里姆·汗面临性不当行为指控，ICC成员国将就是否罢免其职务进行投票。作为负责追究国际严重罪行责任的最高检察官，此指控及潜在的罢免程序对该机构领导层的稳定性构成直接冲击。此案涉及国际公务员的内部纪律问责与机构治理机制，具体处理程序及最终投票结果将决定ICC未来刑事起诉工作的独立性与连续性。",
+      "summaryEN": "",
+      "whyMattersCN": "本案核心在于国际组织高级官员的问责机制与机构独立性。国际刑事法院首席检察官不仅主导全球重大暴行调查，其个人操守更直接关乎机构的司法公信力。成员国启动罢免投票，触及国际公务员的纪律监管与职权终止规则。从比较法角度看，该案对探讨国际机构内部合规审查、高级官员的弹劾免职程序，以及如何在追责与保障检察官决策独立性之间取得平衡具有重要启示，也凸显了国际组织治理体系的制度性脆弱。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际刑事法院",
+          "class": "international"
+        },
+        {
+          "name": "检察官问责",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Big Tech companies facing new wave of lawsuits over copyright and AI",
+      "titleCN": "Big Tech companies facing new wave of lawsuits over copyright and AI",
+      "url": "https://www.abajournal.com/news/article/big-tech-companies-facing-new-wave-of-lawsuits-over-copyright-and-AI/",
+      "date": "2026-07-19",
+      "addedAt": "2026-07-19T04:02:48.324Z",
+      "summaryCN": "据ABA Journal报道，大型科技公司正面临新一轮诉讼浪潮。此次诉讼主体不仅包括版权所有者，还扩大至企业股东。股东们指控这些科技公司在训练人工智能模型时，擅自使用受版权保护的材料，涉嫌侵犯知识产权。这一趋势表明，AI训练数据的合法性问题已引发多方利益相关者的法律行动。诉讼的核心争议在于未经许可抓取数据训练AI是否构成合理使用，这将对未来AI产业的合规边界产生直接影响。",
+      "summaryEN": "",
+      "whyMattersCN": "本案标志着AI版权争议从直接权利人维权升级为公司治理层面的股东诉讼，具有显著的科技法与公司法交叉价值。在制度影响上，诉讼直击合理使用原则在生成式AI场景下的适用边界，考验司法如何在技术创新与产权保护间重塑利益平衡规则。从比较法视角看，美国版权局与法院对AI训练数据合规性的态度，对中国法下完善《生成式人工智能服务管理暂行办法》及著作权法相关司法解释具有重要借鉴意义。股东派生诉讼的引入也为科技公司合规敲响警钟，凸显数据合规不仅关乎外部侵权风险，更直接影响内部治理与董监高责任。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "版权侵权",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
       "titleCN": "In birthright citizenship dissent, Justice Thomas stakes out an ideological claim of who counts as an American",
       "url": "https://www.scotusblog.com/2026/07/in-birthright-citizenship-dissent-justice-thomas-stakes-out-an-ideological-claim-of-who-counts-a/",
@@ -1645,6 +1714,29 @@
   ],
   "research": [
     {
+      "title": "Zombie Litigation: Claim Aggregation, Litigant Autonomy, and Funders’ Intermeddling",
+      "titleCN": "Zombie Litigation: Claim Aggregation, Litigant Autonomy, and Funders’ Intermeddling",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling/?utm_source=rss&utm_medium=rss&utm_campaign=zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling",
+      "date": "2026-05-11",
+      "addedAt": "2026-07-19T04:03:31.115Z",
+      "summaryCN": "本文突破了近年来诉讼融资领域仅关注资金协议披露问题的局限，转向探讨其对民事司法体系产生的系统性影响。论文聚焦请求权聚合、当事人自治权受损以及第三方资金提供者不当干预三大核心问题。作者认为，资本介入不仅改变个案走向，更在宏观层面异化了集体诉讼等程序机制。文章深入剖析了资金方干预如何侵蚀原告自主决策权，并据此提出完善监管框架的论证，旨在防范资本力量过度吞噬司法公正，确保民事司法系统的独立性。",
+      "summaryEN": "",
+      "whyMattersCN": "该文的价值在于将诉讼融资的规制重心从微观的程序性披露转移到宏观的系统性风险防范。在制度层面，文章直击美国请求权聚合与集体诉讼中的当事人自治异化难题，揭示了第三方资本深度介入导致的代理成本与利益冲突。这为中国正在探索的诉讼融资及类似集体诉讼制度的监管提供了比较法启示：监管不仅需聚焦信息披露，更应设立资金方干预当事人处分权的防范机制。其法经济学分析视角对完善我国多元解纷与司法投融资边界界定具重要参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "诉讼融资",
+          "class": ""
+        },
+        {
+          "name": "第三方资助",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Judging the Judgement Rule: The Case for Regulating the Use of Museum Deaccessioning",
       "titleCN": "Judging the Judgement Rule: The Case for Regulating the Use of Museum Deaccessioning",
       "url": "https://pennlawreview.com/2026/07/12/judging-the-judgement-rule-the-case-for-regulating-the-use-of-museum-deaccessioning/",
@@ -3181,7 +3273,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-18T03:41:55.497Z",
+    "updatedAt": "2026-07-19T04:04:00.799Z",
     "generator": "ai"
   }
 }
