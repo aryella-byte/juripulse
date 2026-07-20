@@ -1,26 +1,72 @@
 {
   "news": [
     {
-      "title": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
-      "titleCN": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
-      "url": "https://www.abajournal.com/news/article/judge-regrets-entitled-little-snot-comment-but-still-fit-for-the-bench/",
-      "date": "2026-07-19",
-      "addedAt": "2026-07-19T04:02:48.324Z",
-      "summaryCN": "佛罗里达州杰克逊维尔一名法官在多起案件中称女性当事人为自以为是的小屁孩，并发表带有偏见的言论，引发对其司法操守的质疑。该法官的辩护律师表示，法官对此言论感到懊悔，但认为其依然适合继续担任法官职务。此事件触及司法伦理与法官行为准则的边界，核心争议在于法官庭外或庭审中的不当言辞是否构成足以剥夺其司法资格的偏见。目前案件涉及司法行为审查程序，相关辩护强调悔过态度与司法能力。",
+      "title": "The public’s view of the Supreme Court",
+      "titleCN": "The public’s view of the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/07/the-publics-view-of-the-supreme-court/",
+      "date": "2026-07-16",
+      "addedAt": "2026-07-20T04:12:24.763Z",
+      "summaryCN": "本文探讨了最高法院裁决与公众舆论的契合度这一核心宪政问题。马凯特法学院每年开展六次全国性民意调查，不仅追踪公众对最高法院的认可度，还在案件宣判前收集公众对未决案件预期结果的看法。作者聚焦于近期审理期内六起重大案件宣判前的公众意见，以及一起较早判决后的舆论反馈，旨在通过实证数据测量司法裁判与民众预期的匹配程度。该研究为了解最高法院的民意基础及司法审查的实际社会接受度提供了量化依据。",
       "summaryEN": "",
-      "whyMattersCN": "本案触及美国司法行为准则中关于法官公正性与中立性的核心制度要求。法官的不当言辞可能违反美国律师协会关于司法操守的示范准则，引发司法纪律审查。对比较法研究而言，此案展示了美国通过州级司法纪律委员会监督法官言行的机制，对比中国法官法及相关纪律处分条例，可为司法人员行为边界与责任追究提供制度镜鉴。此外，案件凸显司法信任与法官个人言论自由的张力，具有显著的法理与实践探讨价值。",
+      "whyMattersCN": "该新闻引入了实证研究方法量化分析司法行为，触及司法独立与民主问责的深层宪政争议。司法判决应否顺应民意是各国司法制度的痛点。马凯特民调通过判决前后的公众意见追踪，提供了一种测量司法社会接受度的新评估机制。这对研究 judicial review 合法性具有制度启发。在比较法层面，该研究方法为中国法院评估裁判社会效果、完善民意沟通机制及提升司法公信力提供了实证分析借鉴，有助于反思司法裁判与公共理性的互动模式。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "司法伦理",
-          "class": ""
+          "name": "美国最高法院",
+          "class": "constitutional"
         },
         {
-          "name": "法官惩戒",
-          "class": ""
+          "name": "公众舆论",
+          "class": "constitutional"
         }
       ],
       "quality_score": 6,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Trump administration asks justices to have lower court reconsider protected status for Venezuelan and Haitian nationals",
+      "titleCN": "Trump administration asks justices to have lower court reconsider protected status for Venezuelan and Haitian nationals",
+      "url": "https://www.scotusblog.com/2026/07/trump-administration-asks-justices-to-have-lower-court-reconsider-protected-status-for-venezuela/",
+      "date": "2026-07-15",
+      "addedAt": "2026-07-20T04:12:24.763Z",
+      "summaryCN": "特朗普政府要求最高法院指令第九巡回上诉法院重新审查一项裁决。该案挑战时任国土安全部部长诺姆终止为在美委内瑞拉和海地国民提供临时保护身份的决定。前部长马约卡斯曾于2021和2023年指定并延长该身份，计划至2025年10月截止。该程序旨在保护无法安全返乡的外国国民在美居留和工作权。政府现寻求通过最高法院推翻下级法院维持保护的相关裁决，案件核心在于行政当局终止此项移民保护项目的合法性及司法审查范围。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国移民法中临时保护身份制度的行政裁量权边界与司法审查标准。核心法律争议在于现任政府是否有权直接推翻前任政府作出的移民保护期限延长决定，触及行政法中的溯及力与信赖利益保护原则。此案不仅关乎数十万移民的法定居留权，更对国土安全部终止移民保护程序的合法性审查具有先例意义。从比较法视角看，该案反映了行政权力在移民政策上的连续性与断裂问题，对中国法研究中的行政行为废止与信赖保护原则的适用边界探讨具有深刻的借鉴价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": ""
+        },
+        {
+          "name": "临时保护身份",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lawyers for low-income clients strike in NYC",
+      "titleCN": "Lawyers for low-income clients strike in NYC",
+      "url": "https://www.abajournal.com/news/article/lawyers-for-low-income-clients-strike-in-nyc/",
+      "date": "2026-07-20",
+      "addedAt": "2026-07-20T04:12:24.763Z",
+      "summaryCN": "据ABA Journal报道，2026年7月20日，纽约布鲁克林和皇后区的法律援助机构（包括公设辩护人、律师助理及社工等）举行罢工。这些机构主要为低收入群体提供法律辩护服务。此次罢工源于法律援助人员长期面临的工作量过大、薪酬待遇不佳以及资源短缺等问题。罢工直接影响了贫困刑事被告人的法律服务获取，引发了关于如何保障司法系统中弱势群体合法权益的广泛讨论，并促使相关部门重新审视公共辩护系统的资金支持与运行机制。",
+      "summaryEN": "",
+      "whyMattersCN": "此事件触及刑事司法中的宪法性权利保障问题，即贫穷被告人获得有效法律帮助的权利。在美国法语境下，吉迪恩诉温赖特案确立的公设辩护制度是保障此项权利的核心，但长期的资源匮乏导致系统性失效。对中国法的启发在于：虽然我国刑事法律援助覆盖率通过认罪认罚从宽等制度大幅提升，但在值班律师实质化辩护、法律援助质量监控及经费保障机制上仍需完善。比较法视角表明，仅靠立法赋权不足以实现司法正义，必须建立与案件量匹配的财政拨款与职业保障机制，否则法律援助将流于形式。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公设辩护",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
       "source": "ABA Journal"
     },
     {
@@ -1714,6 +1760,29 @@
   ],
   "research": [
     {
+      "title": "Revisiting Robinson: How Courts Can Preserve the Status Crimes Doctrine After Grants Pass",
+      "titleCN": "Revisiting Robinson: How Courts Can Preserve the Status Crimes Doctrine After Grants Pass",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/4",
+      "date": "2026-04-29",
+      "addedAt": "2026-07-20T04:13:15.472Z",
+      "summaryCN": "在2024年格兰茨帕斯案判决前，无家可归者的辩护律师常依据1962年罗宾逊案确立的身份犯罪原则，主张惩罚在公共场所睡觉等维持生命行为的反无家可归法违宪。该原则源自美国宪法第八修正案，即惩罚个人无辜或非自愿获得的身份属残忍且异常的刑罚。本文探讨在最高法院作出最新判决后，法院应如何重新审视并维护身份犯罪原则，以确保对无辜生存行为的惩罚仍受违宪审查。",
+      "summaryEN": "",
+      "whyMattersCN": "本文聚焦美国宪法第八修正案残忍与异常惩罚条款的解释边界，对身份犯罪原则在最新判例后的适用进行教义学重构。其制度贡献在于厘清惩罚身份与惩罚行为的合宪性界限，为弱势群体提供权利救济路径。对比较法研究而言，该问题探讨了对非自愿生存状态施加刑事处罚的正当性危机，为中国刑法中违法性认识、社会防卫与行政处罚的比例原则审查提供了镜鉴，具有显著的跨法域人权保障启示。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法第八修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "身份犯罪原则",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Zombie Litigation: Claim Aggregation, Litigant Autonomy, and Funders’ Intermeddling",
       "titleCN": "Zombie Litigation: Claim Aggregation, Litigant Autonomy, and Funders’ Intermeddling",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling/?utm_source=rss&utm_medium=rss&utm_campaign=zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling",
@@ -3273,7 +3342,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-19T04:04:00.799Z",
+    "updatedAt": "2026-07-20T04:14:02.044Z",
     "generator": "ai"
   }
 }
