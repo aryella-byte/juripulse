@@ -1,14 +1,14 @@
 {
   "news": [
     {
-      "title": "The public’s view of the Supreme Court",
-      "titleCN": "The public’s view of the Supreme Court",
-      "url": "https://www.scotusblog.com/2026/07/the-publics-view-of-the-supreme-court/",
-      "date": "2026-07-16",
-      "addedAt": "2026-07-20T04:12:24.763Z",
-      "summaryCN": "本文探讨了最高法院裁决与公众舆论的契合度这一核心宪政问题。马凯特法学院每年开展六次全国性民意调查，不仅追踪公众对最高法院的认可度，还在案件宣判前收集公众对未决案件预期结果的看法。作者聚焦于近期审理期内六起重大案件宣判前的公众意见，以及一起较早判决后的舆论反馈，旨在通过实证数据测量司法裁判与民众预期的匹配程度。该研究为了解最高法院的民意基础及司法审查的实际社会接受度提供了量化依据。",
+      "title": "When it comes to getting the Supreme Court’s attention, does one state have an edge?",
+      "titleCN": "When it comes to getting the Supreme Court’s attention, does one state have an edge?",
+      "url": "https://www.scotusblog.com/2026/07/when-it-comes-to-getting-the-supreme-courts-attention-does-one-state-have-an-edge/",
+      "date": "2026-07-20",
+      "addedAt": "2026-07-21T03:54:17.684Z",
+      "summaryCN": "SCOTUSblog分析发现，在2025-26庭审期中，德克萨斯州居民在最高法院诉讼中的出庭频率显著高于其他州。在35起单方为个人或家庭的辩论案件中，有5起涉及德州人。其中，德州男子阿里·达尼亚尔·赫马尼在诉赫马尼案中胜诉，最高法院裁定联邦法律禁止非法药物使用者持有枪支的规定在适用于吸食大麻的赫马尼时违反了第二修正案，体现了对枪支权利的进一步保护。",
       "summaryEN": "",
-      "whyMattersCN": "该新闻引入了实证研究方法量化分析司法行为，触及司法独立与民主问责的深层宪政争议。司法判决应否顺应民意是各国司法制度的痛点。马凯特民调通过判决前后的公众意见追踪，提供了一种测量司法社会接受度的新评估机制。这对研究 judicial review 合法性具有制度启发。在比较法层面，该研究方法为中国法院评估裁判社会效果、完善民意沟通机制及提升司法公信力提供了实证分析借鉴，有助于反思司法裁判与公共理性的互动模式。",
+      "whyMattersCN": "本案的核心价值在于第二修正案与涉毒枪支管控的宪法边界。最高法院将禁枪条款的适用范围限定在历史传统 analogous 的情形，为审查非暴力毒品使用者的持枪权提供了判例支撑。制度层面，该案延续了布鲁恩案的历史传统审查框架，进一步削弱了联邦依据Gun Control Act对非暴力前科或受控物质使用者施加绝对持枪禁令的合宪性基础。比较法视角下，此案对理解美国宪法基本权利的扩张逻辑及毒品政策与枪支管控的交叉监管具有实证意义，也为审查行政分支剥夺个人权利的法定授权提供了宪法标尺。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -16,11 +16,57 @@
           "class": "constitutional"
         },
         {
-          "name": "公众舆论",
+          "name": "第二修正案",
           "class": "constitutional"
         }
       ],
-      "quality_score": 6,
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lawyer charged with allegedly bringing drug-soaked legal paperwork into jail",
+      "titleCN": "Lawyer charged with allegedly bringing drug-soaked legal paperwork into jail",
+      "url": "https://www.abajournal.com/news/article/georgia-lawyer-charged-with-bringing-drug-soaked-legal-paperwork-into-jail/",
+      "date": "2026-07-21",
+      "addedAt": "2026-07-21T03:54:17.684Z",
+      "summaryCN": "佐治亚州一名律师因涉嫌向监狱内夹带浸有危险合成毒品的法律文件而面临刑事指控。据调查，该律师利用律师合法探视特权，将掺有违禁药物的法律文书带入看守所交给在押人员。此案揭示了看守所安全检查与律师执业权利之间的张力，目前检方已启动相关刑事诉讼程序，涉事律师除面临走私毒品等刑事处罚外，还将受到律师协会的纪律审查。该事件为监狱管理与法律职业伦理交叉领域的典型案例。",
+      "summaryEN": "",
+      "whyMattersCN": "本案对刑事司法程序与律师执业监管制度具有警示意义。首先，它触及律师会见权与监所安全检查的平衡边界。律师携带的法律文件通常享有免于常规拆封检查的特权，此案可能促使监所修改规则，引入更严格的无损检测设备或审查程序。其次，在职业伦理层面，该行为涉嫌违反律师执业操守，将触发州律师协会的纪律处分乃至吊销执照程序。在比较法视角下，这提示我国在看守所律师会见制度设计中，亦需防范律师特权被滥用的合规风险，完善违禁品查控机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师违规",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Supreme Court agrees to hear case on whether airplane was improperly seized for transporting a six-pack of beer",
+      "titleCN": "Supreme Court agrees to hear case on whether airplane was improperly seized for transporting a six-pack of beer",
+      "url": "https://www.scotusblog.com/2026/07/supreme-court-agrees-to-hear-case-on-whether-airplane-was-improperly-seized-s/",
+      "date": "2026-07-20",
+      "addedAt": "2026-07-21T03:54:17.684Z",
+      "summaryCN": "美国最高法院同意在2026至2027庭审期审理Jouppi诉阿拉斯加州案。阿拉斯加丛林飞行员Ken Jouppi因运载乘客进入禁酒村落，被检方没收价值9.5万美元的飞机，检方理由是其应知乘客携有六罐啤酒。Jouppi主张该没收行为违反美国宪法第八修正案对过度罚款的禁令。此举标志着最高法院将审查民事资产没收制度与宪法比例原则之间的冲突。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法第八修正案过度罚款条款在民事资产没收中的适用边界，具有重大制度影响。核心争议在于：没收财产价值与违法行为的轻微程度之间存在极端比例失衡时，是否违宪。民事资产没收允许执法机关绕过刑事定罪直接剥夺财产，长期面临正当程序与公权滥用的质疑。此案将为法院划定公权力逐利性执法的红线，对中国行政处罚法中的过罚相当原则及涉案财物处置制度的完善具有显著的比较法借鉴价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法第八修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "民事资产没收",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
       "source": "SCOTUSblog"
     },
     {
@@ -1760,6 +1806,29 @@
   ],
   "research": [
     {
+      "title": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
+      "titleCN": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
+      "url": "https://michiganlawreview.org/the-federal-general-counsel-law-and-our-democracy-at-a-crossroads/",
+      "date": "2025-11-09",
+      "addedAt": "2026-07-21T03:55:10.970Z",
+      "summaryCN": "本文是美国消费者金融保护局（CFPB）总法律顾问于2025年1月7日发表的演讲。论文探讨了联邦政府律师在确保法律得到忠实执行方面的关键作用，以应对当代民主面临的挑战。文章指出，在民主发展的十字路口，政府律师不仅是法律技术的执行者，更是维护法治与民主制度的守门人。作者结合联邦行政实践，论证了总法律顾问如何在复杂的政治与法律环境中平衡行政诉求与法律底线，确保行政行为具备合法性与正当性，最终得出强化联邦律师职业独立性有助于捍卫民主法治的结论。",
+      "summaryEN": "",
+      "whyMattersCN": "该文深刻触及行政法与政府律师职业伦理的核心议题。在以美国CFPB为具体监管场景的分析中，文章揭示了总法律顾问制度在约束行政裁量权、防止法律工具化方面的制度价值。这对比较法研究极具启发性：中国在构建涉外企业合规与政府法律顾问制度时，可借鉴其强调法律顾问独立性与底线思维的理念。研究方法上，文章通过行政监管高管的实务视角，将宏观民主法治命题具象化为微观的政府律师行为准则，为探讨行政机关内部法律监督机制的有效运转提供了真实的实证素材与制度参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": ""
+        },
+        {
+          "name": "政府律师",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Michigan Law Review"
+    },
+    {
       "title": "Revisiting Robinson: How Courts Can Preserve the Status Crimes Doctrine After Grants Pass",
       "titleCN": "Revisiting Robinson: How Courts Can Preserve the Status Crimes Doctrine After Grants Pass",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/4",
@@ -3342,7 +3411,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-20T04:14:02.044Z",
+    "updatedAt": "2026-07-21T03:55:46.316Z",
     "generator": "ai"
   }
 }
