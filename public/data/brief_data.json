@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The history the court would rather not see",
+      "titleCN": "The history the court would rather not see",
+      "url": "https://www.scotusblog.com/2026/07/the-history-the-court-would-rather-not-see/",
+      "date": "2026-07-21",
+      "addedAt": "2026-07-22T03:56:05.090Z",
+      "summaryCN": "2021年布鲁恩案确立了枪支法律必须与国家历史传统相一致方能通过第二修正案审查的测试。该要求迫使现代枪支法的辩护者寻找历史相似法规。然而该测试自诞生起便引发诸多疑问：现行法律与历史法律需相似到何种程度？需多少相似法规才算符合传统？寻找相似法规时哪些历史时期具有相关性？随着下级法院适用该测试，相关争议与司法混乱正持续发酵。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及美国宪法第二修正案的核心解释方法论转型。布鲁恩案确立的历史传统测试摒弃了此前的利益平衡审查，要求法官进行历史考据，这不仅造成下级法院在同类案件中裁判尺度不一，更引发了关于司法权边界的深度宪政争议。从比较法视角看，该判例展示了原旨主义解释方法在现代司法实践中的具体应用及其操作困境，为研究历史解释方法的局限性、司法可预期性以及权利保障的教义学路径提供了极具价值的对照样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Attorneys begin filing lawsuits over contaminated lettuce linked to outbreak of cyclospora",
+      "titleCN": "Attorneys begin filing lawsuits over contaminated lettuce linked to outbreak of cyclospora",
+      "url": "https://www.abajournal.com/news/article/attorneys-begin-filing-lawsuits-over-contaminated-lettuce/",
+      "date": "2026-07-22",
+      "addedAt": "2026-07-22T03:56:05.090Z",
+      "summaryCN": "据ABA Journal报道，因卷心菜沙拉引发环孢子虫爆发，律师已对Taylor Farms提起至少四起消费者诉讼。原告指控该供应商生产的切碎冰山生菜受到污染，导致消费者感染。这些诉讼标志着针对此次食源性疾病事件的司法维权程序正式启动，案件焦点将集中于产品责任认定、因果关系证明及损害赔偿。",
+      "summaryEN": "",
+      "whyMattersCN": "此系列诉讼集中展现了美国产品责任法与食源性疾病侵权诉讼的实践运作。案件涉及的核心法律问题包括大规模侵权中的因果关系证明、缺陷产品认定以及食品供应链中供应商的严格责任。对中国法具有显著的比较法启发：中国民法典及食品安全法框架下的惩罚性赔偿制度在应对类似食安事件时，可借鉴美国在产品溯源机制、消费者举证责任分配及集团诉讼模式上的经验。该案反映出通过严格民事责任倒逼上游农业企业提升食品安全合规标准的重要监管逻辑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "产品责任",
+          "class": "constitutional"
+        },
+        {
+          "name": "食品安全法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Heller and Bruen are here to stay",
+      "titleCN": "Heller and Bruen are here to stay",
+      "url": "https://www.scotusblog.com/2026/07/heller-and-bruen-are-here-to-stay-/",
+      "date": "2026-07-21",
+      "addedAt": "2026-07-22T03:56:05.090Z",
+      "summaryCN": "2025年十月庭审期是美国第二修正案的标志性时期。在合众国诉赫马尼案中，最高法院九名大法官一致裁定，仅因偶尔使用大麻而剥夺公民持枪权违反第二修正案。在沃尔福德诉洛佩兹案中，法院判定夏威夷州在公共场所推定禁止携带枪支的禁令违宪，挫败了规避第二修正案的新颖立法企图。这些判决进一步确立并充实了现行枪支权利学说的边界，巩固了自2008年哥伦比亚特区诉海勒案以来的宪法持枪权保障。",
+      "summaryEN": "",
+      "whyMattersCN": "该系列判决深刻影响美国宪法第二修正案的适用边界与司法审查标准。赫马尼案明确了非暴力或偶发违法行为不得作为自动褫夺持枪权的法定事由，触及了基本权利限制与治安管理之间的法理张力。沃尔福德案则直接否定了地方立法机关通过新颖定性（如公共场所推定禁止）实质性架空持枪权的做法，彰显了最高法院对海勒案和布鲁恩案历史文本主义解释方法的坚守。从比较法视角观察，这种通过宪法基本权利约束地方公共卫生与公共安全立法的进路，以及大麻合法化与枪支管控的交叉争议，为各国处理宪法权利保障与行政规制关系提供了重要制度参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "When it comes to getting the Supreme Court’s attention, does one state have an edge?",
       "titleCN": "When it comes to getting the Supreme Court’s attention, does one state have an edge?",
       "url": "https://www.scotusblog.com/2026/07/when-it-comes-to-getting-the-supreme-courts-attention-does-one-state-have-an-edge/",
@@ -1806,6 +1875,29 @@
   ],
   "research": [
     {
+      "title": "Aggregation and the “Universal” Injunction",
+      "titleCN": "Aggregation and the “Universal” Injunction",
+      "url": "https://harvardlawreview.org/print/vol-139/aggregation-and-the-universal-injunction/",
+      "date": "2026-06-10",
+      "addedAt": "2026-07-22T03:56:56.956Z",
+      "summaryCN": "本文探讨了司法审查中禁令的聚合现象及普遍性禁令的合法性问题。随着联邦法院越来越多地发布影响非当事人的普遍性禁令，文章质疑这种做法是否超越了传统个案救济的边界。核心论证指出，禁令的聚合虽能提高司法救济效率，但可能违反案件当事人原则和三权分立。文章通过分析历史判例与联邦民事诉讼规则，提出应在维护司法效能与遵循宪法边界之间寻找平衡，最终主张对普遍性禁令的适用应予以严格限制。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及美国公法诉讼中极具争议的普遍性禁令议题，对理解当代司法权扩张与三权分立边界具有关键价值。该研究直接关联联邦民事诉讼规则中的禁令救济制度及最高法院相关判例趋向。在比较法层面上，美国法院是否有权越过个案当事人原则发布普遍性禁令的讨论，对中国行政诉讼中的公益诉讼制度、群体性纠纷解决机制以及预防性行政诉讼的效力扩张研究提供了重要的对照参考。其关于司法救济边界与司法权自我节制的法理分析，为中国公法学者反思行政判决的辐射效力带来深刻启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "普遍性禁令",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
+    {
       "title": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
       "titleCN": "The Federal General Counsel, Law, and Our Democracy at a Crossroads",
       "url": "https://michiganlawreview.org/the-federal-general-counsel-law-and-our-democracy-at-a-crossroads/",
@@ -3411,7 +3503,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-21T03:55:46.316Z",
+    "updatedAt": "2026-07-22T03:57:48.947Z",
     "generator": "ai"
   }
 }
