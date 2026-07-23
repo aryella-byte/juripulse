@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Telephone Consumer Protection Act’s unwanted calls provision doesn’t include texts, 7th Circuit says",
+      "titleCN": "Telephone Consumer Protection Act’s unwanted calls provision doesn’t include texts, 7th Circuit says",
+      "url": "https://www.abajournal.com/news/article/the-tcpas-unwanted-calls-provision-doesnt-include-texts-7th-circuit-says/",
+      "date": "2026-07-23",
+      "addedAt": "2026-07-23T03:52:14.691Z",
+      "summaryCN": "美国联邦第七巡回上诉法院近期作出裁决，认定《电话消费者保护法》中关于禁止未经请求营销呼叫的条款，不适用于未经请求的短信。法院认为该法条文义仅涵盖传统语音通话，而未将文本信息纳入规制范围。这一判决为电话营销短信的法律定性确立了新规则，厘清了联邦成文法在新技术通信方式下的适用边界，未来可能促使国会通过立法修法以明确将营销短信纳入该法处罚体系。",
+      "summaryEN": "",
+      "whyMattersCN": "本案凸显了成文法应对通信技术演进时的解释难题，对比较法研究具有显著启发。法院采用文义解释方法，严格限制了对法条中呼叫一词作扩大解释，避免司法越权。这对中国处理类似个人信息保护与垃圾短信规制问题提供了参照：在《个人信息保护法》与《电信条例》的适用中，需高度关注法律概念对新技术媒介的涵摄力。当立法滞后于技术发展时，是依赖司法扩张解释还是由立法机关及时修法，本案确立了坚持严格文义解释的判例立场，为数字时代的营销合规与消费者维权划定了明确边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "电话消费者保护法",
+          "class": "tech"
+        },
+        {
+          "name": "第七巡回上诉法院",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Lawyer arrested, charged with theft, forgery after facing previous disciplinary action from court",
+      "titleCN": "Lawyer arrested, charged with theft, forgery after facing previous disciplinary action from court",
+      "url": "https://www.abajournal.com/news/article/georgia-lawyer-arrested-charged-with-theft-and-forgery/",
+      "date": "2026-07-23",
+      "addedAt": "2026-07-23T03:52:14.691Z",
+      "summaryCN": "一名佐治亚州律师因面临多项重罪指控于近日被捕，罪名为盗窃和伪造文书。此前，该律师已受到佐治亚州最高法院的纪律处分，并自愿交出律师执照。此次刑事指控标志着其从违反职业伦理的行为进一步升级为涉嫌刑事犯罪。案件反映出律师行业纪律规制与刑事司法程序的衔接，目前案件已进入刑事追诉阶段，具体定罪量刑尚待法院审理。",
+      "summaryEN": "",
+      "whyMattersCN": "本新闻触及律师职业纪律处分与刑事司法追究的衔接机制。在美国法中，州最高法院负责律师职业伦理审查，而盗窃与伪造文书则属传统刑事犯罪。该案展示了违规行为从执业失范演化为刑事犯罪的典型路径，凸显了行业自律与公权力监管的协同问题。对中国法比较法研究而言，可借此反思律师法中的吊销执照等行政处罚与刑法职务犯罪的边界。同时，伪造文书与侵占客户财产的刑民交叉认定标准，也为完善律师执业风险防范与行业惩戒体系提供了制度参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业纪律",
+          "class": ""
+        },
+        {
+          "name": "刑事司法",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump calls for review of scientific manual used by judges",
+      "titleCN": "Trump calls for review of scientific manual used by judges",
+      "url": "https://www.abajournal.com/news/article/trump-calls-for-review-related-to-scientific-manual-used-by-judges/",
+      "date": "2026-07-23",
+      "addedAt": "2026-07-23T03:52:14.691Z",
+      "summaryCN": "美国总统特朗普要求审查联邦法官参考使用的一份科学手册。该手册本为无党派色彩的司法参考指引，旨在协助法官处理复杂的科学证据与专家证言。特朗普指控该手册已被政治化，试图通过行政干预影响司法参考标准。此事件触及美国行政权与司法独立之间的边界争议，核心问题在于行政机关是否有权对司法实践所依赖的科学参考依据进行审查与定性，进而可能影响未来涉及科学证据的联邦诉讼裁判尺度。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻具有显著的宪政与证据法增量。首先，它触及美国三权分立原则下行政权干预司法独立的核心争议，总统直接要求审查司法参考手册，可能破坏权力制衡机制。其次，该科学手册实质上涉及美国联邦证据规则中关于专家证言与科学证据可采性的判定标准（如多伯特标准）。若行政力量得以重塑法官的科学认知基准，将直接改变侵权、知识产权及环境等诉讼的裁判逻辑。从比较法视角看，此案为中国法审视司法鉴定管理与专家辅助人制度的独立性提供了反面镜鉴，警示行政权介入司法技术事实查明机制可能带来的系统性风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国宪政",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "The history the court would rather not see",
       "titleCN": "The history the court would rather not see",
       "url": "https://www.scotusblog.com/2026/07/the-history-the-court-would-rather-not-see/",
@@ -1875,6 +1944,29 @@
   ],
   "research": [
     {
+      "title": "After The Comet: Du Bois, Afrofuturism, and Constitutional Renewal",
+      "titleCN": "After The Comet: Du Bois, Afrofuturism, and Constitutional Renewal",
+      "url": "https://nyulawreview.org/issues/volume-101-number-3/after-the-comet-du-bois-afrofuturism-and-constitutional-renewal/",
+      "date": "2026-06-30",
+      "addedAt": "2026-07-23T03:53:20.087Z",
+      "summaryCN": "美国宪制发展长期遵循危机与复兴的循环，而非线性进步。这种模式在黑人抗议运动与宪法解释的互动中尤为明显：社会断裂期涌现的变革可能往往被随后的制度复兴所限制。本文以杜波依斯1920年的科幻小说《彗星》为切入点，结合非裔未来主义视角，探讨宪法变革的潜力。论文指出，利用文学想象能够打破传统宪制叙事的局限，为社会断裂后的宪制重构提供全新的理论框架与路径。",
+      "summaryEN": "",
+      "whyMattersCN": "本文将非裔未来主义文学引入宪法学研究，为理解美国宪制变迁的周期性危机与制度约束提供了跨学科视角。对中国比较法研究具有启发：在考察少数民族权利保障与社会抗议的宪法回应时，可借鉴其通过文学叙事揭示制度复兴局限性的方法。同时，其运用文化文本解构宪法叙事的研究路径，拓宽了宪法学的方法论边界，为探索非传统制度资源在宪制更新中的作用提供了理论参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法发展",
+          "class": "constitutional"
+        },
+        {
+          "name": "非裔未来主义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Aggregation and the “Universal” Injunction",
       "titleCN": "Aggregation and the “Universal” Injunction",
       "url": "https://harvardlawreview.org/print/vol-139/aggregation-and-the-universal-injunction/",
@@ -3503,7 +3595,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-22T03:57:48.947Z",
+    "updatedAt": "2026-07-23T03:54:00.461Z",
     "generator": "ai"
   }
 }
