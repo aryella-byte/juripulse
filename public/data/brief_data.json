@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The Constitutional Court of South Africa",
+      "titleCN": "The Constitutional Court of South Africa",
+      "url": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
+      "date": "2026-07-24",
+      "addedAt": "2026-07-25T03:46:16.364Z",
+      "summaryCN": "本文是SCOTUSblog最高法院比较法系列的访谈简报，聚焦南非宪法法院。该法院成立于1994年并于次年2月首次开庭。专访彭妮·安德鲁斯教授指出，南非宪法法院不仅审理上诉案件，还享有初审管辖权。法院在审理范围上不局限于上诉机制，能在特定宪法争议中直接受理初审案件，体现了其在宪政架构中的特殊地位与功能设计，为比较法研究提供了重要素材。",
+      "summaryEN": "",
+      "whyMattersCN": "该访谈为比较宪法研究提供了重要的制度切入点。南非宪法法院将初审管辖权与上诉管辖权并置的设计，有别于美国最高法院以复审为主的模式。此制度安排确保了重大宪政争议能够得到最高司法层级的直接、快速审查，对研究宪法法院在国家权力分配中的角色具有启发意义。从比较法视角看，探讨南非法院在历史转型后建立的宪法审查机制，能为研究宪制改革中的司法权力配置、基本权利保障路径以及跨法系制度的融合借鉴提供具体且极具价值的实证参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "南非宪法法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "比较法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Is Elena Kagan the stare decisis justice?",
+      "titleCN": "Is Elena Kagan the stare decisis justice?",
+      "url": "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
+      "date": "2026-07-24",
+      "addedAt": "2026-07-25T03:46:16.364Z",
+      "summaryCN": "本文探讨美国最高法院大法官艾琳娜·卡根在遵循先例原则上的立场。文章以卡根引以为傲的2015年金布尔诉漫威案为例。该案涉及蜘蛛侠玩具专利的专利权到期后 royalties 纠纷。发明人请求最高法院推翻1964年布鲁洛特案确立的专利到期后不得继续收取专利使用费的规则。最终最高法院以六比三的票数维持了该先例。卡根撰写的多数意见强调了遵循先例原则在维护法律稳定性和可预期性方面的重要作用，将其刻画为捍卫该原则的代表人物。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及英美法系核心的遵循先例原则，具有显著的比较法价值。卡根在金布尔案中的判决展示了最高法院在面对经济效率诉求与法理稳定性冲突时的论证路径：即便先例规则在经济学界备受批评，且可能限制商业创新，司法克制依然要求法院尊重既有判例，将规则变更交由立法机关处理。这为中国法在统一裁判尺度、处理疑难案件中的指导性案例制度退场机制以及司法能动与克制的关系提供了重要参考，凸显了维护司法预期与允许立法纠偏之间的制度平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "遵循先例",
+          "class": "tech"
+        },
+        {
+          "name": "美国最高法院",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lawyer arrested, charged with theft, forgery after facing previous disciplinary action from court",
+      "titleCN": "Lawyer arrested, charged with theft, forgery after facing previous disciplinary action from court",
+      "url": "https://www.abajournal.com/news/article/georgia-lawyer-arrested-charged-with-theft-and-forgery/",
+      "date": "2026-07-25",
+      "addedAt": "2026-07-25T03:46:16.364Z",
+      "summaryCN": "佐治亚州一名律师因面临多项重罪指控被捕，罪名涉及盗窃与伪造文书。此前，该律师已受到佐治亚州最高法院的纪律处分，并自愿交出其律师执照。此案反映出律师在受到最高司法机构的纪律惩戒后，其涉嫌的违法侵占行为进一步升级为刑事追诉，司法机关已正式启动相关刑事程序。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件典型地反映了律师行业自律惩戒与刑事司法程序的衔接问题。佐治亚州最高法院的纪律处分体现了行业准入与退出机制，而后续的刑事指控则划定了职业伦理违规与刑事犯罪的边界。对中国法有比较法启发：在完善律师法及刑法衔接时，应关注执业违规行为向财产类犯罪转化的定性标准，以及吊销执照等行政纪律处分与刑事侦查程序的协调，为构建严密的律师执业监管体系提供参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师纪律处分",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事合规",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
       "titleCN": "Trump’s petition for reconsideration of $5 million verdict in E. Jean Carroll case may be considered by the justices in August",
       "url": "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/",
@@ -1994,18 +2063,18 @@
       "titleCN": "A Legal Stimulus",
       "url": "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/",
       "date": "2020-04-25",
-      "addedAt": "2026-07-24T03:53:30.753Z",
-      "summaryCN": "本文针对新冠疫情引发的次生法律危机，提出美国国会应推出一项法律援助刺激计划。作者论证指出，疫情导致大量民众面临驱逐、止赎、贷款违约、债务催收、破产及家庭暴力等困境。为应对这一迫切需求，后续财政刺激法案应专门拨付资金，为受影响个人提供法律服务。此举旨在保障弱势群体在多重法律纠纷中的实质平等，避免因经济困境丧失法定权利，强调法律援助应作为国家危机应对与社会复苏机制的核心组成部分。",
+      "addedAt": "2026-07-25T03:46:37.312Z",
+      "summaryCN": "本文针对新冠疫情引发的社会危机，提出美国国会应出台专门的“法律刺激”法案。作者主张，后续财政刺激计划必须为面临驱逐、丧失抵押品赎回权、贷款违约、债务催收、破产、家暴及保险拒赔的个人拨付专项法律援助资金。文章指出，疫情不仅造成经济冲击，更引发海量法律纠纷，弱势群体因缺乏法律代理而陷入绝境。因此，直接注资法律服务领域，是帮助民众抵御系统性法律风险、维护基本权利的必要举措，呼吁立法机构将其纳入国家救助框架。",
       "summaryEN": "",
-      "whyMattersCN": "该研究的重要价值在于将法律援助纳入国家宏观危机应对政策框架，突破了传统单纯经济补贴的局限。文章触及美国法律服务体系资金短缺与底层民众司法可及性缺失的痛点，对我国具有显著比较法启示。在中国法语境下，可启发探索将公共法律服务纳入突发事件应急法治保障体系，例如通过设立专项财政基金应对疫情或自然灾害衍生的债务与劳资纠纷。该主张为政府主导与财政支持的公共法律服务兜底机制提供了制度设计的参照，凸显了实质公平在社会危机化解中的监管与制度价值。",
+      "whyMattersCN": "该文将公共资金配置与公民司法救济权保障相结合，为危机应对提供了制度创新视角。其核心启发在于，国家在重大突发事件中的救助不应仅限于直接的经济发钱，还需包括法律程序内的制度性赋能。从比较法和中国法视角看，这为探讨如何通过政府购买法律服务、完善公共法律援助体系来应对大规模违约或家暴等衍生社会纠纷提供了参考。研究提示立法者在设计突发公共卫生事件或经济危机的纾困法案时，应将弱势群体的法律辩护权与诉讼代理权纳入国家救济与财政保障框架，以防范次生社会风险。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "法律援助",
+          "name": "新冠疫情",
           "class": ""
         },
         {
-          "name": "新冠疫情",
+          "name": "法律援助",
           "class": ""
         }
       ],
@@ -3664,7 +3733,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-24T03:54:09.965Z",
+    "updatedAt": "2026-07-25T03:46:58.223Z",
     "generator": "ai"
   }
 }
