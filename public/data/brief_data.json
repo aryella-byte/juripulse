@@ -5,10 +5,10 @@
       "titleCN": "The Constitutional Court of South Africa",
       "url": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
       "date": "2026-07-24",
-      "addedAt": "2026-07-25T03:46:16.364Z",
-      "summaryCN": "本文是SCOTUSblog最高法院比较法系列的访谈简报，聚焦南非宪法法院。该法院成立于1994年并于次年2月首次开庭。专访彭妮·安德鲁斯教授指出，南非宪法法院不仅审理上诉案件，还享有初审管辖权。法院在审理范围上不局限于上诉机制，能在特定宪法争议中直接受理初审案件，体现了其在宪政架构中的特殊地位与功能设计，为比较法研究提供了重要素材。",
+      "addedAt": "2026-07-26T04:05:02.186Z",
+      "summaryCN": "本文系SCOTUSblog对南非宪法法院的专家访谈。该法院成立于1994年并于次年首次开庭，兼具初审管辖权与上诉管辖权，在南非司法体系中占据核心地位。访谈探讨了该法院的设立背景与职权配置，剖析其作为宪法守护者在具体案件中行使管辖权的方式。通过与最高法院的比较，文章展现了南非宪政体制的独特制度设计，为理解该国宪法的实施机制与司法审查制度提供了重要参考，反映了南非在后种族隔离时代司法体系的重建与发展轨迹。",
       "summaryEN": "",
-      "whyMattersCN": "该访谈为比较宪法研究提供了重要的制度切入点。南非宪法法院将初审管辖权与上诉管辖权并置的设计，有别于美国最高法院以复审为主的模式。此制度安排确保了重大宪政争议能够得到最高司法层级的直接、快速审查，对研究宪法法院在国家权力分配中的角色具有启发意义。从比较法视角看，探讨南非法院在历史转型后建立的宪法审查机制，能为研究宪制改革中的司法权力配置、基本权利保障路径以及跨法系制度的融合借鉴提供具体且极具价值的实证参考。",
+      "whyMattersCN": "南非宪法法院的制度设计对比较宪法研究具有重要启发。首先，其同时拥有初审与上诉管辖权，使法院能直接介入重大宪政争议，这与部分国家仅通过上诉审查案件的机制存在显著差异，为司法职权配置提供了独特样本。其次，作为后种族隔离时代成立的机构，该法院通过宪法裁判推动社会转型与权利保障的经验，对新兴民主国家的违宪审查制度建构具高度借鉴意义。此外，将南非与最高法院进行跨法系比较，有助于国内学者突破普通法与大陆法传统视角的局限，反思宪法法院在基本权利保障、权力制衡及司法能动主义方面的角色定位。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -16,12 +16,58 @@
           "class": "constitutional"
         },
         {
-          "name": "比较法",
+          "name": "比较宪法",
           "class": "constitutional"
         }
       ],
-      "quality_score": 6,
+      "quality_score": 8,
       "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
+      "titleCN": "Lawyer’s former clients allege fraud, millions in theft before he died",
+      "url": "https://www.abajournal.com/news/article/kentucky-lawyers-former-clients-allege-fraud-in-the-millions-before-he-died/",
+      "date": "2026-07-26",
+      "addedAt": "2026-07-26T04:05:02.186Z",
+      "summaryCN": "美国肯塔基州的一名遗产认证律师去世后，其多名前客户联合指控其涉嫌严重欺诈与盗窃。据受害者反映，被盗金额从几百美元到高达500万美元不等。该事件不仅涉及律师对客户信托资金的直接侵吞，也暴露出针对高危高龄客户群体的财产管理漏洞。目前相关指控已引发业界对律师执业道德与资金监管机制的高度关注，后续可能涉及遗产清算与保险理赔等法律程序。",
+      "summaryEN": "",
+      "whyMattersCN": "此案触及律师执业规范与客户资金信托安全的底层制度。美国律师职业道德准则严格要求将客户资金存放于独立信托账户并禁止挪用，此案反映出即便存在行业准则，个别执业者在缺乏有效外部强制审计时仍可能发生严重道德风险。对比较法及中国法而言，这为完善律师执业保证金制度、强制推行第三方托管与定期资金审计提供了反面教材。尤其在遗产代理等信息高度不对称的领域，如何构建动态的监管预警机制、防范受托人权力滥用并强化行业自律组织的实质性监管，是值得深思的制度完善方向。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业道德",
+          "class": ""
+        },
+        {
+          "name": "客户资金信托",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Holland &amp; Knight hit with $1.2B malpractice suit",
+      "titleCN": "Holland &amp; Knight hit with $1.2B malpractice suit",
+      "url": "https://www.abajournal.com/news/article/holland-knight-hit-with-1.2b-malpractice-suit/",
+      "date": "2026-07-26",
+      "addedAt": "2026-07-26T04:05:02.186Z",
+      "summaryCN": "曾估值达3.2亿美元的房地产经纪公司MV Realty近日对Holland & Knight律所提起高达12亿美元的法律执业过失诉讼。本案起因于该律所在为客户提供法律服务期间涉嫌存在严重疏忽，直接导致客户面临巨额经济损失及法律风险。此类针对国际大所的天价索赔案通常涉及复杂的交易尽调缺陷、合同起草漏洞或利益冲突审查失效等问题。目前案件刚刚立案，未来的审理焦点将集中于律所是否违反了勤勉尽责的代理义务及其过错与客户损失之间的因果关系认定。",
+      "summaryEN": "",
+      "whyMattersCN": "本案属于典型的律师执业责任与职业过失纠纷，对探讨法律专业服务市场的风险分配机制具有标杆意义。其核心制度焦点在于律所勤勉尽责义务的边界认定，以及违约损害赔偿中可预见性规则的适用。此类天价诉讼促使大型律所重新审视其合规审查流程、利益冲突防范机制及执业责任险配置。对中国法及比较法研究而言，本案可为完善国内律师执业损害赔偿认定标准、规范尽职调查操作指引以及构建法律职业责任保险体系提供有价值的参考，同时警示法律服务买方需强化外部顾问管理的合同约束。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业责任",
+          "class": "constitutional"
+        },
+        {
+          "name": "法律职业过失",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
     },
     {
       "title": "Is Elena Kagan the stare decisis justice?",
@@ -2059,27 +2105,27 @@
   ],
   "research": [
     {
-      "title": "A Legal Stimulus",
-      "titleCN": "A Legal Stimulus",
-      "url": "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/",
-      "date": "2020-04-25",
-      "addedAt": "2026-07-25T03:46:37.312Z",
-      "summaryCN": "本文针对新冠疫情引发的社会危机，提出美国国会应出台专门的“法律刺激”法案。作者主张，后续财政刺激计划必须为面临驱逐、丧失抵押品赎回权、贷款违约、债务催收、破产、家暴及保险拒赔的个人拨付专项法律援助资金。文章指出，疫情不仅造成经济冲击，更引发海量法律纠纷，弱势群体因缺乏法律代理而陷入绝境。因此，直接注资法律服务领域，是帮助民众抵御系统性法律风险、维护基本权利的必要举措，呼吁立法机构将其纳入国家救助框架。",
+      "title": "The Difference a Year Makes: The Admissibility of Expert Opinion Testimony Under the 2023 Amendment",
+      "titleCN": "The Difference a Year Makes: The Admissibility of Expert Opinion Testimony Under the 2023 Amendment",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment/?utm_source=rss&utm_medium=rss&utm_campaign=the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment",
+      "date": "2026-05-26",
+      "addedAt": "2026-07-26T04:05:44.517Z",
+      "summaryCN": "本文聚焦《联邦证据规则》第702条关于专家证人意见可采性的标准，深入剖析2023年修正案带来的实质影响。专家证言往往是决定诸多刑事与民事诉讼结果的关键因素。文章指出，在缺乏DNA或指纹等确凿物证时，控方常依赖专家意见构建证据链。研究系统论证了2023年修法如何重塑法官的守门人角色，并界定了新规下专家证言可靠性审查的边界与适用逻辑，为理解联邦法院证据审查的最新实践提供了重要分析框架。",
       "summaryEN": "",
-      "whyMattersCN": "该文将公共资金配置与公民司法救济权保障相结合，为危机应对提供了制度创新视角。其核心启发在于，国家在重大突发事件中的救助不应仅限于直接的经济发钱，还需包括法律程序内的制度性赋能。从比较法和中国法视角看，这为探讨如何通过政府购买法律服务、完善公共法律援助体系来应对大规模违约或家暴等衍生社会纠纷提供了参考。研究提示立法者在设计突发公共卫生事件或经济危机的纾困法案时，应将弱势群体的法律辩护权与诉讼代理权纳入国家救济与财政保障框架，以防范次生社会风险。",
+      "whyMattersCN": "该论文的学术价值在于精细考察了美国证据法核心条款修订对诉讼实践的深远影响。研究紧扣第702条修正案这一最新制度变量，深刻揭示了法官在审查专家意见可靠性时把关标准的实质转变。在比较法层面，此研究为中国专家辅助人及鉴定人出庭质证规则的完善提供了镜鉴：如何通过严密的程序设计防范伪科学或可靠性不足的专家意见误导事实认定者。其对庭审实质化与法官认证权责边界的探讨，对我国证据法理论深化及诉讼制度改革具有显著的启发意义。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "新冠疫情",
+          "name": "联邦证据规则",
           "class": ""
         },
         {
-          "name": "法律援助",
+          "name": "专家证人",
           "class": ""
         }
       ],
-      "quality_score": 6,
-      "journal": "Northwestern Law Review"
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
     },
     {
       "title": "After The Comet: Du Bois, Afrofuturism, and Constitutional Renewal",
@@ -3733,7 +3779,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-25T03:46:58.223Z",
+    "updatedAt": "2026-07-26T04:06:18.685Z",
     "generator": "ai"
   }
 }
