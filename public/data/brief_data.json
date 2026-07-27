@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
+      "titleCN": "Lawyer’s former clients allege fraud, millions in theft before he died",
+      "url": "https://www.abajournal.com/news/article/kentucky-lawyers-former-clients-allege-fraud-in-the-millions-before-he-died/",
+      "date": "2026-07-27",
+      "addedAt": "2026-07-27T04:11:51.347Z",
+      "summaryCN": "美国肯塔基州一名遗产认证律师去世后，多名前客户指控其在处理信托及遗产管理期间实施欺诈并盗取巨额资金，涉案金额从数百美元至高达500万美元不等。该事件暴露出律师在代管客户资金时的严重违规行为。目前相关指控已浮出水面，引发了针对该律师执业行为及资金去向的审查，凸显了律师信托账户管理的合规漏洞及事前监管的缺位。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件触及律师职业伦理与客户资金监管的核心制度。在美国律师监管体系中，律师信托账户（IOLTA）设有严格的分离与核算要求。此案暴露出尽管有行业规则，但在遗产认证等不透明场域，律师仍可长期挪用资金而不被察觉。对中国法而言，这提供了比较法视角的监管启发：一是亟需强化对律师代管资金的第三方审计与常态化抽查机制；二是应完善遗产信托执行中的资金流向透明度规则，避免依靠事后惩戒，转向建立防范挪用的事前阻断机制，以维护法律服务市场的公信力。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业伦理",
+          "class": ""
+        },
+        {
+          "name": "客户资金监管",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Lawsuit alleging ‘sordid’ sexual abuse by former WWE chairman will go to arbitration",
+      "titleCN": "Lawsuit alleging ‘sordid’ sexual abuse by former WWE chairman will go to arbitration",
+      "url": "https://www.abajournal.com/news/article/lawsuit-alleging-sordid-sexual-abuse-by-wwe-chairman-will-go-to-arbitration/",
+      "date": "2026-07-27",
+      "addedAt": "2026-07-27T04:11:51.347Z",
+      "summaryCN": "美国法院裁定，针对前世界摔角娱乐董事长文斯·麦克曼涉嫌性虐待的诉讼将提交仲裁程序，而非继续在公开法院进行诉讼。尽管原告指控其进行了令人发指的性虐待活动，但法院基于双方此前签署的协议中包含的仲裁条款，决定将争议解决程序转移至私密性更强的仲裁庭。这意味着案件的核心事实查明与责任认定将脱离公开司法审判视野。",
+      "summaryEN": "",
+      "whyMattersCN": "本案凸显了美国商业高管与员工或承包商之间签署的强制仲裁条款在性侵与职场虐待指控中的强大阻却效力。从比较法视角看，这引发了关于仲裁协议边界与公共利益的深刻讨论：即私法自治契约能否完全剥夺涉诉性暴力案件进入公开诉讼的权利。这与近年来美国逐步限制性骚扰案件强制仲裁的立法趋势形成张力。对于中国法而言，如何审视劳动争议与人身侵权竞合时的仲裁前置程序，以及防范强势方利用格式条款规避公开审查，具有重要的合规与制度借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "强制仲裁",
+          "class": "constitutional"
+        },
+        {
+          "name": "职场性骚扰",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Texas county must pay jurors nearly $27K after case was dropped",
+      "titleCN": "Texas county must pay jurors nearly $27K after case was dropped",
+      "url": "https://www.abajournal.com/news/article/texas-county-must-pay-jurors-27k-after-case-was-dropped/",
+      "date": "2026-07-27",
+      "addedAt": "2026-07-27T04:11:51.347Z",
+      "summaryCN": "美国得克萨斯州某县在一起刑事案件被撤销后，被法院裁定须向陪审员支付近2.7万美元补偿。该案中，12名正式陪审员及2名候补陪审员在完成3天的庭审工作后，被法官要求在近两年的时间内维持中立状态。这意味着他们在此期间不得对案件发表评论或受外界信息影响。法院最终认定，要求陪审员承担如此长期的保密与中立义务超出了合理限度，是对其权益的过度限制。因此，判令该县政府向每位受影响的陪审员支付2.67万美元赔偿金。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及了陪审员权益保护与诉讼经济性之间的平衡。在英美法系中，陪审员被要求保守案件秘密并维持中立是确保正当程序的核心制度，但本案确立了司法系统不得无期限地向陪审员施加中立义务的边界。当案件因撤销等原因长期搁置时，继续约束陪审员构成对其言论自由和经济利益的实质性侵害。从比较法视角看，该案对完善中国的人民陪审员制度具有启发意义，提醒立法者在设定陪审员保密义务和履职期限时，需引入比例原则，避免因诉讼程序的无限期拖延而过度加重普通公民的负担，并应探索相应的补偿机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "陪审员权益",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "The Constitutional Court of South Africa",
       "titleCN": "The Constitutional Court of South Africa",
       "url": "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
@@ -22,29 +91,6 @@
       ],
       "quality_score": 8,
       "source": "SCOTUSblog"
-    },
-    {
-      "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
-      "titleCN": "Lawyer’s former clients allege fraud, millions in theft before he died",
-      "url": "https://www.abajournal.com/news/article/kentucky-lawyers-former-clients-allege-fraud-in-the-millions-before-he-died/",
-      "date": "2026-07-26",
-      "addedAt": "2026-07-26T04:05:02.186Z",
-      "summaryCN": "美国肯塔基州的一名遗产认证律师去世后，其多名前客户联合指控其涉嫌严重欺诈与盗窃。据受害者反映，被盗金额从几百美元到高达500万美元不等。该事件不仅涉及律师对客户信托资金的直接侵吞，也暴露出针对高危高龄客户群体的财产管理漏洞。目前相关指控已引发业界对律师执业道德与资金监管机制的高度关注，后续可能涉及遗产清算与保险理赔等法律程序。",
-      "summaryEN": "",
-      "whyMattersCN": "此案触及律师执业规范与客户资金信托安全的底层制度。美国律师职业道德准则严格要求将客户资金存放于独立信托账户并禁止挪用，此案反映出即便存在行业准则，个别执业者在缺乏有效外部强制审计时仍可能发生严重道德风险。对比较法及中国法而言，这为完善律师执业保证金制度、强制推行第三方托管与定期资金审计提供了反面教材。尤其在遗产代理等信息高度不对称的领域，如何构建动态的监管预警机制、防范受托人权力滥用并强化行业自律组织的实质性监管，是值得深思的制度完善方向。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "律师执业道德",
-          "class": ""
-        },
-        {
-          "name": "客户资金信托",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Holland &amp; Knight hit with $1.2B malpractice suit",
@@ -2105,6 +2151,29 @@
   ],
   "research": [
     {
+      "title": "A Legal Stimulus",
+      "titleCN": "A Legal Stimulus",
+      "url": "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/",
+      "date": "2020-04-25",
+      "addedAt": "2026-07-27T04:13:35.649Z",
+      "summaryCN": "本文针对新冠疫情引发的法律危机，提出美国国会应在后续经济刺激法案中设立专门的联邦资金，为个人提供法律援助。作者指出，疫情导致大量民众面临驱逐、止赎、贷款违约、债务催收、破产、家庭暴力及保险理赔被拒等问题，法律援助需求极其迫切。核心论点是，单纯的经济纾困不足以解决因疫情引发的系统性纠纷，必须通过立法提供专门的资金支持，确保弱势群体在复杂法律程序中获得代理，从而维护实质正义与社会稳定。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的价值在于从立法分配角度提出了应对突发公共卫生事件的法律救济路径。在制度层面，它主张将法律援助服务明确纳入国家宏观紧急刺激法案的财政拨款范畴，突破了传统仅靠经济补贴应对危机的局限。对中国比较法研究具有重要启发：中国在应对疫情等重大突发事件时，也可探索将公共法律服务与紧急状态财政救助相结合的机制，设立专项基金用于困难群体的纠纷化解。该研究为完善国家应急法治保障体系、探讨法律援助制度在重大社会风险中的功能定位提供了域外经验参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律援助",
+          "class": ""
+        },
+        {
+          "name": "新冠疫情",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Northwestern Law Review"
+    },
+    {
       "title": "The Difference a Year Makes: The Admissibility of Expert Opinion Testimony Under the 2023 Amendment",
       "titleCN": "The Difference a Year Makes: The Admissibility of Expert Opinion Testimony Under the 2023 Amendment",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment/?utm_source=rss&utm_medium=rss&utm_campaign=the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment",
@@ -3779,7 +3848,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-26T04:06:18.685Z",
+    "updatedAt": "2026-07-27T04:13:58.853Z",
     "generator": "ai"
   }
 }
