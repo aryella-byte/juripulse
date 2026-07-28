@@ -1,49 +1,72 @@
 {
   "news": [
     {
-      "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
-      "titleCN": "Lawyer’s former clients allege fraud, millions in theft before he died",
-      "url": "https://www.abajournal.com/news/article/kentucky-lawyers-former-clients-allege-fraud-in-the-millions-before-he-died/",
+      "title": "Trump administration asks Supreme Court to clear the way for new mail-in voting restrictions",
+      "titleCN": "Trump administration asks Supreme Court to clear the way for new mail-in voting restrictions",
+      "url": "https://www.scotusblog.com/2026/07/trump-administration-asks-supreme-court-to-clear-the-way-for-new-mail-in-voting-restrictions/",
       "date": "2026-07-27",
-      "addedAt": "2026-07-27T04:11:51.347Z",
-      "summaryCN": "美国肯塔基州一名遗产认证律师去世后，多名前客户指控其在处理信托及遗产管理期间实施欺诈并盗取巨额资金，涉案金额从数百美元至高达500万美元不等。该事件暴露出律师在代管客户资金时的严重违规行为。目前相关指控已浮出水面，引发了针对该律师执业行为及资金去向的审查，凸显了律师信托账户管理的合规漏洞及事前监管的缺位。",
+      "addedAt": "2026-07-28T03:45:07.187Z",
+      "summaryCN": "特朗普政府向最高法院申请全面实施旨在限制邮寄投票的总统行政令。联邦副总律师绍尔称马萨诸塞州联邦法官暂停该令在23州及哥伦比亚特区实施的裁定极为异常，并指其违背了管辖法院介入争议时机的既定原则。政府同时请求最高法院立即发布行政中止令，在法官审议此申请期间暂缓下级法院裁定的执行。",
       "summaryEN": "",
-      "whyMattersCN": "该事件触及律师职业伦理与客户资金监管的核心制度。在美国律师监管体系中，律师信托账户（IOLTA）设有严格的分离与核算要求。此案暴露出尽管有行业规则，但在遗产认证等不透明场域，律师仍可长期挪用资金而不被察觉。对中国法而言，这提供了比较法视角的监管启发：一是亟需强化对律师代管资金的第三方审计与常态化抽查机制；二是应完善遗产信托执行中的资金流向透明度规则，避免依靠事后惩戒，转向建立防范挪用的事前阻断机制，以维护法律服务市场的公信力。",
+      "whyMattersCN": "本案触及美国宪政分权与联邦选举法核心争议，集中体现了总统行政令边界与司法审查标准的冲突。政府援引既定原则抗辩下级法院 nationwide injunction 的管辖权，直接关联联邦法院能否及何时介入行政争议的程序规则。此案不仅将重塑邮寄投票制度的联邦监管框架，更对比较法上的行政紧急权力审查及司法救济时效研究具有重要启示，是观察美国选举法治演变与最高法院裁判走向的关键标本。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "律师职业伦理",
-          "class": ""
+          "name": "美国最高法院",
+          "class": "constitutional"
         },
         {
-          "name": "客户资金监管",
-          "class": ""
+          "name": "行政令",
+          "class": "constitutional"
         }
       ],
-      "quality_score": 6,
-      "source": "ABA Journal"
+      "quality_score": 8,
+      "source": "SCOTUSblog"
     },
     {
-      "title": "Lawsuit alleging ‘sordid’ sexual abuse by former WWE chairman will go to arbitration",
-      "titleCN": "Lawsuit alleging ‘sordid’ sexual abuse by former WWE chairman will go to arbitration",
-      "url": "https://www.abajournal.com/news/article/lawsuit-alleging-sordid-sexual-abuse-by-wwe-chairman-will-go-to-arbitration/",
+      "title": "How predictable is the Supreme Court from oral argument?",
+      "titleCN": "How predictable is the Supreme Court from oral argument?",
+      "url": "https://www.scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument/",
       "date": "2026-07-27",
-      "addedAt": "2026-07-27T04:11:51.347Z",
-      "summaryCN": "美国法院裁定，针对前世界摔角娱乐董事长文斯·麦克曼涉嫌性虐待的诉讼将提交仲裁程序，而非继续在公开法院进行诉讼。尽管原告指控其进行了令人发指的性虐待活动，但法院基于双方此前签署的协议中包含的仲裁条款，决定将争议解决程序转移至私密性更强的仲裁庭。这意味着案件的核心事实查明与责任认定将脱离公开司法审判视野。",
+      "addedAt": "2026-07-28T03:45:07.187Z",
+      "summaryCN": "本文探讨美国最高法院在口头辩论阶段的可预测性。以路易斯安那州诉Callais案为例， Thomas、Alito和Gorsuch等大法官在言词辩论中对种族主义选区划分的合宪性提出质疑， Kavanaugh大法官则暗示相关救济措施应有时间限制。随后作出的判决证实了辩论时展现的总体方向。这表明，尽管辩论有时能清晰预示判决的宽泛走向，但具体的大法官联盟构成仍可能存在变数，法庭辩论是预判重大判决的重要窗口。",
       "summaryEN": "",
-      "whyMattersCN": "本案凸显了美国商业高管与员工或承包商之间签署的强制仲裁条款在性侵与职场虐待指控中的强大阻却效力。从比较法视角看，这引发了关于仲裁协议边界与公共利益的深刻讨论：即私法自治契约能否完全剥夺涉诉性暴力案件进入公开诉讼的权利。这与近年来美国逐步限制性骚扰案件强制仲裁的立法趋势形成张力。对于中国法而言，如何审视劳动争议与人身侵权竞合时的仲裁前置程序，以及防范强势方利用格式条款规避公开审查，具有重要的合规与制度借鉴意义。",
+      "whyMattersCN": "该报道触及美国最高法院审判透明度与可预测性的法理学命题，核心在于通过大法官在言词辩论中的发问倾向来预判判决走向。以路易斯安那州诉Callais案为切入点，报道揭示了最高法院保守派多数对《投票权法案》中种族意识重划选区条款的宪法限制倾向。比较法视角下，此案为中国研究选举诉讼、司法能动主义及司法救济边界提供了重要参照。其揭示的通过法庭发问预测裁判结果的研究方法，对完善我国裁判文书说理机制、增强司法审判透明度与回应性具有制度启发意义。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "强制仲裁",
+          "name": "美国最高法院",
           "class": "constitutional"
         },
         {
-          "name": "职场性骚扰",
+          "name": "选举法",
           "class": "constitutional"
         }
       ],
-      "quality_score": 6,
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Congressman calls for impeaching dead federal judge",
+      "titleCN": "Congressman calls for impeaching dead federal judge",
+      "url": "https://www.abajournal.com/news/article/florida-congressman-calls-for-impeachment-of-dead-federal-judge/",
+      "date": "2026-07-28",
+      "addedAt": "2026-07-28T03:45:07.187Z",
+      "summaryCN": "美国佛罗里达中区联邦法院资深法官约翰·E·斯蒂尔于7月14日去世。然而，一位国会议员近日却公开呼吁对这位已故法官启动弹劾程序。根据美国宪法，弹劾机制主要用于罢免犯有叛国、受贿等重罪的现任联邦官员。对已故官员提出弹劾在法律上缺乏实际意义，因为无法实现剥夺职务或退休金的惩罚效果。此事件引发了关于宪法弹劾条款适用边界的讨论，凸显了政治考量与法律制度之间的张力。目前该呼吁仅停留在政治表态层面，尚无实质性的国会法律推进进展。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及美国宪法中弹劾机制的核心适用边界问题。从比较法视角看，美国宪法将法官终身制与弹劾作为唯一的惩戒退出机制。对已故法官呼吁弹劾虽无实际惩戒可能，却引发了对程序滥用及宪法原意的探讨。这为中国法官惩戒制度提供了反面镜鉴：中国法官惩戒委员会制度注重职业伦理审查与行政刑事追责的衔接。将纯粹政治动机的弹劾扩大化会损害司法独立。此案凸显了立法权与司法权制衡中，程序法定原则不可因政治表态而虚置的法治底线。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法弹劾",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
       "source": "ABA Journal"
     },
     {
@@ -2151,6 +2174,29 @@
   ],
   "research": [
     {
+      "title": "Exploring the Limits of Qualified Immunity Under Harlow’s Discretionary Function Test",
+      "titleCN": "Exploring the Limits of Qualified Immunity Under Harlow’s Discretionary Function Test",
+      "url": "https://harvardlawreview.org/print/vol-139/exploring-the-limits-of-qualified-immunity-under-harlows-discretionary-function-test/",
+      "date": "2026-06-10",
+      "addedAt": "2026-07-28T03:46:07.113Z",
+      "summaryCN": "本文深入探讨了哈洛诉菲茨杰拉德案中关于合格 immunity 的裁量权测试。该研究重新审视了最高法院判决中一个被长期忽视的短语与几近遗忘的区分。文章以该案埋藏的裁量权功能测试为核心线索，系统分析了官员在行使裁量权时获得豁免的法定边界。通过剖析既有判例与法理，论文指出了现有合格豁免标准在适用上的模糊性，并提出重构裁量权功能测试的路径，以平衡官员执法保障与受害人权利救济。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的研究价值在于从经典判例内部深挖被遗忘的裁量权测试标准，为美国宪法行政法中的官员豁免制度提供了精细的法理重构。该论文揭示了最高法院在合格豁免问题上规则适用的断裂与演变，对理解公权力边界与公民权利救济具有制度性贡献。对于比较法研究而言，美国法中公职人员裁量行为与侵权责任的划分标准，为中国行政法上的职务行为豁免与国家赔偿责任的界定提供了极具参考价值的制度对比与方法借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "合格豁免",
+          "class": "constitutional"
+        },
+        {
+          "name": "哈洛诉菲茨杰拉德案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
+    {
       "title": "A Legal Stimulus",
       "titleCN": "A Legal Stimulus",
       "url": "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/",
@@ -3848,7 +3894,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-27T04:13:58.853Z",
+    "updatedAt": "2026-07-28T03:46:38.358Z",
     "generator": "ai"
   }
 }
