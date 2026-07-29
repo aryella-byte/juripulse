@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Lobster defamation case wades into free speech concerns at 1st Circuit",
+      "titleCN": "Lobster defamation case wades into free speech concerns at 1st Circuit",
+      "url": "https://www.abajournal.com/news/article/maine-lobster-defamation-case-wades-into-speech-concerns-at-the-first-circuit/",
+      "date": "2026-07-29",
+      "addedAt": "2026-07-29T03:48:11.914Z",
+      "summaryCN": "美国第一巡回上诉法院近日对缅因州龙虾行业提起的诽谤诉讼表达关切。该诉讼指控环保组织或批评者发布不实言论损害行业声誉。上诉法院合议庭在审理中，重点审查了该诽谤指控与宪法第一修正案言论自由之间的冲突。法官担忧若轻易支持诽谤索赔，可能对公众就商业及环境议题发表批评意见产生寒蝉效应。目前案件正在审理中，法院正试图界定商业名誉保护与公共议题言论自由的法律边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法第一修正案在商业诽谤与环境公益言论间的张力，核心在于如何适用实际恶意原则以防止诉讼沦为打压言论自由的工具。从比较法视角看，此案对中国法具有启发意义：中国《民法典》中法人名誉权保护与公众环境知情权、舆论监督权的边界亟待厘清。探讨如何通过举证责任分配和恶意认定标准来防范企业利用名誉权诉讼压制环保批评，即反 SLAPP 机制的构建，对平衡商业信誉与公共讨论空间具有制度参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "言论自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "商业诽谤",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Lawyer convicted of sexual assault gets 21 years in prison",
+      "titleCN": "Lawyer convicted of sexual assault gets 21 years in prison",
+      "url": "https://www.abajournal.com/news/article/milwaukee-lawyer-convicted-of-sexual-assault-gets-21-years-in-prison/",
+      "date": "2026-07-29",
+      "addedAt": "2026-07-29T03:48:11.914Z",
+      "summaryCN": "美国律师协会期刊报道，威斯康星州密尔沃基市的一名执业律师经陪审团定罪后，于周五被法院判处21年有期徒刑。今年五月，陪审团裁定该律师性侵一名女性的罪名成立。本案涉及的刑期长达21年，反映出当地刑事司法系统对性侵犯罪的严厉打击态度。此外，作为执业律师，该人士不仅面临刑事处罚，还将不可避免地受到律师协会的纪律处分与吊销执照程序。此案标志着法律职业者犯罪在司法审判与行业自治层面的双重追责。",
+      "summaryEN": "",
+      "whyMattersCN": "本案的核心法律增量不在于普通刑事案件本身，而在于执业律师触犯重罪后的双重惩戒机制。在美国法律体系中，律师被重罪定罪将自动触发职业伦理审查与执照吊销程序，这体现了行业自治与刑事司法的有效衔接。对中国法的比较法启示在于，如何完善律师法中的职业品行审查机制与刑事定罪之间的程序衔接，确保被定罪律师被依法剥夺执业资格。此外，陪审团定罪与法官量刑的职权划分，也为研究英美法系刑事审判权力配置提供了具体观察样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业纪律",
+          "class": "criminal"
+        },
+        {
+          "name": "性侵定罪",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case",
+      "titleCN": "Trump administration appears not to have asked Supreme Court to rehear birthright citizenship case",
+      "url": "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/",
+      "date": "2026-07-28",
+      "addedAt": "2026-07-29T03:48:11.914Z",
+      "summaryCN": "据SCOTUSblog报道，特朗普政府未在7月27日截止期前向最高法院申请重新审理关于出生公民权的案件。此前最高法院在6月30日裁定推翻了特朗普于2025年1月20日签署的旨在终止出生公民权的行政命令。尽管特朗普本月初曾表示打算提交再审申请，但电子案卷系统显示并未有相关诉状提交。这意味着6月推翻行政命令的裁决将得以维持，美国宪法保障的几乎所有在该国出生者均享有公民权的规则暂时免受该行政令的冲击。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件涉及美国宪法第十四修正案关于出生公民权的核心解释，是典型的行政权与宪法基本权利的边界争议。最高法院通过推翻总统行政命令，再次确立了司法审查对行政越权的制约效力，而政府放弃再审申请使得该宪法判例的既判力得以稳固。从比较法视角看，此案为研究属地主义国籍原则与行政自由裁量权的限度提供了重要参照。它揭示了即便在政治极化背景下，总统行政命令仍需经受严格的合宪性审查，对中国法研究中探讨行政行为合法性审查标准及宪法基本权利保障机制具有显著的比较制度启发价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Trump administration asks Supreme Court to clear the way for new mail-in voting restrictions",
       "titleCN": "Trump administration asks Supreme Court to clear the way for new mail-in voting restrictions",
       "url": "https://www.scotusblog.com/2026/07/trump-administration-asks-supreme-court-to-clear-the-way-for-new-mail-in-voting-restrictions/",
@@ -2174,6 +2243,29 @@
   ],
   "research": [
     {
+      "title": "Institutional Structures of Penal Inequality",
+      "titleCN": "Institutional Structures of Penal Inequality",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/3",
+      "date": "2026-01-07",
+      "addedAt": "2026-07-29T03:49:00.715Z",
+      "summaryCN": "本文探讨了美国刑罚体系中普遍存在的制度性不平等问题。作者指出，尽管警察、检察官、公设辩护人和刑事法院在全国范围内具有相同的名称和基本法律功能，但其实际运行标准差异巨大。这种高度分化的实践导致了阶层化的刑事诉讼程序：少数被告人和案件能够得到合法、审慎且尽心的处理，而绝大多数案件则在低质与粗放中流转。研究深刻揭示了这种结构性不平等如何根植于地方制度设计与资源分配的巨大差异之中。",
+      "summaryEN": "",
+      "whyMattersCN": "",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "制度性不平等",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Exploring the Limits of Qualified Immunity Under Harlow’s Discretionary Function Test",
       "titleCN": "Exploring the Limits of Qualified Immunity Under Harlow’s Discretionary Function Test",
       "url": "https://harvardlawreview.org/print/vol-139/exploring-the-limits-of-qualified-immunity-under-harlows-discretionary-function-test/",
@@ -3894,7 +3986,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-28T03:46:38.358Z",
+    "updatedAt": "2026-07-29T03:49:35.744Z",
     "generator": "ai"
   }
 }
