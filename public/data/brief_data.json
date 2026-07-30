@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trump asks Supreme Court to hear appeal of $83.3 million defamation verdict against him",
+      "titleCN": "Trump asks Supreme Court to hear appeal of $83.3 million defamation verdict against him",
+      "url": "https://www.scotusblog.com/2026/07/trump-asks-supreme-court-to-hear-appeal-of-83-million-defamation-verdict-against-him/",
+      "date": "2026-07-29",
+      "addedAt": "2026-07-30T03:40:08.796Z",
+      "summaryCN": "特朗普律师团队与联邦政府共同请求最高法院复审卡罗尔诉特朗普诽谤案。陪审团此前裁定特朗普赔偿卡罗尔8330万美元，纽约联邦上诉法院维持原判。特朗普方主张下级法院裁决不当剥夺了总统豁免权，强调此案为美国历史上首例因总统在任行为被判处损害赔偿的案件。该请求将促使最高法院对总统在职期间官方言行的豁免权边界这一核心宪法问题进行审查。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直击美国宪政体制中总统豁免权的边界这一核心争议。下级法院在此前程序中曾将特朗普否认性侵指控的言论界定为非官方行为从而拒绝豁免，这涉及国家元首职务行为与个人言辞的复杂区分。最高法院若受理此案，将进一步细化其在近期总统豁免权案中确立的裁判规则，对权力分立与国家元首民事责任产生深远影响。在比较法层面，该案对研究国家机关及其负责人职务侵权的民事豁免理论、国家赔偿与个人责任划分机制，以及高级公职人员履职言论的法律规制界限具有高度的参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "总统豁免权",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Chobani can face lawsuit over no-sugar yogurt claim, 7th Circuit rules",
+      "titleCN": "Chobani can face lawsuit over no-sugar yogurt claim, 7th Circuit rules",
+      "url": "https://www.abajournal.com/news/article/us-appeals-court-rules-chobani-can-face-lawsuit-over-no-sugar-yogurt-claim/",
+      "date": "2026-07-30",
+      "addedAt": "2026-07-30T03:40:08.796Z",
+      "summaryCN": "美国第七巡回上诉法院裁定，针对酸奶生产商Chobani的集体诉讼可以继续进行。消费者指控Chobani违反州消费者保护法，将其部分希腊式酸奶虚假宣传为无糖。法院认为，原告已提出合理的诉求，表明该宣传可能误导理性消费者，因此驳回了被告下级法院的撤案动议。这标志着在食品标签与虚假广告争议中，企业需面对司法审查的考验。",
+      "summaryEN": "",
+      "whyMattersCN": "本案对消费者保护法与虚假广告规制具有重要制度影响。第七巡回法院的裁决明确了在食品标签误导性争议中，原告无需证明实际损害即可通过理性消费者标准推进集体诉讼的门槛。此案对中国法具有比较法启发：中国《反不正当竞争法》与《消费者权益保护法》在处理无糖等健康声称标签误导时，常面临举证难与实质性误导认定的困境。美国法院对营销语境与消费者合理预期的精细化分析，为中国完善食品安全标签监管及惩罚性赔偿的司法认定提供了有益参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "消费者保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "虚假广告",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The push to reduce the Supreme Court’s power",
+      "titleCN": "The push to reduce the Supreme Court’s power",
+      "url": "https://www.scotusblog.com/2026/07/the-push-to-reduce-the-supreme-courts-power/",
+      "date": "2026-07-29",
+      "addedAt": "2026-07-30T03:40:08.796Z",
+      "summaryCN": "近期美国最高法院在限制国会权力、削弱投票权法案及放松竞选资金监管等争议性裁决后，引发司法改革呼声。部分民主党人主张通过扩大法院规模或设立大法官任期制来打破保守派绝对多数，认为此举符合公众利益。其他改革方案则聚焦管辖权剥夺，例如在总统豁免权案件中限制最高法院的受案范围，旨在缩减其审查特定类型案件的权力。这场关于削弱最高法院权力的辩论成为当前美国宪政与司法制度的核心焦点。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及美国宪政体制中最核心的权力制衡难题。最高法院通过限缩总统免职权、弱化《投票权法案》及放松竞选资金监管，实质重塑了行政权与选举监管的法理边界。民主党提出的扩容法院与任期制改革，直指美国终身任职制度的存废争议；而管辖权剥夺则涉及国会立法权与司法终审权的宪法冲突。对中国法与比较法研究而言，此案提供了探讨司法独立性、民主正当性及最高司法权力边界分配的绝佳样本，具有重大的制度比较价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院改革",
+          "class": "constitutional"
+        },
+        {
+          "name": "管辖权剥夺",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Lobster defamation case wades into free speech concerns at 1st Circuit",
       "titleCN": "Lobster defamation case wades into free speech concerns at 1st Circuit",
       "url": "https://www.abajournal.com/news/article/maine-lobster-defamation-case-wades-into-speech-concerns-at-the-first-circuit/",
@@ -21,29 +90,6 @@
         }
       ],
       "quality_score": 7,
-      "source": "ABA Journal"
-    },
-    {
-      "title": "Lawyer convicted of sexual assault gets 21 years in prison",
-      "titleCN": "Lawyer convicted of sexual assault gets 21 years in prison",
-      "url": "https://www.abajournal.com/news/article/milwaukee-lawyer-convicted-of-sexual-assault-gets-21-years-in-prison/",
-      "date": "2026-07-29",
-      "addedAt": "2026-07-29T03:48:11.914Z",
-      "summaryCN": "美国律师协会期刊报道，威斯康星州密尔沃基市的一名执业律师经陪审团定罪后，于周五被法院判处21年有期徒刑。今年五月，陪审团裁定该律师性侵一名女性的罪名成立。本案涉及的刑期长达21年，反映出当地刑事司法系统对性侵犯罪的严厉打击态度。此外，作为执业律师，该人士不仅面临刑事处罚，还将不可避免地受到律师协会的纪律处分与吊销执照程序。此案标志着法律职业者犯罪在司法审判与行业自治层面的双重追责。",
-      "summaryEN": "",
-      "whyMattersCN": "本案的核心法律增量不在于普通刑事案件本身，而在于执业律师触犯重罪后的双重惩戒机制。在美国法律体系中，律师被重罪定罪将自动触发职业伦理审查与执照吊销程序，这体现了行业自治与刑事司法的有效衔接。对中国法的比较法启示在于，如何完善律师法中的职业品行审查机制与刑事定罪之间的程序衔接，确保被定罪律师被依法剥夺执业资格。此外，陪审团定罪与法官量刑的职权划分，也为研究英美法系刑事审判权力配置提供了具体观察样本。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "律师执业纪律",
-          "class": "criminal"
-        },
-        {
-          "name": "性侵定罪",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 6,
       "source": "ABA Journal"
     },
     {
@@ -2243,6 +2289,29 @@
   ],
   "research": [
     {
+      "title": "Unconstitutional But Not Unconstitutional Enough",
+      "titleCN": "Unconstitutional But Not Unconstitutional Enough",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/unconstitutional-but-not-unconstitutional-enough/?utm_source=rss&utm_medium=rss&utm_campaign=unconstitutional-but-not-unconstitutional-enough",
+      "date": "2026-07-30",
+      "addedAt": "2026-07-30T03:40:38.624Z",
+      "summaryCN": "传统观念认为，法官审查某部法律是否违宪时，核心问题在于该法律是否违反了所涉及的宪法教义。美国联邦最高法院正是采取此种路径。然而，本文通过一项原创性的全美五十州实证调查揭示，这种审查方式在全球或全美范围内远非通用。研究表明，多达四十四个州在违宪审查中并未完全采用联邦层面的单一审查标准。文章深入剖析了这种在合宪与违宪之间存在灰色地带的复杂审查机制，揭示了州法院在面对法律合宪性争议时采取的差异化标准与司法策略。",
+      "summaryEN": "",
+      "whyMattersCN": "本文最重要的学术贡献在于其原创的全美五十州实证研究方法，打破了以联邦最高法院为中心的单一违宪审查叙事，揭示了州司法系统在合宪性审查中的制度多样性与灰色地带。在比较法层面，该研究为中国学者思考复合制国家内的央地违宪审查权配置、审查标准的梯度设计以及司法尊让原则提供了丰富的经验素材。同时，文章展示的量化实证分析方法，为中国宪法学从纯规范分析向实证司法行为研究的转型提供了方法论借鉴，启发学界关注审查标准的实际运行效果与地方法院的制度创新。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "违宪审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦制",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Institutional Structures of Penal Inequality",
       "titleCN": "Institutional Structures of Penal Inequality",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/3",
@@ -3986,7 +4055,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-29T03:49:35.744Z",
+    "updatedAt": "2026-07-30T03:40:56.619Z",
     "generator": "ai"
   }
 }
