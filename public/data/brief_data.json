@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "How a seemingly unexciting case on retirement plans could have massive consequences",
+      "titleCN": "How a seemingly unexciting case on retirement plans could have massive consequences",
+      "url": "https://www.scotusblog.com/2026/07/how-a-seemingly-unexciting-case-on-retirement-plans-could-have-massive-consequences/",
+      "date": "2026-07-30",
+      "addedAt": "2026-07-31T03:59:34.736Z",
+      "summaryCN": "安德森诉英特尔公司投资政策委员会案虽缺乏宪法争议或文化战焦点，却可能产生深远影响。该案核心在于明确诉讼请求需达到何种标准才能通过法院的初步审查。目前超一亿美国人通过雇主赞助的401(k)等计划储备养老资金，此类计划受《雇员退休收入保障法》（ERISA）规制。该法虽不强制雇主设立计划，但通过特定机制予以引导。本案的裁判结果将直接重塑养老计划相关诉讼的起诉门槛。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国ERISA法案下养老计划诉讼的起诉标准，直接影响超一亿美国人的退休金保障与受信义务纠纷的裁判走向。其核心在于确定原告在诉讼初期需满足的 pleading 标准，这关系到司法资源分配与投资者权益保护的平衡。从比较法视角看，本案为中国养老金制度及企业年金合规监管提供了参考：在构建多层次养老保障体系时，如何通过民事诉讼机制与起诉标准的设计，既防范滥诉又有效规制计划管理人的受信义务，保障参与者利益，值得深入借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "ERISA",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Washington law deans demand diploma privilege after aborted NextGen UBE administration",
+      "titleCN": "Washington law deans demand diploma privilege after aborted NextGen UBE administration",
+      "url": "https://www.abajournal.com/web/article/washington-law-deans-demand-diploma-privilege-after-aborted-nextgen-ube-administration/",
+      "date": "2026-07-31",
+      "addedAt": "2026-07-31T03:59:34.736Z",
+      "summaryCN": "美国华盛顿州三所受ABA认证法学院院长联名致函州最高法院，针对近期NextGen统一律师考试失败事件，要求为近700名受影响的考生授予文凭特权。所谓文凭特权，即允许法学院的毕业生免考直接获取执业资格。此前，该州在试行新型NextGen考试时出现严重技术故障，导致大批考生无法顺利完成作答。此举将律师资格授予机制推向公共讨论焦点，州最高法院尚需对这一应急诉求及考试改革方案作出最终裁决。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及律师执业准入制度的核心争议，即文凭特权与统一考试机制之间的价值取舍。新型NextGen考试旨在替代传统统考，但技术故障暴露了考试改革中的行政执行风险。从比较法视角看，这为反思法律职业资格授予路径提供了极佳样本。中国实行统一法律职业资格考试，严守标准化测验底线；而美国的文凭特权则倒逼社会审视法学院实质教育质量能否替代外部统考。该事件对研究资格授予中的考试公平性、法学院认证标准与执业准入的衔接，以及突发行政故障下的考生权益救济具有直接参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师资格考试",
+          "class": ""
+        },
+        {
+          "name": "NextGen UBE",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Justice Kavanaugh: the great concurrer of the Roberts court?",
+      "titleCN": "Justice Kavanaugh: the great concurrer of the Roberts court?",
+      "url": "https://www.scotusblog.com/2026/07/justice-kavanaugh-the-great-concurrer-of-the-roberts-court/",
+      "date": "2026-07-30",
+      "addedAt": "2026-07-31T03:59:34.736Z",
+      "summaryCN": "本文探讨美国最高法院大法官卡瓦诺在罗伯茨法院中的角色定位，将其与沃伦法院的布雷南大法官进行对比。布雷南曾运用五票构成多数的规则，在民权和公民自由领域促成 landmark 裁决并维系既有成果。文章借此分析卡瓦诺频繁发表协同意见的司法行为，探讨其是否正成为当前法院中关键的中间力量，反映出最高法院内部共识构建与裁判策略的演变。",
+      "summaryEN": "",
+      "whyMattersCN": "该文虽带评论色彩，但触及美国最高法院的裁判规则与司法行为分析。通过五票即多数的规则及协同意见的运用，揭示大法官如何通过撰写部分协同意见来影响判决先例的约束范围。这对比较法研究具有启发，可借镜美国最高法院的共识构建机制及协同意见的法律效力界定。在中国法语境下，有助于思考审委会制度与裁判文书释法说理的规范化，探索如何通过统一裁判尺度增强司法公信力与法律可预期性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法行为",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Trump asks Supreme Court to hear appeal of $83.3 million defamation verdict against him",
       "titleCN": "Trump asks Supreme Court to hear appeal of $83.3 million defamation verdict against him",
       "url": "https://www.scotusblog.com/2026/07/trump-asks-supreme-court-to-hear-appeal-of-83-million-defamation-verdict-against-him/",
@@ -2289,6 +2358,29 @@
   ],
   "research": [
     {
+      "title": "Challenging Multigenerational Punishment",
+      "titleCN": "Challenging Multigenerational Punishment",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/challenging-multigenerational-punishment/?utm_source=rss&utm_medium=rss&utm_campaign=challenging-multigenerational-punishment",
+      "date": "2026-07-30",
+      "addedAt": "2026-07-31T04:00:25.636Z",
+      "summaryCN": "本文通过全新的实证研究揭示了美国多代惩罚的严重现状。研究基于数百万条行政记录和人口普查数据，发现过去五年中，每七个美国儿童就有一人的家庭成员被起诉，全美约一千一百万儿童受影响。文章指出，刑事司法系统不仅作用于被追诉者，还通过剥夺家庭资源与社会资本，对其子女造成显著的负面波及效应。作者据此主张，立法与司法机构在评估刑罚严厉程度时，应将该刑罚对家庭代际间的附带损害纳入考量，反思传统刑罚的界限，推动司法政策向缓解家庭代际惩罚的方向改革。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的核心价值在于以大规模实证数据量化了刑罚的代际波及效应。在研究方法上，跨越数州及数十年的行政与人口普查数据链接极具方法论参考价值，为法社会学定量研究提供了范例。在制度层面，文章挑战了传统刑罚理论仅关注个体可责性的框架，要求将家庭法与社会政策纳入刑事政策的成本收益评估中，这对中国法有强烈比较法启发。中国刑事司法中同样存在家属因亲属被追诉而面临的社会污名与权益受限问题，如附随性制裁与政审制度，本文的代际视角为反思这些制度的比例原则及社会成本提供了有力分析工具。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "实证研究",
+          "class": "criminal"
+        },
+        {
+          "name": "代际惩罚",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 9,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Unconstitutional But Not Unconstitutional Enough",
       "titleCN": "Unconstitutional But Not Unconstitutional Enough",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/unconstitutional-but-not-unconstitutional-enough/?utm_source=rss&utm_medium=rss&utm_campaign=unconstitutional-but-not-unconstitutional-enough",
@@ -4055,7 +4147,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-30T03:40:56.619Z",
+    "updatedAt": "2026-07-31T04:00:56.562Z",
     "generator": "ai"
   }
 }
