@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Traders plead guilty to BigLaw stolen-info scheme",
+      "titleCN": "Traders plead guilty to BigLaw stolen-info scheme",
+      "url": "https://www.abajournal.com/news/article/traders-plead-guilty-to-scheme-involving-insider-info-from-biglaw-firms/",
+      "date": "2026-08-01",
+      "addedAt": "2026-08-01T03:59:08.382Z",
+      "summaryCN": "两名交易员于周四在马萨诸塞州联邦法院认罪，承认参与了一项窃取律师事务所未公开交易信息并进行内幕交易的阴谋。该案涉及系统性地从代表企业客户的律所窃取即将发生的并购等商业交易的内部细节，并利用这些非公开信息在金融市场非法牟利。此认罪标志着这起针对大型律所信息安全漏洞的联邦刑事执法行动取得实质性进展，涉案人员将面临证券欺诈等相关罪名的刑事处罚。",
+      "summaryEN": "",
+      "whyMattersCN": "此案凸显了美国证券法中内幕交易刑事执法的核心逻辑，即对律所等专业服务机构信息泄露源头的严厉打击。在制度层面，它触及律师执业保密义务与防范第三方窃取商业秘密的交叉地带，强调了律所内部合规与网络安全管控的法律责任。对中国法具有显著的比较法启发：随着我国证券法对内幕交易打击力度不断加强，如何完善针对专业服务机构的信息隔离墙制度，以及运用刑法手段规制通过黑客手段或内部人员窃取未公开商业信息牟利的行为，此案提供了关键的监管执法与合规审查参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "内幕交易",
+          "class": "criminal"
+        },
+        {
+          "name": "法律职业伦理",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Insurance group seeks to dodge $10M damages award to worker who sued HR company over racial bias",
+      "titleCN": "Insurance group seeks to dodge $10M damages award to worker who sued HR company over racial bias",
+      "url": "https://www.abajournal.com/news/article/insurance-company-looks-to-dodge-10-million-damages-award/",
+      "date": "2026-08-01",
+      "addedAt": "2026-08-01T03:59:08.382Z",
+      "summaryCN": "一家保险公司向弗吉尼亚联邦地区法院法官提出申请，要求免除其支付一千万美元惩罚性赔偿金的责任。此前，一名员工因遭受种族歧视对涉事人力资源公司提起诉讼并获得胜诉判决。本案的核心争议在于保险公司是否需要为雇佣歧视诉讼中产生的巨额惩罚性赔偿买单，这直接触及了雇主责任保险条款的边界以及惩罚性赔偿的可保性这一经典法理问题。目前案件正处于保险公司寻求司法裁决以免除赔付责任的阶段。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国法中惩罚性赔偿的可保性这一核心制度争议。惩罚性赔偿旨在惩罚和威慑严重不当行为，若允许通过责任保险将赔偿风险转移，将削弱其威慑功能，故部分司法辖区限制其可保性。本案凸显了雇佣歧视案件高额赔偿与保险条款赔付边界之间的冲突，对中国法具有比较法启示。我国民法典及司法解释虽完善了惩罚性赔偿制度，但在该类赔偿能否纳入保险理赔范围的问题上规则尚不清晰。此案为反思保险制度与惩罚性赔偿威慑功能之间的平衡提供了实务参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "惩罚性赔偿",
+          "class": "constitutional"
+        },
+        {
+          "name": "雇主责任保险",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Appeals court imposes higher sanction on attorney to deter ‘unacceptable’ misuse of AI",
+      "titleCN": "Appeals court imposes higher sanction on attorney to deter ‘unacceptable’ misuse of AI",
+      "url": "https://www.abajournal.com/news/article/illinois-appeals-court-imposes-higher-sanction-on-attorney-to-deter-unacceptable-misuse-of-ai/",
+      "date": "2026-08-01",
+      "addedAt": "2026-08-01T03:59:08.382Z",
+      "summaryCN": "近日，伊利诺伊州上诉法院对一名滥用人工智能的律师开出高达1.5万美元的罚单。该法院旨在通过加重处罚以严厉打击并威慑法律实务中不当使用生成式人工智能的行为。此前，该律师在诉讼过程中因未加核实而提交了包含AI虚构案例的错误法律文书。上诉法院认为，此种行为严重违背了律师对法庭负有的诚实信用义务与职业勤勉要求。此项加重制裁的裁决标志着司法机关正积极采取更为强硬的惩戒措施，以规范AI在司法程序中的应用。",
+      "summaryEN": "",
+      "whyMattersCN": "此案具有重大的比较法借鉴价值，反映了司法机关应对AI幻觉引发的职业伦理危机的最新监管动态。法院通过上诉审程序加重处罚，明确了律师在使用生成式AI时负有不可推卸的最终核实责任，不能以技术不熟练作为豁免职业过错的借口。对中国法及本土司法监管的启发在于：面对法律科技应用风险，应当细化律师执业规范及法庭纪律规则，建立针对AI辅助诉讼的强制披露与实质审查机制。该判例为探索数字化时代的司法惩戒力度与律师合规执业边界提供了重要的制度参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "律师纪律",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 9,
+      "source": "ABA Journal"
+    },
+    {
       "title": "How a seemingly unexciting case on retirement plans could have massive consequences",
       "titleCN": "How a seemingly unexciting case on retirement plans could have massive consequences",
       "url": "https://www.scotusblog.com/2026/07/how-a-seemingly-unexciting-case-on-retirement-plans-could-have-massive-consequences/",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 8,
       "source": "ABA Journal"
-    },
-    {
-      "title": "Justice Kavanaugh: the great concurrer of the Roberts court?",
-      "titleCN": "Justice Kavanaugh: the great concurrer of the Roberts court?",
-      "url": "https://www.scotusblog.com/2026/07/justice-kavanaugh-the-great-concurrer-of-the-roberts-court/",
-      "date": "2026-07-30",
-      "addedAt": "2026-07-31T03:59:34.736Z",
-      "summaryCN": "本文探讨美国最高法院大法官卡瓦诺在罗伯茨法院中的角色定位，将其与沃伦法院的布雷南大法官进行对比。布雷南曾运用五票构成多数的规则，在民权和公民自由领域促成 landmark 裁决并维系既有成果。文章借此分析卡瓦诺频繁发表协同意见的司法行为，探讨其是否正成为当前法院中关键的中间力量，反映出最高法院内部共识构建与裁判策略的演变。",
-      "summaryEN": "",
-      "whyMattersCN": "该文虽带评论色彩，但触及美国最高法院的裁判规则与司法行为分析。通过五票即多数的规则及协同意见的运用，揭示大法官如何通过撰写部分协同意见来影响判决先例的约束范围。这对比较法研究具有启发，可借镜美国最高法院的共识构建机制及协同意见的法律效力界定。在中国法语境下，有助于思考审委会制度与裁判文书释法说理的规范化，探索如何通过统一裁判尺度增强司法公信力与法律可预期性。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "美国最高法院",
-          "class": "constitutional"
-        },
-        {
-          "name": "司法行为",
-          "class": "constitutional"
-        }
-      ],
-      "quality_score": 6,
-      "source": "SCOTUSblog"
     },
     {
       "title": "Trump asks Supreme Court to hear appeal of $83.3 million defamation verdict against him",
@@ -2358,6 +2404,29 @@
   ],
   "research": [
     {
+      "title": "Turning Over New Leaves: Achieving Equity Through Cannabis Licensure Reform In New York",
+      "titleCN": "Turning Over New Leaves: Achieving Equity Through Cannabis Licensure Reform In New York",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york",
+      "date": "2026-07-30",
+      "addedAt": "2026-08-01T03:59:33.594Z",
+      "summaryCN": "本文探讨了纽约州《大麻监管和税收法》在落实社会与经济公平（SEE）及优先许可制度方面的失灵问题。研究指出，过低的许可证发放率、掠夺性融资结构、泛滥的非法市场以及严重的政策推行延误，严重削弱了旨在扶持受司法影响企业家的改革目标。论文剖析了现行许可制度中阻碍公平目标实现的系统性缺陷，主张必须对大麻许可规则与监管框架进行结构性重构，以切实兑现法律所承诺的公平分配与补偿正义。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对纽约州大麻合法化过程中社会公平许可制度的批判性分析，为中国语境下的合规改革与监管政策设计提供了重要比较法参考。其深入揭示了在新兴行业准入中，优先许可与配额制度若缺乏配套的融资保障与市场监管，极易因掠夺性资本介入和非法竞争而异化。这启发我们在研究特许经营准入、资本市场监管以及事后合规制度时，应警惕形式公平掩盖下的实质不平等，注重构建防范资本套利与保障弱势主体参与的前置性监管规则。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "大麻合法化",
+          "class": ""
+        },
+        {
+          "name": "社会公平许可",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Challenging Multigenerational Punishment",
       "titleCN": "Challenging Multigenerational Punishment",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/challenging-multigenerational-punishment/?utm_source=rss&utm_medium=rss&utm_campaign=challenging-multigenerational-punishment",
@@ -4147,7 +4216,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-31T04:00:56.562Z",
+    "updatedAt": "2026-08-01T03:59:51.085Z",
     "generator": "ai"
   }
 }
