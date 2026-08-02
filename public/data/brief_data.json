@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The court’s big gun cases – and what’s next",
+      "titleCN": "The court’s big gun cases – and what’s next",
+      "url": "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
+      "date": "2026-07-31",
+      "addedAt": "2026-08-02T04:02:46.457Z",
+      "summaryCN": "美国最高法院在夏季休庭前结束了本庭审期，对第二修正案产生了深远影响。法院本期内审理了美国诉赫马尼和沃尔福德诉洛佩斯两起涉枪支挑战案。这是自赫勒案确认个人持枪自卫权以来，最高法院首次在单个庭审期内裁决多起第二修正案案件。在六月十八日作出的赫马尼案裁决中，大法官们一致认定，联邦政府无权仅因某人承认每隔一天使用一次大麻而禁止其持有枪支。这一系列案件标志着美国枪支权利与管制边界的进一步司法界定。",
+      "summaryEN": "",
+      "whyMattersCN": "本案的重要性在于美国最高法院正通过具体判例系统重塑第二修正案的适用边界。赫马尼案的一致裁决明确了联邦监管权力的宪法限制，即政府不能仅因个人的轻微违法行为（如吸食大麻）就剥夺其持枪自卫权。从比较法视角看，该案凸显了基本权利扩张与联邦行政监管权之间的张力，为研究宪法基本权利的审查标准、历史传统测试法及公共政策冲突提供了鲜活样本。法院在同一庭审期内连续裁决多起涉枪案，反映出大法官试图构建更为清晰的涉枪规制合宪性审查框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
+      "titleCN": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
+      "url": "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/",
+      "date": "2026-08-02",
+      "addedAt": "2026-08-02T04:02:46.457Z",
+      "summaryCN": "赛车巨头NASCAR提起商标侵权诉讼，起诉未具名的非法商家销售未经授权的周边商品。原告指控被告在网络平台上大量销售假冒商品，意图在赛事期间利用NASCAR的商誉牟利。诉讼核心在于保护品牌商标专用权与消费者免受混淆。NASCAR寻求禁令救济及法定赔偿。本案反映了大型体育赛事组织者利用法律手段打击在线匿名售假行为的维权策略。",
+      "summaryEN": "",
+      "whyMattersCN": "本案展示了美国商标法在应对电子商务匿名售假时的制度应用，特别是通过未具名被告诉讼程序锁定线上侵权人。NASCAR主张的禁令救济与法定赔偿，揭示了知识产权权利人在维权中的核心法律工具。对中国法的比较法启发在于：面对电商平台隐蔽售假，中国法可借鉴匿名被告诉讼及平台披露义务规则，优化取证与维权路径。该案还突显了赛事知识产权保护中，事前平台过滤与事后司法惩戒相结合的合规机制建设需求。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "商标侵权",
+          "class": ""
+        },
+        {
+          "name": "知识产权",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Defense attorneys should cautiously adopt AI, new study says",
+      "titleCN": "Defense attorneys should cautiously adopt AI, new study says",
+      "url": "https://www.abajournal.com/news/article/defense-attorneys-should-cautiously-adopt-ai-new-study-says/",
+      "date": "2026-08-02",
+      "addedAt": "2026-08-02T04:02:46.457Z",
+      "summaryCN": "据ABA Journal报道，一项最新研究报告指出，随着检察官日益广泛地使用人工智能技术，辩护律师也负有在技术上负责任地采纳特定AI工具的伦理义务。研究强调，如果辩护方在技术运用上严重滞后，将导致控辩双方在证据分析、数据处理和诉讼策略上出现力量失衡。因此，辩护律师不能完全排斥AI，而应在审慎评估技术局限和潜在风险的前提下，将其整合入辩护工作流程，以确保有效辩护并维持刑事诉讼中的程序平等。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及刑事司法中的控辩平等原则与律师执业伦理前沿问题。研究从工具理性的角度指出，技术鸿沟可能实质性剥夺被告人的有效辩护权，从而将AI采纳上升为律师的伦理要求。从比较法视角看，这为中美两国正在探索的AI法律应用伦理规范提供了启发：监管部门和律师协会亟需出台针对生成式AI的尽职调查标准、保密义务豁免边界及证据核验规则。同时提示，公权力机关的技术赋能必须伴随对辩护方技术获取能力的程序性保障，否则将破坏控辩平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "刑事辩护",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Traders plead guilty to BigLaw stolen-info scheme",
       "titleCN": "Traders plead guilty to BigLaw stolen-info scheme",
       "url": "https://www.abajournal.com/news/article/traders-plead-guilty-to-scheme-involving-insider-info-from-biglaw-firms/",
@@ -2404,6 +2473,29 @@
   ],
   "research": [
     {
+      "title": "Post-Jarkesy Administrative Jury In NLRB",
+      "titleCN": "Post-Jarkesy Administrative Jury In NLRB",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/post-jarkesy-administrative-jury-in-nlrb/?utm_source=rss&utm_medium=rss&utm_campaign=post-jarkesy-administrative-jury-in-nlrb",
+      "date": "2026-07-30",
+      "addedAt": "2026-08-02T04:03:18.138Z",
+      "summaryCN": "本文聚焦最高法院2023至2024庭审期对美国行政法的深远影响，重点剖析SEC诉Jarkesy案后国家劳资关系委员会的变革。该案与Loper Bright及Corner Post共同削弱了支撑行政机构自主权的基础。核心论证在于，Jarkesy案要求行政机构在特定处罚程序中引入陪审团，此举直接冲击NLRB传统行政裁决模式。作者探讨了该规则如何重塑劳资争议解决机制，指出机构面临程序重构与执法效能的挑战，并预测了行政法向司法化转型的未来趋势。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的研究价值在于精准捕捉到美国行政法权力格局的结构性转向。其制度贡献体现在剖析陪审团审查对行政裁决系统的冲击，为研究独立机构执法模式的转型提供了制度样本。就比较法启示而言，美国法院通过正当程序条款将司法权介入行政权，引发了对行政效率与程序公正的反思。对中国法而言，探讨如何在行政复议与行政诉讼中平衡专门机构的裁判能力与正当程序要求，具有极强的理论参照意义，为检视行政争议解决机制改革提供了切入视角。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国行政法",
+          "class": "constitutional"
+        },
+        {
+          "name": "Jarkesy案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Turning Over New Leaves: Achieving Equity Through Cannabis Licensure Reform In New York",
       "titleCN": "Turning Over New Leaves: Achieving Equity Through Cannabis Licensure Reform In New York",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york",
@@ -4216,7 +4308,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-01T03:59:51.085Z",
+    "updatedAt": "2026-08-02T04:03:34.835Z",
     "generator": "ai"
   }
 }
