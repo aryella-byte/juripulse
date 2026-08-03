@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
+      "titleCN": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
+      "url": "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/",
+      "date": "2026-08-03",
+      "addedAt": "2026-08-03T04:05:07.909Z",
+      "summaryCN": "赛车巨头NASCAR于周一对 undisclosed 的未经授权商品销售者提起商标侵权诉讼。该 motorsport 巨头在诉状中指控这些被告制造并销售假冒周边商品，涉嫌侵犯其注册商标权。本案的典型特征在于被告身份尚未明确，原告大概率将利用无名氏诉讼机制以便在后续程序中通过调查取证确认实际侵权人。此案标志着大型体育赛事组织方在重大赛事期间打击 counterfeit 商品、维护品牌无形资产与赞助权益的又一轮积极维权行动。",
+      "summaryEN": "",
+      "whyMattersCN": "本案在法律制度层面展现了无名氏诉讼在知识产权维权中的实操价值。大型赛事组织方面临侵权人隐蔽、售假速度快的挑战，通过先起诉未知名被告再结合披露程序锁定主体，有效解决了取证与管辖难题。这对中国法具有显著的比较法启发：在电子商务与直播带货环境中，权利人同样面临侵权主体难以及时确认的痛点。中国法院可借鉴此机制，优化行为保全与诉前证据保全规则，降低权利人初期举证门槛，并在《电子商务法》框架下强化平台协助披露义务，以提升知识产权救济的及时性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "商标侵权",
+          "class": ""
+        },
+        {
+          "name": "无名氏诉讼",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Completing the picture of the court’s criminal law term",
+      "titleCN": "Completing the picture of the court’s criminal law term",
+      "url": "https://www.scotusblog.com/2026/07/completing-the-picture-of-the-courts-criminal-law-term/",
+      "date": "2026-07-30",
+      "addedAt": "2026-08-03T04:05:07.909Z",
+      "summaryCN": "美国最高法院本年度开庭期刑事司法类案件盘点专栏。该文系统梳理了19起与刑事法律相关的实体判决及6起简易裁决案件。结合此前专栏已分析的16起纯正刑事案件，本开庭期共计形成41起刑事法及相关判例。文章旨在为法庭观察者提供全景式案件索引，帮助读者跳出单一案件细节，从宏观角度审视美国最高法院本年度在刑事司法领域的整体裁判倾向与规则演进脉络。",
+      "summaryEN": "",
+      "whyMattersCN": "该文虽为案件汇总，但为研究美国最高法院刑事法裁判尺度提供了系统的索引工具。对比较法研究而言，这种按开庭期整合判决的方法具有方法论启发，有助于学者跳出个案局限，考察大法官们在证据规则、量刑指导及程序正义等刑事司法制度上的整体保守化或自由化倾向。国内刑事法学界可借鉴此案源梳理模式，系统追踪域外重要裁判动向；实务界亦可通过该全清单精准定位相关判例，深入比较中美在特定刑事法教义学与程序保障规则上的制度差异。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Former top public defender in Minneapolis disbarred after felony tax conviction",
+      "titleCN": "Former top public defender in Minneapolis disbarred after felony tax conviction",
+      "url": "https://www.abajournal.com/news/article/minneapolis-former-top-public-defender-disbarred-after-felony-tax-conviction/",
+      "date": "2026-08-03",
+      "addedAt": "2026-08-03T04:05:07.909Z",
+      "summaryCN": "明尼苏达州最高法院于周三下令，将明尼阿波利斯亨内平县前首席公设辩护人吊销律师执照。此前，该律师因犯有逃税罪及挪用资金罪被定罪。作为县公设辩护系统的前最高负责人，其故意逃避纳税义务并实施资金挪用的行为，触发了州最高法院的纪律处分程序。法院最终基于其重罪定罪记录作出吊销执照的裁决，这标志着其法律职业生涯的终结，并体现了司法系统对执法人员违法行为的零容忍态度。",
+      "summaryEN": "",
+      "whyMattersCN": "本案反映了美国律师执业纪律与刑事定罪之间的联动机制。在美国法下，州最高法院是律师纪律处分的最终权力机构，重罪定罪通常构成直接吊销执照的法定事由。该案的特殊制度增量在于涉案主体的公设辩护人身份，其作为保障刑事被告人宪法权利的国家公职人员，自身却实施金融犯罪，严重侵蚀了刑事司法体系的公信力。从比较法视角看，这为反思我国律师协会与司法行政机关的行政处罚衔接机制，以及公职律师违法犯罪的执业资格撤销程序，提供了有价值的参考样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师纪律",
+          "class": "criminal"
+        },
+        {
+          "name": "公设辩护人",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "The court’s big gun cases – and what’s next",
       "titleCN": "The court’s big gun cases – and what’s next",
       "url": "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
@@ -22,29 +91,6 @@
       ],
       "quality_score": 8,
       "source": "SCOTUSblog"
-    },
-    {
-      "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
-      "titleCN": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
-      "url": "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/",
-      "date": "2026-08-02",
-      "addedAt": "2026-08-02T04:02:46.457Z",
-      "summaryCN": "赛车巨头NASCAR提起商标侵权诉讼，起诉未具名的非法商家销售未经授权的周边商品。原告指控被告在网络平台上大量销售假冒商品，意图在赛事期间利用NASCAR的商誉牟利。诉讼核心在于保护品牌商标专用权与消费者免受混淆。NASCAR寻求禁令救济及法定赔偿。本案反映了大型体育赛事组织者利用法律手段打击在线匿名售假行为的维权策略。",
-      "summaryEN": "",
-      "whyMattersCN": "本案展示了美国商标法在应对电子商务匿名售假时的制度应用，特别是通过未具名被告诉讼程序锁定线上侵权人。NASCAR主张的禁令救济与法定赔偿，揭示了知识产权权利人在维权中的核心法律工具。对中国法的比较法启发在于：面对电商平台隐蔽售假，中国法可借鉴匿名被告诉讼及平台披露义务规则，优化取证与维权路径。该案还突显了赛事知识产权保护中，事前平台过滤与事后司法惩戒相结合的合规机制建设需求。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "商标侵权",
-          "class": ""
-        },
-        {
-          "name": "知识产权",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Defense attorneys should cautiously adopt AI, new study says",
@@ -2473,6 +2519,29 @@
   ],
   "research": [
     {
+      "title": "Old Textualism, New Juristocracy",
+      "titleCN": "Old Textualism, New Juristocracy",
+      "url": "https://nyulawreview.org/issues/volume-101-number-2/old-textualism-new-juristocracy/",
+      "date": "2026-05-19",
+      "addedAt": "2026-08-03T04:05:44.394Z",
+      "summaryCN": "本文探讨十九世纪初早期文本中心主义法律解释理论的兴起。传统观点多将文本主义与美国建国时期的成文宪法及权力分立创新相联系，但本文提出，法律解释的首次文本主义转向实则发生在一个日益依赖书面文本的法律文化背景中。作者通过历史溯源，重新界定了早期文本主义的发展脉络及其在法律文化转型中的成因，借此反思当下文本主义解释方法与司法精英权力扩张之间的深层关联。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对理解当代宪法解释理论与司法权力运作具有重要价值。研究通过历史溯源方法，挑战了将文本主义仅归因于建国设计的传统叙事，揭示了书面法律文化对解释方法的塑造作用。这对比较法研究极具启发：在成文法与宪法解释面临原意主义与文本主义争议的司法管辖区，该文提供了反思司法精英在文本解释外衣下扩张权力的历史视角，有助于深化对法律文本解释客观性及法官自由裁量权边界的制度审视。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "文本主义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Post-Jarkesy Administrative Jury In NLRB",
       "titleCN": "Post-Jarkesy Administrative Jury In NLRB",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/post-jarkesy-administrative-jury-in-nlrb/?utm_source=rss&utm_medium=rss&utm_campaign=post-jarkesy-administrative-jury-in-nlrb",
@@ -4308,7 +4377,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-02T04:03:34.835Z",
+    "updatedAt": "2026-08-03T04:06:09.884Z",
     "generator": "ai"
   }
 }
