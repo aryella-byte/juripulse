@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "States challenging executive order on mail-in voting ask justices to leave in place limits on its implementation",
+      "titleCN": "States challenging executive order on mail-in voting ask justices to leave in place limits on its implementation",
+      "url": "https://www.scotusblog.com/2026/08/states-challenging-executive-order-on-mail-in-voting-ask-justices-to-leave-in-place-limits-on-it/",
+      "date": "2026-08-03",
+      "addedAt": "2026-08-04T03:46:32.729Z",
+      "summaryCN": "2026年8月3日，23个州及哥伦比亚特区向最高法院提交文件，请求维持波士顿联邦法院的一项禁令。该禁令阻止联邦政府在11月选举中对这些州适用有关邮寄投票的行政令条款。挑战者主张，若暂停该禁令，联邦政府将推出史无前例且缺乏法律依据的选民核查与选票拦截计划，赋予美国邮政总局广泛的权力与职责。此举标志着围绕该行政命令的联邦与州权争议进入最高法院博弈阶段。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国联邦制下选举管理权限的核心宪法争议。行政令试图赋予联邦机构干预各州邮寄选票处理及选民核实的权力，触及宪法赋予各州主导选举程序的制度边界。最高法院对紧急禁令的审查不仅关系到邮政总局监管职权的法定外延扩张，更将影响联邦与州权分权制衡的宪政判例走向。在比较法层面，该案对探讨中央与地方在选举程序合规监管中的权力分配、联邦行政令审查标准及司法救济时机具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦与州权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "SCOTUSblog founder Tom Goldstein appeals fraud conviction",
+      "titleCN": "SCOTUSblog founder Tom Goldstein appeals fraud conviction",
+      "url": "https://www.abajournal.com/news/article/scotusblog-founder-appeals-fraud-conviction/",
+      "date": "2026-08-04",
+      "addedAt": "2026-08-04T03:46:32.729Z",
+      "summaryCN": "SCOTUSblog联合创始人汤姆·戈德斯坦因税务和抵押贷款欺诈被判12项罪名成立，面临六年监禁及310万美元赔偿。目前戈德斯坦正对该定罪、刑期及赔偿判决提起上诉。此案涉及复杂的税务申报不实与房贷申请欺诈问题，上诉法院将重点审查初审法院的证据采信与法律适用。案件后续进展将决定其最终刑罚与赔偿义务，也对类似白领犯罪的法律辩护策略具有参考价值。",
+      "summaryEN": "",
+      "whyMattersCN": "本案虽起因于个人税务与贷款欺诈，但在刑事司法制度层面具有显著的程序与实体法增量。首先，案件涉及白领犯罪中税收逃避与金融欺诈的定罪标准，上诉审级对初审证据规则与量刑听证程序的审查，为美国刑事上诉制度提供了实务观察样本。其次，被告作为顶尖上诉律师及知名法律媒体创办人，其身份特殊使得案件的辩护策略、利益冲突披露及司法公正性备受瞩目。在比较法视野下，该案对中国法域内的逃税罪构成要件、合规不起诉适用边界以及涉众型金融欺诈量刑规范化具有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事上诉",
+          "class": "criminal"
+        },
+        {
+          "name": "白领犯罪",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Anti-cop license plates are protected as free speech, 4th Circuit rules",
+      "titleCN": "Anti-cop license plates are protected as free speech, 4th Circuit rules",
+      "url": "https://www.abajournal.com/news/article/anti-cop-license-plates-are-protected-as-free-speech-fourth-circuit-rules/",
+      "date": "2026-08-04",
+      "addedAt": "2026-08-04T03:46:32.729Z",
+      "summaryCN": "美国第四巡回上诉法院近期作出裁决，认定反警察车牌受言论自由保护。该案源于弗吉尼亚州一名司机对政府限制其反政府车牌的决定提出挑战。法院支持了司机的主张，判定政府限制此类车牌表达的做法不当。这一裁决明确了车牌作为个人表达政治观点的媒介，属于第一修正案所保障的言论自由范畴，进而限制了政府以行政手段干预个人在车牌上进行政治表达的权力。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国宪法第一修正案在个性化车牌领域的适用，凸显了政府财产上的私人言论规制边界。核心制度争议在于车牌究竟属于政府言论还是私人言论，若属前者则政府享有广泛审查权。此案对中国法具有比较法启发：中国机动车号牌管理实行严格行政审批，通常禁止个性化字母编排。该判例为探讨公物上的言论表达空间及行政规制审查标准提供了有益参考，提示我们在公共管理中应关注行政权力与公民表达权之间的张力。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "言论自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
       "titleCN": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
       "url": "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/",
@@ -2519,6 +2588,29 @@
   ],
   "research": [
     {
+      "title": "University Scholarships in the Shadow of SFFA",
+      "titleCN": "University Scholarships in the Shadow of SFFA",
+      "url": "https://pennlawreview.com/2026/05/08/university-scholarships-in-the-shadow-of-sffa/",
+      "date": "2026-05-08",
+      "addedAt": "2026-08-04T03:47:05.320Z",
+      "summaryCN": "本文探讨了最高法院在学生公平录取组织诉哈佛大学案（SFFA）判决后，大学种族导向奖学金项目的法律脆弱性。该判决虽未直接涉及助学金，但其法律框架已引发不确定性。作者分析了严格审查标准在财政资助领域的适用，指出此类项目若继续以种族作为分配标准，可能面临违宪挑战，并探讨了如何在合规前提下促进多元化的替代方案。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的学术价值在于将美国宪法第十四修正案平等保护条款的严格审查标准，从招生领域延伸至高校财政资助这一具体制度。SFFA案作为里程碑式判例，其溢出效应对高校资金分配和多元化政策产生了实质性影响。该研究通过规范分析方法，揭示了平权行动法律框架的扩张适用趋势。对中国法而言，这为研究美国教育公平法律演进、逆向歧视边界及高校自主权与宪法平等原则的张力提供了重要参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Old Textualism, New Juristocracy",
       "titleCN": "Old Textualism, New Juristocracy",
       "url": "https://nyulawreview.org/issues/volume-101-number-2/old-textualism-new-juristocracy/",
@@ -4377,7 +4469,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-03T04:06:09.884Z",
+    "updatedAt": "2026-08-04T03:47:52.700Z",
     "generator": "ai"
   }
 }
