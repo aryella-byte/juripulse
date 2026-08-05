@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court announces cases it will hear in October, which include significant disputes on climate change and immigration detention",
+      "titleCN": "Court announces cases it will hear in October, which include significant disputes on climate change and immigration detention",
+      "url": "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-october-which-include-significant-disputes-on-climate-chan/",
+      "date": "2026-08-04",
+      "addedAt": "2026-08-05T03:42:37.792Z",
+      "summaryCN": "美国联邦最高法院公布了2026至2027年开庭期十月份的言词辩论日程，共将在五天内审理七起案件。首案为森科尔能源诉博尔德县委员会案，定于十月五日开庭。该案中，科罗拉多州一县向油气企业提起诉讼，寻求数百万美元的气候损害赔偿。此外，法院还将审理涉及移民拘留的重大争议案件，以及Genalo诉Black案等。这些案件将深刻影响美国气候变化诉讼与移民拘留制度的走向。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国法上气候变化诉讼的核心管辖权与诉因问题，即地方政府能否依据州法向化石燃料企业追究气候变化的公害责任，抑或应由联邦法专属管辖。此争议涉及联邦与州权力的博弈，对界定企业碳排放合规边界具有风向标意义。此外，移民拘留案将检验移民宪法权利与行政羁押程序的平衡。在比较法层面，此类气候侵权诉讼的裁判路径，对跨国环境公益诉讼的因果关系认定、损害赔偿填补机制及公共信托原则的适用具有重要参考价值，值得环境法学者持续跟踪。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": ""
+        },
+        {
+          "name": "气候变化诉讼",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Appeals court fines lawyer in Starbucks bias case $15K for AI-generated fake citations",
+      "titleCN": "Appeals court fines lawyer in Starbucks bias case $15K for AI-generated fake citations",
+      "url": "https://www.abajournal.com/news/article/fake-ai-created-citations-result-in-real-15000-fine-for-lawyer-in-illinois-appeals-court/",
+      "date": "2026-08-05",
+      "addedAt": "2026-08-05T03:42:37.792Z",
+      "summaryCN": "伊利诺伊州上诉法院维持了伊利诺伊州人权委员会对一名星巴克员工提起的种族歧视指控的驳回决定，并对代理律师处以1.5万美元罚款。处罚原因是该律师在诉讼文书中使用了人工智能生成的虚假案例引用。法院强调，律师负有核实提交材料真实性的基本职业义务，依赖AI生成内容而未加审查的行为构成了对司法程序的妨碍，必须受到纪律处罚。",
+      "summaryEN": "",
+      "whyMattersCN": "该案是全球司法系统应对生成式AI挑战的标志性判例。它明确界定了律师在使用AI辅助执业时的核实义务与法律责任，确立了虚构判例将直接导致经济处罚及败诉后果的监管红线。这为各国法院处理类似AI幻觉引发的执业违规提供了先例。对中国法具有比较法启发：随着国内AI在法律检索中的普及，此案凸显了完善律师执业纪律规范、明确技术使用边界与过错认定标准的紧迫性，提示监管部门需尽早出台AI法律应用的合规指引。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "法律职业伦理",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Reproductive technologies and the federal constitutional vacuum",
+      "titleCN": "Reproductive technologies and the federal constitutional vacuum",
+      "url": "https://www.scotusblog.com/2026/08/reproductive-technologies-and-the-federal-constitutional-vacuum/",
+      "date": "2026-08-04",
+      "addedAt": "2026-08-05T03:42:37.792Z",
+      "summaryCN": "本文改编自《美国未竟：二百五十年法律与治理》论文集，聚焦生殖技术发展与美国联邦宪法规范缺位的张力。作者指出，面对二十世纪八十年代以来的技术浪潮及未来颠覆性创新，最高法院一直保持沉默。文章探讨了销毁胚胎的合法性、代孕协议中女性生殖劳动的商品化、基因编辑、新型家庭组建模式等前沿问题。这些问题触及人的尊严、资源获取与平等权等宪法核心，暴露出联邦层面对新兴生殖科技规制的真空，亟待明确宪法回应以界定国家根本价值取向。",
+      "summaryEN": "",
+      "whyMattersCN": "本文敏锐捕捉到新兴科技对传统宪法框架的严峻挑战，具有显著的比较法与制度研究价值。美国最高法院对代孕、胚胎地位及基因编辑等问题的回避，导致各州规制呈现碎片化，凸显了成文法滞后与宪法解释固化的困境。反观中国法，民法典对胚胎属性的伦理物界定及对代孕的行政禁令提供了成文法路径，但面对基因编辑等新型生育权与平等权争议，同样面临宪法层面的价值阙如。该文为反思生殖技术立法的合宪性审查、宪法基本权利对第三人效力以及科技伦理的法律转化提供了核心比较法素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "生殖技术",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法缺位",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "States challenging executive order on mail-in voting ask justices to leave in place limits on its implementation",
       "titleCN": "States challenging executive order on mail-in voting ask justices to leave in place limits on its implementation",
       "url": "https://www.scotusblog.com/2026/08/states-challenging-executive-order-on-mail-in-voting-ask-justices-to-leave-in-place-limits-on-it/",
@@ -2588,6 +2657,25 @@
   ],
   "research": [
     {
+      "title": "The Jurisprudence of Justice Gorsuch and Future Efforts to Address Climate Change",
+      "titleCN": "The Jurisprudence of Justice Gorsuch and Future Efforts to Address Climate Change",
+      "url": "https://michiganlawreview.org/the-jurisprudence-of-justice-gorsuch-and-future-efforts-to-address-climate-change/",
+      "date": "2024-02-14",
+      "addedAt": "2026-08-05T03:43:08.057Z",
+      "summaryCN": "本文探讨了美国最高法院戈萨奇大法官的法理及其对未来气候变化应对努力的潜在影响。随着特朗普政府重塑联邦司法机构以及最高法院在近两个开庭期作出多项具有里程碑意义的裁决，美国环境法正迅速向保守派方向演变。研究聚焦于戈萨奇在行政权与环保监管方面的司法哲学，分析其文本主义解释方法及对重大问题原则的运用如何限制联邦环保署的监管权力，进而剖析这些法理趋势对未来美国气候立法与政策走向构成的制度性挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律动态",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Michigan Law Review"
+    },
+    {
       "title": "University Scholarships in the Shadow of SFFA",
       "titleCN": "University Scholarships in the Shadow of SFFA",
       "url": "https://pennlawreview.com/2026/05/08/university-scholarships-in-the-shadow-of-sffa/",
@@ -4469,7 +4557,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-04T03:47:52.700Z",
+    "updatedAt": "2026-08-05T03:43:32.113Z",
     "generator": "ai"
   }
 }
