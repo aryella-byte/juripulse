@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "What is “trapped in amber”? An originalist explanation",
+      "titleCN": "What is “trapped in amber”? An originalist explanation",
+      "url": "https://www.scotusblog.com/2026/08/what-is-trapped-in-amber-an-originalist-explanation/",
+      "date": "2026-08-06",
+      "addedAt": "2026-08-07T03:25:22.741Z",
+      "summaryCN": "本文聚焦美国最高法院大法官在近期判决中频繁使用的隐喻“困在琥珀中”，以此透视宪法原旨主义解释方法。在特朗普诉库克案等判例中，多数意见借此隐喻论证宪法框架与中央银行机制应随时代演进，反对将历史实践固化。大法官索托马约尔与杰克逊亦在各自意见中引用该表述，强调国会立法意图并非冻结特定历史实践。文章指出，该隐喻已成为大法官们辩论法律文本历史含义与当代适用性张力的重要修辞工具。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻具有显著的法学方法论增量。它揭示了原旨主义解释在当代美国最高法院的演变：大法官通过“困在琥珀中”的修辞，在宪法与制定法解释中调和历史原意与当代社会现实。这对比较法研究极具启发，为审视法律文本的稳定性与适应性张力提供了具体判例参照。对于中国法学界探讨法律解释方法、宪法变迁及成文法的时代适应性提供了鲜活的美国法样本，有助于反思如何在尊重立法原意与回应现代社会治理需求之间取得动态平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法原旨主义",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Appeals court suspends lawyer who denied sex with client",
+      "titleCN": "Appeals court suspends lawyer who denied sex with client",
+      "url": "https://www.abajournal.com/news/article/ny-appeals-court-suspends-lawyer-for-2-years-for-denying-sexual-relationship-with-client/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-07T03:25:22.741Z",
+      "summaryCN": "纽约一家上诉法院近日对布法罗地区一名律师作出暂停执业两年的纪律处分。该律师被揭发曾与其代理客户发生性关系，并在纪律审查期间对此予以否认。法院指出，律师与客户发生亲密关系会引发严重的利益冲突，破坏职业信任与独立性。此外，律师在调查中作虚假陈述的行为进一步违反了职业操守。法院据此认定其行为严重违反律师执业伦理，最终决定中止其执业资格以维护法律职业的廉洁性。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及法律服务中利益冲突防范与职业伦理的核心问题。美国律师协会相关规则严格禁止律师与当前客户发生性关系，除非关系发生在代理之前且不损害律师职业判断。该案的特殊法律增量在于明确了违规后虚假陈述将作为加重处罚的独立事由，这对律师纪律审查程序的证据规则具有示范意义。对中国法而言，中华全国律师协会的执业行为规范虽也禁止不正当交往，但在利益冲突的具体边界认定、客户同意权的适用条件及纪律处分的阶梯设定上仍需细化。此案为比较法视野下的律师行业监管与执业惩戒标准提供了实务参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业伦理",
+          "class": ""
+        },
+        {
+          "name": "利益冲突",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Federal judge fines attorney for AI mistakes in taco biz beef",
+      "titleCN": "Federal judge fines attorney for AI mistakes in taco biz beef",
+      "url": "https://www.abajournal.com/news/article/federal-judge-fines-attorney-for-ai-mistakes-in-taco-biz-beef/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-07T03:25:22.741Z",
+      "summaryCN": "康涅狄格州联邦法官对一名辩护律师处以3500美元罚款，原因是其在与墨西哥卷饼商业纠纷相关的诉讼中提交的两份法律文书包含了人工智能生成的错误。法官认为，该律师未对AI生成的法律内容进行合理核实，导致法庭文件中出现虚构或错误信息。此事件凸显了AI在法律实践中应用的潜在风险，表明法院对律师在诉讼中使用AI辅助工具时未履行审慎核实义务的零容忍态度。",
+      "summaryEN": "",
+      "whyMattersCN": "此案对人工智能在司法实务中的应用具有直接的规范效应。法官通过具体的处罚措施确立了律师在使用生成式AI时必须承担的绝对核实义务，明确了不能以技术辅助作为免除专业责任的抗辩理由。这对美国联邦法院正在形成的相关规则具有判例补充作用。对中国法而言，随着国内AI在法律检索和文书起草中的普及，此案提示司法行政部门与律协应尽早出台AI使用合规指引，确立律师对AI生成内容的实质审查标准。比较法上的启示在于，技术工具的应用不能动摇诉讼程序的诚实信用基石，防范AI幻觉造成的虚假诉讼是各国司法监管的共同痛点。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "律师纪律",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "What does the Trump administration want from the Supreme Court next?",
       "titleCN": "What does the Trump administration want from the Supreme Court next?",
       "url": "https://www.scotusblog.com/2026/08/what-does-the-trump-administration-want-from-the-supreme-court-next/",
@@ -2726,6 +2795,29 @@
   ],
   "research": [
     {
+      "title": "Protecting Our Health Care Providers from Liability in a Pandemic",
+      "titleCN": "Protecting Our Health Care Providers from Liability in a Pandemic",
+      "url": "https://northwesternlawreview.org/uncategorized/protecting-our-health-care-providers-from-liability-in-a-pandemic/",
+      "date": "2020-05-05",
+      "addedAt": "2026-08-07T03:25:53.802Z",
+      "summaryCN": "本文探讨了新冠疫情下医护人员面临的医疗事故诉讼风险。疫情期间，医疗资源严重短缺迫使临床医生配给呼吸机等稀缺资源，加之医院秩序混乱与选择性手术推迟，导致常规医疗标准难以适用，引发责任恐慌。研究针对此类极端危机状态，检视了为医护人员提供豁免保护的法理基础与制度路径，旨在平衡患者权益与公共卫生应急需求，确保前线救治者在困境中免受不当法律追究。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及比较法与卫生法领域的核心难题：突发公共卫生事件下的医疗责任豁免边界。其制度贡献在于检视传统侵权法注意义务在资源极端匮乏时的适用困境。对中国法启发显著：我国《民法典》及医师法虽有紧急救治免责条款，但对资源配给等系统性崩溃场景缺乏细化标准。研究为完善我国应急状态下的医疗过错认定标准、稀缺资源分配程序合规及构建合理的医务人员民事豁免机制提供了域外经验与理论支撑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "医疗侵权",
+          "class": ""
+        },
+        {
+          "name": "疫情责任豁免",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Northwestern Law Review"
+    },
+    {
       "title": "Military Sexual Trauma Survivors’ Second Battle",
       "titleCN": "Military Sexual Trauma Survivors’ Second Battle",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/military-sexual-trauma-survivors-second-battle/?utm_source=rss&utm_medium=rss&utm_campaign=military-sexual-trauma-survivors-second-battle",
@@ -4649,7 +4741,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-06T03:49:07.424Z",
+    "updatedAt": "2026-08-07T03:26:20.684Z",
     "generator": "ai"
   }
 }
