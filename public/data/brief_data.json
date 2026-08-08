@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The Supreme Court of Japan",
+      "titleCN": "The Supreme Court of Japan",
+      "url": "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-08T02:27:21.185Z",
+      "summaryCN": "本文为SCOTUSblog对美国最高法院与日本最高法院进行比较研究的专访。受访学者大卫·罗教授指出，日本最高法院依据二战后1947年《日本国宪法》设立。在管辖权方面，该法院理论上几乎不享有初审管辖权，仅存在针对法官弹劾的狭窄法定例外。文章将其定位为保守主义堡垒，旨在探讨其制度设计、受案机制与美国最高法院的差异，借此揭示日本司法审查的实际运作状况与权力边界。",
+      "summaryEN": "",
+      "whyMattersCN": "该文为比较宪法研究提供重要切入点。日本最高法院作为二战后宪政改造产物，其极度受限的初审管辖权与严格的案件过滤机制，反映了大陆法系司法审查的保守倾向。对比中美日三国最高法院的制度设计，可深入探讨司法能动与司法克制的边界。对中国法而言，研究日本最高法院如何在维护违宪审查权的同时保持司法谦抑，以及其案件受理机制如何影响司法政策供给，对完善我国司法解释机制与探索合宪性审查制度具有显著的比较法参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "比较宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "日本最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Walmart faces lawsuit over alleged collection of customers’ voice prints",
+      "titleCN": "Walmart faces lawsuit over alleged collection of customers’ voice prints",
+      "url": "https://www.abajournal.com/news/article/walmart-faces-lawsuit-over-alleged-collection-of-customers-voice-prints/",
+      "date": "2026-08-08",
+      "addedAt": "2026-08-08T02:27:21.185Z",
+      "summaryCN": "沃尔玛遭一群顾客提起集体诉讼，被控非法收集顾客的生物识别信息。原告在向美国北部某联邦地区法院提交的诉状中指控，沃尔玛未经明确同意私自获取顾客的语音特征数据，违反了相关生物识别隐私法律。此类诉讼通常围绕企业是否在收集、存储和处理生物特征数据前履行了充分的告知与同意程序展开，凸显了商业机构在应用语音识别等新兴技术进行服务时面临的合规风险与侵权责任。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国生物识别信息隐私法（如BIPA）的核心适用，即声纹等不可逆转生物特征的商业收集边界与事先同意要求。声纹具有唯一性与不可更改性，一旦泄露将造成永久性隐私损害。此案对比较法研究具启发意义：中国《个人信息保护法》将生物识别列为敏感个人信息，要求单独同意与必要性审查。该案凸显的事先告知缺陷与未经授权采集问题，为中国法上企业合规审查及大规模侵权救济机制提供了实证参考，也警示零售业引入语音交互技术时的合规风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "生物识别隐私",
+          "class": "tech"
+        },
+        {
+          "name": "集体诉讼",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump informs Lisa Cook that he is “considering” her removal",
+      "titleCN": "Trump informs Lisa Cook that he is “considering” her removal",
+      "url": "https://www.scotusblog.com/2026/08/trump-informs-lisa-cook-that-he-is-considering-her-removal/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-08T02:27:21.185Z",
+      "summaryCN": "特朗普总统致函美联储理事库克，告知正考虑将其免职。此前最高法院于6月29日暂时叫停了特朗普初次解职尝试，强调美联储须免受政治干预。白宫幕僚长在信中指控库克在加入美联储前犯有抵押贷款欺诈，即在2021年将佐治亚州公寓与密歇根州房屋均列为主要住所。库克获21天回应期。此案凸显独立机构人事任免的宪法争议，涉及总统免职权与机构独立性的法律边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直击美国宪政体制下独立机构董事免职权的核心争议。最高法院此前暂缓免职的裁决，触及总统权力与美联储货币政策独立性的宪法分界。特朗普政府以加入政府前的个人涉嫌抵押贷款欺诈为由启动免职，引发对解职事由是否须限于法定过失的探讨。此争议不仅重塑行政权与独立监管机构的权力制衡，也为比较法上央行独立性保障及独立机构高管任免程序研究提供重要参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法",
+          "class": "constitutional"
+        },
+        {
+          "name": "独立机构",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "What is “trapped in amber”? An originalist explanation",
       "titleCN": "What is “trapped in amber”? An originalist explanation",
       "url": "https://www.scotusblog.com/2026/08/what-is-trapped-in-amber-an-originalist-explanation/",
@@ -2795,6 +2864,29 @@
   ],
   "research": [
     {
+      "title": "A First Amendment Right to Know",
+      "titleCN": "A First Amendment Right to Know",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=a-first-amendment-right-to-know",
+      "date": "2026-05-26",
+      "addedAt": "2026-08-08T02:27:42.993Z",
+      "summaryCN": "本文探讨美国警方在街头大规模抓捕抗议者时，能否以保密为由拒绝公开被拘留者姓名而不违反第一修正案。2020年黑命攸关运动期间，政府曾主张这一立场。论文聚焦第一修正案是否保护公众获取此类警务信息的权利，分析政府保密主张的宪法边界。作者论证了知情权在公共监督与民主问责中的核心地位，指出警方秘密拘留且不公开姓名的做法不仅侵犯公众知情权，也削弱了公众监督政府滥用职权的能力，建议通过宪法解释明确被拘留者信息公开的规则与限度。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对宪法知情权与警务透明度的交叉研究具有显著制度价值。作者回应2020年BLM抗议中警方秘密拘留的争议，将第一修正案解释从传统的言论自由扩展至信息获取权，触及公众监督与国家权力边界的核心议题。研究方法上结合宪法教义学与实证政策分析，为评估政府保密主张提供审查框架。对中国法比较研究亦有启发：中国在行政执法信息公开与公民知情权保障方面尚存制度空间，本文对美国宪法判例的梳理可为完善警务执法公开机制、平衡公共安全与公民监督权提供比较法参照，尤其在大数据监控与公共事件背景下更具现实意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "知情权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
       "title": "Protecting Our Health Care Providers from Liability in a Pandemic",
       "titleCN": "Protecting Our Health Care Providers from Liability in a Pandemic",
       "url": "https://northwesternlawreview.org/uncategorized/protecting-our-health-care-providers-from-liability-in-a-pandemic/",
@@ -4741,7 +4833,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-07T03:26:20.684Z",
+    "updatedAt": "2026-08-08T02:28:02.374Z",
     "generator": "ai"
   }
 }
