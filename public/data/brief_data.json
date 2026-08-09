@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Duke Law accused of racial discrimination by DOJ",
+      "titleCN": "Duke Law accused of racial discrimination by DOJ",
+      "url": "https://www.abajournal.com/news/article/duke-law-accused-of-racial-discrimination-by-doj/",
+      "date": "2026-08-09",
+      "addedAt": "2026-08-09T02:34:41.320Z",
+      "summaryCN": "美国司法部指控杜克大学法学院在过去三个招生周期中存在基于种族的故意歧视行为。司法部认为该校的招生政策违反了联邦反歧视法律。此举是美国联邦政府针对高等教育机构平权法案招生政策合规性审查的最新执法行动，标志着联邦监管机构与顶尖法学院在多元招生机制合法边界上的法律冲突进一步升级，后续可能引发行政诉讼并重塑法学院招生规则。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及美国宪法第十四修正案平等保护条款与联邦反歧视法在高等教育招生中的适用边界。在后平权法案时代，联邦司法部正通过行政监管严格审查高校是否变相保留种族配额，为判断多元招生机制的合规标准提供了实证标的。从比较法视角看，此案揭示了反向歧视认定的执法逻辑，对中国高校招生公平机制改革、隐性名额分配的合法性审查以及反歧视法理论构建具有镜鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "反歧视法",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法平等保护",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump signs new birthright citizenship order, ballroom dispute likely headed to Supreme Court",
+      "titleCN": "Trump signs new birthright citizenship order, ballroom dispute likely headed to Supreme Court",
+      "url": "https://www.scotusblog.com/2026/08/trump-signs-new-birthright-citizenship-order-ballroom-dispute-likely-headed-to-supreme-court/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-09T02:34:41.320Z",
+      "summaryCN": "特朗普于8月6日签署了旨在限制出生公民权的行政令。此举距最高法院裁定废除早期更广泛限制的行政令仅一个多月。新令名为“继续保护美国公民身份的意义和价值”，试图缩减在美国出生即获公民权的现行保障范围。该令势必引发诉讼，挑战者将主张新限制超越了最高法院此前论述的普遍公民权保障的特定例外范畴，相关争议预计将再次诉至最高法院。",
+      "summaryEN": "",
+      "whyMattersCN": "本新闻直接触及美国宪法第十四修正案关于出生公民权的核心解释边界，具有重大宪政价值。最高法院此前推翻早期行政令的判例，明确了行政权试图通过单边立法限制宪法权利的界限。新令的签署及后续诉讼，将进一步检验司法审查对行政越权的约束力，并可能重塑公民身份取得的宪法规则。对中国法比较研究而言，该案提供了观察成文宪法解释稳定性、司法权与行政权制衡机制以及基本权利保障范围的经典实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法争议",
+          "class": "constitutional"
+        },
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Beyond the swing justice: majority makers, dissent bridges, and coalition drift on the Supreme Court",
+      "titleCN": "Beyond the swing justice: majority makers, dissent bridges, and coalition drift on the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/08/beyond-the-swing-justice-majority-makers-dissent-bridges-and-coalition-drift-on-the-supreme-cour/",
+      "date": "2026-08-06",
+      "addedAt": "2026-08-09T02:34:41.320Z",
+      "summaryCN": "近期最高法院大法官巴雷特拒绝将其定义为摇摆票，而倾向于自称独立或遵循法律。传统意义上的摇摆大法官（如鲍威尔、奥康纳和肯尼迪）通常处于意识形态中间地带，能决定多数意见归属。学者指出，在肯尼迪退休后，由于当前法院形成六人保守派多数，其内部凝聚力及结盟模式发生变化，导致缺乏类似的传统中间派人物。文章进一步探讨了多数意见塑造者、异议桥梁及联盟漂移等新概念，以此分析当前最高法院的表决结构与司法互动逻辑。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对理解美国最高法院大法官结盟模式的制度演变具有法学增量。传统依赖单一中间派大法官形成多数的模型，正让位于基于多数派内部裂痕的联盟漂移机制。这要求比较法研究在考察美国宪政运作时，不能仅关注意识形态光谱，更需运用量化实证方法分析具体议题上的投票矩阵。对于中国法而言，该文提供了观察合议庭内部意见分歧、共识凝聚及裁判说理策略的微观视角。多数意见塑造者与异议桥梁等分析框架，有助于深化对司法机关内部决策机制及司法中立性的比较研究。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法行为学",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "The Supreme Court of Japan",
       "titleCN": "The Supreme Court of Japan",
       "url": "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/",
@@ -2864,6 +2933,29 @@
   ],
   "research": [
     {
+      "title": "Proof Beyond a Reasonable Doubt Doesn't Exist: Except as an Emergent Property of a Complex Adaptive System",
+      "titleCN": "Proof Beyond a Reasonable Doubt Doesn't Exist: Except as an Emergent Property of a Complex Adaptive System",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/2",
+      "date": "2026-01-07",
+      "addedAt": "2026-08-09T02:35:12.129Z",
+      "summaryCN": "本文引入复杂性理论与复杂适应系统框架，分析英美法系的证据法及刑事司法运作。论文指出，排除合理怀疑的证明标准（BARD）在任何可知形式上均不存在，而是作为刑事程序这一复杂适应系统的涌现属性而显现。由于司法管辖区域及具体案件情境的差异，BARD的内涵呈现动态变化。研究揭示传统还原论的科学方法无法精确界定该标准，必须将其置于系统整体的互动演化中去理解，从而为证据法概念及法律本质的争论提供新视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文的学术价值在于突破传统还原论视角，将刑事司法视为复杂适应系统，为排除合理怀疑这一核心刑事证明标准提供了动态的系统性解释。在研究方法上，它启示比较法学者可借鉴系统论与复杂性科学，重新审视中国刑事诉讼中证明标准的客观化难题。中国的定罪证明标准长期面临主观化与难以量化界定的困境，本文的涌现属性理论提示，证明标准并非孤立的裁判规则，而是控辩审多方互动与程序流转的系统产物，这为反思中国以审判为中心的诉讼制度改革及防范冤假错案提供了全新的跨学科理论工具。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "复杂适应系统",
+          "class": "criminal"
+        },
+        {
+          "name": "排除合理怀疑",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "A First Amendment Right to Know",
       "titleCN": "A First Amendment Right to Know",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=a-first-amendment-right-to-know",
@@ -4833,7 +4925,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-08T02:28:02.374Z",
+    "updatedAt": "2026-08-09T02:35:29.959Z",
     "generator": "ai"
   }
 }
