@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "When the court denies racism that others see",
+      "titleCN": "When the court denies racism that others see",
+      "url": "https://www.scotusblog.com/2026/08/when-the-court-denies-racism-that-others-see/",
+      "date": "2026-08-04",
+      "addedAt": "2026-08-10T02:40:08.865Z",
+      "summaryCN": "美国最高法院在穆林诉多伊案中作出裁决，允许特朗普政府推进终止数十万人道主义移民保护的计划。法院多数意见裁定，政府高级官员在针对海地移民时并未实施种族歧视，并否认行政部门使用了种族主义语言。该裁决的核心在于多数派对何谓种族性描述采取了极其狭义的界定。这一裁判结果推翻了此前对政府政策的法律挑战，反映出法院对种族歧视概念的认定标准与现代社会公众的普遍认知及通用定义存在显著脱节。",
+      "summaryEN": "",
+      "whyMattersCN": "本案的法律增量在于最高法院对种族歧视与种族言论构成要件的狭义解释，直接提高了原告在移民政策中主张违宪或违法歧视的举证门槛。从比较法视角看，该案揭示了司法机关在面对行政移民裁量权时的司法审查边界。法院通过严格限定歧视的语言认定标准，实质上赋予了行政部门更大的政策推行空间。这对中国法学界探讨平等权保护、行政裁量司法审查标准以及反歧视概念在司法实践中的教义学建构具有显著的比较法启发意义，提示需关注法律概念解释与时代共识的脱节风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Pete Buttigieg, the Supreme Court, and the Fourth Amendment",
+      "titleCN": "Pete Buttigieg, the Supreme Court, and the Fourth Amendment",
+      "url": "https://www.scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-10T02:40:08.865Z",
+      "summaryCN": "2026年6月底，总统候选人皮特·布蒂吉格在社交平台发文称，其经历了噩梦：密歇根州家中遭警察与儿童保护服务机构（CPS）人员敲门拜访。他被指控涉嫌有关四岁双胞胎的不当行为，并被安排接受法医访谈。本文以此事件为切入点，探讨美国最高法院与第四修正案在儿童福利调查中的适用问题，聚焦执法人员与社会工作者联合上门调查是否构成宪法意义上的搜查，以及当事人在此类情境下是否享有拒绝同意入屋的宪法权利。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法第四修正案在儿童福利调查领域的边界争议，核心在于CPS调查是否须受合理怀疑与搜查令约束。制度层面，它揭示了行政执法与儿童保护机制联合行动时，家长同意的自愿性判断难题，通常需考量执法人员在场是否构成隐性强迫。对中国法有比较法价值：我国未成年人保护法与反家暴法在赋予基层调查权时，亦面临公权力入户与隐私权保障的冲突。分析此案有助于反思我国强制报告制度与社区调查程序的权力边界，为规范入户调查程序提供有益借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第四修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "儿童保护服务",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "President Trump issues new birthright citizenship and “birth tourism” orders",
+      "titleCN": "President Trump issues new birthright citizenship and “birth tourism” orders",
+      "url": "https://www.scotusblog.com/2026/08/president-trump-signs-new-birthright-citizenship-and-birth-tourism-orders/",
+      "date": "2026-08-07",
+      "addedAt": "2026-08-10T02:40:08.865Z",
+      "summaryCN": "特朗普总统发布了关于出生公民权和赴美生育的新行政令，旨在限制依据宪法第十四修正案自动赋予非法移民或临时签证者子女美国国籍的权利。此举直接挑战了确立出生地原则的百年先例。同时，另一项涉及汽车牌照的言论自由争议正成为第一修正案的新战场。后者聚焦于州政府是否有权限制个性化车牌上的政治表达，反映了政府在打击不良言论与保障公民表达自由之间的宪法边界博弈。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻触及美国宪政核心争议。出生公民权行政令直接挑战宪法第十四修正案与确立属地原则的1898年合众国诉黄金德案先例，涉及行政权对国籍法定条件的重塑边界，引发对移民监管与基本权利的深度审视。车牌案则延展了第一修正案在公共空间个性化表达的适用范围。对中国法的启发在于：比较法视角下，国籍取得规则的法定条件与宪法保障差异，以及特殊载体上言论自由的监管尺度，为理解成文法解释、行政权边界与基本权利保障提供了重要参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法第十四修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Duke Law accused of racial discrimination by DOJ",
       "titleCN": "Duke Law accused of racial discrimination by DOJ",
       "url": "https://www.abajournal.com/news/article/duke-law-accused-of-racial-discrimination-by-doj/",
@@ -2933,6 +3002,29 @@
   ],
   "research": [
     {
+      "title": "In the Court’s Image: Visual Opinions and Judicial Legitimacy",
+      "titleCN": "In the Court’s Image: Visual Opinions and Judicial Legitimacy",
+      "url": "https://nyulawreview.org/issues/volume-101-number-3/in-the-courts-image-visual-opinions-and-judicial-legitimacy/",
+      "date": "2026-06-30",
+      "addedAt": "2026-08-10T02:41:17.904Z",
+      "summaryCN": "美国最高法院正经历视觉化转型。打破以往纯文本传统，法院在过去十五年间越来越频繁地将监狱宿舍、祈祷圈及被盗艺术品等图像直接嵌入司法意见书。本文聚焦这一视觉语汇扩张现象，探讨在判决中直接使用图像所引发的司法合法性问题。研究认为，图像虽能增强事实呈现的直观性，但也可能削弱判决的正式性与中立性。论文深入剖析了视觉意见对法官身份建构及公众司法认知的潜在冲击，为理解数字时代司法表达形式的演变提供了重要视角。",
+      "summaryEN": "",
+      "whyMattersCN": "本文突破了传统法理学对司法文本的单一关注，具有显著的跨学科研究方法价值。对中国比较法研究极具启发：随着中国智慧法院建设与司法公开深化，裁判文书呈现方式正面临多媒体化挑战。该研究提醒国内学者与实务界，需警惕视觉元素在增强判决可接受性的同时，可能带来的情绪偏见与司法权威消解风险。文章将司法表达形式与体制合法性挂钩，为评估司法公开技术化、视觉化的边界提供了切实的比较法参照与制度反思框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法意见",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Proof Beyond a Reasonable Doubt Doesn't Exist: Except as an Emergent Property of a Complex Adaptive System",
       "titleCN": "Proof Beyond a Reasonable Doubt Doesn't Exist: Except as an Emergent Property of a Complex Adaptive System",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/2",
@@ -4925,7 +5017,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-09T02:35:29.959Z",
+    "updatedAt": "2026-08-10T02:41:44.114Z",
     "generator": "ai"
   }
 }
