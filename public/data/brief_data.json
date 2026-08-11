@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "12 angry men – or six?",
+      "titleCN": "12 angry men – or six?",
+      "url": "https://www.scotusblog.com/2026/08/twelve-angry-men-or-six/",
+      "date": "2026-08-10",
+      "addedAt": "2026-08-11T02:33:38.854Z",
+      "summaryCN": "最高法院将于秋季审理Kian诉佛罗里达州案，审查佛州允许仅由六人陪审团定罪严重犯罪的做法是否违宪。半个多世纪前，威廉姆斯诉佛罗里达州案承认自建国前陪审团便由十二人组成，但认定该人数仅为历史偶然，除对神秘主义者外毫无意义，裁定六人陪审团足以履职。本案将重新评估十二人陪审团究竟属于宪法强制要求，还是各州遵循普通法精神的自愿惯例。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直击美国宪法第六修正案陪审团权利的核心边界，挑战了威廉姆斯案确立的历史先例。十二人陪审团制度源于普通法传统，其制度功能在于促进深度审议与降低偏见风险。此案不仅关乎联邦对各州刑事司法程序的宪法约束，更具有显著的比较法价值。它促使我们反思陪审团规模与裁判质量、程序正义之间的实证关联，为中国学者研究人民陪审员制度的规模配置、事实认定机制及司法民主化路径提供了重要的跨法系制度参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "陪审团规模",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Former clients sue ‘Lawyer of Miracles’ for alleged fraud",
+      "titleCN": "Former clients sue ‘Lawyer of Miracles’ for alleged fraud",
+      "url": "https://www.abajournal.com/news/article/former-clients-sue-miracle-worker-for-fraud/",
+      "date": "2026-08-11",
+      "addedAt": "2026-08-11T02:33:38.854Z",
+      "summaryCN": "一名被前客户起诉的移民律师因涉嫌欺诈面临法律诉讼。该律师曾自诩为奇迹律师，吸引多名移民客户。原告群体指控其在提供移民法律服务过程中存在欺诈行为，可能涉及虚假承诺、违规收费或挪用资金等不当行为。此案揭示了移民法律服务市场中存在的执业风险与客户权益保护问题，目前案件已进入诉讼阶段，具体细节和最终裁决有待法院进一步审理与查明。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及律师执业纪律与弱势群体法律服务市场监管这一核心制度。在移民法领域，信息高度不对称极易引发虚假宣传与欺诈。该案警示监管机构需强化对移民代理服务的合规审查，规范广告用语与收费机制。比较法视角下，这对中国完善律师执业规范及打击黑中介具有借鉴意义。结合委托代理义务与消费者保护原则，此案凸显了设立专业赔偿基金与强化行业惩戒机制的必要性，为规范涉外法律服务提供了制度反思。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业纪律",
+          "class": ""
+        },
+        {
+          "name": "移民法",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The Supreme Court and the Indian nations",
+      "titleCN": "The Supreme Court and the Indian nations",
+      "url": "https://www.scotusblog.com/2026/08/the-supreme-court-and-the-indian-nations/",
+      "date": "2026-08-10",
+      "addedAt": "2026-08-11T02:33:38.854Z",
+      "summaryCN": "本文改编自2026年文集，探讨印第安部落在美国法律与历史中的双重地位。《独立宣言》曾将原住民贬斥为野蛮人，这种定性并非情绪化表达，而是深刻影响了后续法律论证。在1823年最高法院约翰逊诉麦金托什案中，原告律师同样以此类话语指代原住民。文章剖析了建国文献中的排斥性话语如何转化为剥夺原住民土地主权法律逻辑的演变过程，揭示了美国宪政与财产法在处理原住民权益时的深层历史根源与法理张力。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国财产法与联邦印第安法的基础判例约翰逊诉麦金托什案。该案确立的发现原则构成了原住民土地权属转换的核心法理，深刻影响后续主权与产权界定。通过历史文献与法律文本交叉研究，本文展示了建国话语如何为司法裁判提供合法性外衣。对于比较法研究而言，该案例不仅为分析殖民背景下的土地产权流转与原住民集体权利保障提供经典样本，也为反思少数群体权益在宪法秩序中的地位提供制度演进视角，具有显著的法理增量。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "印第安部落主权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "When the court denies racism that others see",
       "titleCN": "When the court denies racism that others see",
       "url": "https://www.scotusblog.com/2026/08/when-the-court-denies-racism-that-others-see/",
@@ -3002,6 +3071,29 @@
   ],
   "research": [
     {
+      "title": "Defending the Bankrupt Castle",
+      "titleCN": "Defending the Bankrupt Castle",
+      "url": "https://pennlawreview.com/2026/04/03/defending-the-bankrupt-castle/",
+      "date": "2026-04-03",
+      "addedAt": "2026-08-11T02:34:02.860Z",
+      "summaryCN": "每年有数十万美国人申请第七章破产。美国司法部通常委派私人律师担任破产受托人以管理破产财产。受托人享有广泛的法定权力，有时甚至会对债务人住所进行突击性的无证搜查。本文聚焦于此类搜查行为的合宪性问题，探讨私人破产受托人在执行无证搜查时是否以及如何受到宪法第四修正案关于不合理搜查和扣押禁止条款的约束。文章通过剖析受托人的双重身份与法定职权，论证了在此类带有公权力色彩的财产接管程序中引入宪法隐私保护的必要性，并提出了规范受托人搜查权限的法律路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文触及宪法权利在特殊行政与破产程序中的适用边界，具有显著的比较法与制度研究价值。研究揭示了美国破产受托人兼具私人身份与公权力授权的特征，挑战了传统公私法二元划分对第四修正案适用范围的限制。对于中国法而言，随着个人破产制度在深圳等地的试点探索，如何在破产财产调查与接管中平衡管理人的调查职权与债务人基本民事权利，亟需理论支撑。本文提供的宪法视角与权利保障分析框架，为构建中国个人破产程序中的权力监督机制、防止管理人滥用调查权提供了重要参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "破产法",
+          "class": ""
+        },
+        {
+          "name": "宪法第四修正案",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "In the Court’s Image: Visual Opinions and Judicial Legitimacy",
       "titleCN": "In the Court’s Image: Visual Opinions and Judicial Legitimacy",
       "url": "https://nyulawreview.org/issues/volume-101-number-3/in-the-courts-image-visual-opinions-and-judicial-legitimacy/",
@@ -5017,7 +5109,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-10T02:41:44.114Z",
+    "updatedAt": "2026-08-11T02:34:30.196Z",
     "generator": "ai"
   }
 }
