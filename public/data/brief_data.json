@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Challenge brought to Trump’s new birthright citizenship order",
+      "titleCN": "Challenge brought to Trump’s new birthright citizenship order",
+      "url": "https://www.scotusblog.com/2026/08/challenge-brought-to-trumps-new-birthright-citizenship-order/",
+      "date": "2026-08-11",
+      "addedAt": "2026-08-12T03:03:41.224Z",
+      "summaryCN": "特朗普签署旨在限缩出生公民权的新行政令仅五天后，此前成功挑战其旧版限缩令的民权律师团队重返新罕布什尔州联邦法院。美国公民自由联盟等团体提交动议，敦促拉普兰特法官明确裁定：新令超越了最高法院重申的出生公民权唯一例外情形即外国外交官子女。原告主张该行政令违反宪法第十四修正案对属地主义原则的保障，要求法院采取行动阻止新规施行。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直指美国宪法第十四修正案中的出生公民权条款，涉及行政权与宪法解释的深层博弈。最高法院此前重申的除外情形仅限外交官子女，新行政令试图通过行政立法扩大限缩范围，构成对属地主义传统解释的挑战。此案对研究三权分立下的司法审查边界具有指标意义。在比较法层面，美国的属地主义与中国及多数大陆法系国家采行的血统主义国籍取得规则形成鲜明对照，为中国法语境下探讨国籍法基础原则及修法趋势提供了有价值的参照系。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法第十四修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Court announces cases it will hear in November, including religious discrimination dispute",
+      "titleCN": "Court announces cases it will hear in November, including religious discrimination dispute",
+      "url": "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-november-including-religious-discrimination-dispute/",
+      "date": "2026-08-11",
+      "addedAt": "2026-08-12T03:03:41.224Z",
+      "summaryCN": "美国最高法院公布11月言词辩论日程，将于11月2日至10日进行7小时辩论。核心案件包括圣玛丽天主教教区诉罗伊案，该案审查天主教幼儿园被排除在科罗拉多州普惠幼儿园项目之外是否构成宗教歧视，涉及宗教自由与政教分离的宪法边界。此外，法院还将审理囚犯起诉联邦监狱官员违反宪法权利的纠纷，探讨联邦官员的豁免权问题。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法第一修正案宗教自由条款的核心争议，即政府在提供普惠性公共福利时能否基于宗教身份排除信仰机构。该裁判将直接影响各州教育补贴政策的合宪边界，并可能重新界定埃斯皮诺萨案以来的政教分离判例规则。对比较法而言，此案为探讨公共服务世俗化要求与宗教团体平权保障之间的张力提供了经典素材，对中国法语境下宗教组织参与公共服务及获取财政支持的法治边界研究具有重要参照价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Employment-related litigation surges in this state",
+      "titleCN": "Employment-related litigation surges in this state",
+      "url": "https://www.abajournal.com/news/article/washington-state-seeing-a-surge-in-employment-litigation/",
+      "date": "2026-08-12",
+      "addedAt": "2026-08-12T03:03:41.224Z",
+      "summaryCN": "美国华盛顿州就业相关诉讼案件激增。近期，大量雇主因实施禁止员工从事第二职业的兼职禁令而遭到起诉。此类诉讼挑战了雇主通过内部规章限制员工业余时间及多渠道获取劳动报酬的权利。争议焦点在于单方制定的排他性雇佣政策是否过度侵害了劳动者合法权益。该趋势反映出在当前经济环境下，劳动者与企业关于工作自主权及劳动关系的博弈日趋激烈，司法将介入审查此类雇佣条款的合法性与合理性。",
+      "summaryEN": "",
+      "whyMattersCN": "本案聚焦于企业规章制度与劳动者自由就业权的法律边界，具有重要比较法价值。在美国劳动法体系下，此类兼职禁令的合法性通常取决于雇主是否具备正当商业利益及政策适用是否合理。这为中国劳动法带来启发：依据《劳动合同法》及最高法关于劳动争议的司法解释，企业规章的制定需具合法性并经民主程序。用人单位单方剥夺员工业余兼职权，若未造成实际利益冲突或损害企业利益，极易被认定为无效。这为企业跨境用工合规及国内完善规章制度审查提供了实务参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "劳动法",
+          "class": "constitutional"
+        },
+        {
+          "name": "雇佣政策",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "12 angry men – or six?",
       "titleCN": "12 angry men – or six?",
       "url": "https://www.scotusblog.com/2026/08/twelve-angry-men-or-six/",
@@ -3071,6 +3140,29 @@
   ],
   "research": [
     {
+      "title": "Rebutting the Presumption: A Constitutional Theory of Pre-Trial Asset Seizures and Procedural Due Process",
+      "titleCN": "Rebutting the Presumption: A Constitutional Theory of Pre-Trial Asset Seizures and Procedural Due Process",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/5",
+      "date": "2026-04-29",
+      "addedAt": "2026-08-12T03:04:31.183Z",
+      "summaryCN": "本文探讨审前资产扣押的制度现状与宪法理论，指出现有程序正当性审查框架存在三类路径：赋予政府广泛推定有效性的第一类；适用马修斯诉埃尔德里奇等案中功利主义平衡测试的第二类；以及以库利诉马歇尔案为代表、依赖历史实践比对的第三类。作者论证这三类路径均存在缺陷，主张应基于程序正当程序与宪法理论重构审查框架，为法院处理此类案件提供新方案。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对审前资产扣押的宪法审查框架进行了系统性批判与重构，直接触及美国刑事诉讼中财产权保护的程序正当性核心。文章深入剖析了Mathews v. Eldridge的功利主义平衡测试在财产扣押场景中的适用局限，并批判了Culley v. Marshall案对历史实践路径的依赖。此研究对完善刑事审前财产强制措施的理论基础具有显著的制度贡献，也为比较法视阈下探讨审前查封冻扣措施的司法审查标准与公民财产权保障提供了重要参考，避免了空泛的法理叙述。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "审前资产扣押",
+          "class": "constitutional"
+        },
+        {
+          "name": "程序正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Defending the Bankrupt Castle",
       "titleCN": "Defending the Bankrupt Castle",
       "url": "https://pennlawreview.com/2026/04/03/defending-the-bankrupt-castle/",
@@ -5109,7 +5201,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-11T02:34:30.196Z",
+    "updatedAt": "2026-08-12T03:04:56.726Z",
     "generator": "ai"
   }
 }
