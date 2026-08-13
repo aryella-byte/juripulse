@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Judge in Luigi Mangione case speaks out about public access during proceedings",
+      "titleCN": "Judge in Luigi Mangione case speaks out about public access during proceedings",
+      "url": "https://www.abajournal.com/news/article/new-york-judge-in-luigi-mangione-case-sets-record-straight-over-public-access/",
+      "date": "2026-08-13",
+      "addedAt": "2026-08-13T03:06:17.830Z",
+      "summaryCN": "据ABA Journal报道，纽约州一名法官就Luigi Mangione辩护律师提交的关于案件审理过程公众访问权限的系列动议作出回应。该谋杀案备受社会关注，其核心争议聚焦于司法透明度与正当程序权利的保障，具体涉及庭审公开范围、媒体接触证据的限制以及如何平衡被告人获得公正审判的权利与公众知情权。法官通过审查相关动议，初步厘清了本案在诉讼公开与保密界限上的处理原则，为后续实质性审理的程序正义确立了规范框架。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及普通法系中刑事司法透明度与被告人公平审判权的核心平衡。法官对公众访问动议的裁决，直接关联美国宪法第一修正案的新闻自由与第六修正案的公正审判权保障。这为比较法研究提供了鲜活素材，尤其在舆论高度关注的热点案件中，如何通过程序性规则防止审判偏见，对中国法探讨司法公开的边界、舆论监督与司法独立的互动机制具有重要启示。案件展现的庭审动议交锋，也为完善我国刑事庭审旁听与公开审判制度提供了制度对照视角。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "程序正义",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump administration urges Supreme Court to issue a decision in mail-in voting dispute",
+      "titleCN": "Trump administration urges Supreme Court to issue a decision in mail-in voting dispute",
+      "url": "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/",
+      "date": "2026-08-12",
+      "addedAt": "2026-08-13T03:06:17.830Z",
+      "summaryCN": "特朗普政府再次敦促联邦最高法院尽快介入邮寄投票争议，要求暂缓执行马萨诸塞州联邦地区法院的一项裁决。该裁决禁止政府在11月大选期间于23个州和哥伦比亚特区执行相关行政命令的部分条款。总律师指出，政府于7月27日提交的紧急申请已充分完成答辩逾一周，若最高法院不迅速采取行动，地区法官的裁决将使政府无法在选举前落实行政命令第三条的规定，构成实质性拖延。",
+      "summaryEN": "",
+      "whyMattersCN": "本案凸显了美国行政权与司法权在选举合规与投票程序上的激烈博弈，核心涉及联邦行政命令在州选举机制中的效力边界。政府寻求最高法院通过紧急干预程序暂缓下级法院禁令，展示了美国司法审查中司法救济时限对政策执行的决定性影响。这对比较法研究具有高度启示：行政命令的紧急司法审查机制、联邦与州选举管辖权冲突，以及司法机关在重大选举争议中如何平衡程序正义与公共利益，为研究宪法权利救济与紧急状态审查提供了实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "邮寄投票",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Mark Zuckerberg posits future with ‘superintelligent lawyer’ arguing court cases",
+      "titleCN": "Mark Zuckerberg posits future with ‘superintelligent lawyer’ arguing court cases",
+      "url": "https://www.abajournal.com/news/article/mark-zuckerberg-posits-a-future-with-a-superintelligent-lawyer-to-argue-your-case-in-the-courtroom/",
+      "date": "2026-08-13",
+      "addedAt": "2026-08-13T03:06:17.830Z",
+      "summaryCN": "Meta首席执行官扎克伯格预测，未来将出现能在法庭上为每个人辩护的超级智能律师。他指出，超级人工智能的普及将使公众获得顶级法律代理资源，从而深刻改变司法程序的运作方式。此构想触及人工智能能否作为诉讼代理人参与庭审的核心问题，引发了对现行诉讼代理资格规则及司法伦理的探讨。目前该愿景仍属前瞻性预测，其实践落地有赖于各国律师执业准入制度与法庭技术监管框架的根本性变革。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻虽为科技巨头的前瞻预测，但触及司法程序中诉讼代理资格与法律服务市场准入的核心制度。若人工智能作为代理人出庭，将直接冲击各国律师法中关于执业主体必须是自然人的传统规则。在比较法层面，美国部分州已尝试通过非律师持股的替代性商业结构改革，此举或将加速法律科技对合规边界的突破。对中国法而言，这启示我们需尽早回应人工智能代理参与诉讼的合法性与伦理审查问题，特别是在防范虚假诉讼、保障庭审实质化以及界定AI法律错误的责任归属方面，亟待在律师法与诉讼法修订中作出前瞻性制度安排。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能律师",
+          "class": "tech"
+        },
+        {
+          "name": "诉讼代理资格",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Challenge brought to Trump’s new birthright citizenship order",
       "titleCN": "Challenge brought to Trump’s new birthright citizenship order",
       "url": "https://www.scotusblog.com/2026/08/challenge-brought-to-trumps-new-birthright-citizenship-order/",
@@ -3140,6 +3209,29 @@
   ],
   "research": [
     {
+      "title": "Tailored Procedures",
+      "titleCN": "Tailored Procedures",
+      "url": "https://nyulawreview.org/issues/volume-101-number-2/tailored-procedures/",
+      "date": "2026-05-19",
+      "addedAt": "2026-08-13T03:06:54.909Z",
+      "summaryCN": "过去几十年间，统一规则在美国州法院仅适用于少部分案件。相反，起诉标准因案件类型而异，证据开示限制取决于争议金额，程序规则更根据当事人类型、代理状态等因素灵活调整。定制化程序已悄然主导州法院民事诉讼。该文揭示了这一从统一程序向差异化程序转型的趋势，探讨了程序规则如何基于案件与当事人特征进行分类适用。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究挑战了民事诉讼程序应当普适统一的传统教义，揭示了美国州法院通过争议金额、案件类型与当事人身份等变量重构起诉与证据开示规则的实践。这对中国法具有显著的比较法启发：在我国民事程序繁简分流改革及小额诉讼、特别程序细化中，可借鉴其按案件特征精准配置程序资源的实证方法。同时，研究提醒制度设计者警惕差异化程序可能引发的平等武装与司法资源分配不公问题，为衡量程序灵活性与当事人权利保障的平衡提供了分析框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民事诉讼程序",
+          "class": ""
+        },
+        {
+          "name": "定制化程序",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Rebutting the Presumption: A Constitutional Theory of Pre-Trial Asset Seizures and Procedural Due Process",
       "titleCN": "Rebutting the Presumption: A Constitutional Theory of Pre-Trial Asset Seizures and Procedural Due Process",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/5",
@@ -5201,7 +5293,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-12T03:04:56.726Z",
+    "updatedAt": "2026-08-13T03:07:31.722Z",
     "generator": "ai"
   }
 }
