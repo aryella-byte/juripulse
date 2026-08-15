@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
+      "titleCN": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
+      "url": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
+      "date": "2026-08-14",
+      "addedAt": "2026-08-15T01:55:20.326Z",
+      "summaryCN": "最高法院将在新开庭期审理Wassily v. Blanche案，核心争议为庇护身份被终止后，相关受益人是否被禁止取得合法永久居留权。过去此类身份终止相对少见，但特朗普政府近期政策导致更多移民面临该风险。此案法律纠纷源于1980年《难民法》的模糊条文，该法奠定了现代庇护系统框架并界定了庇护官与移民法官等裁量的法律标准。目前联邦各法院对此问题存在分歧，最高法院的裁决将对移民身份转换与永久居留权获取的制度产生重大影响。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国移民法中庇护身份与永久居留权转换的核心制度节点。争议焦点源于1980年《难民法》的法律解释，典型体现了成文法模糊条款在司法适用中的冲突，且案件因特朗普政府政策调整导致庇护终止率上升而凸显。从比较法视角观察，行政权力更迭如何系统性改变移民执法宽严度并溯及影响已获庇护者的长远法律地位，对中国出入境管理法及难民身份认定制度的完善具有参照意义。最高法院对移民法官裁量权与法定身份转换关系的释明，为研究行政法下身份处分与信赖利益保护提供了重要判例素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国最高法院",
+          "class": ""
+        },
+        {
+          "name": "庇护制度",
+          "class": ""
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Who exactly are the “friends of the court”?",
+      "titleCN": "Who exactly are the “friends of the court”?",
+      "url": "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/",
+      "date": "2026-08-14",
+      "addedAt": "2026-08-15T01:55:20.326Z",
+      "summaryCN": "最高法院将于10月13日审理Beaird诉美国案。该案涉及一名德州男子因重罪前科后持枪而被加刑的挑战。由于联邦政府要求推翻第五巡回上诉法院维持量刑的判决并发回重审，法院任命琼斯律所律师Anthony Dick作为法庭之友出庭，专门 defending 第五巡回法院的判决。这引发了对法庭之友具体身份及其在诉讼中角色的探讨。",
+      "summaryEN": "",
+      "whyMattersCN": "本案聚焦美国联邦最高法院的特殊诉讼制度：当原审胜诉方（此处在下级法院胜诉的联邦政府）改变立场时，最高法院会任命独立律师作为法庭之友来 defend 下级法院判决。这一机制确保了争议的对抗性，防止最高法院沦为单方指令。从比较法角度看，该制度对中国法有启发，提示在复杂案件中若公权力机关立场转变，如何通过外部独立法律意见维护裁判客观性与程序正当性，而非陷入单向审查。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "criminal"
+        },
+        {
+          "name": "法庭之友",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Trump brings ballroom dispute to the Supreme Court",
+      "titleCN": "Trump brings ballroom dispute to the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/",
+      "date": "2026-08-14",
+      "addedAt": "2026-08-15T01:55:20.326Z",
+      "summaryCN": "特朗普政府向最高法院申请紧急中止令，要求在上诉期间继续推进白宫新宴会厅的建设。此前一周，华盛顿联邦上诉法院维持了联邦地区法院法官理查德·莱恩关于暂停施工的临时禁令裁决，但给予政府十四天期限向最高法院求助。政府指控该禁令极为异常且违法，将导致在建项目停滞。本案核心争议在于下级法院的禁制令是否超越了其法定职权，最高法院需权衡施工利益与司法审查的关系。",
+      "summaryEN": "",
+      "whyMattersCN": "本案典型体现了美国司法体系中针对下级法院临时禁令的紧急救济机制。核心制度焦点在于行政分支对司法禁令的异议审查标准，以及法院在未作出最终实体判决前干预政府行政行为的宪法性边界。对比较法研究而言，此案可启发对中国行政诉讼中停止执行制度及行为保全审查标准的探讨。它揭示了基建类争议中司法干预与行政权力动态平衡的深层逻辑，为非诉审查程序中比例原则的适用提供了参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法禁令",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "California Supreme Court orders electronic recording for indigent litigants",
       "titleCN": "California Supreme Court orders electronic recording for indigent litigants",
       "url": "https://www.abajournal.com/news/article/california-supreme-court-orders-electronic-recording-for-indigent-litigants/",
@@ -44,29 +113,6 @@
         }
       ],
       "quality_score": 7,
-      "source": "ABA Journal"
-    },
-    {
-      "title": "Law students see more options for summer training programs",
-      "titleCN": "Law students see more options for summer training programs",
-      "url": "https://www.abajournal.com/news/article/law-students-see-more-options-for-summer-training-programs/",
-      "date": "2026-08-14",
-      "addedAt": "2026-08-14T03:05:29.893Z",
-      "summaryCN": "据ABA Journal报道，越来越多的美国律所正为法学生提供扩展性的夏季培训项目。这些培训不仅涵盖传统的法庭技能，还新增了人工智能应用等前沿内容。例如温斯顿泰勒律所上周已开展相关活动。这一趋势反映出法律行业对新技术的重视，律所通过提前介入法学生的职业教育，帮助其掌握在数字化时代提供法律服务所需的新型技能，以应对法律科技带来的行业变革。",
-      "summaryEN": "",
-      "whyMattersCN": "此新闻反映了法律科技对法学教育与行业准入机制的实质影响。随着人工智能在法律检索、文书起草和合规审查中的普及，传统法学教育面临滞后挑战。美国律所通过夏季培训项目介入法学生培养，实质上是在形成一种行业主导的技术合规实践标准。对中国法具有比较法启发：在推进人工智能司法应用与法律服务数字化的背景下，中国法学院与律所应探索类似的联合培养机制，特别是在数据合规审查、算法伦理与法律AI工具使用规范方面，弥合理论教学与技术实务的鸿沟，完善新型法律人才的评估与准入制度。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "法律科技",
-          "class": "tech"
-        },
-        {
-          "name": "人工智能",
-          "class": "tech"
-        }
-      ],
-      "quality_score": 6,
       "source": "ABA Journal"
     },
     {
@@ -3255,6 +3301,29 @@
   ],
   "research": [
     {
+      "title": "The Necessity of Firearm Stores During the COVID-19 Pandemic",
+      "titleCN": "The Necessity of Firearm Stores During the COVID-19 Pandemic",
+      "url": "https://northwesternlawreview.org/uncategorized/the-necessity-of-firearm-stores-during-the-covid-19-pandemic/",
+      "date": "2020-04-22",
+      "addedAt": "2026-08-15T01:55:39.427Z",
+      "summaryCN": "本文探讨新冠疫情期间各州为控制疫情而限制枪支商店营业是否侵犯美国宪法第二修正案规定的持枪权。枪支拥有者与潜在买家主张此类防疫措施违宪。作者指出，即便假定第二修正案保障了民众进入枪支商店的权利，也未必能直接推导出防疫限制措施违宪的结论。面对四十五个州实施的防疫封锁措施，文章深入审查了宪法权利在公共卫生紧急状态下的适用边界与审查标准。",
+      "summaryEN": "",
+      "whyMattersCN": "本文的学术价值在于厘清了紧急状态下基本权利的宪法保障边界。研究运用宪法审查标准，分析了公共卫生紧急权力与第二修正案持枪权之间的规范张力。其对美国各州防疫封锁措施的合宪性探讨，为研究紧急状态下的比例原则与权利限制提供了丰富的比较法素材。对中国法学而言，该文在平衡公共卫生危机管理与公民基本权利保障、界定政府紧急权力边界及完善应急法治规范方面，具有显著的制度参考与理论启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "紧急状态",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Northwestern Law Review"
+    },
+    {
       "title": "Damage Award Taxation And Distributive Justice",
       "titleCN": "Damage Award Taxation And Distributive Justice",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/damage-award-taxation-and-distributive-justice/?utm_source=rss&utm_medium=rss&utm_campaign=damage-award-taxation-and-distributive-justice",
@@ -5362,7 +5431,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-14T03:06:57.889Z",
+    "updatedAt": "2026-08-15T01:55:59.816Z",
     "generator": "ai"
   }
 }
