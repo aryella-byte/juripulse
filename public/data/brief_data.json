@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
+      "titleCN": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
+      "url": "https://www.abajournal.com/news/article/2-biglaw-partners-retained-for-taylor-farms-taco-bell-over-contaminated-lettuce-lawsuits/",
+      "date": "2026-08-16",
+      "addedAt": "2026-08-16T02:04:04.673Z",
+      "summaryCN": "农产品生产商Taylor Farms和快餐连锁品牌Taco Bell已聘请两家美国百强律所的合伙人，代表其应对因受污染生菜引发的多起诉讼。此类产品责任案件通常涉及食品安全违规、供应链缺陷以及跨国企业合规审查等复杂法律争议。最新进展显示，涉案企业正通过引入大型律所的专业团队，积极筹备侵权防御与应诉策略，以应对受影响消费者的索赔诉求与潜在的监管调查。",
+      "summaryEN": "",
+      "whyMattersCN": "本案的核心法律增量在于大型食品供应链中的产品责任分配与跨州侵权诉讼机制。受污染生菜引发的诉讼触及美国严格责任原则、供应商免责抗辩以及连锁品牌的连带责任认定。对于中国法与比较法研究而言，该案在食品安全法领域的启示在于：如何穿透复杂的供应链追溯最终责任主体，以及大型餐饮连锁企业应如何构建事前质量合规审查与事后危机应诉机制。此外，美国百强律所在此类大规模侵权诉讼中的代理策略与证据开示博弈，为企业应对食品安全危机提供了重要的合规比较法视角。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "产品责任",
+          "class": "constitutional"
+        },
+        {
+          "name": "食品安全",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "11 people indicted in ‘multimillion-dollar marriage fraud scheme’",
+      "titleCN": "11 people indicted in ‘multimillion-dollar marriage fraud scheme’",
+      "url": "https://www.abajournal.com/news/article/multimillion-dollar-sham-marriage-scheme-indicts-11-people-in-new-york/",
+      "date": "2026-08-16",
+      "addedAt": "2026-08-16T02:04:04.673Z",
+      "summaryCN": "纽约联邦检察官起诉11名涉嫌参与跨国假结婚骗取移民资格的嫌疑人。指控称，该团伙运作涉案金额达数百万美元，长期通过安排虚假婚姻协助超过1000名外籍人员获取美国合法居留身份。检方指出，组织者以此为盈利模式，系统性地规避联邦移民法规。此案为近期规模最大的婚姻移民欺诈刑事起诉案之一，案件已进入正式起诉阶段，后续将围绕移民欺诈罪、共谋罪等刑事指控展开审理。",
+      "summaryEN": "",
+      "whyMattersCN": "此案涉及美国联邦移民法的刑事执法问题。假结婚绿绿卡不仅涉嫌移民文件欺诈与跨境人口相关的非法利益输送，更触及联邦监管对移民资格审查的制度防线。对中国法的比较法启发在于：面对跨国婚姻移民欺诈，单纯依靠个案审批难以防范，需建立跨部门信息共享机制与婚姻真实性实质审查标准。同时，组织化欺诈在刑法上可能触及组织他人偷越国境罪或骗取证件类犯罪。案件反映了行政执法与刑事司法衔接的必要性，对完善我国涉外婚姻登记审查与打击组织化非法移民中介具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民欺诈",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Once upon a time: storytelling in Learning Resources v. Trump",
+      "titleCN": "Once upon a time: storytelling in Learning Resources v. Trump",
+      "url": "https://www.scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump/",
+      "date": "2026-08-13",
+      "addedAt": "2026-08-16T02:04:04.673Z",
+      "summaryCN": "本文以Learning Resources v. Trump案为切入点，探讨法律写作与法庭叙事策略的关联。作者指出，法律写作教学不应仅停留在剔除行业黑话和冗长句式，而应回归优秀写作的通用标准，即运用英文写作课中教授的叙事技巧。文章以首席大法官罗伯茨的判决书为例，论证最高法院优秀写作者常采用讲故事的修辞手法来增强说服力。该案涉及行政权与宪法争议，其核心进展在于通过大法官的写作实践，展示叙事结构如何在复杂法律论理中发挥关键作用，为理解司法意见的论证逻辑提供了文本分析视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该文虽聚焦法律写作方法论，但其探讨的Learning Resources v. Trump案及最高法院叙事策略对司法裁判研究具有比较法启示。在中国宪法学与行政法学研究中，判决书说理一直存在重规范分析、轻叙事说服的倾向。大法官罗伯茨通过叙事重构案件事实背景，不仅影响读者对裁判可接受性的判断，更可能左右行政行为合宪性审查的论证走向。这提示我们在完善中国裁判文书释法说理制度时，应重视事实陈述结构与修辞策略对实体法律规则适用的潜在塑造作用，避免将司法写作技巧与法律制度增量割裂看待。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律写作",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法修辞学",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
       "titleCN": "Understanding the court’s next major case on asylum seekers: Wassily v. Blanche",
       "url": "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
@@ -3301,6 +3370,29 @@
   ],
   "research": [
     {
+      "title": "True Threats, Public Safety, and Free Speech: An Empirical Analysis of Counterman's Consequences",
+      "titleCN": "True Threats, Public Safety, and Free Speech: An Empirical Analysis of Counterman's Consequences",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/1",
+      "date": "2026-04-29",
+      "addedAt": "2026-08-16T02:04:27.565Z",
+      "summaryCN": "本文实证评估最高法院Counterman案对真实威胁原则的重塑效果。该案确立控方须证明言论者对言论被视为暴力威胁的重大风险具有轻率无视的心态。学界担忧此举将导致追诉妄想型骚扰与跟踪者遇阻、相关法律违宪及保护令签发趋难，进而危及公共安全并过度庇护极端政治言论。研究运用实证方法检验案件判决后的实际影响，发现部分先前的担忧并未完全兑现。结论指出，尽管该案重构了入罪标准，但在司法实践与法律执行中产生的震荡有限。",
+      "summaryEN": "",
+      "whyMattersCN": "本文兼具实证法学方法价值与比较法启发。研究采用实证分析方法，系统检验美国宪法第一修正案下真实威胁判例的后续影响，填补了规范研究与司法实效之间的实证空白。在制度层面，文章深入探讨了主观犯意要求与反跟踪骚扰立法及保护令制度之间的张力，为理解言论自由保障与公共安全维护的边界提供了精细化视角。对中国法而言，该案展现的主观过错标准及其在反暴力威胁与网络暴力治理中的适用逻辑，为我国平衡网络言论表达与防治骚扰跟踪的制度优化提供了重要的比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "言论自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "真实威胁",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "The Necessity of Firearm Stores During the COVID-19 Pandemic",
       "titleCN": "The Necessity of Firearm Stores During the COVID-19 Pandemic",
       "url": "https://northwesternlawreview.org/uncategorized/the-necessity-of-firearm-stores-during-the-covid-19-pandemic/",
@@ -5431,7 +5523,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-15T01:55:59.816Z",
+    "updatedAt": "2026-08-16T02:04:47.699Z",
     "generator": "ai"
   }
 }
