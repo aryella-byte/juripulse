@@ -1,6 +1,351 @@
 {
   "news": [
     {
+      "title": "Trump administration asks SCOTUS to limit lower courts’ power",
+      "titleCN": "Trump administration asks SCOTUS to limit lower courts’ power",
+      "url": "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "特朗普政府向最高法院提交调卷申请，请求限制联邦下级法院以普遍性禁令或撤销令方式废止联邦机构行为的权力。该案涉及法院对行政机关决定的司法审查范围与救济方式，核心争点是地区法院能否作出全国性救济。最高法院已于周五举行私下会议讨论相关案件并投票，预计周一上午发布命令。同时，三座城市及移民法律服务团体请求最高法院暂停德州与司法部之间阻止拜登时期移民法官暂停遣返程序规则的协议。",
+      "summaryEN": "",
+      "whyMattersCN": "该申请直接触及联邦法院全国性禁令与撤销机构行为的救济权限，可能重塑行政法上司法审查与权力分立边界。若最高法院限缩下级法院的普遍性救济，将影响移民、环境、劳工等领域的监管执行与诉讼策略，并改变地区法院作为政策博弈场域的角色。对比较法而言，中国可关注法院对行政行为救济的范围与审慎性，以及全国性判决与个案救济之间的制度平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Federal appeals court rejects qualified immunity for judge who jailed 2 kids",
+      "titleCN": "Federal appeals court rejects qualified immunity for judge who jailed 2 kids",
+      "url": "https://www.abajournal.com/news/article/federal-appeals-court-reject-qualified-immunity-for-judge-who-jailed-2-kids/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国第八巡回上诉法院于2026年10月裁定，密苏里州一名法官将两名儿童关押在监狱牢房的行为不享有合格豁免权。该法官因在民事纠纷中下令拘留儿童而被诉。上诉法院认为，将儿童关入成人监狱牢房明显侵犯了其宪法权利，且该权利在当时已属明确确立，因此法官不能以合格豁免权为由免责。此案凸显了司法人员对儿童采取拘留措施时的宪法界限，以及合格豁免权在明显违宪行为中的适用限制。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决明确了合格豁免权不保护法官将儿童关入监狱牢房的明显违宪行为，强化了对未成年人司法拘留的宪法约束。在美国法上，它厘清了司法豁免与合格豁免权的边界，对下级法院处理类似侵权诉讼具有指导意义。对中国法而言，虽无合格豁免权制度，但本案涉及对未成年人采取强制措施的合法性审查，可启发对未成年人司法保护中比例原则与程序正当的思考，并提示司法人员职务行为侵权责任的比较法研究价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "合格豁免权",
+          "class": "constitutional"
+        },
+        {
+          "name": "未成年人司法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Supreme Court agrees to consider federal ban on home distilleries",
+      "titleCN": "Supreme Court agrees to consider federal ban on home distilleries",
+      "url": "https://www.scotusblog.com/2026/10/supreme-court-agrees-to-consider-federal-ban-on-home-distilleries/",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国最高法院已同意受理司法部诉麦克纳特案，审查1868年联邦酒类税法中禁止家庭蒸馏烈酒条款的合宪性。该法对蒸馏酒征税的同时，禁止个人在家生产波旁、威士忌等烈酒，违者最高可处1万美元罚款、五年监禁或两者并罚。案件由非营利组织业余蒸馏者协会于2023年提起，最高法院在10月16日会议后宣布调卷，预计明年初进行口头辩论，6月底或7月初作出裁决。",
+      "summaryEN": "",
+      "whyMattersCN": "本案将检验联邦政府以征税权为由禁止家庭蒸馏是否超越宪法第一条的商事条款与必要适当条款授权，涉及联邦权力边界与个人自由的核心争议。若法院限缩联邦禁令，可能影响各州酒类管制与联邦酒类许可制度；若维持禁令，则强化国会以税收附带条款规制地方生产的能力。对比较法而言，该案展示了联邦制下中央立法权与地方生产自由的张力，对中国审视专卖制度与个人酿造豁免亦有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦制",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Federal judge accused of misconduct, abandoning her job",
+      "titleCN": "Federal judge accused of misconduct, abandoning her job",
+      "url": "https://www.abajournal.com/news/article/federal-judge-accused-of-misconduct-abandoning-her-job/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国德克萨斯州达拉斯市一名联邦法官被指控拒绝接收案件、对法官和法院工作人员发表种族侮辱言论，并擅自离岗。该法官的行为已引发司法不当行为指控，涉及联邦法官的履职义务、司法行为准则及弹劾或纪律处分程序。最新进展是相关指控已被公开，可能触发司法理事会调查或国会弹劾程序，案件凸显联邦法官问责机制的实践困境。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件直接触及美国联邦法官的职务行为规范与问责制度。根据《司法行为与 disability 法案》，联邦法官的不当行为可由司法理事会调查并建议处分，但宪法规定的弹劾程序才是罢免法官的唯一途径。此案为观察司法独立与司法问责之间的张力提供了具体样本，也对中国法官惩戒制度中职业伦理规范与纪律处分的衔接具有比较法参考价值，尤其在如何界定履职懈怠与言论不当的纪律后果方面。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法行为",
+          "class": "constitutional"
+        },
+        {
+          "name": "法官问责",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Challengers ask court to pause agreement between Texas and the DOJ on deportation proceedings",
+      "titleCN": "Challengers ask court to pause agreement between Texas and the DOJ on deportation proceedings",
+      "url": "https://www.scotusblog.com/2026/10/challengers-ask-court-to-pause-agreement-between-texas-and-the-doj-on-deportation-proceedings/",
+      "date": "2026-10-15",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "三个城市及一家移民法律服务组织向最高法院申请暂停德州与司法部达成的协议，称该协议是“严重串通”的产物。若挑战者胜诉，将暂时恢复拜登时期经通知评论程序制定的法规，允许移民法官在犯罪受害者或证人寻求庇护等移民救济时暂停部分驱逐程序，直至下级法院上诉审结。司法部下属移民审查执行办公室是协议相关方。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及行政程序法与移民执法的交叉：挑战者主张德州与司法部绕过通知评论程序达成协议，实质废止拜登时期法规，触及行政规则制定须经公众参与的法定要求及州与联邦机构协议的可审查性。最高法院是否批准暂停，将影响移民法官暂停驱逐程序的裁量权，并检验行政机关能否以机构间协议规避规则制定程序。对中国法而言，可比较行政规范性文件的制定程序与跨部门协作的合法性审查，以及抽象行政行为司法审查的边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Guantanamo Dispatches: Military Psychiatrist Finds Cole Bombing Case Defendant Competent; Federal Judge Refuses to Intervene",
+      "titleCN": "Guantanamo Dispatches: Military Psychiatrist Finds Cole Bombing Case Defendant Competent; Federal Judge Refuses to Intervene",
+      "url": "https://www.justsecurity.org/161173/military-psychiatrist-uss-cole/?utm_source=rss&utm_medium=rss&utm_campaign=military-psychiatrist-uss-cole",
+      "date": "2026-10-17",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "关塔那摩军事委员会审理 USS Cole 爆炸案被告，法院指定精神科医生认定其具备受审能力，联邦法官拒绝介入。该案涉及军事委员会审判的正当程序、被告精神能力标准及联邦法院对军事司法程序的审查边界。最新进展是军事精神科医生作出胜任受审结论，联邦地区法官驳回干预请求，案件将继续在军事委员会推进。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及关塔那摩军事委员会审判的合法性与正当程序核心争议，尤其是被告精神能力认定标准及联邦法院对军事司法程序的审查范围。联邦法官拒绝干预强化了军事委员会程序的相对独立性，但也引发对被告获得有效司法审查权利的担忧。对中国法而言，可比较军事司法与普通司法管辖的边界、精神障碍被告的受审能力认定规则，以及法院对行政或军事羁押决定的审查强度，具有比较刑事程序法上的参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "关塔那摩军事委员会",
+          "class": "criminal"
+        },
+        {
+          "name": "受审能力",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Judge tosses most of Alec Baldwin’s claims against prosecutors over ‘Rust’ shooting",
+      "titleCN": "Judge tosses most of Alec Baldwin’s claims against prosecutors over ‘Rust’ shooting",
+      "url": "https://www.abajournal.com/news/article/judge-tosses-most-of-alec-baldwins-claims-against-prosecutors-over-rust-shooting/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国新墨西哥州联邦法官以检察官豁免权为由，驳回了演员亚历克·鲍德温就《锈迹》片场枪击案对检方提起的大部分诉讼。鲍德温此前被控过失杀人，案件因检方证据披露问题被撤销，随后他起诉检方恶意起诉。法院认为，检察官在刑事追诉中的行为受绝对豁免保护，仅保留极少数例外。该裁决明确了检察官豁免权的适用范围，对恶意起诉的民事救济构成重要限制。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及检察官豁免权这一普通法核心制度，法院将绝对豁免扩展适用于检方在刑事追诉中的行为，包括证据披露争议和起诉决定，显著限缩了被错误追诉者通过民事侵权诉讼追责检方的路径。该裁决与联邦最高法院先例相呼应，强化了追诉职能的司法保护，但也引发对检方不当行为缺乏有效问责的担忧。对中国法而言，可比较检察官司法责任豁免与错案追责机制的边界，思考如何在保障追诉独立性与救济被追诉人权利之间取得平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "检察官豁免权",
+          "class": "criminal"
+        },
+        {
+          "name": "恶意起诉",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Where the Supreme Court favors Trump on the emergency docket – and where it doesn’t",
+      "titleCN": "Where the Supreme Court favors Trump on the emergency docket – and where it doesn’t",
+      "url": "https://www.scotusblog.com/2026/10/where-the-supreme-court-favors-trump-on-the-emergency-docket-and-where-it-doesnt/",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "文章对比了最高法院紧急案卷中两起涉及教育部的申请：2024年8月，拜登政府请求部分解除阻止其第九条新规的禁令，法院拒绝；不到八个月后，特朗普政府请求介入要求教育部继续资助已终止的拨款，政府获胜。两案申请主体相同、均寻求紧急救济、由同九位大法官裁决，结果却截然不同。文章由此探讨紧急案卷裁决模式及影响。",
+      "summaryEN": "",
+      "whyMattersCN": "该文揭示最高法院紧急案卷（shadow docket）裁决的不一致模式，涉及行政机构在紧急救济中的胜诉条件与法院自由裁量边界。对理解美国宪政中司法与行政关系、紧急程序透明度及先例约束力具有制度意义。比较法上，可启发中国研究法院临时措施、行为保全与行政紧急处分的司法审查标准，以及程序正义与实体结果的可预期性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "紧急案卷",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Servant of the Law: The President as Chief Prosecutor",
+      "titleCN": "Servant of the Law: The President as Chief Prosecutor",
+      "url": "https://www.justsecurity.org/159847/servant-law-president-chief-prosecutor/?utm_source=rss&utm_medium=rss&utm_campaign=servant-law-president-chief-prosecutor",
+      "date": "2026-10-16",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "该文以美国总统作为首席检察官的角色为切入点，系统梳理宪法、法律与伦理对总统行使检察权的约束。文章讨论总统在刑事起诉、调查启动与终止、赦免权及对司法部指挥等方面的权力边界，分析既有法律规范与先例如何限制政治干预司法，并评估近期争议中总统行为是否越界。结论强调总统并非普通检察官，其权力受宪法忠实执行条款、正当程序及职业伦理多重制约，需通过制度设计防止检察权政治化。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及美国宪政体制中检察权与行政权关系的核心争议，涉及总统对司法部指挥权、起诉与不起诉决定的司法审查可能性、赦免权的宪法限制以及特别检察官制度的存废。对中国法而言，可比较检察机关独立行使职权与行政首长负责制之间的张力，启发对检察权外部干预的程序控制、信息公开与问责机制的设计。文章亦为比较宪法研究提供关于首席检察官角色规范化的分析框架，具有制度借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "总统检察权",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪政约束",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Federal judge balks at lawyer’s $3K hourly rate",
+      "titleCN": "Federal judge balks at lawyer’s $3K hourly rate",
+      "url": "https://www.abajournal.com/news/article/federal-judge-balks-at-lawyers-3000-hourly-rate/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国加州联邦地区法院法官Beth Labson Freeman在一起涉及谷歌语音助手的案件中，将一名律师主张的每小时3000美元费率称为明显不合理。该案属于集体诉讼或专利诉讼中的律师费争议，法官对高额小时费率进行司法审查，可能影响联邦法院对律师费合理性的认定标准，尤其是科技巨头相关复杂诉讼中的费用裁定。最新进展是法官公开质疑该费率，但尚未见最终裁决。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁定触及联邦法院审查律师费合理性的核心规则，即小时费率须与案件复杂性、律师经验及地区市场费率相符。对科技诉讼而言，高额费率常伴随风险代理和集体诉讼，司法否决可能抑制过度收费，并影响谷歌等巨头案件的费用分配。比较法上，中国法院在知识产权和集体诉讼中也面临律师费合理性审查，可借鉴美国联邦法院的费率基准与举证要求，完善律师费酌定机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师费合理性",
+          "class": "tech"
+        },
+        {
+          "name": "联邦法院",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Trump administration asks justices to determine courts’ ability to vacate federal agency actions",
+      "titleCN": "Trump administration asks justices to determine courts’ ability to vacate federal agency actions",
+      "url": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-determine-courts-ability-to-vacate-federal-agency-actions/",
+      "date": "2026-10-16",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "特朗普政府请求最高法院裁定联邦法院是否有权完全撤销联邦机构的行动或规则。副总检察长索尔在29页文件中主张，行政机构管理联邦法律在文本、语境和历史中均未赋予法院这种新的、影响深远的救济权力。该案源于对卫生与公众服务部和劳工部规则的多项挑战，后合并审理。最高法院将审查法院撤销机构行为的权限边界。",
+      "summaryEN": "",
+      "whyMattersCN": "此案直接触及行政法核心制度——法院对机构行为的司法审查范围与救济权限。若最高法院限缩法院完全撤销机构规则的权力，将重塑行政国家中司法制衡的边界，影响未来所有针对联邦机构的诉讼策略与监管合规预期。对比较法而言，该争议涉及司法审查强度与机构裁量权的经典张力，对中国行政诉讼法中法院撤销行政行为权限的讨论亦有参照意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Federal judiciary considers broadcasting federal trials to crime victims",
+      "titleCN": "Federal judiciary considers broadcasting federal trials to crime victims",
+      "url": "https://www.abajournal.com/news/article/federal-judiciary-considers-broadcasting-federal-trials-to-crime-victims/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国司法会议刑事规则咨询委员会正在审议是否创设一项例外，允许对联邦审判进行电视和音频转播，以便犯罪受害者旁听。现行联邦规则禁止在联邦法院刑事审判中进行广播报道。该委员会评估的例外将专门面向犯罪受害者，使其能够远程观看审判过程。此举涉及刑事司法透明度、受害者权利与被告公平审判权之间的平衡，若获通过将改变联邦法院长期禁止庭审转播的规则。目前该提案仍处于委员会审议阶段，尚未形成最终规则。",
+      "summaryEN": "",
+      "whyMattersCN": "该提案触及联邦刑事程序的核心规则：现行禁止庭审转播的规则源于司法会议对媒体覆盖的长期限制，旨在保护陪审团公正与审判秩序。若为犯罪受害者创设例外，将首次在联邦层面突破这一禁令，可能引发关于被告第六修正案公平审判权与受害者权利法案之间张力的宪法性争议。同时，该规则若通过，将为各州法院提供示范，并影响联邦法院对公众旁听与远程访问的技术与程序安排。对中国而言，可比较观察庭审直播与受害者参与刑事程序的制度边界，以及司法公开与审判公正的平衡机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦刑事程序",
+          "class": "criminal"
+        },
+        {
+          "name": "庭审转播",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Justices take up case on race and school admissions",
+      "titleCN": "Justices take up case on race and school admissions",
+      "url": "https://www.scotusblog.com/2026/10/justices-take-up-case-on-race-and-school-admissions/",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国最高法院受理Association for Education Fairness诉蒙哥马利县教育委员会案，挑战马里兰州该县择优录取公立磁石学校的程序。挑战者多为亚裔美国家长，主张该政策虽表面种族中立，但意图减少亚裔学生人数，因而违宪。最高法院将于2027年初进行口头辩论，此案涉及种族中立政策的违宪意图审查标准。",
+      "summaryEN": "",
+      "whyMattersCN": "该案将检验最高法院在Students for Fair Admissions案后对种族中立招生政策的审查尺度，尤其是能否以立法意图认定违宪。若法院采纳意图审查，将影响全美学区使用种族中立替代方案的合规空间，并可能重塑平等保护条款下政策中立性与歧视意图的举证规则。对中国法而言，该案涉及形式中立措施与实质平等、立法目的审查的比较法素材，对教育公平与差别对待的认定标准有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "平等保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "招生政策",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Foreign Interference and the Democratic Self-Defense Trap: A European Perspective Going into the 2026 Midterms",
+      "titleCN": "Foreign Interference and the Democratic Self-Defense Trap: A European Perspective Going into the 2026 Midterms",
+      "url": "https://www.justsecurity.org/153999/foreign-interference-european-perspective-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=foreign-interference-european-perspective-midterms",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "文章以欧洲经验为参照，讨论2026年美国中期选举前如何防范外国干预与现任政府滥用干预指控之间的张力。核心问题是民主自卫陷阱：为应对外国干预而赋予行政机关或执政党更大选举监管权，可能被用于压制投票权、打击异己。文章梳理欧洲在选举安全保障、虚假信息监管和权力制衡方面的制度设计，提出应在安全与权利之间建立程序性约束，避免紧急权力常态化。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及选举安全立法与宪政权力制衡的交叉地带，对理解外国干预规制中的比例原则和程序保障具有比较法价值。欧洲经验涉及选举管理机构独立性、情报信息使用边界、言论自由与虚假信息监管的协调，可为中国法下国家安全与公民权利平衡的研究提供参照。文章提示，反干预制度若缺乏司法审查和透明度机制，可能异化为执政者压制政治竞争的工具，这对选举法、国家安全法和行政法研究均有启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "外国干预",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举安全",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "New murder trial ordered over juror’s mental health crisis in 9th Circuit",
+      "titleCN": "New murder trial ordered over juror’s mental health crisis in 9th Circuit",
+      "url": "https://www.abajournal.com/news/article/new-murder-trial-ordered-over-juror-mental-health-crisis-in-9th-circuit/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T04:24:21.209Z",
+      "summaryCN": "美国第九巡回上诉法院撤销一名男子在加州海岸水域杀人案的定罪，理由是陪审员在审议期间出现精神健康危机，法院未妥善处理。核心规则涉及陪审员能力与正当程序：当有合理迹象表明陪审员因精神健康问题无法履行职务时，法官应进行调查并可能替换该陪审员，否则侵犯被告受公正陪审团审判的权利。最新进展为案件发回重审。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决强化了刑事被告获得公正陪审团审判的宪法权利，明确了联邦法院在处理陪审员精神健康危机时的程序义务。对第九巡回区联邦地区法院具有约束力，要求法官在类似情形下主动调查并记录陪审员能力问题，否则定罪可能被撤销。对中国法而言，可比较陪审员管理制度与庭审实质化改革中如何保障参审能力与程序公正，提示完善陪审员异常情形处置规则的必要性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "陪审团",
+          "class": "criminal"
+        },
+        {
+          "name": "正当程序",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
       "titleCN": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
       "url": "https://www.abajournal.com/news/article/2-biglaw-partners-retained-for-taylor-farms-taco-bell-over-contaminated-lettuce-lawsuits/",
@@ -3370,6 +3715,121 @@
   ],
   "research": [
     {
+      "title": "Mass Solicitation, Minimal Clarity: Resolving the Circuit Split Concerning Statutory Seller Liability Under Section 12 of the Securities Act of 1933",
+      "titleCN": "Mass Solicitation, Minimal Clarity: Resolving the Circuit Split Concerning Statutory Seller Liability Under Section 12 of the Securities Act of 1933",
+      "url": "https://pennlawreview.com/2026/08/31/mass-solicitation-minimal-clarity-resolving-the-circuit-split-concerning-statutory-seller-liability-under-section-12-of-the-securities-act-of-1933/",
+      "date": "2026-08-31",
+      "addedAt": "2026-10-20T04:25:09.671Z",
+      "summaryCN": "本文聚焦1933年证券法第12条下法定卖方责任的巡回法院分歧，该分歧因社交媒体推动的大规模招揽活动而加剧。论文梳理各巡回法院对法定卖方认定标准的不同解释，分析披露导向的监管目标与投资者保护之间的张力，并提出统一解释框架以化解分歧，为新兴市场中投资者决策提供更清晰的责任规则。",
+      "summaryEN": "",
+      "whyMattersCN": "第12条法定卖方责任直接关系证券发行中招揽行为的民事责任边界，巡回法院分歧导致发行人和中介机构面临不确定的合规风险。本文提出的统一解释框架对证券执法、私人诉讼和平台化招揽的监管有直接制度意义。比较法上，中国证券法第85条及虚假陈述司法解释中的责任主体认定亦面临类似问题，本文对美国法定卖方标准的梳理可为中介机构责任边界和投资者保护平衡提供参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "证券法",
+          "class": "constitutional"
+        },
+        {
+          "name": "法定卖方责任",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "Resistance Through Restraint: Liberal Cause Lawyering in an Age of Conservative Judicial Hegemony",
+      "titleCN": "Resistance Through Restraint: Liberal Cause Lawyering in an Age of Conservative Judicial Hegemony",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/resistance-through-restraint-liberal-cause-lawyering-in-an-age-of-conservative-judicial-hegemony/?utm_source=rss&utm_medium=rss&utm_campaign=resistance-through-restraint-liberal-cause-lawyering-in-an-age-of-conservative-judicial-hegemony",
+      "date": "2026-10-06",
+      "addedAt": "2026-10-20T04:25:09.671Z",
+      "summaryCN": "该文探讨进步派公益律师在保守派最高法院系统性推翻自由派先例的司法霸权下面临的策略困境。作者指出，直觉性的法院改革方案面临不可逾越的政治障碍，且可能招致被改革机构本身的合宪性挑战。文章主张放弃持续性的肯定性宪法诉讼与传统改革路径，转而提出一种以克制为形式的抵抗策略，即通过限制诉讼主张的范围与激进程度来维护渐进成果并避免不利先例的固化。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对公益律师在司法意识形态对立格局下的策略选择具有直接指导意义，尤其涉及美国最高法院对罗伊案、平权行动等先例的推翻背景下，进步派诉讼如何调整主张以降低不利判决风险。其克制性抵抗理论为比较法视野下中国公益诉讼与宪法实施研究提供了策略分析框架，亦启发对司法改革政治可行性及机构反制风险的制度评估。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公益诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法策略",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
+      "title": "The Police Archipelago: Decentralization, Police Violence, Over-Punishment, and Crime",
+      "titleCN": "The Police Archipelago: Decentralization, Police Violence, Over-Punishment, and Crime",
+      "url": "https://pennlawreview.com/2026/08/31/the-police-archipelago-decentralization-police-violence-over-punishment-and-crime/",
+      "date": "2026-08-31",
+      "addedAt": "2026-10-20T04:25:09.671Z",
+      "summaryCN": "本文挑战刑事司法地方主义共识，指出其忽视警察机构在去中心化刑事司法中的核心角色。作者提出警察群岛概念，论证美国警察碎片化去中心化结构如何同时导致警察暴力、过度惩罚与犯罪治理失灵，并分析地方控制强化警察问责的局限。文章结合实证与制度分析，主张重新审视去中心化警察治理的代价与替代方案。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对刑事司法地方主义提出系统性反思，直接回应美国警察去中心化与问责争论，涉及第四修正案执法边界、地方自治与联邦监督关系。其警察群岛框架有助于比较法研究中国警察权配置与执法监督，也为评估社区警务、地方问责机制提供制度分析工具。研究方法上结合制度分析与实证证据，对理解警察暴力与过度惩罚的因果机制有启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "警察去中心化",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法地方主义",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "Campbell At 30: A Retrospective Appreciation",
+      "titleCN": "Campbell At 30: A Retrospective Appreciation",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/campbell-at-30-a-retrospective-appreciation/?utm_source=rss&utm_medium=rss&utm_campaign=campbell-at-30-a-retrospective-appreciation",
+      "date": "2026-09-01",
+      "addedAt": "2026-10-20T04:25:09.671Z",
+      "summaryCN": "本文追溯美国最高法院合理使用原则的知识史，从首次接触合理使用到三十余年前Campbell v. Acuff-Rose Music, Inc.的里程碑判决。Campbell案为法院提供了以使用者为中心的一致理论，用以适用四项法定合理使用因素，取代此前零散、结果导向的分析路径。文章回顾该判决的论证结构、后续影响与批评，评估其在数字时代版权扩张背景下的持续相关性，并讨论合理使用教义在转换性使用、市场稀释等争议中的演变与未决问题。",
+      "summaryEN": "",
+      "whyMattersCN": "Campbell案是美国版权合理使用教义的基石，其转换性使用理论深刻影响后续判例（如Google v. Oracle）及全球版权实践。本文的系统性回顾有助于理解合理使用从个案衡平向结构化教义的转型，对研究版权限制、言论自由与创新激励的平衡具有比较法价值。对中国法而言，可为著作权法第二十四条合理使用条款的封闭式列举与开放式因素之辩提供参照，并启发数字内容产业中转换性使用的司法认定标准。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "合理使用",
+          "class": "tech"
+        },
+        {
+          "name": "版权法",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
+      "title": "The President and the Power Grid",
+      "titleCN": "The President and the Power Grid",
+      "url": "https://michiganlawreview.org/the-president-and-the-power-grid/",
+      "date": "2026-08-18",
+      "addedAt": "2026-10-20T04:25:09.671Z",
+      "summaryCN": "本文考察第二届特朗普政府电力政策与前届政府之间的显著断裂，重点分析总统指示能源部援引为战时条件设计的法定权力干预电网运行与电力市场。论文追问此类紧急权力在和平时期能源治理中的合宪性与合法性边界，梳理相关成文法授权、行政命令及联邦与州分权冲突，并评估对电网可靠性、批发市场定价与监管独立性的制度后果。文章最终主张，战时紧急权力的常态化使用侵蚀了国会立法授权与州级能源监管权限，需通过司法审查与国会监督加以约束。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国总统紧急权力与能源监管交叉的核心宪法与行政法问题，涉及战时法定授权在和平时期的适用边界、联邦能源监管委员会与州公用事业委员会的权限划分，以及重大问题原则下行政解释的司法审查标准。对中国法而言，其关于紧急状态权力法治化、能源监管机构独立性与跨区域电网治理的讨论，可为完善能源法中的应急授权条款、厘清行政紧急权与常态监管关系提供比较法参照，亦提示关注电网安全与市场机制协调的制度设计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "总统紧急权力",
+          "class": "constitutional"
+        },
+        {
+          "name": "能源监管",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Michigan Law Review"
+    },
+    {
       "title": "True Threats, Public Safety, and Free Speech: An Empirical Analysis of Counterman's Consequences",
       "titleCN": "True Threats, Public Safety, and Free Speech: An Empirical Analysis of Counterman's Consequences",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/1",
@@ -5523,7 +5983,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-19T05:02:08.912Z",
-    "generator": "ai"
+    "updatedAt": "2026-10-20T04:25:29.017Z",
+    "generator": "ai",
+    "checkedAt": "2026-10-20T04:25:29.017Z"
   }
 }
