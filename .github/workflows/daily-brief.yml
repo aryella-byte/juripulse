@@ -68,13 +68,15 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update AI legal brief $(date -u +%Y-%m-%d)"
           git push
 
-      - name: Build
-        run: npx next build
+      # 旧站已迁至 juripulse.cn（2026-10-20）：GitHub Pages 只发布跳转页，每个旧页面跳到新站对应页面。
+      # 简报数据仍由上面两步每天更新并提交，juripulse.cn 服务器从本仓库同步 public/data/brief_data.json。
+      - name: Build redirect site
+        run: node scripts/build-redirect-site.mjs
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: out
+          path: redirect-site
 
       - name: Deploy to GitHub Pages
         id: deployment

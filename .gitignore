@@ -60,3 +60,5 @@ seeing-theory-complete/seeing-theory-cn/push_to_github.sh
 *.zip
 *.docx
 seeing-theory-complete/
+
+/redirect-site
