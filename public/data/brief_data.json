@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "[R]evolution in the International Legal Order",
+      "titleCN": "[R]evolution in the International Legal Order",
+      "url": "https://www.justsecurity.org/161089/revolution-international-legal-order/?utm_source=rss&utm_medium=rss&utm_campaign=revolution-international-legal-order",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T05:04:43.400Z",
+      "summaryCN": "美国国际法学会国际法周末联合主席撰文探讨国际法律秩序面临的变革压力，主张在强化国际法基础的同时，使其适应新兴行为体与议题。文章指出，国家以外的主体（如国际组织、跨国企业、非政府组织）以及气候变化、网络空间、人工智能等新议题，正挑战以国家为中心的传统国际法框架。作者呼吁在坚持国际法核心原则的前提下推动结构性革新，以回应合法性、问责与治理效能方面的质疑。该文属于国际法理论层面的议程设置，尚未提出具体规则草案或判例分析。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及国际法主体范围、国际造法程序与全球治理合法性等基础问题，对理解国际条约谈判、国际组织改革及跨国监管合作具有参考价值。其关于新兴行为体参与国际造法的讨论，可与中国参与全球治理、推动国际规则制定的话语实践形成对照；其关于国际法适应性的主张，亦涉及条约解释与习惯国际法形成机制等教义学问题。但文章属观点评论，未提供具体制度方案或判例增量，法律实务参考价值有限。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法",
+          "class": "international"
+        },
+        {
+          "name": "全球治理",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Supreme Court declines to take up cases on vehicle seizures in Chicago, 9/11 plea disputes, and the president’s removal of National Labor Relations Board members",
+      "titleCN": "Supreme Court declines to take up cases on vehicle seizures in Chicago, 9/11 plea disputes, and the president’s removal of National Labor Relations Board members",
+      "url": "https://www.scotusblog.com/2026/10/supreme-court-declines-to-take-up-cases-on-vehicle-seizures-in-chicago-911-plea-disputes-and-the/",
+      "date": "2026-10-19",
+      "addedAt": "2026-10-20T05:04:43.400Z",
+      "summaryCN": "美国最高法院于2026年10月16日会议后拒绝受理芝加哥车辆扣押政策案（O'Donnell v. City of Chicago）。该政策允许城市对仅有两张未付停车罚单的车辆进行扣押并出售，且不补偿车主。第七巡回上诉法院维持该政策，称其为城市行使治安权执行交通法规。索托马约尔大法官发表声明，戈萨奇大法官加入，连续第二周就拒绝调卷发表意见，引发对宪法正当程序与比例原则的关切。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及市政治安权与宪法正当程序条款的边界，尤其是对轻微行政违法施加严厉财产剥夺是否构成过度惩罚。最高法院拒绝受理虽未创设新规则，但索托马约尔与戈萨奇的联合声明释放信号，可能影响未来类似挑战的诉讼策略与下级法院论证。对中国法而言，行政处罚中的比例原则与财产权保障具有比较法参考价值，提示关注执法手段与违法程度之间的均衡性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院调卷",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Feds will not retry former Baltimore state’s attorney on mortgage fraud",
+      "titleCN": "Feds will not retry former Baltimore state’s attorney on mortgage fraud",
+      "url": "https://www.abajournal.com/news/article/feds-will-not-retry-former-baltimore-states-attorney-on-mortgage-fraud/",
+      "date": "2026-10-20",
+      "addedAt": "2026-10-20T05:04:43.400Z",
+      "summaryCN": "联邦检察官决定不再对巴尔的摩前州检察官玛丽莲·莫斯比就抵押贷款欺诈指控进行重审，相关指控已被驳回。此前联邦陪审团已就抵押贷款欺诈作出有罪裁决，但后续法律程序出现转折。此案涉及公职人员刑事责任与联邦检察裁量权，检方放弃重审意味着针对莫斯比的核心抵押贷款欺诈指控终结，但案件仍留下关于陪审团裁决效力与撤诉后程序处理的讨论空间。",
+      "summaryEN": "",
+      "whyMattersCN": "该案凸显联邦检察官在陪审团有罪裁决后放弃重审的裁量逻辑，涉及《联邦刑事诉讼规则》下撤诉与重审的衔接、禁止双重危险原则的边界，以及公职人员抵押贷款欺诈的追诉标准。对比较法而言，可观察美国联邦检察权在政治敏感案件中的自我约束机制，以及陪审团裁决与检方撤诉之间的张力。对中国法启示在于：公职人员涉财产犯罪案件中，检察裁量权行使的透明度与程序制约值得关注，撤诉后原裁决效力的处理规则亦有借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "抵押贷款欺诈",
+          "class": "criminal"
+        },
+        {
+          "name": "联邦检察裁量",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trump administration asks SCOTUS to limit lower courts’ power",
       "titleCN": "Trump administration asks SCOTUS to limit lower courts’ power",
       "url": "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
@@ -4579,6 +4648,29 @@
   ],
   "research": [
     {
+      "title": "Opening the Tariff Toolkit: The Demand for U.S. Administrative Trade Remedies",
+      "titleCN": "Opening the Tariff Toolkit: The Demand for U.S. Administrative Trade Remedies",
+      "url": "https://nyulawreview.org/issues/volume-101-number-2/opening-the-tariff-toolkit-the-demand-for-u-s-administrative-trade-remedies/",
+      "date": "2026-05-19",
+      "addedAt": "2026-10-20T05:04:57.024Z",
+      "summaryCN": "本文研究美国行政贸易救济措施的需求成因。在贸易自由化数十年后，贸易限制重新抬头，美国提高关税、瘫痪WTO争端解决机制，两党均倾向防御进口并呼吁脱钩。论文考察反倾销、反补贴、保障措施等行政贸易救济工具的使用动因，分析政治、经济与制度因素如何驱动企业及行业寻求救济，揭示行政救济体系在贸易政策转向中的角色与运作逻辑。",
+      "summaryEN": "",
+      "whyMattersCN": "该文聚焦美国行政贸易救济制度的实际需求侧，有助于理解反倾销、反补贴及保障措施在贸易保护回潮中的制度功能与政治经济动因。对中国的启示在于：一方面需研判美国行政救济调查的发起规律与产业游说机制，完善贸易摩擦预警与应对；另一方面可比较中美贸易救济行政程序的制度差异，思考我国贸易救济规则的完善路径，并关注WTO争端解决瘫痪后行政救济替代性扩张的规范约束问题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政贸易救济",
+          "class": "international"
+        },
+        {
+          "name": "贸易保护主义",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Mass Solicitation, Minimal Clarity: Resolving the Circuit Split Concerning Statutory Seller Liability Under Section 12 of the Securities Act of 1933",
       "titleCN": "Mass Solicitation, Minimal Clarity: Resolving the Circuit Split Concerning Statutory Seller Liability Under Section 12 of the Securities Act of 1933",
       "url": "https://pennlawreview.com/2026/08/31/mass-solicitation-minimal-clarity-resolving-the-circuit-split-concerning-statutory-seller-liability-under-section-12-of-the-securities-act-of-1933/",
@@ -7111,8 +7203,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-20T04:39:24.502Z",
+    "updatedAt": "2026-10-20T05:05:05.787Z",
     "generator": "ai",
-    "checkedAt": "2026-10-20T04:39:24.502Z"
+    "checkedAt": "2026-10-20T05:05:05.787Z"
   }
 }
