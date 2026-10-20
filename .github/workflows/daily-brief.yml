@@ -7,6 +7,13 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      max_news:
+        description: 'Max news items to add this run'
+        default: '3'
+      max_research:
+        description: 'Max research items to add this run'
+        default: '1'
 
 permissions:
   contents: write
@@ -33,13 +40,14 @@ jobs:
       - name: Update AI legal brief
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           ARK_API_KEY: ${{ secrets.ARK_API_KEY }}
           ARK_BASE_URL: ${{ vars.ARK_BASE_URL || 'https://ark.cn-beijing.volces.com/api/coding/v3' }}
           MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           BRIEF_AI_MODEL: ${{ vars.BRIEF_AI_MODEL || 'ark-code-latest' }}
-          MAX_NEWS: 3
-          MAX_RESEARCH: 1
+          MAX_NEWS: ${{ inputs.max_news || 3 }}
+          MAX_RESEARCH: ${{ inputs.max_research || 1 }}
           MIN_EXISTING_QUALITY: 7
         run: node scripts/update-brief-ai.mjs
 

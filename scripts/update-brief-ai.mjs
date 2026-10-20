@@ -369,6 +369,15 @@ async function isReachableUrl(url, source) {
 }
 
 function createAiConfig() {
+  // 2026-10-20 起主用 DeepSeek：火山引擎接口从 GitHub Actions 连不上（fetch failed），两个月没有新增内容
+  if (process.env.DEEPSEEK_API_KEY) {
+    return {
+      apiKey: process.env.DEEPSEEK_API_KEY,
+      url: 'https://api.deepseek.com/chat/completions',
+      provider: 'deepseek',
+      model: process.env.DEEPSEEK_MODEL || 'deepseek-flash',
+    }
+  }
   if (process.env.ARK_API_KEY) {
     const baseUrl = process.env.ARK_BASE_URL || 'https://ark.cn-beijing.volces.com/api/coding/v3'
     return {
@@ -433,6 +442,8 @@ function extractJsonText(text) {
   return cleaned
 }
 
+const aiStats = { ok: 0, failed: 0, added: 0 }
+
 async function analyzeWithAi(aiConfig, item, source, isResearch) {
   const contentType = isResearch ? '法学研究论文' : '法律新闻'
   const selectionRule = isResearch
@@ -464,19 +475,21 @@ RSS摘要：${item.excerpt || '无'}
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      model,
+      model: aiConfig.model || model,
       max_tokens: 1400,
       temperature: 0.45,
       messages: [{ role: 'user', content: prompt }],
-      ...(aiConfig.provider === 'ark' || aiConfig.provider === 'kimi'
+      ...(aiConfig.provider === 'ark' || aiConfig.provider === 'kimi' || aiConfig.provider === 'deepseek'
         ? { thinking: { type: 'disabled' } }
         : {}),
     }),
   }, aiTimeoutMs, `AI request for ${source}`)
 
   if (!response.ok) {
-    throw new Error(`AI request failed: ${response.status} ${await response.text()}`)
+    aiStats.failed += 1
+    throw new Error(`AI request failed: ${response.status} ${(await response.text()).slice(0, 300)}`)
   }
+  aiStats.ok += 1
 
   const payload = await response.json()
   const message = payload.choices?.[0]?.message || {}
@@ -560,9 +573,12 @@ async function saveData(data) {
     return String(bKey).localeCompare(String(aKey))
   })
 
+  // updatedAt 只在真正新增内容时刷新（页面显示的“最近更新”）；每次运行的时间另记 checkedAt
+  const now = new Date().toISOString()
   data.meta = {
     ...(data.meta || {}),
-    updatedAt: new Date().toISOString(),
+    ...(aiStats.added > 0 ? { updatedAt: now } : {}),
+    checkedAt: now,
     generator: 'ai',
   }
   sortBriefItems(data.news)
@@ -639,11 +655,13 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
       existing.add(itemId(item.title))
       log(`Added ${key}: ${item.title.slice(0, 80)}`)
     } catch (error) {
+      if (!/AI request failed/.test(error.message)) aiStats.failed += 1
       log(`AI analysis skipped: ${error.message}`)
     }
   }
 
   data[key] = [...(data[key] || []), ...additions]
+  aiStats.added += additions.length
   log(`${key}: +${additions.length}`)
 }
 
@@ -659,12 +677,17 @@ async function main() {
     log('No ARK_API_KEY, MOONSHOT_API_KEY, or KIMI_API_KEY. Existing brief data cleaned when needed; no new items generated.')
     return
   }
-  log(`Using ${aiConfig.provider} model: ${model}`)
+  log(`Using ${aiConfig.provider} model: ${aiConfig.model || model}`)
 
   await updateSection({ aiConfig, data, sources: newsSources, key: 'news', limit: maxNews, isResearch: false })
   await updateSection({ aiConfig, data, sources: researchSources, key: 'research', limit: maxResearch, isResearch: true })
   await saveData(data)
-  log(`Saved ${data.news.length} news and ${data.research.length} research items`)
+  log(`Saved ${data.news.length} news and ${data.research.length} research items (AI ok ${aiStats.ok}, failed ${aiStats.failed}, added ${aiStats.added})`)
+  if (aiStats.ok === 0 && aiStats.failed > 0) {
+    // 所有 AI 调用都失败：让这次运行在 GitHub 上显示为失败，不再静默“成功”
+    console.error('All AI requests failed; no new items. Check the API key, balance, or network.')
+    process.exitCode = 1
+  }
 }
 
 main().catch((error) => {
