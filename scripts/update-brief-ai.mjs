@@ -665,6 +665,103 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
   log(`${key}: +${additions.length}`)
 }
 
+// ============================================
+// 补录模式（2026-10-20）：按页回翻 RSS，把指定日期区间内的内容按月均匀补进来。
+// 用法：BACKFILL_FROM=2026-08-01 BACKFILL_TO=2026-10-12 BACKFILL_PAGES=30 BACKFILL_NEWS_PER_MONTH=12 BACKFILL_RESEARCH_PER_MONTH=4
+// 只用支持 ?paged=N 的源；每次请求之间随机停 2–15 秒，2 秒是硬下限，不可调低。
+// ============================================
+const backfillNewsSources = { 'Just Security': 'https://www.justsecurity.org/feed/' }
+const MIN_BACKFILL_DELAY_MS = 2000
+async function politePause() {
+  const ms = Math.max(MIN_BACKFILL_DELAY_MS, 2000 + Math.random() * 13000)
+  await new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+async function fetchPagedRange(source, url, from, to, maxPages) {
+  const found = []
+  const seen = new Set()
+  for (let page = 1; page <= maxPages; page += 1) {
+    await politePause()
+    const pageUrl = `${url}${url.includes('?') ? '&' : '?'}paged=${page}`
+    let items = []
+    try {
+      const response = await fetchWithTimeout(pageUrl, {
+        headers: {
+          'User-Agent': 'JuriPulse AI Legal Brief Bot/1.0',
+          Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml',
+        },
+      }, feedTimeoutMs, `Backfill feed ${source} p${page}`)
+      if (!response.ok) { log(`${source} p${page}: ${response.status}`); break }
+      items = parseFeed(await response.text())
+    } catch (error) {
+      log(`${source} p${page} failed: ${error.message}`)
+      break
+    }
+    const fresh = items.filter((item) => !seen.has(item.url))
+    if (!fresh.length) { log(`${source} p${page}: no new items, stop`); break }   // 不支持翻页的源会反复返回同一页
+    fresh.forEach((item) => seen.add(item.url))
+    found.push(...fresh.filter((item) => item.date >= from && item.date <= to))
+    const oldest = fresh.map((item) => item.date).sort()[0]
+    log(`${source} p${page}: ${fresh.length} items, oldest ${oldest}, in range so far ${found.length}`)
+    if (oldest < from) break
+  }
+  return found
+}
+
+async function backfillSection({ aiConfig, data, sources, key, perMonth, isResearch, from, to, maxPages }) {
+  const existing = new Set((data[key] || []).map((item) => itemId(item.title)))
+  const byMonth = new Map()
+  for (const [source, url] of Object.entries(sources)) {
+    const items = await fetchPagedRange(source, url, from, to, maxPages)
+    for (const item of items) {
+      if (!isLikelyLegal(item, source, isResearch) || existing.has(itemId(item.title))) continue
+      const month = item.date.slice(0, 7)
+      if (!byMonth.has(month)) byMonth.set(month, [])
+      byMonth.get(month).push({ source, item, score: candidateScore(item, source, isResearch) })
+    }
+  }
+  const additions = []
+  for (const [month, candidates] of [...byMonth.entries()].sort()) {
+    candidates.sort((a, b) => b.score - a.score)
+    let taken = 0
+    for (const { source, item } of candidates) {
+      if (taken >= perMonth) break
+      try {
+        log(`AI analyzing (${month}): ${item.title.slice(0, 80)}`)
+        const analysis = await analyzeWithAi(aiConfig, item, source, isResearch)
+        const qualityScore = Number(analysis?.qualityScore || 0)
+        // 日常任务以后会删掉低于 MIN_EXISTING_QUALITY 的条目，补录直接按这个门槛收
+        if (analysis?.shouldInclude === false || qualityScore < minExistingQuality) continue
+        if (!analysis?.summaryCN || analysis.summaryCN.length < 20) continue
+        additions.push({
+          title: item.title,
+          titleCN: item.title,
+          url: item.url,
+          date: item.date,
+          addedAt: `${item.date}T12:00:00.000Z`,   // 按原发布日期排序，不压在当天的新内容上面
+          summaryCN: analysis.summaryCN,
+          summaryEN: '',
+          whyMattersCN: analysis.whyMattersCN || '',
+          whyMattersEN: '',
+          tags: tagsFor(analysis.category, analysis.tags),
+          quality_score: qualityScore,
+          backfilled: true,
+          ...(isResearch ? { journal: source } : { source }),
+        })
+        existing.add(itemId(item.title))
+        taken += 1
+        log(`Backfilled ${key} ${month}: ${item.title.slice(0, 80)}`)
+      } catch (error) {
+        if (!/AI request failed/.test(error.message)) aiStats.failed += 1
+        log(`AI analysis skipped: ${error.message}`)
+      }
+    }
+    log(`${key} ${month}: +${taken} (of ${candidates.length} candidates)`)
+  }
+  data[key] = [...(data[key] || []), ...additions]
+  aiStats.added += additions.length
+}
+
 async function main() {
   const data = await loadData()
   data.news ||= []
@@ -678,6 +775,19 @@ async function main() {
     return
   }
   log(`Using ${aiConfig.provider} model: ${aiConfig.model || model}`)
+
+  if (process.env.BACKFILL_FROM) {
+    const from = process.env.BACKFILL_FROM
+    const to = process.env.BACKFILL_TO || today()
+    const maxPages = Number(process.env.BACKFILL_PAGES || 30)
+    log(`Backfill ${from} .. ${to}, up to ${maxPages} pages per source`)
+    await backfillSection({ aiConfig, data, sources: backfillNewsSources, key: 'news', perMonth: Number(process.env.BACKFILL_NEWS_PER_MONTH || 12), isResearch: false, from, to, maxPages })
+    await backfillSection({ aiConfig, data, sources: researchSources, key: 'research', perMonth: Number(process.env.BACKFILL_RESEARCH_PER_MONTH || 4), isResearch: true, from, to, maxPages: Math.min(maxPages, 8) })
+    await saveData(data)
+    log(`Saved ${data.news.length} news and ${data.research.length} research items (AI ok ${aiStats.ok}, failed ${aiStats.failed}, added ${aiStats.added})`)
+    if (aiStats.ok === 0 && aiStats.failed > 0) process.exitCode = 1
+    return
+  }
 
   await updateSection({ aiConfig, data, sources: newsSources, key: 'news', limit: maxNews, isResearch: false })
   await updateSection({ aiConfig, data, sources: researchSources, key: 'research', limit: maxResearch, isResearch: true })

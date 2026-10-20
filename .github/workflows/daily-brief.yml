@@ -14,6 +14,12 @@ on:
       max_research:
         description: 'Max research items to add this run'
         default: '1'
+      backfill_from:
+        description: 'Backfill start date YYYY-MM-DD (leave empty for a normal run)'
+        default: ''
+      backfill_to:
+        description: 'Backfill end date YYYY-MM-DD'
+        default: ''
 
 permissions:
   contents: write
@@ -23,7 +29,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -48,6 +54,8 @@ jobs:
           BRIEF_AI_MODEL: ${{ vars.BRIEF_AI_MODEL || 'ark-code-latest' }}
           MAX_NEWS: ${{ inputs.max_news || 3 }}
           MAX_RESEARCH: ${{ inputs.max_research || 1 }}
+          BACKFILL_FROM: ${{ inputs.backfill_from }}
+          BACKFILL_TO: ${{ inputs.backfill_to }}
           MIN_EXISTING_QUALITY: 7
         run: node scripts/update-brief-ai.mjs
 
