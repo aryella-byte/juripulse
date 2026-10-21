@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "SCOTUS allows Hastings name change to remain at University of California law school",
+      "titleCN": "SCOTUS allows Hastings name change to remain at University of California law school",
+      "url": "https://www.abajournal.com/news/article/scotus-allows-hastings-college-of-law-to-keep-its-name/",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-21T05:05:39.790Z",
+      "summaryCN": "美国最高法院周一裁定，加州大学旧金山法学院可保留其新名称，即加州大学法学院（University of California College of the Law, San Francisco），驳回对该更名提出的挑战。该案涉及捐赠人Hastings家族名称从校名中移除所引发的争议，核心法律问题包括捐赠协议条款的约束力、大学自治权以及州法下更名程序的合法性。最高法院的裁决为高校在捐赠人名称争议中的自主管理权提供了重要指引，也明确了相关合同与信托法规则的适用边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案虽以程序性裁决收尾，但对高等教育治理与捐赠法具有制度意义。它触及捐赠人姓名权与大学更名权的冲突，涉及合同解释、信托义务及州法对公共机构更名的程序要求。裁决强化了高校在捐赠关系中的自主空间，同时提示捐赠协议中名称条款需明确约定存续条件与退出机制。对中国法而言，可比较慈善捐赠中冠名权的法律性质、高校名称管理的行政规范，以及捐赠合同附条件条款的效力认定，为完善捐赠法治提供参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "捐赠法",
+          "class": ""
+        },
+        {
+          "name": "高等教育治理",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Supreme Court agrees to review federal home distilling ban",
+      "titleCN": "Supreme Court agrees to review federal home distilling ban",
+      "url": "https://www.abajournal.com/news/article/supreme-court-agrees-to-review-federal-home-distilling-ban/",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-21T05:05:39.790Z",
+      "summaryCN": "美国最高法院同意受理关于联邦禁止家庭蒸馏是否合宪的上诉。争议核心在于国会依据宪法商业条款规制州际 commerce 的权力能否延伸至完全用于个人消费、不进入市场流通的家庭蒸馏行为。下级法院此前维持了该禁令，上诉人主张该禁令超出联邦权限并侵犯各州治安权。最高法院的审查将厘清商业条款在非商业性自用生产领域的适用边界，可能影响联邦对个人自制酒精、大麻等物品的监管权限。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及美国宪法商业条款的经典争议：联邦权力能否规制不跨州流通、纯自用的生产行为。若最高法院限缩解释，将动摇联邦对家庭自制酒类、甚至家庭种植大麻等行为的禁令基础，并可能重塑联邦与州在治安权领域的权限划分。对比较法而言，该案展示了成文宪法下中央立法权与地方自治权的张力，为中国处理中央与地方事权划分、以及行政规制介入私人自用领域的比例原则适用提供参照。同时，判决结果将直接影响酒类监管执法与刑事处罚的合宪性边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "商业条款",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦制",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Book deals leave Supreme Court without quorum in music copyright fight",
+      "titleCN": "Book deals leave Supreme Court without quorum in music copyright fight",
+      "url": "https://www.abajournal.com/news/article/book-deals-leave-supreme-court-without-a-quorum-in-music-copyright-fight/",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-21T05:05:39.790Z",
+      "summaryCN": "美国最高法院因多名大法官存在图书出版交易而无法凑足法定人数，未能审理一起备受关注的音乐版权上诉案件。该案涉及音乐版权纠纷中的核心法律问题，但因回避规则导致法院无法达到审理所需的六名大法官参与门槛。这一事件暴露了最高法院回避制度在实践中的运作困境，引发对法官利益冲突规则与司法效率之间张力的关注。最新进展是案件因程序性障碍被搁置，未能进入实体审理。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件直接触及美国最高法院法定人数规则与法官回避制度的交互影响。根据美国法典第28编第46条，最高法院审理案件需六名大法官参与；当多名大法官因图书交易产生的利益冲突而回避时，法院可能丧失审理能力。这为比较法研究提供了鲜活素材：中国民事诉讼法虽规定审判人员回避制度，但合议庭人数不足时的程序处理规则不同。该案还启发对法官外部收入披露、回避标准明确化以及替代法官机制的讨论，对完善司法伦理规范具有制度参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法回避",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "[R]evolution in the International Legal Order",
       "titleCN": "[R]evolution in the International Legal Order",
       "url": "https://www.justsecurity.org/161089/revolution-international-legal-order/?utm_source=rss&utm_medium=rss&utm_campaign=revolution-international-legal-order",
@@ -4648,6 +4717,29 @@
   ],
   "research": [
     {
+      "title": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
+      "titleCN": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3",
+      "date": "2026-05-26",
+      "addedAt": "2026-10-21T05:05:53.180Z",
+      "summaryCN": "本文针对《清洁水法》刑事条款在追责水污染者方面的不足展开研究。论文指出，CWA以技术性违反法条界定犯罪，易受限缩性司法解释影响，且EPA极少提起刑事指控而依赖民事罚款，导致大量污染者逃避实质惩罚。作者提出以袭击罪（assault）指控水污染者的替代路径，论证其可行性及制度优势，为强化水污染刑事问责提供新思路。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及环境刑法中构成要件明确性与司法限缩解释的张力，以及行政执法与刑事追诉的衔接失灵问题。以袭击罪替代CWA刑事条款的构想，挑战了环境犯罪依附于技术性行政标准的传统模式，转向以人身健康损害为核心的法益保护路径。对中国环境刑法而言，可启发反思污染环境罪中行政从属性过强、因果认定困难等结构性缺陷，并推动比较法上环境犯罪构成要件独立化的讨论。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "清洁水法",
+          "class": "criminal"
+        },
+        {
+          "name": "环境刑法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Opening the Tariff Toolkit: The Demand for U.S. Administrative Trade Remedies",
       "titleCN": "Opening the Tariff Toolkit: The Demand for U.S. Administrative Trade Remedies",
       "url": "https://nyulawreview.org/issues/volume-101-number-2/opening-the-tariff-toolkit-the-demand-for-u-s-administrative-trade-remedies/",
@@ -7203,8 +7295,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-20T05:05:05.787Z",
+    "updatedAt": "2026-10-21T05:06:03.717Z",
     "generator": "ai",
-    "checkedAt": "2026-10-20T05:05:05.787Z"
+    "checkedAt": "2026-10-21T05:06:03.717Z"
   }
 }
