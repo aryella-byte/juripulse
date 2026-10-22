@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trump administration asks justices to allow border wall construction to continue",
+      "titleCN": "Trump administration asks justices to allow border wall construction to continue",
+      "url": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-22T05:08:00.684Z",
+      "summaryCN": "特朗普政府向最高法院申请允许恢复得克萨斯州大弯地区边境墙建设。此前埃尔帕索联邦地区法官发布临时禁令叫停施工，政府方称该命令毫无依据且史无前例。案件涉及1996年《非法移民改革与移民责任法》授权国土安全部在边境地区豁免部分环境等法律以加快建墙，核心争点是地区法院临时禁令的审查标准与行政机关法定裁量权的边界。最高法院尚未作出裁决。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及行政紧急救济与司法审查强度的宪政张力：地区法院以临时禁令冻结联邦工程，政府则主张法定授权赋予其高度裁量空间，要求最高法院介入。若最高法院放宽对行政机关的事实认定审查，将影响未来移民执法、边境安全及环境豁免类案件的禁令标准，并可能重塑联邦法院对行政行为的临时救济门槛。对中国法而言，可比较行政行为暂时停止执行制度与比例原则审查，观察法院如何在工程推进与程序保障间权衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "边境墙",
+          "class": "constitutional"
+        },
+        {
+          "name": "临时禁令",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems",
+      "titleCN": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems",
+      "url": "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-22T05:08:00.684Z",
+      "summaryCN": "2026年7月，美国国土安全部发布命令，将DeepSeek人工智能产品从联邦民事机构信息技术系统中排除并移除。该命令于10月由Just Security公开。文件显示DHS依据供应链安全与数据风险审查，要求各民事机构在限期内卸载DeepSeek相关应用并终止采购。此举延续了联邦政府对特定外国AI产品的审慎监管路径，但命令全文及法律依据尚未完整披露，其适用范围与执行机制仍待观察。",
+      "summaryEN": "",
+      "whyMattersCN": "该命令将外国AI产品纳入联邦IT供应链安全审查框架，涉及政府采购法、网络安全审查与行政裁量权的边界。对在美经营的中国AI企业而言，这意味着产品准入可能因国家安全理由被单方排除，且救济渠道有限。比较法上，它提示中国在AI出海合规中需预判东道国供应链审查风险，并关注WTO政府采购协定下的非歧视义务。同时，该先例可能推动其他联邦机构效仿，形成事实上的AI产品黑名单机制，值得持续追踪其法律依据与程序正当性问题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI监管",
+          "class": "tech"
+        },
+        {
+          "name": "供应链安全",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Federal judge didn’t answer questions, instead emailed sealed court documents to over 100 people",
+      "titleCN": "Federal judge didn’t answer questions, instead emailed sealed court documents to over 100 people",
+      "url": "https://www.abajournal.com/web/article/judge-ada-brown-didnt-answer-questions-instead-emailed-sealed-court-documents-to-over-100-people/",
+      "date": "2026-10-22",
+      "addedAt": "2026-10-22T05:08:00.684Z",
+      "summaryCN": "美国联邦第五巡回上诉法院就达拉斯联邦地区法官行为发布第二份命令，认定该法官未回应质询，反而将密封法庭文件通过140封电子邮件发送给法官、律师等逾百人。事件涉及密封令的遵守与司法保密义务，上诉法院正审查其是否违反保密规则及应否采取纪律措施。最新进展显示上诉法院已介入并发布命令，凸显对司法人员泄露密封信息的程序性回应。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及联邦法院密封令的约束力与法官自律机制。密封文件通常涉及当事人隐私、商业秘密或调查保密，法官作为命令签发者更应遵守。上诉法院通过命令审查地区法官行为，体现司法系统内部对违反保密义务的层级监督，可能影响未来对密封令执行、法官纪律处分及回避标准的判例发展。对中国法而言，可比较法官保密义务与惩戒程序的衔接，以及密封信息泄露后的救济路径，对完善司法责任与程序保密制度具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法保密",
+          "class": ""
+        },
+        {
+          "name": "密封令",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "SCOTUS allows Hastings name change to remain at University of California law school",
       "titleCN": "SCOTUS allows Hastings name change to remain at University of California law school",
       "url": "https://www.abajournal.com/news/article/scotus-allows-hastings-college-of-law-to-keep-its-name/",
@@ -4717,6 +4786,29 @@
   ],
   "research": [
     {
+      "title": "Unilateral Election Administration",
+      "titleCN": "Unilateral Election Administration",
+      "url": "https://nyulawreview.org/issues/volume-101-number-2/unilateral-election-administration/",
+      "date": "2026-05-19",
+      "addedAt": "2026-10-22T05:08:11.773Z",
+      "summaryCN": "本文研究美国选举行政的碎片化格局，指出尽管各州规则与层级不同，但五十个体系均设首席选举官，且多数州将权力集中于单一官员而非委员会。论文提出单边选举行政概念，分析这种个人化权力结构对选举公正与问责的影响，并考察委员会制与单一官员制的制度差异。文章最终论证单边模式可能带来的治理风险与改革方向。",
+      "summaryEN": "",
+      "whyMattersCN": "本文切入美国选举法中被忽视的行政组织维度，将首席选举官的个人化权力置于比较制度分析框架下，对理解选举公正的机构保障具有理论贡献。研究涉及州级选举行政的法定权限分配、委员会制与单一官员制的问责差异，可与我国选举组织制度及监察问责机制形成比较法参照。其关于权力集中与选举治理风险的论证，对完善选举管理机构的制衡设计具有启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "选举行政",
+          "class": "constitutional"
+        },
+        {
+          "name": "首席选举官",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
       "titleCN": "Uncharted Waters: Addressing the Shortcomings of Criminal Liability Under the Clean Water Act by Charging Water Polluters with Assault",
       "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3",
@@ -7295,8 +7387,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-21T05:06:03.717Z",
+    "updatedAt": "2026-10-22T05:08:22.227Z",
     "generator": "ai",
-    "checkedAt": "2026-10-21T05:06:03.717Z"
+    "checkedAt": "2026-10-22T05:08:22.227Z"
   }
 }
