@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place",
+      "titleCN": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place",
+      "url": "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/",
+      "date": "2026-10-22",
+      "addedAt": "2026-10-23T05:08:34.246Z",
+      "summaryCN": "特朗普政府与得克萨斯州请求最高法院维持其废止拜登时期移民规定的同意协议，该规定曾允许移民法官暂停部分驱逐程序。挑战方包括巴尔的摩等三市及移民法律服务团体，请求暂停地区法院批准该协议的裁定。联邦总检察长索尔称挑战方试图将加入案件的程序争议扩大为对协议实质的全面攻击。得州亦主张应驳回挑战方请求。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及移民法官暂停驱逐程序的裁量权边界，以及同意判决在行政规则废止中的程序效力。最高法院对挑战方介入资格与地区法院批准同意协议的标准作出判断，将影响行政机构通过诉讼和解快速改变移民执法政策的合法性，并检验第三方对政府间协议提出异议的诉讼门槛。对中国法而言，可比较行政和解协议对第三人效力的司法审查标准及程序参与权保障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "DHS’s AI Inventory Reveals the Limits of Federal AI Transparency Law",
+      "titleCN": "DHS’s AI Inventory Reveals the Limits of Federal AI Transparency Law",
+      "url": "https://www.justsecurity.org/159720/dhs-ai-inventory-limits-federal-ai-transparency-law/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-ai-inventory-limits-federal-ai-transparency-law",
+      "date": "2026-10-21",
+      "addedAt": "2026-10-23T05:08:34.246Z",
+      "summaryCN": "Just Security 刊文分析国土安全部（DHS）及移民与海关执法局（ICE）公开的人工智能用例清单，指出其未达到特朗普政府时期行政令所设的最低透明度要求，如未完整披露系统用途、数据来源与风险缓解措施。文章认为，现行联邦AI透明度法律依赖机构自我报告，缺乏可验证性与强制后果，DHS的实践暴露出披露义务的形式化缺陷，并呼吁国会强化审计与问责机制。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国联邦AI治理的核心制度短板：行政令与OMB备忘录设定的AI用例清单义务缺乏法定拘束力和独立核查，机构自报导致透明度流于形式。对比较法而言，中国《生成式人工智能服务管理暂行办法》与算法备案制度同样面临披露真实性与监管能力问题，美国经验提示需在备案之外建立第三方审计、分类风险披露与法律责任衔接，避免合规沦为纸面声明。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI透明度",
+          "class": "tech"
+        },
+        {
+          "name": "联邦行政法",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "The Mahmoud Khalil and Badar Khan Suri cases: an explainer",
+      "titleCN": "The Mahmoud Khalil and Badar Khan Suri cases: an explainer",
+      "url": "https://www.scotusblog.com/2026/10/the-mahmoud-khalil-and-badar-khan-suri-cases-an-explainer/",
+      "date": "2026-10-22",
+      "addedAt": "2026-10-23T05:08:34.246Z",
+      "summaryCN": "特朗普第二任期初期，联邦政府以支持巴勒斯坦为由拘留并寻求驱逐包括Mahmoud Khalil和Badar Khan Suri在内的多名学生学者。二人均已获释，但最高法院可能受理其案件。核心争点是联邦地区法院是否有权审查拘留合法性，还是如政府主张的那样，此类挑战被联邦移民法排除。政府已敦促最高法院受理两案。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及联邦法院对移民拘留的司法审查权范围，直接触及人身保护令与移民法排除管辖条款的张力。若最高法院采纳政府立场，将大幅限缩地区法院对驱逐拘留的快速审查，影响非公民正当程序保障。该争点与美国长期判例中关于管辖排除与宪法救济的平衡密切相关，对理解行政拘留的司法制衡及比较法上移民执法监督具有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民拘留",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Trump administration asks justices to allow border wall construction to continue",
       "titleCN": "Trump administration asks justices to allow border wall construction to continue",
       "url": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/",
@@ -4786,6 +4855,29 @@
   ],
   "research": [
     {
+      "title": "Surveillance Intrusiveness in a Pandemic",
+      "titleCN": "Surveillance Intrusiveness in a Pandemic",
+      "url": "https://northwesternlawreview.org/uncategorized/surveillance-intrusiveness-in-a-pandemic/",
+      "date": "2020-04-28",
+      "addedAt": "2026-10-23T05:08:45.617Z",
+      "summaryCN": "本文基于新冠疫情初期美国民众对政府监控态度的实证调查，探讨公共卫生危机中监控侵入性的公众认知。研究通过问卷实验发现，美国人虽对新型数字监控手段（如接触者追踪）存在隐私担忧，但在疫情紧迫性下接受度显著提高，且党派立场与监控类型影响态度分化。文章提出监控侵入性应结合情境合理性、透明度和时限性进行法律评估，为紧急状态下的隐私权与公共健康权平衡提供经验依据。",
+      "summaryEN": "",
+      "whyMattersCN": "该文以实证方法回应疫情中政府监控的合法性边界问题，对理解美国宪法第四修正案在紧急状态下的适用、公共卫生监控立法（如接触者追踪应用）的隐私影响评估具有参考价值。其发现公众接受度受监控类型与党派立场影响，提示监管设计需区分侵入程度并强化透明度与日落条款。对中国法而言，可启发比较公共卫生应急中个人信息保护与数据利用的平衡机制，以及比例原则在监控措施中的具体操作。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "公共卫生监控",
+          "class": "constitutional"
+        },
+        {
+          "name": "隐私权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Northwestern Law Review"
+    },
+    {
       "title": "Unilateral Election Administration",
       "titleCN": "Unilateral Election Administration",
       "url": "https://nyulawreview.org/issues/volume-101-number-2/unilateral-election-administration/",
@@ -7387,8 +7479,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-22T05:08:22.227Z",
+    "updatedAt": "2026-10-23T05:08:58.961Z",
     "generator": "ai",
-    "checkedAt": "2026-10-22T05:08:22.227Z"
+    "checkedAt": "2026-10-23T05:08:58.961Z"
   }
 }
