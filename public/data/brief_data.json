@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Former New Orleans lawyer gets prison for staged crash scheme",
+      "titleCN": "Former New Orleans lawyer gets prison for staged crash scheme",
+      "url": "https://www.abajournal.com/news/article/former-new-orleans-lawyer-gets-32-months-for-staged-crash-scheme/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-24T04:51:42.936Z",
+      "summaryCN": "美国路易斯安那州东区联邦地区法院法官对一名新奥尔良人身伤害律师判处两年零八个月监禁，因其参与策划虚假汽车碰撞事故以骗取保险理赔。该律师利用职业身份与同伙制造事故并提交欺诈性索赔，联邦陪审团此前裁定其邮件欺诈及共谋罪名成立。本案是联邦执法机构针对保险欺诈链条中专业人士追责的最新进展，凸显司法部对利用法律职业便利实施欺诈行为的严厉态度。",
+      "summaryEN": "",
+      "whyMattersCN": "本案对保险欺诈刑事执法具有明确制度意义：其一，联邦法院对律师参与策划碰撞事故判处实刑，强化了《邮件欺诈法》在保险欺诈链条中的适用，向法律职业群体发出威慑信号；其二，案件揭示人身伤害律师与事故制造者、医疗机构之间的共谋结构，为监管机构识别和打击有组织保险欺诈提供了执法范本；其三，对中国法而言，可比较保险诈骗罪中专业人士共犯的认定与量刑，以及律师执业监管与刑事追责的衔接机制，对完善职业伦理惩戒与刑事司法协作具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "保险欺诈",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "How Civil Society Can Help Unlock More Universal and Extraterritorial Jurisdiction Cases",
+      "titleCN": "How Civil Society Can Help Unlock More Universal and Extraterritorial Jurisdiction Cases",
+      "url": "https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases",
+      "date": "2026-10-22",
+      "addedAt": "2026-10-24T04:51:42.936Z",
+      "summaryCN": "文章探讨民间社会如何通过向国家主管机关提供详尽证据，推动普遍管辖与域外管辖案件的实际启动。作者指出，针对暴行犯罪的追诉常因资源与信息不足而停滞，民间社会可发挥证据收集与案情建构的比较优势，降低国家启动调查的门槛。文章结合实践案例，说明民间组织与检察机关协作的模式，并呼吁建立更制度化的合作渠道，以扩大普遍管辖的适用空间。",
+      "summaryEN": "",
+      "whyMattersCN": "普遍管辖与域外管辖是国际刑法追诉暴行犯罪的关键制度，但国家实践长期受制于证据获取与政治意愿。本文提出的民间社会证据供给机制，直接触及国家刑事追诉启动条件的制度设计，对理解检察机关与民间组织的协作边界、证据可采性与程序正当性具有参考价值。对中国而言，在境外追逃追赃与国际刑事司法合作中，如何规范民间证据的收集与移交、避免程序瑕疵，同样值得比较法层面的关注。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "普遍管辖",
+          "class": "international"
+        },
+        {
+          "name": "域外管辖",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "DOJ moves to remove two Minnesota judges from immigration cases",
+      "titleCN": "DOJ moves to remove two Minnesota judges from immigration cases",
+      "url": "https://www.abajournal.com/news/article/doj-moves-to-remove-two-minnesota-judges-from-immigration-cases/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-24T04:51:42.936Z",
+      "summaryCN": "美国司法部一名高级官员动议取消两名明尼苏达州联邦法官审理两起移民案件的资格，理由是该两名法官此前发表了相关评论。此举涉及联邦法官回避规则与司法独立问题，引发对行政机关干预法院审理移民案件的关注。案件尚在程序阶段，尚未有裁决结果。",
+      "summaryEN": "",
+      "whyMattersCN": "该动议触及联邦法官回避制度与行政权对司法独立的边界。司法部以法官言论为由申请取消资格，若获准，可能降低移民案件裁判的可预测性，并影响当事人获得公正审理的权利。比较法上，中国可关注行政机关在诉讼中申请回避的权限与滥用风险，以及法官言论豁免与回避标准的明确化。该案亦涉及移民法领域司法审查的独立性，对理解美国三权分立下的移民治理有制度意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place",
       "titleCN": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place",
       "url": "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/",
@@ -4855,6 +4924,29 @@
   ],
   "research": [
     {
+      "title": "Tortious Interference Revisited",
+      "titleCN": "Tortious Interference Revisited",
+      "url": "https://pennlawreview.com/2026/10/24/tortious-interference-revisited/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-24T04:51:55.350Z",
+      "summaryCN": "该文重新审视侵权法中的合同干涉制度。该制度一个多世纪以来困扰法律评论者：它能在合同违约救济无法触及的情形提供救济，但也被批评威胁竞争、随意雇佣、言论自由及其他私法请求的重要护栏，且难以与私法体系协调。文章梳理该制度的理论困境与适用争议，分析其在竞争政策与合同保护之间的张力，并探讨其与其他私法请求的关系，试图为该制度的存废或重构提供系统性论证。",
+      "summaryEN": "",
+      "whyMattersCN": "合同干涉侵权是英美私法中的经典难题，涉及合同相对性、竞争自由与言论自由的边界。该文系统回应其理论困境，对理解侵权法与合同法的交界面具有比较法价值。对中国法而言，第三人侵害债权是否应纳入侵权责任法、如何与反不正当竞争法及合同法协调，长期存在争议；该文关于竞争政策与合同保护张力的分析，可为相关立法论与解释论提供参照，并启发对随意雇佣与言论自由护栏的制度反思。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "侵权法",
+          "class": ""
+        },
+        {
+          "name": "合同干涉",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Surveillance Intrusiveness in a Pandemic",
       "titleCN": "Surveillance Intrusiveness in a Pandemic",
       "url": "https://northwesternlawreview.org/uncategorized/surveillance-intrusiveness-in-a-pandemic/",
@@ -7479,8 +7571,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-23T05:08:58.961Z",
+    "updatedAt": "2026-10-24T04:51:58.892Z",
     "generator": "ai",
-    "checkedAt": "2026-10-23T05:08:58.961Z"
+    "checkedAt": "2026-10-24T04:51:58.892Z"
   }
 }
