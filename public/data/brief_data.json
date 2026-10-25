@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
+      "titleCN": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
+      "url": "https://www.justsecurity.org/161136/us-seabed-mining-legal-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=us-seabed-mining-legal-landscape",
+      "date": "2026-10-22",
+      "addedAt": "2026-10-25T05:01:57.890Z",
+      "summaryCN": "文章围绕美国海底矿产活动展开法律分析，梳理谁在何处、何时、为何进行海底采矿，并区分不同情形以指导法律治理。核心涉及国际海底区域制度、美国未加入《联合国海洋法公约》下的国内法授权、以及专属经济区与大陆架界限等规则。文章结合近期海底采矿新闻热点，提出需按活动类型和海域位置分层适用法律框架，为监管提供分析路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及国际海洋法与美国国内法的关键衔接问题：美国不是《联合国海洋法公约》缔约国，其海底采矿许可依据国内法（如《深海底硬矿物资源法》）展开，这与国际海底管理局的多金属结核开发规章形成制度张力。文章对海域位置和活动类型的区分，有助于分析专属经济区、大陆架及国际海底区域的管辖权边界，对中国在“区域”内活动及国内深海立法亦有比较法参考价值，并涉及海洋环境保护义务与采矿监管的合规设计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "海底采矿",
+          "class": "international"
+        },
+        {
+          "name": "国际海洋法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "ICE arrests attorney after alleged threats to federal agents",
+      "titleCN": "ICE arrests attorney after alleged threats to federal agents",
+      "url": "https://www.abajournal.com/news/article/ice-arrests-attorney-in-mississippi-after-alleged-threats-to-federal-agents/",
+      "date": "2026-10-25",
+      "addedAt": "2026-10-25T05:01:57.890Z",
+      "summaryCN": "美国移民与海关执法局下属国土安全调查局于上月逮捕密西西比州长滩市一名律师，指控其涉嫌威胁联邦执法人员。该律师据称对联邦探员发出威胁言论，具体细节尚未完全公开。此案涉及律师执业行为与联邦刑事指控的交集，引发对律师言论自由边界、职业特权以及联邦执法机构针对法律从业者行动的关注。案件目前处于逮捕后的初步阶段，后续可能涉及保释、起诉及宪法第一修正案抗辩等程序。",
+      "summaryEN": "",
+      "whyMattersCN": "此案触及律师执业言论与联邦刑事威胁指控之间的紧张关系，涉及第一修正案对职业言论的保护范围以及18 U.S.C. § 875等联邦威胁法规的适用边界。对律师因涉嫌威胁联邦探员而被捕，可能引发关于职业特权、报复性执法和正当程序保障的争议。比较法上，中国律师法亦规定律师执业言论豁免与边界，本案为理解律师职业行为与刑事法律交叉领域提供了观察样本，值得关注后续起诉与宪法抗辩进展。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师执业",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦刑事指控",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The Ten Commandments, classroom walls,  and the establishment clause",
+      "titleCN": "The Ten Commandments, classroom walls,  and the establishment clause",
+      "url": "https://www.scotusblog.com/2026/10/the-ten-commandments-classroom-walls-and-the-establishment-clause/",
+      "date": "2026-10-23",
+      "addedAt": "2026-10-25T05:01:57.890Z",
+      "summaryCN": "美国第五巡回上诉法院全体法官维持得克萨斯州要求公立学校教室悬挂十诫海报的法律，认为其不违反第一修正案确立条款。该判决采用历史实践与理解标准，并援引最高法院相关先例。路易斯安那州类似案件亦在推进。最高法院即将决定是否受理复审。本文为外部评论，主张第五巡回法院适用标准正确、结论适当，最高法院无需介入。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及美国宪法第一修正案确立条款的适用标准，即历史实践与理解测试在公立学校宗教展示场景中的边界。第五巡回法院的全体判决与路易斯安那州类似立法形成跨州张力，可能促使最高法院澄清肯尼迪诉布雷默顿案后宗教符号案件的审查框架。若最高法院受理，将直接影响公立学校宗教表达政策与各州立法空间；若拒绝，则强化巡回法院分歧的既成事实。对中国比较法研究而言，该案展示了国家与宗教分离原则在公共教育场域的具体司法技术。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "确立条款",
+          "class": "constitutional"
+        },
+        {
+          "name": "公立学校",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Former New Orleans lawyer gets prison for staged crash scheme",
       "titleCN": "Former New Orleans lawyer gets prison for staged crash scheme",
       "url": "https://www.abajournal.com/news/article/former-new-orleans-lawyer-gets-32-months-for-staged-crash-scheme/",
@@ -4924,6 +4993,29 @@
   ],
   "research": [
     {
+      "title": "Examining the Role of Market Efficiency in Securities and Appraisal Litigation",
+      "titleCN": "Examining the Role of Market Efficiency in Securities and Appraisal Litigation",
+      "url": "https://pennlawreview.com/2026/10/24/examining-the-role-of-market-efficiency-in-securities-and-appraisal-litigation/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-25T05:02:10.635Z",
+      "summaryCN": "本文考察市场效率原则在证券欺诈诉讼与股东评估权诉讼中的不同作用。两类诉讼均要求法院评估证券市场的效率，但所需效率程度截然不同：10b-5证券欺诈诉讼依赖信息效率，而评估权诉讼则关注价格效率或市场对基本价值的反映程度。论文系统比较两类诉讼中市场效率概念的法理基础与适用标准，揭示法院在裁判中混淆或误用效率概念的风险，并提出区分两种效率标准的规范框架，以协调证券诉讼与评估权救济之间的制度张力。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对证券集团诉讼与股东评估权诉讼中市场效率标准的精细区分，直接回应美国联邦最高法院在Basic v. Levinson与Halliburton II等判例中确立的欺诈市场理论适用边界，以及特拉华州评估权判例中Dell与Aruba案对市场效率抗辩的争议。论文提出的类型化框架有助于厘清10b-5集团认证与评估权定价中效率推定的不同法理基础，避免概念混用导致的裁判偏差。对中国法而言，证券虚假陈述民事赔偿中市场效率与交易因果关系的认定，以及异议股东评估权定价机制的完善，均可借鉴其区分信息效率与价格效率的分析路径，提升制度设计的精细化程度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "市场效率",
+          "class": "constitutional"
+        },
+        {
+          "name": "证券欺诈诉讼",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Tortious Interference Revisited",
       "titleCN": "Tortious Interference Revisited",
       "url": "https://pennlawreview.com/2026/10/24/tortious-interference-revisited/",
@@ -7571,8 +7663,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-24T04:51:58.892Z",
+    "updatedAt": "2026-10-25T05:02:20.795Z",
     "generator": "ai",
-    "checkedAt": "2026-10-24T04:51:58.892Z"
+    "checkedAt": "2026-10-25T05:02:20.795Z"
   }
 }
