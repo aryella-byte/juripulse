@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
+      "titleCN": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
+      "url": "https://www.abajournal.com/news/article/florida-appeals-court-refers-lawyer-for-possible-discipline-over-ai-slop/",
+      "date": "2026-10-26",
+      "addedAt": "2026-10-26T05:05:31.724Z",
+      "summaryCN": "佛罗里达州上诉法院将一名律师转介至佛罗里达州律师协会接受可能的纪律处分，原因是该律师提交的法庭文件被法院称为“AI垃圾”。法院指出，这些文件疑似由生成式人工智能粗制滥造，包含虚构判例或不当引用，损害了司法程序的严肃性。此案是继多起AI幻觉案例后，法院首次主动将律师转介至州律师协会进行纪律调查的公开案例之一，标志着司法系统对AI生成法律文书问题的回应从个案警告升级为正式的职业责任追究程序。",
+      "summaryEN": "",
+      "whyMattersCN": "该案将AI生成文书的质量问题从程序性瑕疵提升至律师职业责任层面，触及律师对AI工具输出内容的核实义务与诚实信用原则。佛罗里达州上诉法院主动转介律师协会，意味着法院不再仅以驳回或警告方式处理，而是启动纪律调查，可能形成对律师使用AI的实质性威慑。对中国法而言，此案提示需明确律师使用生成式AI的注意义务标准，并思考法院与律师协会在AI滥用问题上的协同监管机制，避免仅依赖事后惩戒而缺乏事前指引。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI法律文书",
+          "class": "tech"
+        },
+        {
+          "name": "律师纪律",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Supreme Court allows New Hampshire to restrict use of student IDs in voting",
+      "titleCN": "Supreme Court allows New Hampshire to restrict use of student IDs in voting",
+      "url": "https://www.scotusblog.com/2026/10/supreme-court-allows-new-hampshire-to-restrict-use-of-student-ids-in-voting/",
+      "date": "2026-10-23",
+      "addedAt": "2026-10-26T05:05:31.724Z",
+      "summaryCN": "2026年10月23日，美国最高法院以简短不署名命令暂停新罕布什尔州联邦地区法官的裁定，允许该州执行禁止使用学生证件作为投票所需有效照片身份证的法律。法院援引Purcell原则，即联邦下级法院通常不应在选举前夕改变选举规则。杰克逊大法官唯一反对，认为地区法官拉普兰特仅发布针对性命令，旨在应对虚假信息而非改变法律。此案凸显选举前夕司法干预选举规则的界限争议。",
+      "summaryEN": "",
+      "whyMattersCN": "该命令强化了Purcell原则在选举临近时的适用，实质限制联邦法院对州选举规则的事前审查，影响投票权诉讼的时效策略与司法救济边界。对比较法而言，它展示选举管理中法院谦抑与选民资格保障的张力，为中国选举法治及紧急状态下的司法审查提供参照。同时，学生证件是否构成合格身份证明涉及年轻选民与流动人口参与，值得关注选举规则与平等保护的交织。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "Purcell原则",
+          "class": "constitutional"
+        },
+        {
+          "name": "投票权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
+      "titleCN": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
+      "url": "https://www.abajournal.com/news/article/missouri-supreme-court-disbars-attorney-for-repeatedly-failing-to-appear-in-court/",
+      "date": "2026-10-26",
+      "addedAt": "2026-10-26T05:05:31.724Z",
+      "summaryCN": "密苏里州最高法院于周二裁定吊销一名律师的执业资格，理由是该律师在两年内超过50次未按时出庭，并存在其他执业失职行为。该判决源于州律师监管机构对当事人多次缺席庭审、无视法院传票及未能勤勉代理客户的纪律指控。法院认定其行为严重违反职业行为规则，构成对司法程序与客户利益的持续损害，最终作出最严厉的吊销执照处分。此案明确了律师反复缺席庭审可构成吊销执照的独立依据。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决强化了律师职业责任中勤勉义务与尊重司法程序的底线规则，为州律师协会和法院处理反复缺席庭审类纪律案件提供了直接先例。其制度意义在于：将程序性失职（而非仅实体代理过错）提升至最严厉制裁层级，有助于厘清律师纪律处分中比例原则的适用边界。对中国律师法及司法行政部门监管而言，可比较借鉴其将出庭义务违反类型化、累计次数作为加重情节的裁量思路，并启发对律师执业行为动态监管与惩戒衔接机制的完善。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师纪律",
+          "class": ""
+        },
+        {
+          "name": "职业责任",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
       "title": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
       "titleCN": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
       "url": "https://www.justsecurity.org/161136/us-seabed-mining-legal-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=us-seabed-mining-legal-landscape",
@@ -4993,6 +5062,29 @@
   ],
   "research": [
     {
+      "title": "Creditor Collusion: An Antitrust Analysis of Cooperation Agreements",
+      "titleCN": "Creditor Collusion: An Antitrust Analysis of Cooperation Agreements",
+      "url": "https://pennlawreview.com/2026/10/24/creditor-collusion-an-antitrust-analysis-of-cooperation-agreements/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-26T05:05:52.688Z",
+      "summaryCN": "本文以不良债务市场中债权人合作协定为对象，指出责任管理交易使困境借款人与私募基金利用贷款文本漏洞剥离担保或劣后既有贷款人，债权人遂通过合作协定建立统一谈判阵线、限制二级转让并禁止个别侧翼交易。论文从反垄断法角度审视此类协定是否构成横向联合抵制或集体拒绝交易，分析其促进竞争与抑制竞争的双重效果，并讨论安全港、合理原则及信用市场效率抗辩的适用边界，为困境债务重组中的债权人协作提供反垄断合规框架。",
+      "summaryEN": "",
+      "whyMattersCN": "该文填补了反垄断法与困境债务重组交叉领域的空白。传统上债权人合作被视为集体行动问题的解决方案，但统一谈判阵线与转让限制可能触及谢尔曼法第一条的联合抵制禁令。论文提出的合理原则分析框架对判断合作协定的竞争效果具有方法论意义，并可能影响私募信贷基金在不良资产投资中的合规策略。对中国法而言，可启发思考《反垄断法》第十七条对行业协会或债权人委员会联合行为的规制边界，以及破产重整中债权人协议与横向垄断协议的区分标准，为金融监管与竞争执法的协调提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "反垄断法",
+          "class": "constitutional"
+        },
+        {
+          "name": "困境债务重组",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Examining the Role of Market Efficiency in Securities and Appraisal Litigation",
       "titleCN": "Examining the Role of Market Efficiency in Securities and Appraisal Litigation",
       "url": "https://pennlawreview.com/2026/10/24/examining-the-role-of-market-efficiency-in-securities-and-appraisal-litigation/",
@@ -7663,8 +7755,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-25T05:02:20.795Z",
+    "updatedAt": "2026-10-26T05:06:03.682Z",
     "generator": "ai",
-    "checkedAt": "2026-10-25T05:02:20.795Z"
+    "checkedAt": "2026-10-26T05:06:03.682Z"
   }
 }
