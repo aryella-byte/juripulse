@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "5th Circuit blasts federal judge for AI errors in rulings",
+      "titleCN": "5th Circuit blasts federal judge for AI errors in rulings",
+      "url": "https://www.abajournal.com/news/article/5th-circuit-blasts-federal-judge-for-ai-errors-in-rulings/",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-27T05:20:50.666Z",
+      "summaryCN": "美国第五巡回上诉法院合议庭撤销了一项初步禁令，该禁令原本阻止密西西比州禁止在高等教育中推行多元、公平与包容（DEI）的法律生效。合议庭怀疑联邦地区法官在裁决中使用了人工智能生成的内容并出现错误，因此对下级法院的裁判质量提出严厉批评。案件涉及州法合宪性争议与法院对AI辅助裁判的审查标准，最新进展是禁令被推翻、案件发回重审，凸显上诉法院对AI幻觉进入司法文书的高度警惕。",
+      "summaryEN": "",
+      "whyMattersCN": "本案具有双重制度意义：实体上涉及州级DEI禁令与第一修正案、平等保护条款的张力，可能影响其他州类似立法的合宪性审查；程序上则首次由联邦上诉法院明确批评地区法官因AI生成错误而作出裁决，为司法系统使用生成式AI确立审查基准。对中国比较法而言，该案提示法院在裁判文书智能化辅助中须建立核验义务与责任分配规则，对完善人工智能司法应用伦理与程序保障具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能司法应用",
+          "class": "constitutional"
+        },
+        {
+          "name": "DEI立法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "After a $25 Billion Deception Ruling, Why Trust Meta with an AI Agent?",
+      "titleCN": "After a $25 Billion Deception Ruling, Why Trust Meta with an AI Agent?",
+      "url": "https://www.justsecurity.org/161829/deception-ruling-why-trust-meta-ai-agent/?utm_source=rss&utm_medium=rss&utm_campaign=deception-ruling-why-trust-meta-ai-agent",
+      "date": "2026-10-26",
+      "addedAt": "2026-10-27T05:20:50.666Z",
+      "summaryCN": "美国法院就Meta欺骗性行为作出250亿美元裁决后，Just Security刊文质疑联邦政府是否应信任Meta开发AI代理Muse。文章指出，Meta在隐私保护上已有重大违法记录，而现有联邦监管能力不足以审查此类AI产品。作者主张在Muse等AI代理造成更多隐私损害前，国会与监管机构应建立强有力的联邦产品审查与问责机制，确保AI代理的设计与部署符合用户隐私权保障要求。",
+      "summaryEN": "",
+      "whyMattersCN": "该文将Meta的250亿美元欺骗裁决与AI代理监管直接挂钩，揭示现行联邦贸易委员会事后执法模式在AI产品事前审查上的制度缺口。其核心贡献在于提出：对具有自主决策能力的AI代理，应建立类似金融产品的事前审批与持续合规监测机制，而非依赖隐私政策披露。这对中国AI治理亦有启发——网信办算法备案与生成式AI管理办法可借鉴其产品问责思路，将隐私影响评估嵌入AI代理上线前审查，并明确平台对代理行为的连带责任。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI监管",
+          "class": "tech"
+        },
+        {
+          "name": "隐私权",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
+      "titleCN": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
+      "url": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
+      "date": "2026-10-26",
+      "addedAt": "2026-10-27T05:20:50.666Z",
+      "summaryCN": "Just Security 维护的诉讼追踪器系统收录针对特朗普政府行政命令与行政行为的全部法律挑战，按案件进展持续更新。该资源汇总原告、被告、法院、诉讼阶段与核心争点，为研究者与公众提供可检索的司法审查全景。最新进展体现于追踪器本身的持续维护，而非单一判决；其价值在于将分散的联邦地区法院与上诉法院案件整合为结构化数据库，揭示行政权扩张与司法制衡之间的实时互动。",
+      "summaryEN": "",
+      "whyMattersCN": "该追踪器直接服务于对美国总统行政命令司法审查的研究，涉及《行政程序法》下的越权审查、禁令救济标准、以及最高法院在紧急上诉中的影子案卷实践。对中国比较法研究而言，它提供了观察美国司法如何以临时禁令和快速审理制衡行政令的实证素材，有助于反思抽象行政行为审查与预防性救济的制度设计。对监管合规与跨国企业而言，追踪器可预警政策不确定性，辅助评估在美经营的法律风险。其方法论亦启发中国建立行政行为司法审查的案例索引与动态评估机制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政命令",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
       "title": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
       "titleCN": "Florida appeals court refers lawyer for possible discipline over ‘AI slop’",
       "url": "https://www.abajournal.com/news/article/florida-appeals-court-refers-lawyer-for-possible-discipline-over-ai-slop/",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 8,
       "source": "SCOTUSblog"
-    },
-    {
-      "title": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
-      "titleCN": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
-      "url": "https://www.abajournal.com/news/article/missouri-supreme-court-disbars-attorney-for-repeatedly-failing-to-appear-in-court/",
-      "date": "2026-10-26",
-      "addedAt": "2026-10-26T05:05:31.724Z",
-      "summaryCN": "密苏里州最高法院于周二裁定吊销一名律师的执业资格，理由是该律师在两年内超过50次未按时出庭，并存在其他执业失职行为。该判决源于州律师监管机构对当事人多次缺席庭审、无视法院传票及未能勤勉代理客户的纪律指控。法院认定其行为严重违反职业行为规则，构成对司法程序与客户利益的持续损害，最终作出最严厉的吊销执照处分。此案明确了律师反复缺席庭审可构成吊销执照的独立依据。",
-      "summaryEN": "",
-      "whyMattersCN": "该判决强化了律师职业责任中勤勉义务与尊重司法程序的底线规则，为州律师协会和法院处理反复缺席庭审类纪律案件提供了直接先例。其制度意义在于：将程序性失职（而非仅实体代理过错）提升至最严厉制裁层级，有助于厘清律师纪律处分中比例原则的适用边界。对中国律师法及司法行政部门监管而言，可比较借鉴其将出庭义务违反类型化、累计次数作为加重情节的裁量思路，并启发对律师执业行为动态监管与惩戒衔接机制的完善。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "律师纪律",
-          "class": ""
-        },
-        {
-          "name": "职业责任",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
@@ -5062,6 +5108,29 @@
   ],
   "research": [
     {
+      "title": "Two Parents, Dual Sovereigns: State Flexibility to Define Good Cause Exceptions to Federal Child Support Cooperation Requirements",
+      "titleCN": "Two Parents, Dual Sovereigns: State Flexibility to Define Good Cause Exceptions to Federal Child Support Cooperation Requirements",
+      "url": "https://pennlawreview.com/2026/10/24/two-parents-dual-sovereigns-state-flexibility-to-define-good-cause-exceptions-to-federal-child-support-cooperation-requirements/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-27T05:21:03.111Z",
+      "summaryCN": "本文研究PRWORA下福利受益人配合确立亲子关系与抚养令的联邦要求，指出该要求迫使以单身母亲为主的受助者接受侵入性州审查并将抚养费直接上缴州政府。论文核心论证联邦法中的良好原因例外为各州保留定义空间，分析州如何利用该灵活性界定不配合的正当理由，从而缓解联邦合作义务对受助者的严苛影响。文章结合双主权框架，提出州层面改革路径并评估其法律边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对理解联邦福利合作义务与州自主权的张力具有制度价值：PRWORA的合作要求长期受批评，但既有研究多聚焦联邦改革，本文转向州法定义良好原因例外的裁量空间，为福利行政法中的联邦主义分析提供新视角。其双主权论证可启发中国比较法研究，尤其是社会救助中中央最低标准与地方实施裁量的关系。论文亦提示州级行政规则如何实质影响单身母亲获取现金援助的权利，对评估合作义务的性别与程序正义成本有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "福利行政法",
+          "class": ""
+        },
+        {
+          "name": "联邦主义",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Creditor Collusion: An Antitrust Analysis of Cooperation Agreements",
       "titleCN": "Creditor Collusion: An Antitrust Analysis of Cooperation Agreements",
       "url": "https://pennlawreview.com/2026/10/24/creditor-collusion-an-antitrust-analysis-of-cooperation-agreements/",
@@ -7755,8 +7824,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-26T05:06:03.682Z",
+    "updatedAt": "2026-10-27T05:21:12.858Z",
     "generator": "ai",
-    "checkedAt": "2026-10-26T05:06:03.682Z"
+    "checkedAt": "2026-10-27T05:21:12.858Z"
   }
 }
