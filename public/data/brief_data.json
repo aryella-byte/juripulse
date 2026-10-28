@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court declines to restore Biden-era regulation allowing some deportation proceedings to be suspended",
+      "titleCN": "Court declines to restore Biden-era regulation allowing some deportation proceedings to be suspended",
+      "url": "https://www.scotusblog.com/2026/10/court-declines-to-restore-biden-era-regulation-allowing-some-deportation-proceedings-to-be-suspe/",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-28T05:59:43.617Z",
+      "summaryCN": "美国最高法院以简短不署名命令拒绝恢复拜登时期一项移民条例，该条例允许移民法官对部分驱逐程序实施行政关闭。三个城市及一家移民法律服务团体请求暂停德州与司法部之间废除该条例的协议，最高法院未附异议地驳回。该条例由司法部移民审查执行办公室于2024年通过，核心是赋予移民法官中止某些驱逐程序的裁量权。最新进展意味着行政关闭规则在相关诉讼期间不再生效，移民法庭程序走向由下级法院和行政机关继续博弈。",
+      "summaryEN": "",
+      "whyMattersCN": "该命令涉及移民法庭行政关闭裁量权的存废，直接影响移民法官能否暂缓驱逐程序，进而影响数十万待决移民案件的程序走向。最高法院未解释理由即拒绝恢复条例，实质上维持了德州与司法部协议废除该规则的现状，强化了行政机关对移民 adjudication 程序的控制，并可能削弱地方法院以行政关闭方式缓解案件积压的能力。对中国法比较而言，该案展示了司法审查对行政机关程序裁量权的尊重边界，以及中央与地方在移民执法上的权限冲突，对理解程序性裁量权的司法克制具有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政裁量",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Might The Gambia v. Myanmar Help Establish Genocidal Intent in Russia’s War on Ukraine?",
+      "titleCN": "Might The Gambia v. Myanmar Help Establish Genocidal Intent in Russia’s War on Ukraine?",
+      "url": "https://www.justsecurity.org/161466/icj-myanmar-genocidal-intent-russias-war-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-genocidal-intent-russias-war-ukraine",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-28T05:59:43.617Z",
+      "summaryCN": "文章探讨冈比亚诉缅甸案在国际法院的审理如何为认定俄罗斯在乌克兰战争中是否构成种族灭绝提供法律参照。核心问题在于种族灭绝罪中'特定意图'的证明标准，该案涉及缅甸对罗兴亚人的行为，国际法院将检验相关证据规则与推理方法。作者分析该判例可能影响对俄罗斯意图的认定路径，包括从系统性行为推断意图的法律论证。文章属于学术分析，未报告新的判决或进展。",
+      "summaryEN": "",
+      "whyMattersCN": "该分析触及国际法中种族灭绝罪认定的核心难题——特定意图的证明。国际法院在冈比亚诉缅甸案中对证据标准、行为模式推断意图的论证，可能成为评估俄罗斯在乌克兰行为的关键法律工具，影响国际刑事司法与各国国内普遍管辖实践。对中国而言，涉及国际法院判例对种族灭绝公约解释的演进，以及中国在类似国际诉讼中的法律立场与证据策略，具有比较法与国际法方法论启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法院",
+          "class": "international"
+        },
+        {
+          "name": "种族灭绝公约",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Disbarred lawyer allegedly collected client fees, faked performing work",
+      "titleCN": "Disbarred lawyer allegedly collected client fees, faked performing work",
+      "url": "https://www.abajournal.com/news/article/disbarred-indiana-lawyer-collects-client-fees-and-fakes-the-work/",
+      "date": "2026-10-28",
+      "addedAt": "2026-10-28T05:59:43.617Z",
+      "summaryCN": "印第安纳州被吊销执照的律师Jared Thomas被指控在失去执业资格后仍收取客户法律费用，并假装完成所委托的工作。该案涉及已除名律师继续从事法律服务的欺诈行为，可能面临刑事指控和民事索赔。最新进展显示相关指控已被公开，案件正在推进中。",
+      "summaryEN": "",
+      "whyMattersCN": "该案凸显律师除名后监管衔接的漏洞：除名本身仅剥夺执业资格，但缺乏对继续招揽客户、收取费用行为的即时刑事化或行政即时禁止机制。美国各州律师协会通常依赖事后刑事追诉，而非事前动态监控。对中国启示在于：律师执业证书注销后，司法行政机关与律协需建立与公安、市场监管的信息共享和快速联动机制，防止被除名人员以法律咨询公司等名义变相执业，并明确其收费行为的诈骗罪或非法经营罪适用边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师监管",
+          "class": "criminal"
+        },
+        {
+          "name": "除名律师",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "5th Circuit blasts federal judge for AI errors in rulings",
       "titleCN": "5th Circuit blasts federal judge for AI errors in rulings",
       "url": "https://www.abajournal.com/news/article/5th-circuit-blasts-federal-judge-for-ai-errors-in-rulings/",
@@ -5108,6 +5177,29 @@
   ],
   "research": [
     {
+      "title": "Precedent and Jurisdiction",
+      "titleCN": "Precedent and Jurisdiction",
+      "url": "https://pennlawreview.com/2026/10/24/precedent-and-jurisdiction/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-28T05:59:55.354Z",
+      "summaryCN": "该论文探讨遵循先例原则与司法管辖权之间的理论关联。文章指出，尽管遵循先例要求法院通常应遵循自身先例，但最高法院近年推翻重大先例的实践表明该原则仍极具争议。作者分析法院现行的多因素平衡检验标准，该标准考量错误程度与信赖利益等因素，并论证该检验框架在概念上未能充分处理先例的管辖权维度，即先例对下级法院及不同管辖权主体的约束力问题。论文提出应重新审视先例效力与管辖权限的规范关系，为理解先例推翻的合法性边界提供新的理论视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对先例制度的研究具有明确的理论贡献：它揭示多因素平衡检验在管辖权维度上的盲点，可能影响未来最高法院推翻先例的论证结构及下级法院的遵循义务。对中国法而言，虽无判例法传统，但指导性案例制度与统一法律适用机制同样面临类似先例效力与审级权限的张力，本文的分析框架可为案例指导制度的效力层级与跨区域适用问题提供比较法启发。此外，论文对信赖利益与错误程度因素的批判性考察，有助于反思司法决策中稳定与纠错的制度平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "遵循先例",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法管辖权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Two Parents, Dual Sovereigns: State Flexibility to Define Good Cause Exceptions to Federal Child Support Cooperation Requirements",
       "titleCN": "Two Parents, Dual Sovereigns: State Flexibility to Define Good Cause Exceptions to Federal Child Support Cooperation Requirements",
       "url": "https://pennlawreview.com/2026/10/24/two-parents-dual-sovereigns-state-flexibility-to-define-good-cause-exceptions-to-federal-child-support-cooperation-requirements/",
@@ -7824,8 +7916,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-27T05:21:12.858Z",
+    "updatedAt": "2026-10-28T06:00:04.486Z",
     "generator": "ai",
-    "checkedAt": "2026-10-27T05:21:12.858Z"
+    "checkedAt": "2026-10-28T06:00:04.486Z"
   }
 }
