@@ -577,7 +577,7 @@ async function saveData(data) {
   const now = new Date().toISOString()
   data.meta = {
     ...(data.meta || {}),
-    ...(aiStats.added > 0 ? { updatedAt: now } : {}),
+    ...(aiStats.added > 0 || aiStats.digests > 0 ? { updatedAt: now } : {}),
     checkedAt: now,
     generator: 'ai',
   }
@@ -762,6 +762,145 @@ async function backfillSection({ aiConfig, data, sources, key, perMonth, isResea
   aiStats.added += additions.length
 }
 
+// ============================================
+// 每日速递（2026-10-29）：把同一天收录的新闻与论文写成一篇短综述，要点句末标注引用编号。
+// 页面按北京时间日期分组展示；条目的标签不再用于筛选。
+// 日常运行补写最近 DIGEST_LOOKBACK_DAYS 天里缺速递的日子；DIGEST_BACKFILL=1 时补写全部缺失日期。
+// ============================================
+const digestLookbackDays = Number(process.env.DIGEST_LOOKBACK_DAYS || 3)
+const digestMaxPerRun = Number(process.env.DIGEST_MAX_PER_RUN || (process.env.DIGEST_BACKFILL ? 400 : 5))
+
+function beijingDate(iso) {
+  if (!iso) return ''
+  const time = Date.parse(iso)
+  if (Number.isNaN(time)) return String(iso).slice(0, 10)
+  return new Date(time + 8 * 3600 * 1000).toISOString().slice(0, 10)
+}
+
+function itemDay(item) {
+  return beijingDate(item.addedAt) || String(item.date || '').slice(0, 10)
+}
+
+function groupItemsByDay(data) {
+  const days = new Map()
+  for (const item of [...(data.news || []), ...(data.research || [])]) {
+    const day = itemDay(item)
+    if (!day) continue
+    if (!days.has(day)) days.set(day, [])
+    days.get(day).push(item)
+  }
+  return days
+}
+
+async function writeDigest(aiConfig, day, items) {
+  const numbered = items.map((item, i) => {
+    const source = item.journal || item.source || ''
+    const kind = item.journal ? '论文' : '新闻'
+    return `[${i + 1}] ${kind}｜${source}｜${item.title}｜发布于 ${item.date}
+摘要：${item.summaryCN}
+分析：${item.whyMattersCN || '无'}`
+  }).join('\n\n')
+
+  const prompt = `你是 Peng Lab（中国人民大学法学院）法学简报的编辑。下面是 ${day} 收录的 ${items.length} 条法律新闻与法学论文，已编号。请写当天的“每日速递”。
+
+本组的研究方向：量刑与刑罚；法官与司法行为；公众对司法公正的感知；人工智能与法律判断；法律实证研究方法；刑事司法与监狱矫正。
+
+${numbered}
+
+写作要求：
+1. 写 ${Math.min(Math.max(items.length, 1), 2)}–${Math.min(items.length, 6)} 条要点，按重要性排序；与本组研究方向相关的排在前面。相近的条目可以合成一条要点。
+2. 每条要点 60–130 字：先交代事实或论文的发现，再点出其中的法律问题。只写材料里有的内容，不补充材料以外的事实、数字或评价。
+3. 每条要点用 refs 注明依据的条目编号；每个编号至少被引用一次。
+4. relevance：只有当该要点与上述某个研究方向有具体联系时，用一句话（不超过 50 字）说明可以怎样用于本组研究；联系不具体就留空字符串，不要牵强。
+5. 用平实、书面的中文，不用“重磅”“值得关注”“意义深远”之类套话，不用排比和口号式收尾。美国案件名、机构名可保留英文原名。字段值内不要使用英文双引号。
+
+只返回 JSON，不要 markdown 代码块：
+{"points":[{"text":"……","refs":[1],"relevance":""}]}`
+
+  const response = await fetchWithTimeout(aiConfig.url, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${aiConfig.apiKey}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      model: aiConfig.model || model,
+      max_tokens: 2400,
+      temperature: 0.3,
+      messages: [{ role: 'user', content: prompt }],
+      ...(aiConfig.provider === 'ark' || aiConfig.provider === 'kimi' || aiConfig.provider === 'deepseek'
+        ? { thinking: { type: 'disabled' } }
+        : {}),
+    }),
+  }, Math.max(aiTimeoutMs, 90000), `Digest request for ${day}`)
+
+  if (!response.ok) {
+    aiStats.failed += 1
+    throw new Error(`AI request failed: ${response.status} ${(await response.text()).slice(0, 300)}`)
+  }
+  aiStats.ok += 1
+  const payload = await response.json()
+  const message = payload.choices?.[0]?.message || {}
+  const parsed = JSON.parse(extractJsonText(String(message.content || '').trim()))
+
+  const points = (Array.isArray(parsed?.points) ? parsed.points : [])
+    .map((point) => {
+      const refs = [...new Set((Array.isArray(point?.refs) ? point.refs : [])
+        .map(Number)
+        .filter((n) => Number.isInteger(n) && n >= 1 && n <= items.length))]
+      return {
+        text: String(point?.text || '').trim(),
+        refs: refs.map((n) => items[n - 1].url),
+        relevance: String(point?.relevance || '').trim(),
+      }
+    })
+    .filter((point) => point.text.length >= 20 && point.refs.length)
+
+  if (!points.length) throw new Error(`Digest for ${day} has no usable points`)
+  return {
+    date: day,
+    generatedAt: new Date().toISOString(),
+    model: aiConfig.model || model,
+    points,
+    items: items.map((item) => item.url),
+    usage: payload.usage ? { prompt: payload.usage.prompt_tokens, completion: payload.usage.completion_tokens } : undefined,
+  }
+}
+
+async function updateDigests(aiConfig, data) {
+  data.digests ||= []
+  const done = new Set(data.digests.map((digest) => digest.date))
+  const days = groupItemsByDay(data)
+  const todayBj = beijingDate(new Date().toISOString())
+  const earliest = beijingDate(new Date(Date.now() - digestLookbackDays * 86400000).toISOString())
+  const pending = [...days.keys()]
+    .filter((day) => !done.has(day) && day <= todayBj && (process.env.DIGEST_BACKFILL || day >= earliest))
+    .sort()
+    .reverse()
+    .slice(0, digestMaxPerRun)
+
+  let added = 0
+  const tokens = { prompt: 0, completion: 0 }
+  for (const day of pending) {
+    const items = days.get(day).sort((a, b) => (b.quality_score || 0) - (a.quality_score || 0))
+    try {
+      log(`Writing digest for ${day} (${items.length} items)`)
+      const digest = await writeDigest(aiConfig, day, items)
+      tokens.prompt += digest.usage?.prompt || 0
+      tokens.completion += digest.usage?.completion || 0
+      delete digest.usage
+      data.digests.push(digest)
+      added += 1
+    } catch (error) {
+      if (!/AI request failed/.test(error.message)) aiStats.failed += 1
+      log(`Digest skipped for ${day}: ${error.message}`)
+    }
+  }
+  data.digests.sort((a, b) => b.date.localeCompare(a.date))
+  aiStats.digests = added
+  log(`Digests: +${added} of ${pending.length} pending (tokens in ${tokens.prompt}, out ${tokens.completion})`)
+}
+
 async function main() {
   const data = await loadData()
   data.news ||= []
@@ -776,6 +915,14 @@ async function main() {
   }
   log(`Using ${aiConfig.provider} model: ${aiConfig.model || model}`)
 
+  if (process.env.DIGEST_BACKFILL) {
+    await updateDigests(aiConfig, data)
+    await saveData(data)
+    log(`Digest backfill done (AI ok ${aiStats.ok}, failed ${aiStats.failed}, digests ${aiStats.digests})`)
+    if (aiStats.ok === 0 && aiStats.failed > 0) process.exitCode = 1
+    return
+  }
+
   if (process.env.BACKFILL_FROM) {
     const from = process.env.BACKFILL_FROM
     const to = process.env.BACKFILL_TO || today()
@@ -783,6 +930,7 @@ async function main() {
     log(`Backfill ${from} .. ${to}, up to ${maxPages} pages per source`)
     await backfillSection({ aiConfig, data, sources: backfillNewsSources, key: 'news', perMonth: Number(process.env.BACKFILL_NEWS_PER_MONTH || 12), isResearch: false, from, to, maxPages })
     await backfillSection({ aiConfig, data, sources: researchSources, key: 'research', perMonth: Number(process.env.BACKFILL_RESEARCH_PER_MONTH || 4), isResearch: true, from, to, maxPages: Math.min(maxPages, 8) })
+    await updateDigests(aiConfig, data)
     await saveData(data)
     log(`Saved ${data.news.length} news and ${data.research.length} research items (AI ok ${aiStats.ok}, failed ${aiStats.failed}, added ${aiStats.added})`)
     if (aiStats.ok === 0 && aiStats.failed > 0) process.exitCode = 1
@@ -791,6 +939,7 @@ async function main() {
 
   await updateSection({ aiConfig, data, sources: newsSources, key: 'news', limit: maxNews, isResearch: false })
   await updateSection({ aiConfig, data, sources: researchSources, key: 'research', limit: maxResearch, isResearch: true })
+  await updateDigests(aiConfig, data)
   await saveData(data)
   log(`Saved ${data.news.length} news and ${data.research.length} research items (AI ok ${aiStats.ok}, failed ${aiStats.failed}, added ${aiStats.added})`)
   if (aiStats.ok === 0 && aiStats.failed > 0) {

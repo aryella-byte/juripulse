@@ -20,6 +20,12 @@ on:
       backfill_to:
         description: 'Backfill end date YYYY-MM-DD'
         default: ''
+      digest_backfill:
+        description: 'Set to 1 to only write missing daily digests for all past days'
+        default: ''
+      digest_max:
+        description: 'Max digests to write this run (empty = default)'
+        default: ''
 
 permissions:
   contents: write
@@ -56,6 +62,8 @@ jobs:
           MAX_RESEARCH: ${{ inputs.max_research || 1 }}
           BACKFILL_FROM: ${{ inputs.backfill_from }}
           BACKFILL_TO: ${{ inputs.backfill_to }}
+          DIGEST_BACKFILL: ${{ inputs.digest_backfill }}
+          DIGEST_MAX_PER_RUN: ${{ inputs.digest_max }}
           MIN_EXISTING_QUALITY: 7
         run: node scripts/update-brief-ai.mjs
 
