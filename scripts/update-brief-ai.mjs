@@ -51,6 +51,8 @@ const publisherResearchSources = new Set([
   'Behavioral Sciences & the Law',
   'Justice Quarterly',
 ])
+// 文章页拒绝脚本访问、但真人可正常打开的来源：不做可达性检查
+const skipReachabilitySources = new Set([...publisherResearchSources, 'The Marshall Project'])
 
 const junkKeywords = [
   'call for submissions',
@@ -673,7 +675,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
     if (existing.has(itemId(item.title))) continue
 
     try {
-      if (!publisherResearchSources.has(source) && !(await isReachableUrl(item.url, source))) continue
+      if (!skipReachabilitySources.has(source) && !(await isReachableUrl(item.url, source))) continue
       log(`AI analyzing: ${item.title.slice(0, 80)}`)
       const analysis = await analyzeWithAi(aiConfig, item, source, isResearch)
       const qualityScore = Number(analysis?.qualityScore || 0)
@@ -917,12 +919,19 @@ ${numbered}
 
 async function updateDigests(aiConfig, data) {
   data.digests ||= []
-  const done = new Set(data.digests.map((digest) => digest.date))
   const days = groupItemsByDay(data)
+  // 已有速递、且当天条目没有变化的日子跳过；当天后来又收录了新条目的，重写
+  const byDate = new Map(data.digests.map((digest) => [digest.date, digest]))
+  const unchanged = (day) => {
+    const digest = byDate.get(day)
+    if (!digest) return false
+    const had = new Set(digest.items || [])
+    return days.get(day).every((item) => had.has(item.url))
+  }
   const todayBj = beijingDate(new Date().toISOString())
   const earliest = beijingDate(new Date(Date.now() - digestLookbackDays * 86400000).toISOString())
   const pending = [...days.keys()]
-    .filter((day) => !done.has(day) && day <= todayBj && (process.env.DIGEST_BACKFILL || day >= earliest))
+    .filter((day) => !unchanged(day) && day <= todayBj && (process.env.DIGEST_BACKFILL || day >= earliest))
     .sort()
     .reverse()
     .slice(0, digestMaxPerRun)
@@ -937,6 +946,7 @@ async function updateDigests(aiConfig, data) {
       tokens.prompt += digest.usage?.prompt || 0
       tokens.completion += digest.usage?.completion || 0
       delete digest.usage
+      data.digests = data.digests.filter((d) => d.date !== day)
       data.digests.push(digest)
       added += 1
     } catch (error) {
