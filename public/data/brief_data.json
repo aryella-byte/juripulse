@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Can the Attorney General Remove Assistant U.S. Attorneys at Will?",
+      "titleCN": "Can the Attorney General Remove Assistant U.S. Attorneys at Will?",
+      "url": "https://www.lawfaremedia.org/article/can-the-attorney-general-remove-assistant-u.s.-attorneys-at-will",
+      "date": "2026-10-28",
+      "addedAt": "2026-10-29T11:55:07.369Z",
+      "summaryCN": "纽约南区联邦地区法院法官Furman在一起案件中裁定，司法部长无权在无正当理由的情况下解雇助理联邦检察官（AUSA），且美国宪法第二条的任命与罢免条款并不改变这一结论。该判决直接触及司法部人事控制与检察独立之间的张力，明确了AUSA职位受法定免职保护而非可随意撤换。作为地区法院判决，其说理可能影响后续类似争议及司法部内部人事实践，并为围绕总统对下级检察官员罢免权的宪政讨论提供新的司法意见。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决涉及美国宪法第二条罢免权与国会法定免职保护之间的经典张力，具体检验司法部长对AUSA这一下级检察职位的控制边界。其制度意义在于：若被上级法院采纳，将限制司法部政治层对具体案件承办检察官的任意撤换，强化检察独立与个案公正；同时为理解总统对行政机关下级官员的罢免权范围提供新的司法说理。比较法上，该争点对中国检察人事管理与司法责任制改革亦有参照价值，尤其涉及如何通过法定程序约束对承办人员的任意调离或免职。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "检察独立",
+          "class": "constitutional"
+        },
+        {
+          "name": "罢免权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
+      "title": "A First Amendment Approach to Regulating AI Model Weights",
+      "titleCN": "A First Amendment Approach to Regulating AI Model Weights",
+      "url": "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
+      "date": "2026-10-28",
+      "addedAt": "2026-10-29T11:55:07.369Z",
+      "summaryCN": "文章探讨AI模型权重是否受美国宪法第一修正案言论自由保护这一前沿问题。作者指出，模型权重的法律属性尚不明确，但无论其是否构成言论，任何针对权重的许可制度都应在设计时嵌入第一修正案保障，包括程序性正当程序、许可标准明确性和司法审查等。文章主张监管框架应预先防范言论自由风险，而非事后补救，为AI监管立法提供了宪法合规路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直接回应AI模型权重许可制度的合宪性难题，涉及第一修正案言论自由与科技监管的交叉地带。美国近年出现对AI模型出口管制、州级算法许可提案等监管动向，若权重被认定为言论，许可制度将面临严格审查；若不被认定，仍需防范寒蝉效应。文章提出的前置性宪法保障设计对立法者和监管机构具有操作参考价值。对中国而言，算法备案与模型安全评估制度同样面临表达自由与创新保护的平衡问题，比较法上可借鉴其程序保障与比例原则思路。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI监管",
+          "class": "constitutional"
+        },
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "The Trump administration’s attempt to prevent noncitizen voting and the role of the Supreme Court",
+      "titleCN": "The Trump administration’s attempt to prevent noncitizen voting and the role of the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/10/the-trump-administrations-attempt-to-prevent-noncitizen-voting-and-the-role-of-supreme-court/",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-29T11:55:07.369Z",
+      "summaryCN": "特朗普政府司法部起诉加利福尼亚州选举官员，要求将约2万名被怀疑为非公民的登记选民所投邮寄选票单独隔离处理，以防范非公民投票。该诉讼是行政当局推动各州限制非公民投票的最新举措，可能很快提交最高法院，涉及宪法原旨主义与总统权力的又一次冲突，并与此前特朗普诉芭芭拉案中的出生公民权争议相呼应。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接触及联邦制下选举管理权限的划分、司法部对州选举程序的干预边界，以及宪法原旨主义在投票资格问题上的适用。若最高法院受理，可能确立联邦行政部门在选举诚信事务中的调查与执法权限，并影响全国邮寄投票的隔离与核验规则。对中国比较法而言，该案提供了观察联邦制国家如何平衡选举安全与投票权保障的窗口，也提示选举管理争议中司法审查的限度与程序保障问题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "非公民投票",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Court finds law protecting judges, officers’ personal information unconstitutional",
       "titleCN": "Court finds law protecting judges, officers’ personal information unconstitutional",
       "url": "https://www.abajournal.com/news/article/west-virginia-court-finds-law-protecting-judges-officers-personal-information-unconstitutional/",
@@ -5246,6 +5315,52 @@
   ],
   "research": [
     {
+      "title": "Off‐The‐Shelf Large Language Models Are Unreliable Judges",
+      "titleCN": "Off‐The‐Shelf Large Language Models Are Unreliable Judges",
+      "url": "https://doi.org/10.1111/jels.70041",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-29T11:55:21.304Z",
+      "summaryCN": "该文通过大规模实证实验检验大语言模型作为法律解释者的可靠性。研究发现，LLM的裁判判断对提示措辞、输出处理方式和模型选择高度敏感；前沿LLM无法准确评估语言通常含义；将基础模型调校为助手模型会不可预测地改变通常含义判断，并可能降低与人类判断的一致性。这些发现削弱了LLM作为法律解释者的可信度，并对LLM能阐明通常含义的主张提出质疑。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对法律解释中日益依赖LLM辅助判断通常含义的实践提出直接警示，具有明确的方法论与制度意义。其贡献在于以大规模实证揭示提示敏感性、模型选择效应及助手化调校对法律语义判断的不可预测影响，为法院、立法机构和监管者使用LLM辅助法律解释设定审慎边界。对中国法而言，在推进智慧司法与法律AI应用时，应建立对LLM法律语义判断的验证与披露机制，避免将模型输出直接等同于通常含义或法律解释结论。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "大语言模型",
+          "class": "tech"
+        },
+        {
+          "name": "法律解释",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "The racialized packaging of punishment: An instrumental variables approach to incarceration, probation, and monetary sanctions",
+      "titleCN": "The racialized packaging of punishment: An instrumental variables approach to incarceration, probation, and monetary sanctions",
+      "url": "https://doi.org/10.1111/1745-9125.70045",
+      "date": "2026-08-05",
+      "addedAt": "2026-10-29T11:55:21.304Z",
+      "summaryCN": "该文利用明尼苏达州2004至2017年法院行政数据，以监狱容量为工具变量，同时估计监禁、缓刑与罚金三类刑罚要素，考察被告所经历的刑罚组合中的种族差异。研究发现，在控制混杂因素与刑罚同时性之前，处境相似的被告在刑罚组合上已呈现种族化模式，表明仅考察孤立量刑决定会低估刑事法律系统中的种族不平等。",
+      "summaryEN": "",
+      "whyMattersCN": "论文的方法论贡献在于以工具变量处理监禁与缓刑、罚金之间的同时决定问题，并将刑罚视为组合而非单一节点，这对量刑实证研究具有示范意义。制度层面，它揭示罚金与缓刑可能放大监禁的种族差异，对中国刑事司法中罚金刑适用、认罪认罚从宽与量刑均衡研究亦有比较法启发，提示应关注刑罚组合的整体效应而非孤立环节。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "种族差异",
+          "class": "criminal"
+        },
+        {
+          "name": "工具变量",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology"
+    },
+    {
       "title": "The Forgotten Elected Officials",
       "titleCN": "The Forgotten Elected Officials",
       "url": "https://pennlawreview.com/2026/10/24/the-forgotten-elected-officials/",
@@ -8008,9 +8123,9 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-29T10:11:08.443Z",
+    "updatedAt": "2026-10-29T11:55:27.140Z",
     "generator": "ai",
-    "checkedAt": "2026-10-29T10:11:08.443Z"
+    "checkedAt": "2026-10-29T11:55:27.140Z"
   },
   "digests": [
     {
