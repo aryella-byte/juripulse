@@ -8008,9 +8008,9 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-29T10:05:49.028Z",
+    "updatedAt": "2026-10-29T10:11:08.443Z",
     "generator": "ai",
-    "checkedAt": "2026-10-29T10:05:49.028Z"
+    "checkedAt": "2026-10-29T10:11:08.443Z"
   },
   "digests": [
     {
@@ -8249,6 +8249,3094 @@
         "https://www.abajournal.com/news/article/former-new-orleans-lawyer-gets-32-months-for-staged-crash-scheme/",
         "https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases",
         "https://www.abajournal.com/news/article/doj-moves-to-remove-two-minnesota-judges-from-immigration-cases/"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "generatedAt": "2026-10-29T10:07:23.391Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "特朗普政府与得州请求最高法院维持其废止拜登时期移民规定的同意协议，该规定曾允许移民法官暂停部分驱逐程序；巴尔的摩等三市及移民法律服务团体则请求暂停地区法院批准该协议的裁定。争点在于移民法官暂停驱逐程序的裁量权边界，以及同意判决在行政规则废止中的程序效力，并涉及第三方对政府间协议提出异议的诉讼门槛。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "联邦政府以支持巴勒斯坦为由拘留并寻求驱逐多名学生学者，二人已获释，但政府敦促最高法院受理。核心争点是联邦地区法院是否有权审查拘留合法性，还是此类挑战被联邦移民法排除。这触及人身保护令与移民法排除管辖条款的张力，若采纳政府立场将限缩地区法院对驱逐拘留的快速审查。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/the-mahmoud-khalil-and-badar-khan-suri-cases-an-explainer/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Just Security 分析国土安全部及移民与海关执法局公开的人工智能用例清单，指出其未达到行政令所设最低透明度要求，未完整披露系统用途、数据来源与风险缓解措施。文章认为现行联邦AI透明度法律依赖机构自我报告，缺乏可验证性与强制后果，披露义务流于形式，并呼吁国会强化审计与问责。",
+          "refs": [
+            "https://www.justsecurity.org/159720/dhs-ai-inventory-limits-federal-ai-transparency-law/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-ai-inventory-limits-federal-ai-transparency-law"
+          ],
+          "relevance": "涉及AI治理与法律判断的透明度与问责，可提供AI系统披露义务形式化问题的材料。"
+        },
+        {
+          "text": "论文基于新冠疫情初期美国民众对政府监控态度的问卷实验发现，民众对接触者追踪等新型数字监控存在隐私担忧，但疫情紧迫性下接受度显著提高，党派立场与监控类型影响态度分化。文章提出监控侵入性应结合情境合理性、透明度与时限性进行法律评估，为紧急状态下隐私权与公共健康权的平衡提供经验依据。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/surveillance-intrusiveness-in-a-pandemic/"
+          ],
+          "relevance": "以问卷实验测量公众对监控措施的态度，属法律实证研究方法，可提供情境与党派因素影响接受度的数据。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/10/the-mahmoud-khalil-and-badar-khan-suri-cases-an-explainer/",
+        "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/",
+        "https://www.justsecurity.org/159720/dhs-ai-inventory-limits-federal-ai-transparency-law/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-ai-inventory-limits-federal-ai-transparency-law",
+        "https://northwesternlawreview.org/uncategorized/surveillance-intrusiveness-in-a-pandemic/"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "generatedAt": "2026-10-29T10:07:26.271Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "第五巡回上诉法院就达拉斯联邦地区法官行为发布第二份命令，认定其未回应质询，反而通过140封电子邮件将密封法庭文件发送给法官、律师等逾百人。上诉法院正审查其是否违反保密规则及应否采取纪律措施。该事件涉及密封令对法官本人的约束力、司法保密义务与法官纪律处分的衔接。",
+          "refs": [
+            "https://www.abajournal.com/web/article/judge-ada-brown-didnt-answer-questions-instead-emailed-sealed-court-documents-to-over-100-people/"
+          ],
+          "relevance": "涉及法官行为与司法责任机制，可为法官惩戒与保密义务研究提供素材。"
+        },
+        {
+          "text": "Just Security公开美国国土安全部2026年7月命令，要求联邦民事机构限期卸载DeepSeek相关应用并终止采购，依据为供应链安全与数据风险审查。该命令将外国AI产品纳入联邦IT供应链审查框架，涉及政府采购法、网络安全审查与行政裁量权边界，其全文与法律依据尚未完整披露。",
+          "refs": [
+            "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order"
+          ],
+          "relevance": "涉及AI产品被行政排除的规则与程序，可为人工智能与法律判断的准入监管研究提供材料。"
+        },
+        {
+          "text": "特朗普政府请求最高法院允许恢复得克萨斯州大弯地区边境墙建设，此前埃尔帕索联邦地区法官发布临时禁令叫停施工。争点在于地区法院临时禁令的审查标准与行政机关法定裁量权的边界，涉及1996年法律授权国土安全部豁免部分环境等法律。最高法院尚未裁决。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review 论文研究美国选举行政的碎片化格局，指出五十个体系均设首席选举官，多数州将权力集中于单一官员而非委员会，并提出单边选举行政概念，分析个人化权力结构对选举公正与问责的影响及委员会制与单一官员制的制度差异。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-2/unilateral-election-administration/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/",
+        "https://nyulawreview.org/issues/volume-101-number-2/unilateral-election-administration/",
+        "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
+        "https://www.abajournal.com/web/article/judge-ada-brown-didnt-answer-questions-instead-emailed-sealed-court-documents-to-over-100-people/"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "generatedAt": "2026-10-29T10:07:29.078Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院因多名大法官存在图书出版交易而回避，未能凑足六名大法官的法定人数，一起音乐版权上诉案因此被搁置，未进入实体审理。事件暴露法官利益冲突回避规则与法院审理能力之间的张力，涉及回避标准明确化与替代机制问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/book-deals-leave-supreme-court-without-a-quorum-in-music-copyright-fight/"
+          ],
+          "relevance": "法官回避与利益冲突规则，可为研究法官行为规范提供素材。"
+        },
+        {
+          "text": "美国最高法院同意受理联邦禁止家庭蒸馏是否合宪的上诉，争点在于商业条款能否规制纯自用、不进入市场流通的生产行为。若限缩解释，将影响联邦对家庭自制酒类等行为的禁令基础及联邦与州的权限划分。",
+          "refs": [
+            "https://www.abajournal.com/news/article/supreme-court-agrees-to-review-federal-home-distilling-ban/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国最高法院裁定加州大学法学院可保留移除Hastings名称后的新校名，驳回相关挑战。案件涉及捐赠协议条款约束力、大学自治权与州法更名程序，触及捐赠人冠名权与高校更名权的冲突及合同、信托规则的适用边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/scotus-allows-hastings-college-of-law-to-keep-its-name/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文指出《清洁水法》刑事条款以技术性违法界定犯罪，易受限缩解释影响，且刑事追诉极少、依赖民事罚款，污染者常逃避实质惩罚。作者提出以袭击罪指控水污染者，转向以人身健康损害为核心的法益保护路径。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/supreme-court-agrees-to-review-federal-home-distilling-ban/",
+        "https://www.abajournal.com/news/article/scotus-allows-hastings-college-of-law-to-keep-its-name/",
+        "https://www.abajournal.com/news/article/book-deals-leave-supreme-court-without-a-quorum-in-music-copyright-fight/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/3"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "generatedAt": "2026-10-29T10:07:33.972Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "第八巡回上诉法院裁定，密苏里州一名法官将两名儿童关入成人监狱牢房不享有合格豁免权，因该行为明显侵犯宪法权利且权利在当时已明确确立。判决厘清了司法豁免与合格豁免权的边界，涉及对未成年人采取拘留措施的宪法约束与职务侵权责任。",
+          "refs": [
+            "https://www.abajournal.com/news/article/federal-appeals-court-reject-qualified-immunity-for-judge-who-jailed-2-kids/"
+          ],
+          "relevance": "涉及法官职务行为与拘留措施的司法责任认定，可为法官行为规范研究提供素材。"
+        },
+        {
+          "text": "第九巡回上诉法院因陪审员在审议期间出现精神健康危机、法院未妥善处理，撤销一起杀人案定罪并发回重审，明确法官在有合理迹象时应调查陪审员能力。该判决涉及公正陪审团审判的程序保障与陪审员异常情形处置规则。",
+          "refs": [
+            "https://www.abajournal.com/news/article/new-murder-trial-ordered-over-juror-mental-health-crisis-in-9th-circuit/"
+          ],
+          "relevance": "涉及陪审员能力与审判程序，可为法官如何处置庭审异常、保障裁判公正的研究提供材料。"
+        },
+        {
+          "text": "ABA Journal 报道，德州达拉斯一名联邦法官被指拒绝接收案件、发表种族侮辱言论并擅自离岗，可能触发司法理事会调查或国会弹劾。事件涉及联邦法官履职义务、司法行为准则与纪律处分程序的衔接，呈现司法独立与问责之间的张力。",
+          "refs": [
+            "https://www.abajournal.com/news/article/federal-judge-accused-of-misconduct-abandoning-her-job/"
+          ],
+          "relevance": "涉及法官履职行为与惩戒机制，可为司法行为与法官问责的实证研究提供个案。"
+        },
+        {
+          "text": "Just Security 一文以总统作为首席检察官为切入点，梳理宪法忠实执行条款、正当程序与职业伦理对总统指挥司法部、启动或终止调查、行使赦免权的约束，主张通过制度设计防止检察权政治化。文章涉及检察权与行政权关系的宪政争议。",
+          "refs": [
+            "https://www.justsecurity.org/159847/servant-law-president-chief-prosecutor/?utm_source=rss&utm_medium=rss&utm_campaign=servant-law-president-chief-prosecutor"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普政府请求最高法院裁定联邦法院是否有权完全撤销联邦机构行为，主张成文法未授予此种救济权力；另有两篇报道显示最高法院已就限制下级法院全国性禁令的申请进行内部讨论。争点在于司法审查范围与地区法院普遍性救济的权限边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
+            "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-determine-courts-ability-to-vacate-federal-agency-actions/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "多篇论文与评论涉及刑事司法制度：有研究提出警察群岛框架，论证警察碎片化去中心化同时导致暴力、过度惩罚与治理失灵；另有文章讨论犯罪受害者远程旁听审判的转播例外提案，以及检察官在陪审团有罪裁决后放弃重审的裁量逻辑。",
+          "refs": [
+            "https://pennlawreview.com/2026/08/31/the-police-archipelago-decentralization-police-violence-over-punishment-and-crime/",
+            "https://www.abajournal.com/news/article/federal-judiciary-considers-broadcasting-federal-trials-to-crime-victims/",
+            "https://www.abajournal.com/news/article/feds-will-not-retry-former-baltimore-states-attorney-on-mortgage-fraud/"
+          ],
+          "relevance": "警察去中心化与过度惩罚的机制分析，属刑事司法实证研究，可提供执法结构与惩罚结果的制度材料。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/10/justices-take-up-case-on-race-and-school-admissions/",
+        "https://www.scotusblog.com/2026/10/supreme-court-declines-to-take-up-cases-on-vehicle-seizures-in-chicago-911-plea-disputes-and-the/",
+        "https://www.scotusblog.com/2026/10/trump-administration-asks-scotus-to-limit-lower-courts-power/",
+        "https://www.abajournal.com/news/article/federal-appeals-court-reject-qualified-immunity-for-judge-who-jailed-2-kids/",
+        "https://www.scotusblog.com/2026/10/supreme-court-agrees-to-consider-federal-ban-on-home-distilleries/",
+        "https://www.scotusblog.com/2026/10/challengers-ask-court-to-pause-agreement-between-texas-and-the-doj-on-deportation-proceedings/",
+        "https://www.justsecurity.org/161173/military-psychiatrist-uss-cole/?utm_source=rss&utm_medium=rss&utm_campaign=military-psychiatrist-uss-cole",
+        "https://www.scotusblog.com/2026/10/where-the-supreme-court-favors-trump-on-the-emergency-docket-and-where-it-doesnt/",
+        "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-determine-courts-ability-to-vacate-federal-agency-actions/",
+        "https://www.abajournal.com/news/article/federal-judiciary-considers-broadcasting-federal-trials-to-crime-victims/",
+        "https://www.abajournal.com/news/article/new-murder-trial-ordered-over-juror-mental-health-crisis-in-9th-circuit/",
+        "https://nyulawreview.org/issues/volume-101-number-2/opening-the-tariff-toolkit-the-demand-for-u-s-administrative-trade-remedies/",
+        "https://pennlawreview.com/2026/08/31/mass-solicitation-minimal-clarity-resolving-the-circuit-split-concerning-statutory-seller-liability-under-section-12-of-the-securities-act-of-1933/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/resistance-through-restraint-liberal-cause-lawyering-in-an-age-of-conservative-judicial-hegemony/?utm_source=rss&utm_medium=rss&utm_campaign=resistance-through-restraint-liberal-cause-lawyering-in-an-age-of-conservative-judicial-hegemony",
+        "https://pennlawreview.com/2026/08/31/the-police-archipelago-decentralization-police-violence-over-punishment-and-crime/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/campbell-at-30-a-retrospective-appreciation/?utm_source=rss&utm_medium=rss&utm_campaign=campbell-at-30-a-retrospective-appreciation",
+        "https://michiganlawreview.org/the-president-and-the-power-grid/",
+        "https://www.justsecurity.org/161089/revolution-international-legal-order/?utm_source=rss&utm_medium=rss&utm_campaign=revolution-international-legal-order",
+        "https://www.abajournal.com/news/article/feds-will-not-retry-former-baltimore-states-attorney-on-mortgage-fraud/",
+        "https://www.abajournal.com/news/article/federal-judge-accused-of-misconduct-abandoning-her-job/",
+        "https://www.abajournal.com/news/article/judge-tosses-most-of-alec-baldwins-claims-against-prosecutors-over-rust-shooting/",
+        "https://www.justsecurity.org/159847/servant-law-president-chief-prosecutor/?utm_source=rss&utm_medium=rss&utm_campaign=servant-law-president-chief-prosecutor",
+        "https://www.abajournal.com/news/article/federal-judge-balks-at-lawyers-3000-hourly-rate/",
+        "https://www.justsecurity.org/153999/foreign-interference-european-perspective-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=foreign-interference-european-perspective-midterms"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "generatedAt": "2026-10-29T10:07:36.331Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国国防部长下令自明年一月起降低关塔那摩军事委员会两名首席律师的军衔，涉及辩护与检察职能的独立性。降低军衔可能削弱其在指挥链中的权威与资源调配能力，影响被告依《军事委员会法》获得有效律师协助的权利，并引发行政分支干预军事司法程序的争议。",
+          "refs": [
+            "https://www.justsecurity.org/160438/pentagon-reducing-rank-military-commission-lawyers/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-reducing-rank-military-commission-lawyers"
+          ],
+          "relevance": "涉及军事司法中律师地位与程序公正保障，可为监狱矫正外的刑事程序研究提供材料。"
+        },
+        {
+          "text": "哈佛诉特朗普政府签证禁令案因禁令到期被政府主张已无实际意义。文章分析联邦法院mootness原则及其例外，认为部分诉求确已失效，但签证政策模式可能反复出现，法院或仍认定争议可诉；若以mootness驳回，行政机关可能借短期政策反复规避司法审查。",
+          "refs": [
+            "https://www.justsecurity.org/160412/case-challenging-trumps-denial-visas-harvard-students/?utm_source=rss&utm_medium=rss&utm_campaign=case-challenging-trumps-denial-visas-harvard-students"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章讨论美国解除对俄罗斯柴油出口限制是否构成对俄非法使用武力的援助与协助，援引《国家对国际不法行为的责任条款》第16条及《联合国宪章》第2条第4款，分析明知要件与实质贡献标准，认为可能引发国家责任问题。",
+          "refs": [
+            "https://www.justsecurity.org/160425/fueling-russias-war-diesel-deal-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=fueling-russias-war-diesel-deal-international-law"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/160412/case-challenging-trumps-denial-visas-harvard-students/?utm_source=rss&utm_medium=rss&utm_campaign=case-challenging-trumps-denial-visas-harvard-students",
+        "https://www.justsecurity.org/160425/fueling-russias-war-diesel-deal-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=fueling-russias-war-diesel-deal-international-law",
+        "https://www.justsecurity.org/160438/pentagon-reducing-rank-military-commission-lawyers/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-reducing-rank-military-commission-lawyers"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "generatedAt": "2026-10-29T10:07:38.424Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文指出，生成式人工智能正被威权政府用于扩大跨国镇压，包括监控异见者、生成虚假信息、定位海外流亡人士及施压其境内亲属；文章主张美国前沿AI公司通过出口管制合规、使用条款限制、模型滥用监测与透明度报告等承担尽责义务。其法律问题在于美国出口管制、制裁合规与企业人权尽责的制度衔接，以及技术跨境滥用的问责机制。",
+          "refs": [
+            "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/?utm_source=rss&utm_medium=rss&utm_campaign=how-generative-ai-scaling-transnational-repression"
+          ],
+          "relevance": "涉及AI滥用监测与透明度义务，可为人工智能法律判断的合规研究提供材料。"
+        },
+        {
+          "text": "Just Security 讨论美国拟恢复捕获法庭以扣押伊朗油轮的提议，指出捕获法庭虽仍属有效法律，但其程序前提是国际武装冲突中的合法捕获物，现代制裁执法主要依赖行政冻结与民事没收。文章认为该提议误解了捕获制度的历史目的与现代海战性质，即便形式合法，在政策与制度上也不可取。其法律问题涉及战时捕获、行政制裁与刑事没收三种法律基础的界分及司法审查。",
+          "refs": [
+            "https://www.justsecurity.org/159026/prize-courts-good-law-not-good-idea/?utm_source=rss&utm_medium=rss&utm_campaign=prize-courts-good-law-not-good-idea"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159026/prize-courts-good-law-not-good-idea/?utm_source=rss&utm_medium=rss&utm_campaign=prize-courts-good-law-not-good-idea",
+        "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/?utm_source=rss&utm_medium=rss&utm_campaign=how-generative-ai-scaling-transnational-repression"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "generatedAt": "2026-10-29T10:07:39.930Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩军事委员会法官裁定排除9/11案最后一名被告的有争议供述，四名被告供述至此全部被压制。辩方主张供述系中情局海外秘密监狱强化审讯所得，法官依军事委员会法关于胁迫供述的规定作出裁决，检方因此失去核心证据。案件仍涉及预审拖延、被告能力评估及是否适用死刑等争议。",
+          "refs": [
+            "https://www.justsecurity.org/160118/guantanamo-dispatch-all-four-911-defendants-confessions-suppressed/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-all-four-911-defendants-confessions-suppressed"
+          ],
+          "relevance": "涉及胁迫供述排除规则，可为非法证据排除与刑事审判证据规则研究提供比较材料。"
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/160118/guantanamo-dispatch-all-four-911-defendants-confessions-suppressed/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-all-four-911-defendants-confessions-suppressed"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "generatedAt": "2026-10-29T10:07:41.454Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院就Suncor诉Boulder案举行口头辩论，争议焦点为州法院对化石燃料公司气候侵权诉讼的管辖权、联邦清洁空气法是否优先于州侵权法，以及州侵权法在应对气候变化中的角色。辩论显示法官在管辖权与优先权问题上存在分歧，该案将决定州侵权法能否成为气候损害救济路径，涉及联邦优先权与州警察权的划界。",
+          "refs": [
+            "https://www.justsecurity.org/159880/climate-liability-suncor-v-boulder-oral-arguments/?utm_source=rss&utm_medium=rss&utm_campaign=climate-liability-suncor-v-boulder-oral-arguments"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159880/climate-liability-suncor-v-boulder-oral-arguments/?utm_source=rss&utm_medium=rss&utm_campaign=climate-liability-suncor-v-boulder-oral-arguments"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "generatedAt": "2026-10-29T10:07:45.061Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩9/11案军事法官裁定豪萨维的供述不可采纳，该供述在酷刑与胁迫背景下取得，法官依军事委员会法及宪法正当程序原则予以排除。这是该案又一份被排除的供述，延续预审中的排除趋势，压缩检方依赖胁迫性供述构建证据链的空间，案件能否进入审判持续存疑。",
+          "refs": [
+            "https://www.justsecurity.org/159740/another-confession-ruled-inadmissible-9-11-case/?utm_source=rss&utm_medium=rss&utm_campaign=another-confession-ruled-inadmissible-9-11-case"
+          ],
+          "relevance": "涉及胁迫供述的排除规则，可为刑事证据排除与刑罚正当性研究提供材料。"
+        },
+        {
+          "text": "美国最高法院在实体正当程序、第二修正案与宗教条款中援引历史与传统作为解释方法，但大法官对何种历史、哪一传统具有规范效力分歧持续。论文系统梳理判决中的历史引证，指出史料选择本身即构成司法裁量空间，质疑该方法能否真正约束裁量。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/whose-history-which-tradition-an-examination-of-historical-sources-in-the-supreme-courts-history-and-tradition-jurisprudence/?utm_source=rss&utm_medium=rss&utm_campaign=whose-history-which-tradition-an-examination-of-historical-sources-in-the-supreme-courts-history-and-tradition-jurisprudence"
+          ],
+          "relevance": "涉及法官如何选择裁判依据、司法裁量能否被方法约束，可为法官行为研究提供材料。"
+        },
+        {
+          "text": "论文考察移民法庭的管辖地实践，指出管辖地这一标准诉讼规范在移民法庭中被严重扭曲，未能发挥保护当事人免受不当集中审理的功能，形成系统性例外，偏离宪法与一般诉讼传统，并讨论其对正当程序与裁判公正的影响及改革方向。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/immigration-venue-exceptionalism/?utm_source=rss&utm_medium=rss&utm_campaign=immigration-venue-exceptionalism"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Just Security分析特朗普承诺共和党保住国会控制权后向每位成年公民支付5000美元分红的提议，梳理联邦刑法中贿赂、非法报酬与选民贿赂条款及判例，探讨竞选承诺与刑事贿赂的区分标准，评估该提议对选举公正与法治的潜在冲击。",
+          "refs": [
+            "https://www.justsecurity.org/159770/auctioning-democracy-trumps-promise-5000-dividend/?utm_source=rss&utm_medium=rss&utm_campaign=auctioning-democracy-trumps-promise-5000-dividend"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文研究美联储通过央行货币互换安排事实上充当全球最后贷款人的现象，梳理全球金融危机与新冠疫情期间逾五千亿美元互换额度及五份协议的运行机制与法律基础，追问其在缺乏正式国际授权下行使全球流动性供给职能的合法性、治理与问责问题，并提出规则约束方案。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/the-federal-reserve-as-the-worlds-unofficial-central-bank/?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-reserve-as-the-worlds-unofficial-central-bank"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文聚焦美国行政程序裁量权，指出保守派最高法院强化总统对正式行政裁决的控制而损害裁决独立性与专业性，进步派公法则主张放松程序约束而忽视其护栏功能。作者提出分析框架，论证程序裁量应受法治原则约束，调和两种对立立场。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/administrative-procedural-discretion/?utm_source=rss&utm_medium=rss&utm_campaign=administrative-procedural-discretion"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159770/auctioning-democracy-trumps-promise-5000-dividend/?utm_source=rss&utm_medium=rss&utm_campaign=auctioning-democracy-trumps-promise-5000-dividend",
+        "https://www.justsecurity.org/159740/another-confession-ruled-inadmissible-9-11-case/?utm_source=rss&utm_medium=rss&utm_campaign=another-confession-ruled-inadmissible-9-11-case",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/immigration-venue-exceptionalism/?utm_source=rss&utm_medium=rss&utm_campaign=immigration-venue-exceptionalism",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/the-federal-reserve-as-the-worlds-unofficial-central-bank/?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-reserve-as-the-worlds-unofficial-central-bank",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/whose-history-which-tradition-an-examination-of-historical-sources-in-the-supreme-courts-history-and-tradition-jurisprudence/?utm_source=rss&utm_medium=rss&utm_campaign=whose-history-which-tradition-an-examination-of-historical-sources-in-the-supreme-courts-history-and-tradition-jurisprudence",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/10/06/administrative-procedural-discretion/?utm_source=rss&utm_medium=rss&utm_campaign=administrative-procedural-discretion"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "generatedAt": "2026-10-29T10:07:46.731Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 调查报道称，特朗普第二任期司法部民权司在公布调查或结论时，常缺乏可核查的事实调查记录，形成先定结论再补证据的工作模式；报道对比职业检察官的常规流程，指出政治任命官员绕过事实核查直接发布政策导向结论。这涉及行政记录在司法审查中的证明力、行政程序法上的合理决策要求，以及执法机关内职业官僚与政治任命官员的权限边界。",
+          "refs": [
+            "https://www.justsecurity.org/159224/working-backwards-trump-doj-civil-rights-enforcement/?utm_source=rss&utm_medium=rss&utm_campaign=working-backwards-trump-doj-civil-rights-enforcement"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159224/working-backwards-trump-doj-civil-rights-enforcement/?utm_source=rss&utm_medium=rss&utm_campaign=working-backwards-trump-doj-civil-rights-enforcement"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "generatedAt": "2026-10-29T10:07:48.491Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国外国恐怖分子驱逐法庭（ATRC）首次实际审理案件，暴露其在证据开示、律师接触和司法审查方面的缺陷：法庭允许政府依据秘密证据进行驱逐听证，被告难以有效对抗。这涉及特别法庭在国家安全名义下对正当程序与人身保护令的限制，以及公正审判标准如何落实。",
+          "refs": [
+            "https://www.justsecurity.org/159035/dangerous-warning-signs-first-atrc-case/?utm_source=rss&utm_medium=rss&utm_campaign=dangerous-warning-signs-first-atrc-case"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "波兰与白俄罗斯边境的人道主义活动者因向移民和寻求庇护者提供食物、水、衣物等援助，持续遭到刑事追诉、讯问和住宅搜查。报道显示基本人道援助行为被刑事化，涉及刑法中帮助行为的定性边界、边境执法中的人道援助豁免，以及国际难民法与国内刑事追诉的冲突。",
+          "refs": [
+            "https://www.justsecurity.org/159248/poland-belarus-border-migrants-activists-prosecuted/?utm_source=rss&utm_medium=rss&utm_campaign=poland-belarus-border-migrants-activists-prosecuted"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159035/dangerous-warning-signs-first-atrc-case/?utm_source=rss&utm_medium=rss&utm_campaign=dangerous-warning-signs-first-atrc-case",
+        "https://www.justsecurity.org/159248/poland-belarus-border-migrants-activists-prosecuted/?utm_source=rss&utm_medium=rss&utm_campaign=poland-belarus-border-migrants-activists-prosecuted"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "generatedAt": "2026-10-29T10:07:50.283Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩军事委员会审理USS Cole爆炸案预审听证会因死刑辩护律师突发健康紧急状况提前终止。该案被告面临死刑指控，审判长期受制于军事委员会程序合法性争议。此次中断涉及死刑辩护团队资源配备、替代律师机制及审判延期是否损害被告有效辩护权的问题，可能成为上诉中主张程序滥用或律师无效协助的新争点。",
+          "refs": [
+            "https://www.justsecurity.org/159334/guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency"
+          ],
+          "relevance": "涉及死刑案件辩护保障与程序正当性，可为刑罚与刑事司法程序研究提供材料。"
+        },
+        {
+          "text": "Just Security刊文分析美国联邦法律与宪法框架下军队介入选举的问题，指出联邦成文法和宪法原则明确禁止军队参与国内选举，此类尝试缺乏法律基础，并强调文官控制军队与军队非政治化传统。文章属规范性分析，未报道具体诉讼或执法行动，涉及军事力量在国内治理中的法律边界与紧急状态权力行使议题。",
+          "refs": [
+            "https://www.justsecurity.org/153281/boots-off-ballots-law-history/?utm_source=rss&utm_medium=rss&utm_campaign=boots-off-ballots-law-history"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/153281/boots-off-ballots-law-history/?utm_source=rss&utm_medium=rss&utm_campaign=boots-off-ballots-law-history",
+        "https://www.justsecurity.org/159334/guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "generatedAt": "2026-10-29T10:07:52.353Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Suncor诉博尔德市案的分析认为，宪法第一修正案与《清洁空气法》均不构成先占障碍，以欺骗性陈述为责任基础的州法气候索赔可继续推进。争点在于联邦环境法是否排除州法欺骗性营销索赔，以及地方政府借消费者保护与侵权法追究气候责任的制度空间。",
+          "refs": [
+            "https://www.justsecurity.org/159107/suncor-v-boulder-constitution-clean-air-act-leave-deception/?utm_source=rss&utm_medium=rss&utm_campaign=suncor-v-boulder-constitution-clean-air-act-leave-deception"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章讨论各州能否通过立法或监管安排授权AI企业在安全措施上协调而不触犯联邦反垄断法，认为州行动原则等机制留有空间，在联邦缺乏明确豁免时州级立法是可行路径。问题在于反垄断豁免与AI安全治理的衔接及企业合规边界。",
+          "refs": [
+            "https://www.justsecurity.org/158956/any-state-ai-safety-cooperation-legal/?utm_source=rss&utm_medium=rss&utm_campaign=any-state-ai-safety-cooperation-legal"
+          ],
+          "relevance": "涉及AI安全治理与法律判断的衔接，可提供州级授权协调的制度材料。"
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/159107/suncor-v-boulder-constitution-clean-air-act-leave-deception/?utm_source=rss&utm_medium=rss&utm_campaign=suncor-v-boulder-constitution-clean-air-act-leave-deception",
+        "https://www.justsecurity.org/158956/any-state-ai-safety-cooperation-legal/?utm_source=rss&utm_medium=rss&utm_campaign=any-state-ai-safety-cooperation-legal"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "generatedAt": "2026-10-29T10:07:54.302Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国拟议制裁若使国际刑事法院运作受阻，其在押人员可能因羁押体系崩溃而获释。文章以具体在押人员为切口，分析制裁对法院羁押合法性的连锁影响，涉及《罗马规约》人身保护与审前羁押复核规则、国际组织特权豁免及东道国合作义务，并引出制裁法与东道国协定冲突时的条约解释问题。",
+          "refs": [
+            "https://www.justsecurity.org/158579/sanctions-international-criminal-court-detainees/?utm_source=rss&utm_medium=rss&utm_campaign=sanctions-international-criminal-court-detainees"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "2026年9月华盛顿记者团以集体行动抵抗白宫对特定记者的采访禁令，迫使白宫重新审视禁令范围。文章以第一修正案新闻自由与行政特权的张力为背景，讨论采访准入这一行政裁量事项是否构成观点歧视，以及行业联合行动在弥补法律救济不足方面的作用，相关法律争议仍在持续。",
+          "refs": [
+            "https://www.justsecurity.org/158868/trump-white-house-press-ban-solidarity/?utm_source=rss&utm_medium=rss&utm_campaign=trump-white-house-press-ban-solidarity"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/158579/sanctions-international-criminal-court-detainees/?utm_source=rss&utm_medium=rss&utm_campaign=sanctions-international-criminal-court-detainees",
+        "https://www.justsecurity.org/158868/trump-white-house-press-ban-solidarity/?utm_source=rss&utm_medium=rss&utm_campaign=trump-white-house-press-ban-solidarity"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "generatedAt": "2026-10-29T10:07:56.482Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩军事委员会首次死刑审判（USS Cole爆炸案）中，检方拟以视频连线方式让证人远程作证，引发对被告对质权、程序公正与证据可靠性的争议。该安排触及第六修正案对质条款在军事审判中的适用边界，涉及交叉询问权与证人出庭义务的平衡，并可能为后续案件设定先例。",
+          "refs": [
+            "https://www.justsecurity.org/158749/guantanamo-dispatch-remote-testimony-first-capital-trial-at-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-remote-testimony-first-capital-trial-at-guantanamo"
+          ],
+          "relevance": "涉及死刑量刑程序与远程作证的证据规则，可为刑事司法中技术应用的程序保障提供材料。"
+        },
+        {
+          "text": "文章分析美国最高法院一系列裁决如何压缩联邦机构监管开放权重AI模型的空间：此类模型可被自由下载修改，以发布者为中心的监管路径难以适用，机构须面对第一修正案、行政法授权边界与州际贸易条款的限制。作者认为国会若不明确立法，开放权重AI将长期处于监管灰色地带。",
+          "refs": [
+            "https://www.justsecurity.org/155792/supreme-court-openweight-ai-regulation-gauntlet/?utm_source=rss&utm_medium=rss&utm_campaign=supreme-court-openweight-ai-regulation-gauntlet"
+          ],
+          "relevance": "涉及AI治理的授权立法与监管边界，可为人工智能法律判断的规则环境提供材料。"
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/155792/supreme-court-openweight-ai-regulation-gauntlet/?utm_source=rss&utm_medium=rss&utm_campaign=supreme-court-openweight-ai-regulation-gauntlet",
+        "https://www.justsecurity.org/158749/guantanamo-dispatch-remote-testimony-first-capital-trial-at-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-remote-testimony-first-capital-trial-at-guantanamo"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "generatedAt": "2026-10-29T10:07:57.651Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "针对联邦行政部门消极不执行联邦法律，各州总检察长正转向反垄断法等工具追究企业责任。文章分析其在联邦执法缺位时独立执法权的宪法与制度空间，并以反垄断为例说明州级执法如何填补真空，同时指出这涉及联邦优先与州权边界问题。",
+          "refs": [
+            "https://www.justsecurity.org/149209/state-attorneys-general-enforce-federal-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-attorneys-general-enforce-federal-laws"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/149209/state-attorneys-general-enforce-federal-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-attorneys-general-enforce-federal-laws"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "generatedAt": "2026-10-29T10:07:58.779Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 分析美国政府就邮寄选票案提交的最高法院答辩状，指出总检察长 Sauer 回避了关键法律问题，未回应最高法院对邮寄选票截止日期规则的审查标准及联邦政府立场变化。文章认为，论证缺失会影响法院对选举规则与联邦干预权限的判断，并可能左右后续争议走向。",
+          "refs": [
+            "https://www.justsecurity.org/156963/usps-mail-ballots-solicitor-general-scotus/?utm_source=rss&utm_medium=rss&utm_campaign=usps-mail-ballots-solicitor-general-scotus"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/156963/usps-mail-ballots-solicitor-general-scotus/?utm_source=rss&utm_medium=rss&utm_campaign=usps-mail-ballots-solicitor-general-scotus"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "generatedAt": "2026-10-29T10:08:00.013Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文评述美国最高法院审理 USPS 邮寄选票案的最简裁判路径。Marty Lederman 提出，法院可回避对宪法选举条款的宽泛解释，直接依据联邦邮政法规与各州选举管理权限的界限裁决，从而在不触及重大宪政争议的情况下解决邮寄选票时效与计票规则问题。文章梳理了联邦法规与州法的冲突，并提出以程序性和法规解释为基础的裁判方案。",
+          "refs": [
+            "https://www.justsecurity.org/156487/simplest-way-scotus-rule-usps-ballots-case/?utm_source=rss&utm_medium=rss&utm_campaign=simplest-way-scotus-rule-usps-ballots-case"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/156487/simplest-way-scotus-rule-usps-ballots-case/?utm_source=rss&utm_medium=rss&utm_campaign=simplest-way-scotus-rule-usps-ballots-case"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "generatedAt": "2026-10-29T10:08:01.371Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文讨论致力于法治的国家如何将国际刑事法院作为战略工具，通过法律威慑与认知优势提高对手军事侵略的成本，并分析该策略对法治未来的双重影响：既强化国际刑法规范的执行力，也可能引发工具化担忧，削弱法院的普遍性与中立性。文章涉及罗马规约下国家转介、检察官自行调查权及安理会移交机制的政治化风险，以及法律威慑在武装冲突中的实际效果。",
+          "refs": [
+            "https://www.justsecurity.org/155345/icc-strategic-weapon-legal-deterrence-cognitive-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=icc-strategic-weapon-legal-deterrence-cognitive-advantage"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/155345/icc-strategic-weapon-legal-deterrence-cognitive-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=icc-strategic-weapon-legal-deterrence-cognitive-advantage"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "generatedAt": "2026-10-29T10:08:03.482Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "论文以2021年美国校园禁书潮为背景，指出1,648本被禁书籍中40%涉及有色人种主角、21%直接讨论种族议题，并将禁书措施类比种族隔离时代的隔离但平等原则，主张以反隔离原则而非仅言论自由框架挑战此类政策。其法律问题在于内容筛选如何规避平等保护审查并构成事实上的教育资源种族隔离。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/censorship-as-segregation-book-bans-and-the-return-of-separate-but-equal/?utm_source=rss&utm_medium=rss&utm_campaign=censorship-as-segregation-book-bans-and-the-return-of-separate-but-equal"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文聚焦美国以雇主为基础的团体健康保险制度，指出约1.75亿雇员及家庭通过雇主获得医保，分析雇主角色弱化后医保承诺的承接机制与法律规则调整，涉及信托义务、团体保险监管和替代性保障安排。其法律问题在于雇主退出后保障连续性及参保人承诺兑现的规则设计。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/the-coming-health-insurance-transition/?utm_source=rss&utm_medium=rss&utm_campaign=the-coming-health-insurance-transition"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文讨论向未婚二人以整体共有或配偶名义转让财产时产生的失败整体共有问题，主张法院应依转让文件所体现的当事人意图而非僵化的身份要件认定产权性质，并结合普通法判例与成文法演变论证意图标准更能实现当事人自治与交易安全。其法律问题在于身份要件与意思自治、交易确定性之间的张力。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/a-matter-of-more-worth-an-intent-based-approach-to-failed-tenancies-by-the-entirety/?utm_source=rss&utm_medium=rss&utm_campaign=a-matter-of-more-worth-an-intent-based-approach-to-failed-tenancies-by-the-entirety"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/censorship-as-segregation-book-bans-and-the-return-of-separate-but-equal/?utm_source=rss&utm_medium=rss&utm_campaign=censorship-as-segregation-book-bans-and-the-return-of-separate-but-equal",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/the-coming-health-insurance-transition/?utm_source=rss&utm_medium=rss&utm_campaign=the-coming-health-insurance-transition",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/09/01/a-matter-of-more-worth-an-intent-based-approach-to-failed-tenancies-by-the-entirety/?utm_source=rss&utm_medium=rss&utm_campaign=a-matter-of-more-worth-an-intent-based-approach-to-failed-tenancies-by-the-entirety"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "generatedAt": "2026-10-29T10:08:06.106Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在 Trump v. Cook 案中拒绝适用合法性推定，不再当然假定政府官员的官方行为合法有效，尤其在涉及前总统行为或行政程序明显异常时。这改变了行政法上举证责任与审查强度的分配，影响移民、执法、监管等领域的诉讼策略。",
+          "refs": [
+            "https://www.justsecurity.org/155266/supreme-court-presumption-regularity-naivete/?utm_source=rss&utm_medium=rss&utm_campaign=supreme-court-presumption-regularity-naivete"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Penn Law Review 论文批评保守派以决策者影响种族构成的意图即构成违宪歧视的解释，指出其将平等保护从反从属原则扭曲为色盲形式主义，阻碍促进种族与性别平等的立法，并提出回归实质平等的替代框架。",
+          "refs": [
+            "https://pennlawreview.com/2026/08/31/a-new-equal-protection/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文考察《拜杜法案》下联邦资助药物研发的政府监督权，指出国会虽赋予联邦机构监督受资助发明利用方式的权力，但该机制长期未被充分激活，药品定价争议中公众对可负担性的监督缺乏制度出口，并提出规则重构方案。",
+          "refs": [
+            "https://pennlawreview.com/2026/08/31/public-oversight-of-publicly-supported-pharma/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文讨论有毒暴露受害者在症状尚未出现时能否通过集体诉讼获得医学监测救济，梳理该类诉讼的兴衰，指出其面临伤害确定性、集体认证与救济可执行性障碍，主张将医学监测作为独立救济请求并重构集体认证与损害赔偿规则。",
+          "refs": [
+            "https://pennlawreview.com/2026/08/31/reviving-the-medical-monitoring-class-action/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文指出美国遗产税失灵程度远超通常认知，系统梳理巨富家族跨代转移财富的避税策略，分析现行税制在评估、征收与反避税规则上的结构性缺陷，并探讨改革路径，揭示财富代际传递中的税收流失规模与制度成因。",
+          "refs": [
+            "https://pennlawreview.com/2026/08/31/taxing-dynasties/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/155266/supreme-court-presumption-regularity-naivete/?utm_source=rss&utm_medium=rss&utm_campaign=supreme-court-presumption-regularity-naivete",
+        "https://pennlawreview.com/2026/08/31/a-new-equal-protection/",
+        "https://pennlawreview.com/2026/08/31/public-oversight-of-publicly-supported-pharma/",
+        "https://pennlawreview.com/2026/08/31/reviving-the-medical-monitoring-class-action/",
+        "https://pennlawreview.com/2026/08/31/taxing-dynasties/"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "generatedAt": "2026-10-29T10:08:07.979Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "2026年8月，叙利亚法院对身处莫斯科的前总统巴沙尔·阿萨德作出缺席判决，系该国首次以国内刑事程序追究最高层责任。文章指出审判存在程序瑕疵、证据不足与被告缺席等问题，执行前景黯淡，由此提出缺席审判的正当程序标准、元首豁免例外及判决国际承认等法律问题。",
+          "refs": [
+            "https://www.justsecurity.org/155118/limits-syria-first-attempt-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=limits-syria-first-attempt-accountability"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章梳理美国各州复兴附属问责机制的历史与法理，即允许受害者直接起诉违反宪法权利的联邦官员并索赔，在联邦问责弱化时成为替代性执法渠道。其法律问题在于联邦官员职务侵权豁免与救济受限后，州法院与州法对联邦权力的横向制衡边界及州法诉因的可行性。",
+          "refs": [
+            "https://www.justsecurity.org/149160/collateral-accountability-oldest-check-federal-lawlessness/?utm_source=rss&utm_medium=rss&utm_campaign=collateral-accountability-oldest-check-federal-lawlessness"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/155118/limits-syria-first-attempt-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=limits-syria-first-attempt-accountability",
+        "https://www.justsecurity.org/149160/collateral-accountability-oldest-check-federal-lawlessness/?utm_source=rss&utm_medium=rss&utm_campaign=collateral-accountability-oldest-check-federal-lawlessness"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "generatedAt": "2026-10-29T10:08:09.415Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文分析特朗普政府以制裁、外交施压和资金威胁推动《罗马规约》缔约国退出国际刑事法院，并主张缔约国把美国对其打击国际刑事法院所需支持当作谈判筹码，借助缔约国大会、补充性原则与合作义务等制度杠杆集体抵制。文章涉及退约程序、缔约国合作义务及制裁对法院运作的影响，也涉及主权与国际司法管辖的张力。",
+          "refs": [
+            "https://www.justsecurity.org/153955/rubio-wants-help-dismantling-icc/?utm_source=rss&utm_medium=rss&utm_campaign=rubio-wants-help-dismantling-icc"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/153955/rubio-wants-help-dismantling-icc/?utm_source=rss&utm_medium=rss&utm_campaign=rubio-wants-help-dismantling-icc"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "generatedAt": "2026-10-29T10:08:11.681Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "多位国际法与人权专家联合发表宣言，主张将性别隔离正式编纂为危害人类罪，并提出认定与追责的关键原则。宣言指出《罗马规约》危害人类罪中的隔离罪仅限种族、民族或宗教，缺少性别维度，系统性性别压迫因而难以追诉。宣言无法律拘束力，但为各国立法与国际刑事司法机构的定性路径提供规范依据。",
+          "refs": [
+            "https://www.justsecurity.org/154673/international-law-gender-apartheid/?utm_source=rss&utm_medium=rss&utm_campaign=international-law-gender-apartheid"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "有评论提出，州政府可通过审计自身数据、限制向联邦机构共享的范围并施加法律约束，抵御联邦越权索取数据，将州数据管理权定位为联邦制下的制度性防线。文章属政策评论，涉及州隐私立法与联邦机构调取权限的冲突，以及行政协作协定的边界。",
+          "refs": [
+            "https://www.justsecurity.org/149225/states-fight-federal-overreach-protect-state-data/?utm_source=rss&utm_medium=rss&utm_campaign=states-fight-federal-overreach-protect-state-data"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/154673/international-law-gender-apartheid/?utm_source=rss&utm_medium=rss&utm_campaign=international-law-gender-apartheid",
+        "https://www.justsecurity.org/149225/states-fight-federal-overreach-protect-state-data/?utm_source=rss&utm_medium=rss&utm_campaign=states-fight-federal-overreach-protect-state-data"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "generatedAt": "2026-10-29T10:08:13.194Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文讨论美国联邦政府完全排除州参与时反征用原则与反胁迫原则的适用困境：传统规则禁止联邦征用州行政机关或以资金条件胁迫州政策，但联邦直接取代州职能、绕开州执行时，州既难主张被征用，也难证明受胁迫。文章梳理相关判例，主张界定联邦完全排除州行为的宪法边界。",
+          "refs": [
+            "https://www.justsecurity.org/149211/commandeering-coercion-executive-power/?utm_source=rss&utm_medium=rss&utm_campaign=commandeering-coercion-executive-power"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/149211/commandeering-coercion-executive-power/?utm_source=rss&utm_medium=rss&utm_campaign=commandeering-coercion-executive-power"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "generatedAt": "2026-10-29T10:08:14.312Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国对国际刑事法院法官及官员实施新一轮制裁，制裁范围扩大至ICC司法人员。Just Security刊文分析该行政令的法律授权、对受制裁个人正当程序权利的限制，以及行政制裁与宪法第一修正案、第五修正案保障之间的张力，并指出其可能在美国国内产生寒蝉效应。",
+          "refs": [
+            "https://www.justsecurity.org/154666/icc-sanctions-threat-us-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=icc-sanctions-threat-us-democracy"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/154666/icc-sanctions-threat-us-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=icc-sanctions-threat-us-democracy"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "generatedAt": "2026-10-29T10:08:15.604Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security 刊文讨论美国联邦行政机关的行政传票权：许多机构无需事先获得司法批准，也无需证明存在违法活动的可能性，即可获取范围广泛的敏感信息。文章指出，这与第四修正案要求令状与相当理由的传统规则存在张力，相关判例学说已经过时，并主张在数字时代信息聚合能力增强的背景下，重新审视该学说的合宪性基础，明确司法审查标准与权利保障缺口。",
+          "refs": [
+            "https://www.justsecurity.org/153773/administrative-subpoena-powers-outdated-fourth-amendment-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=administrative-subpoena-powers-outdated-fourth-amendment-doctrine"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/153773/administrative-subpoena-powers-outdated-fourth-amendment-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=administrative-subpoena-powers-outdated-fourth-amendment-doctrine"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "generatedAt": "2026-10-29T10:08:18.813Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "研究以实证方法检验最高法院 Counterman 案确立的“轻率无视”主观标准对真实威胁原则的实际影响，发现学界此前关于追诉妄想型骚扰受阻、保护令签发趋难及公共安全受损的担忧并未完全兑现，判决虽重构入罪标准但司法实践震荡有限。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/1"
+          ],
+          "relevance": "法律实证研究：以数据检验判例实效，可用于评估主观犯意标准在威胁类案件中的适用。"
+        },
+        {
+          "text": "纽约联邦检察官起诉 11 名涉嫌运作数百万美元跨国假结婚骗局的嫌疑人，该团伙被指协助逾千名外籍人员获取合法居留身份。案件涉及移民文件欺诈与共谋罪指控，也暴露个案审批难以防范组织化欺诈，需跨部门信息共享与婚姻真实性实质审查。",
+          "refs": [
+            "https://www.abajournal.com/news/article/multimillion-dollar-sham-marriage-scheme-indicts-11-people-in-new-york/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Taylor Farms 与 Taco Bell 就受污染生菜引发的多起诉讼聘请两家美国百强律所合伙人应诉。案件核心是食品供应链中的产品责任分配与跨州侵权诉讼机制，涉及严格责任、供应商免责抗辩与连锁品牌连带责任认定，以及大规模侵权中的证据开示博弈。",
+          "refs": [
+            "https://www.abajournal.com/news/article/2-biglaw-partners-retained-for-taylor-farms-taco-bell-over-contaminated-lettuce-lawsuits/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章以 Learning Resources v. Trump 案为例讨论法庭叙事策略，指出法律写作应回归通用写作标准，并以首席大法官罗伯茨的判决书说明叙事手法如何增强说服力。这提示裁判文书说理研究应关注事实陈述结构与修辞对规则适用的塑造作用。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/2-biglaw-partners-retained-for-taylor-farms-taco-bell-over-contaminated-lettuce-lawsuits/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/1",
+        "https://www.abajournal.com/news/article/multimillion-dollar-sham-marriage-scheme-indicts-11-people-in-new-york/",
+        "https://www.scotusblog.com/2026/08/once-upon-a-time-storytelling-in-learning-resources-v-trump/"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "generatedAt": "2026-10-29T10:08:21.932Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "最高法院新开庭期将审理 Wassily v. Blanche，争议在于庇护身份被终止后受益人是否被禁止取得合法永久居留权。纠纷源于1980年《难民法》的模糊条文，联邦各法院立场分歧，特朗普政府政策使身份终止情形增多。案件涉及成文法解释、移民法官裁量与身份转换规则。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Beaird诉美国案中，联邦政府改变立场，最高法院任命律师Anthony Dick作为法庭之友为第五巡回法院判决辩护。该案原涉重罪前科者持枪加刑。由此引出法庭之友身份与角色的讨论，涉及公权力机关立场转变时如何维持裁判的对抗性与程序正当性。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/"
+          ],
+          "relevance": "涉及重罪前科加刑规则，可为量刑与刑罚方向提供美国联邦量刑争点的材料。"
+        },
+        {
+          "text": "特朗普政府就白宫新宴会厅建设向最高法院申请紧急中止令，此前上诉法院维持了地区法院的暂停施工禁令。核心争议是下级法院禁制令是否超越法定职权，以及法院在实体判决前干预行政行为的边界，涉及临时禁令与司法审查的关系。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文讨论新冠疫情期间各州限制枪支商店营业是否侵犯第二修正案持枪权。作者认为即便假定存在进入枪支商店的权利，也未必能推出防疫限制违宪，并审查了公共卫生紧急状态下宪法权利的适用边界与审查标准。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/the-necessity-of-firearm-stores-during-the-covid-19-pandemic/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/understanding-the-courts-next-major-case-on-asylum-seekers-wassily-v-blanche/",
+        "https://www.scotusblog.com/2026/08/trump-brings-ballroom-dispute-to-the-supreme-court/",
+        "https://northwesternlawreview.org/uncategorized/the-necessity-of-firearm-stores-during-the-covid-19-pandemic/",
+        "https://www.scotusblog.com/2026/08/who-exactly-are-the-friends-of-the-court/"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "generatedAt": "2026-10-29T10:08:24.606Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "加利福尼亚州最高法院裁定，缺乏法庭记录员的州初审法院须为贫困民事诉讼当事人提供电子案件录音，以补足庭审记录缺失，保障其上诉权与正当程序。裁定将法庭记录定位为基础司法资源，并把电子录音作为人员短缺时的法定替代方案，涉及司法资源分配与弱势群体程序性诉权的制度保障。",
+          "refs": [
+            "https://www.abajournal.com/news/article/california-supreme-court-orders-electronic-recording-for-indigent-litigants/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文指出，损害赔偿金虽以填平原告损失为目的，但不利的税务后果会削减其净价值，使原告较侵权前处境更差，现行税法规则实质上破坏了补偿目的。作者主张重构赔偿金税收规则，使税后净额真正实现填平原则，将分配正义纳入税收政策考量。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/damage-award-taxation-and-distributive-justice/?utm_source=rss&utm_medium=rss&utm_campaign=damage-award-taxation-and-distributive-justice"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章讨论州总检察长和地方检察官在联邦层面出现腐败或执法不作为时可采取的四种路径，包括依州法提起刑事诉讼、行使民事调查权、启动公益诉讼及依据州宪法条款追责，涉及主权豁免与联邦优先原则的边界，以及州级执法在制衡联邦权力中的制度角色。",
+          "refs": [
+            "https://www.justsecurity.org/153459/state-local-prosecutors-combat-federal-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=state-local-prosecutors-combat-federal-corruption"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "宾夕法尼亚州最高法院对一名因盗窃价值160万美元珍贵硬币被定罪的律师作出停牌处分，体现律师执业资格监管与刑事定罪的衔接。该案涉及严重财产犯罪定罪后行业纪律处分的联动标准，以及纪律程序与刑事判决之间的衔接问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/pennsylvania-lawyer-suspended-following-conviction-of-stealing-valuable-coins/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/california-supreme-court-orders-electronic-recording-for-indigent-litigants/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/damage-award-taxation-and-distributive-justice/?utm_source=rss&utm_medium=rss&utm_campaign=damage-award-taxation-and-distributive-justice",
+        "https://www.justsecurity.org/153459/state-local-prosecutors-combat-federal-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=state-local-prosecutors-combat-federal-corruption",
+        "https://www.abajournal.com/news/article/pennsylvania-lawyer-suspended-following-conviction-of-stealing-valuable-coins/"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "generatedAt": "2026-10-29T10:08:27.713Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "纽约州法官就 Luigi Mangione 案辩护方提出的公众访问系列动议作出回应，初步厘清庭审公开范围、媒体接触证据的限制，以及被告人公正审判权与公众知情权之间的处理原则。案件涉及美国宪法第一修正案新闻自由与第六修正案公正审判权的平衡，也涉及热点案件中如何以程序规则防止舆论影响审判。",
+          "refs": [
+            "https://www.abajournal.com/news/article/new-york-judge-in-luigi-mangione-case-sets-record-straight-over-public-access/"
+          ],
+          "relevance": "关涉公众对司法公正的感知，可提供高关注案件中司法透明度与公正审判权张力的素材。"
+        },
+        {
+          "text": "Just Security 发布教学大纲补充材料，围绕2025至2026年美国对疑似毒品贩运者的致命打击及相关军事行动汇编文章与案例，核心问题是跨境致命武力是否具备国际法与国内法依据，以及行政权力在武力使用上的宪法与法定边界。材料涉及《联合国宪章》武力使用规则、自卫例外、国家主权与跨境执法界限，以及战争权力分配。",
+          "refs": [
+            "https://www.justsecurity.org/153296/syllabus-supplements-us-boat-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=syllabus-supplements-us-boat-strikes"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普政府再次敦促联邦最高法院尽快介入邮寄投票争议，要求暂缓执行马萨诸塞州联邦地区法院禁止在11月大选期间于23个州和哥伦比亚特区执行相关行政命令部分条款的裁决。总律师称紧急申请已完成答辩逾一周，若不迅速行动将构成实质性拖延。争议涉及联邦行政命令在州选举机制中的效力边界与紧急司法审查的时限问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review 论文指出，美国州法院的统一程序规则仅适用于少部分案件，起诉标准因案件类型而异，证据开示限制取决于争议金额，程序规则还随当事人类型与代理状态调整，定制化程序已主导州法院民事诉讼。文章揭示从统一程序向差异化程序的转型，讨论按案件与当事人特征分类适用程序规则的做法及其对平等武装与司法资源分配的潜在影响。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-2/tailored-procedures/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/trump-administration-urges-supreme-court-to-issue-a-decision-in-mail-in-voting-dispute/",
+        "https://nyulawreview.org/issues/volume-101-number-2/tailored-procedures/",
+        "https://www.justsecurity.org/153296/syllabus-supplements-us-boat-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=syllabus-supplements-us-boat-strikes",
+        "https://www.abajournal.com/news/article/new-york-judge-in-luigi-mangione-case-sets-record-straight-over-public-access/"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "generatedAt": "2026-10-29T10:08:31.111Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院公布11月言词辩论日程，将审理圣玛丽天主教教区诉罗伊案，审查天主教幼儿园被排除在科罗拉多州普惠幼儿园项目之外是否构成宗教歧视，涉及宗教自由与政教分离的宪法边界；同期还将审理囚犯起诉联邦监狱官员违反宪法权利的纠纷，探讨联邦官员豁免权问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-november-including-religious-discrimination-dispute/"
+          ],
+          "relevance": "监狱矫正方向：囚犯诉联邦监狱官员案涉及在押人员宪法权利救济与官员豁免，可提供监狱矫正与权利保障的材料。"
+        },
+        {
+          "text": "论文系统批判审前资产扣押的宪法审查框架，指出赋予政府广泛推定有效性的路径、Mathews v. Eldridge式功利主义平衡测试、以及Culley v. Marshall式历史实践比对三类路径均有缺陷，主张基于程序正当程序与宪法理论重构审查框架，为法院处理此类案件提供新方案。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/5"
+          ],
+          "relevance": "刑罚与刑事程序方向：审前财产强制措施的司法审查标准，可提供程序正当性分析材料。"
+        },
+        {
+          "text": "特朗普签署限缩出生公民权的新行政令五天后，此前成功挑战旧版限缩令的民权律师团队重返新罕布什尔州联邦法院，美国公民自由联盟等提交动议，要求拉普兰特法官裁定新令超越最高法院重申的唯一例外即外国外交官子女；原告主张该令违反第十四修正案属地主义保障，请求阻止施行。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/challenge-brought-to-trumps-new-birthright-citizenship-order/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国华盛顿州就业相关诉讼激增，大量雇主因实施禁止员工从事第二职业的兼职禁令被起诉，争议焦点在于单方制定的排他性雇佣政策是否过度侵害劳动者业余时间及多渠道获取报酬的权利，司法将介入审查此类雇佣条款的合法性与合理性。",
+          "refs": [
+            "https://www.abajournal.com/news/article/washington-state-seeing-a-surge-in-employment-litigation/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/challenge-brought-to-trumps-new-birthright-citizenship-order/",
+        "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-november-including-religious-discrimination-dispute/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/5",
+        "https://www.abajournal.com/news/article/washington-state-seeing-a-surge-in-employment-litigation/"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "generatedAt": "2026-10-29T10:08:34.231Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院将于秋季审理Kian诉佛罗里达州案，审查佛州允许六人陪审团对严重犯罪定罪是否违宪。此前Williams诉佛罗里达州案认定十二人陪审团人数属历史偶然，六人即可履职。本案将重新界定第六修正案对陪审团规模的宪法要求，涉及陪审团规模与审议质量、偏见风险之间的关系。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/twelve-angry-men-or-six/"
+          ],
+          "relevance": "涉及陪审团规模与裁判质量，可为陪审制度实证研究提供比较材料。"
+        },
+        {
+          "text": "有论文研究美国第七章破产中私人破产受托人的无证搜查行为，指出受托人兼具私人身份与法定公权力授权，其突击搜查债务人住所是否受第四修正案约束存在争议。文章论证在此类接管程序中引入宪法隐私保护的必要性，并提出规范受托人搜查权限的路径。",
+          "refs": [
+            "https://pennlawreview.com/2026/04/03/defending-the-bankrupt-castle/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "有文章梳理美国建国文献中对原住民的排斥性话语如何进入法律论证，并以1823年Johnson v. McIntosh案为例，分析此类话语转化为剥夺原住民土地主权之法律逻辑的过程，揭示宪政与财产法处理原住民权益的历史根源与法理张力。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/the-supreme-court-and-the-indian-nations/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一名自称奇迹律师的移民律师被前客户起诉，原告指控其在提供移民法律服务中存在欺诈，可能涉及虚假承诺、违规收费或挪用资金，案件已进入诉讼阶段。该案反映移民法律服务市场信息不对称下的执业风险与客户权益保护问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/former-clients-sue-miracle-worker-for-fraud/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/twelve-angry-men-or-six/",
+        "https://www.scotusblog.com/2026/08/the-supreme-court-and-the-indian-nations/",
+        "https://pennlawreview.com/2026/04/03/defending-the-bankrupt-castle/",
+        "https://www.abajournal.com/news/article/former-clients-sue-miracle-worker-for-fraud/"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "generatedAt": "2026-10-29T10:08:37.979Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在穆林诉多伊案中裁定，政府高级官员针对海地移民并未实施种族歧视，多数意见对何谓种族性描述采取极狭义的界定，推翻了此前对政府终止数十万人道主义移民保护计划的法律挑战。该案提高了原告主张违宪或违法歧视的举证门槛，涉及平等权保护与行政裁量司法审查标准。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/when-the-court-denies-racism-that-others-see/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文《In the Court's Image》考察美国最高法院近十五年将监狱宿舍、祈祷圈等图像嵌入司法意见的现象，认为图像增强事实呈现直观性，也可能削弱判决的正式性与中立性，并分析视觉意见对法官身份建构及公众司法认知的冲击。研究涉及司法表达形式变化与司法合法性之间的关系。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-3/in-the-courts-image-visual-opinions-and-judicial-legitimacy/"
+          ],
+          "relevance": "涉及公众对司法公正的感知，可提供司法表达视觉化影响司法认知的材料。"
+        },
+        {
+          "text": "特朗普发布关于出生公民权和赴美生育的新行政令，限制非法移民或临时签证者子女依第十四修正案自动取得国籍，直接挑战属地原则先例；另一涉及个性化车牌的言论自由争议则聚焦州政府限制车牌政治表达的权限。两项争议分别涉及行政权对国籍法定条件的重塑边界与第一修正案在特殊载体上的适用。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/president-trump-signs-new-birthright-citizenship-and-birth-tourism-orders/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "布蒂吉格称密歇根州家中遭警察与儿童保护服务机构人员上门拜访并被安排法医访谈，文章以此讨论第四修正案在儿童福利调查中的适用，聚焦执法人员与社会工作者联合上门是否构成搜查、当事人是否有权拒绝入屋，以及家长同意的自愿性判断难题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章讨论国际法中的累积事件原则如何适用于人工智能驱动的勒索软件攻击，指出此类攻击的累积损害难以按单次事件归责，主张将一系列相关行为聚合为整体违法性评估，并分析该原则在归因、损害评估与法律适用上的障碍。",
+          "refs": [
+            "https://www.justsecurity.org/146358/aggregating-illegality-accumulation-events-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=aggregating-illegality-accumulation-events-doctrine"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/when-the-court-denies-racism-that-others-see/",
+        "https://www.scotusblog.com/2026/08/president-trump-signs-new-birthright-citizenship-and-birth-tourism-orders/",
+        "https://nyulawreview.org/issues/volume-101-number-3/in-the-courts-image-visual-opinions-and-judicial-legitimacy/",
+        "https://www.justsecurity.org/146358/aggregating-illegality-accumulation-events-doctrine/?utm_source=rss&utm_medium=rss&utm_campaign=aggregating-illegality-accumulation-events-doctrine",
+        "https://www.scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment/"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "generatedAt": "2026-10-29T10:08:40.946Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "论文引入复杂性理论与复杂适应系统框架，认为排除合理怀疑的证明标准在任何可知形式上均不存在，只是刑事程序这一复杂适应系统的涌现属性，其内涵随辖区与案件情境动态变化。研究据此指出，还原论方法无法精确界定该标准，须将其置于系统整体的互动演化中理解。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/2"
+          ],
+          "relevance": "涉及刑事证明标准与法律实证研究方法，可为证明标准客观化难题提供系统论分析材料。"
+        },
+        {
+          "text": "SCOTUSblog 一文讨论最高法院大法官结盟模式的变化：巴雷特拒绝被定义为摇摆票，肯尼迪退休后法院形成六人保守派多数，传统居于意识形态中间、可决定多数归属的摇摆大法官不再出现。文章以多数意见塑造者、异议桥梁、联盟漂移等概念分析当前表决结构与司法互动逻辑。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/beyond-the-swing-justice-majority-makers-dissent-bridges-and-coalition-drift-on-the-supreme-cour/"
+          ],
+          "relevance": "涉及法官投票与结盟行为，可为合议庭内部意见分歧与共识凝聚的实证研究提供分析框架。"
+        },
+        {
+          "text": "美国司法部指控杜克大学法学院在三个招生周期内基于种族故意歧视，认为其招生政策违反联邦反歧视法律，这是联邦政府审查高校平权招生合规性的最新执法行动。争议涉及第十四修正案平等保护条款与反歧视法在招生中的适用边界，后续可能引发行政诉讼并改变法学院招生规则。",
+          "refs": [
+            "https://www.abajournal.com/news/article/duke-law-accused-of-racial-discrimination-by-doj/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普于8月6日签署限制出生公民权的新行政令，距最高法院推翻早期更广泛限制令仅一个多月。新令试图缩减在美国出生即获公民权的保障范围，挑战者将主张其超出最高法院此前认可的特定例外范畴，争议预计再次诉至最高法院，涉及第十四修正案的解释边界与司法审查对行政权的约束。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/trump-signs-new-birthright-citizenship-order-ballroom-dispute-likely-headed-to-supreme-court/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/duke-law-accused-of-racial-discrimination-by-doj/",
+        "https://www.scotusblog.com/2026/08/trump-signs-new-birthright-citizenship-order-ballroom-dispute-likely-headed-to-supreme-court/",
+        "https://www.scotusblog.com/2026/08/beyond-the-swing-justice-majority-makers-dissent-bridges-and-coalition-drift-on-the-supreme-cour/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/2"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "generatedAt": "2026-10-29T10:08:43.618Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "特朗普致函美联储理事库克，称正考虑将其免职，理由是其加入美联储前涉嫌抵押贷款欺诈，库克获21天回应期。此前最高法院于6月29日暂时叫停初次解职尝试，强调美联储须免受政治干预。此案涉及总统免职权与独立机构独立性的宪法边界，以及解职事由是否须限于法定过失。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/trump-informs-lisa-cook-that-he-is-considering-her-removal/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文《A First Amendment Right to Know》讨论警方在街头大规模抓捕抗议者时能否以保密为由拒绝公开被拘留者姓名。作者认为，秘密拘留且不公开姓名的做法侵犯公众知情权，削弱公众监督政府滥用职权的能力，主张通过宪法解释明确被拘留者信息公开的规则与限度。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=a-first-amendment-right-to-know"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "沃尔玛遭顾客集体诉讼，被控未经明确同意收集顾客语音特征数据，违反生物识别隐私法律。争点在于声纹等不可更改生物特征的商业收集边界与事先同意要求。中国《个人信息保护法》将生物识别列为敏感个人信息，要求单独同意与必要性审查，该案为合规审查与大规模侵权救济提供参考。",
+          "refs": [
+            "https://www.abajournal.com/news/article/walmart-faces-lawsuit-over-alleged-collection-of-customers-voice-prints/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "SCOTUSblog刊出对美国最高法院与日本最高法院的比较专访。受访学者指出，日本最高法院依1947年宪法设立，理论上几乎不享有初审管辖权，仅有针对法官弹劾的狭窄法定例外，被视为保守主义堡垒。文章借此讨论其制度设计、受案机制与司法审查的实际运作及权力边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/walmart-faces-lawsuit-over-alleged-collection-of-customers-voice-prints/",
+        "https://www.scotusblog.com/2026/08/trump-informs-lisa-cook-that-he-is-considering-her-removal/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/a-first-amendment-right-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=a-first-amendment-right-to-know",
+        "https://www.scotusblog.com/2026/08/the-supreme-court-of-japan/"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "generatedAt": "2026-10-29T10:08:46.524Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "康涅狄格州联邦法官对一名辩护律师罚款3500美元，因其在墨西哥卷饼商业纠纷诉讼中提交的两份文书含AI生成的错误内容，法官认定律师未对AI生成的法律内容尽合理核实义务。此案确立了律师使用生成式AI时须承担实质核实责任，不能以技术辅助为由免除专业责任。",
+          "refs": [
+            "https://www.abajournal.com/news/article/federal-judge-fines-attorney-for-ai-mistakes-in-taco-biz-beef/"
+          ],
+          "relevance": "涉及AI生成内容进入法律文书后律师的核实义务，可为AI与法律判断方向提供法院处罚先例。"
+        },
+        {
+          "text": "纽约上诉法院对布法罗一名律师处以暂停执业两年的纪律处分，该律师曾与所代理客户发生性关系，并在纪律审查中否认此事。法院认定亲密关系引发严重利益冲突、破坏职业独立与信任，调查中的虚假陈述构成独立的加重处罚事由。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ny-appeals-court-suspends-lawyer-for-2-years-for-denying-sexual-relationship-with-client/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国最高法院大法官在近期判决中频繁使用“困在琥珀中”的隐喻，文章以特朗普诉库克案等为例，梳理多数意见与索托马约尔、杰克逊等大法官如何借该修辞辩论宪法框架与中央银行机制应否随时代演进，呈现原旨主义解释中历史原意与当代适用的张力。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/what-is-trapped-in-amber-an-originalist-explanation/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文检视新冠疫情下医护人员面临的医疗事故诉讼风险：资源短缺迫使临床医生配给呼吸机等稀缺资源，常规医疗标准难以适用，引发责任恐慌。研究考察为医护人员提供豁免保护的法理基础与制度路径，涉及侵权法注意义务在资源极端匮乏时的适用困境。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/protecting-our-health-care-providers-from-liability-in-a-pandemic/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/federal-judge-fines-attorney-for-ai-mistakes-in-taco-biz-beef/",
+        "https://northwesternlawreview.org/uncategorized/protecting-our-health-care-providers-from-liability-in-a-pandemic/",
+        "https://www.scotusblog.com/2026/08/what-is-trapped-in-amber-an-originalist-explanation/",
+        "https://www.abajournal.com/news/article/ny-appeals-court-suspends-lawyer-for-2-years-for-denying-sexual-relationship-with-client/"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "generatedAt": "2026-10-29T10:08:49.661Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国司法部联合特朗普私人律师团队请求最高法院审查卡罗尔诉特朗普诽谤案8330万美元判决，主张涉案言论属总统职务行为并享有豁免权，同时依《联邦侵权赔偿法》请求将被告变更为联邦政府；若变更成立，卡罗尔将因主权豁免无法起诉政府，案件可能被驳回。核心问题是总统履职言论豁免的边界与国家赔偿、公职豁免的制度划分。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/what-does-the-trump-administration-want-from-the-supreme-court-next/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "第十一巡回上诉法院以8比5裁定佛罗里达州可执行禁止未成年人观看变装表演的法律，推翻下级法院的违宪禁令。多数意见认为该法规属州保护儿童的合法权力，未违反第一修正案。争点在于表达自由保护边界与未成年人保护作为政府利益能否支撑内容规制，法院采用权衡测试而非严格审查。",
+          "refs": [
+            "https://www.abajournal.com/news/article/11th-circuit-upholds-law-banning-minors-from-attending-drag-shows/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "第九巡回上诉法院推翻针对狗玩具制造商的永久禁令，该玩具模仿杰克丹尼酒瓶外观并以狗粪便为主题。法院认为该戏仿玩具属受第一修正案保护的表达性作品，消费者不易产生混淆。争点在于商标法混淆可能性标准与戏仿表达的协调，涉及表达性商业产品使用知名商标元素时的侵权判定边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/dog-toy-makers-lap-up-victory-over-jack-daniels-trademark-challenge-at-9th-circuit/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Cornell Law Review 论文讨论美国国会削减部分军事性创伤幸存者的退伍军人事务部医疗福利，尤其针对获不良退役记录者。作者分析军事司法与退役军人福利体系的制度缺陷，指出福利排斥加剧二次伤害并违背国家照料义务，呼吁重塑规则保障该群体的医疗救治权。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/military-sexual-trauma-survivors-second-battle/?utm_source=rss&utm_medium=rss&utm_campaign=military-sexual-trauma-survivors-second-battle"
+          ],
+          "relevance": "属监狱矫正与刑事司法边缘群体处遇方向，可提供退役军人福利资格审查与惩戒机制衔接的材料。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/what-does-the-trump-administration-want-from-the-supreme-court-next/",
+        "https://www.abajournal.com/news/article/11th-circuit-upholds-law-banning-minors-from-attending-drag-shows/",
+        "https://www.abajournal.com/news/article/dog-toy-makers-lap-up-victory-over-jack-daniels-trademark-challenge-at-9th-circuit/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/military-sexual-trauma-survivors-second-battle/?utm_source=rss&utm_medium=rss&utm_campaign=military-sexual-trauma-survivors-second-battle"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "generatedAt": "2026-10-29T10:08:52.662Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国联邦最高法院公布2026至2027开庭期十月日程，五天内审理七案，包括森科尔能源诉博尔德县委员会案，该案涉及科罗拉多州县向油气企业追索气候损害赔偿，另含移民拘留争议案件。案件触及地方政府依州法追究企业公害责任与联邦专属管辖的界限，以及移民宪法权利与行政羁押程序的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-october-which-include-significant-disputes-on-climate-chan/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "伊利诺伊州上诉法院维持驳回星巴克员工种族歧视指控的决定，并对代理律师罚款1.5万美元，因其在诉讼文书中使用人工智能生成的虚假案例引用。法院指出律师负有核实提交材料真实性的职业义务，未加审查依赖AI生成内容构成妨碍司法程序。",
+          "refs": [
+            "https://www.abajournal.com/news/article/fake-ai-created-citations-result-in-real-15000-fine-for-lawyer-in-illinois-appeals-court/"
+          ],
+          "relevance": "涉及AI生成内容进入法律判断与律师核实义务，可用于讨论AI在法律实务中的使用边界与责任认定。"
+        },
+        {
+          "text": "论文分析戈萨奇大法官的法理及其对未来气候变化应对的影响，指出其文本主义解释方法与重大问题原则的运用限制了联邦环保署的监管权力，随着联邦司法机构转向保守，美国环境法正朝保守方向演变，对未来气候立法与政策构成制度性挑战。",
+          "refs": [
+            "https://michiganlawreview.org/the-jurisprudence-of-justice-gorsuch-and-future-efforts-to-address-climate-change/"
+          ],
+          "relevance": "涉及法官司法哲学如何塑造裁判与政策走向，可为法官司法行为研究提供个案材料。"
+        },
+        {
+          "text": "评论文章指出美国最高法院自二十世纪八十年代以来对生殖技术保持沉默，联邦宪法规范缺位，涉及胚胎销毁合法性、代孕协议中生殖劳动商品化、基因编辑与新型家庭组建等问题，各州规制呈碎片化，暴露出成文法滞后与宪法解释固化的困境。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/reproductive-technologies-and-the-federal-constitutional-vacuum/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/court-announces-cases-it-will-hear-in-october-which-include-significant-disputes-on-climate-chan/",
+        "https://www.abajournal.com/news/article/fake-ai-created-citations-result-in-real-15000-fine-for-lawyer-in-illinois-appeals-court/",
+        "https://www.scotusblog.com/2026/08/reproductive-technologies-and-the-federal-constitutional-vacuum/",
+        "https://michiganlawreview.org/the-jurisprudence-of-justice-gorsuch-and-future-efforts-to-address-climate-change/"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "generatedAt": "2026-10-29T10:08:55.670Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "汤姆·戈德斯坦因税务与抵押贷款欺诈被判12项罪名成立，面临六年监禁及310万美元赔偿，现已对定罪、刑期与赔偿提起上诉，上诉法院将审查初审证据采信与法律适用。案件涉及白领犯罪定罪标准与量刑听证程序，其上诉审级为观察刑事上诉制度提供样本。",
+          "refs": [
+            "https://www.abajournal.com/news/article/scotusblog-founder-appeals-fraud-conviction/"
+          ],
+          "relevance": "涉及量刑与刑罚，可提供白领犯罪刑期与赔偿判决的上诉审查材料。"
+        },
+        {
+          "text": "23个州及哥伦比亚特区请求最高法院维持波士顿联邦法院禁令，阻止联邦政府在11月选举中对这些州适用邮寄投票行政令条款，主张该行政令将带来缺乏法律依据的选民核查与选票拦截计划并扩张邮政总局职权。争议核心是联邦制下选举管理权限的分配与联邦行政令的司法审查。",
+          "refs": [
+            "https://www.scotusblog.com/2026/08/states-challenging-executive-order-on-mail-in-voting-ask-justices-to-leave-in-place-limits-on-it/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "第四巡回上诉法院认定反警察车牌受言论自由保护，支持弗吉尼亚州司机挑战政府限制其反政府车牌的主张，明确车牌可作为个人政治表达的媒介而受第一修正案保障，限制政府以行政手段干预。争点在于车牌属政府言论还是私人言论，决定政府审查权的边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/anti-cop-license-plates-are-protected-as-free-speech-fourth-circuit-rules/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文分析SFFA判决后大学种族导向奖学金项目的法律脆弱性，指出该判决虽未直接涉及助学金，但其严格审查框架已延伸至财政资助领域，以种族为分配标准的项目可能面临违宪挑战，并探讨合规前提下促进多元化的替代方案。研究将平等保护审查从招生扩展至资金分配。",
+          "refs": [
+            "https://pennlawreview.com/2026/05/08/university-scholarships-in-the-shadow-of-sffa/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/08/states-challenging-executive-order-on-mail-in-voting-ask-justices-to-leave-in-place-limits-on-it/",
+        "https://www.abajournal.com/news/article/scotusblog-founder-appeals-fraud-conviction/",
+        "https://pennlawreview.com/2026/05/08/university-scholarships-in-the-shadow-of-sffa/",
+        "https://www.abajournal.com/news/article/anti-cop-license-plates-are-protected-as-free-speech-fourth-circuit-rules/"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "generatedAt": "2026-10-29T10:08:58.702Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院本年度开庭期刑事司法类案件盘点显示，该开庭期共形成41起刑事法及相关判例，包括19起实体判决、6起简易裁决，以及此前已分析的16起纯正刑事案件。文章以开庭期为单元整合判决，为观察大法官在证据规则、量刑指导与程序正义上的整体倾向提供索引。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/completing-the-picture-of-the-courts-criminal-law-term/"
+          ],
+          "relevance": "属量刑与刑罚、法官与司法行为方向，可提供美国最高法院刑事裁判整体倾向的案源索引。"
+        },
+        {
+          "text": "明尼苏达州最高法院下令吊销明尼阿波利斯亨内平县前首席公设辩护人的律师执照，理由是其因逃税与挪用资金被定罪。州最高法院是律师纪律处分的最终权力机构，重罪定罪通常构成吊销执照的法定事由；涉案者身为保障刑事被告人权利的公职辩护人，其金融犯罪直接损及刑事司法体系公信力。",
+          "refs": [
+            "https://www.abajournal.com/news/article/minneapolis-former-top-public-defender-disbarred-after-felony-tax-conviction/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一篇发表于 NYU Law Review 的论文重新考察十九世纪初文本中心主义解释理论的兴起，认为首次文本主义转向发生在日益依赖书面文本的法律文化背景中，而非仅源于建国时期的成文宪法与权力分立设计，并借此反思当下文本主义方法与司法精英权力扩张之间的关联。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-2/old-textualism-new-juristocracy/"
+          ],
+          "relevance": "涉及法官如何解释与扩张权力，可为司法行为研究提供历史视角。"
+        },
+        {
+          "text": "NASCAR 对身份未明的未经授权商品销售者提起商标侵权诉讼，指控其制造并销售假冒周边商品。被告身份尚未确定，原告大概率借助无名氏诉讼机制，在后续程序中通过调查取证确认实际侵权人，以应对侵权人隐蔽、售假迅速的维权难题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/minneapolis-former-top-public-defender-disbarred-after-felony-tax-conviction/",
+        "https://nyulawreview.org/issues/volume-101-number-2/old-textualism-new-juristocracy/",
+        "https://www.abajournal.com/news/article/nascar-alleges-trademark-violations-in-lawsuit-targeting-counterfeit-merch-sellers/",
+        "https://www.scotusblog.com/2026/07/completing-the-picture-of-the-courts-criminal-law-term/"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "generatedAt": "2026-10-29T10:09:01.192Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院本庭审期连续裁决美国诉赫马尼、沃尔福德诉洛佩斯等第二修正案案件，其中赫马尼案一致认定联邦政府不得仅因个人每隔一天使用大麻而禁止其持枪。案件涉及基本权利扩张与联邦监管权限的边界，以及历史传统测试法的适用。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一项新研究报告指出，检察官日益广泛使用人工智能，辩护律师因此负有在技术上负责任地采纳特定AI工具的伦理义务；若辩护方技术运用严重滞后，控辩双方在证据分析与诉讼策略上会出现力量失衡。问题在于技术鸿沟是否实质影响有效辩护与程序平等。",
+          "refs": [
+            "https://www.abajournal.com/news/article/defense-attorneys-should-cautiously-adopt-ai-new-study-says/"
+          ],
+          "relevance": "涉及AI进入刑事司法的判断与控辩平等，可提供技术采纳伦理与程序保障的讨论材料。"
+        },
+        {
+          "text": "论文分析SEC诉Jarkesy案后国家劳资关系委员会的变革，指出该案与Loper Bright、Corner Post共同削弱行政机构自主权的基础，Jarkesy案要求特定处罚程序引入陪审团，直接冲击NLRB传统行政裁决模式，机构面临程序重构与执法效能挑战。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/post-jarkesy-administrative-jury-in-nlrb/?utm_source=rss&utm_medium=rss&utm_campaign=post-jarkesy-administrative-jury-in-nlrb"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-courts-big-gun-cases-and-whats-next/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/post-jarkesy-administrative-jury-in-nlrb/?utm_source=rss&utm_medium=rss&utm_campaign=post-jarkesy-administrative-jury-in-nlrb",
+        "https://www.abajournal.com/news/article/defense-attorneys-should-cautiously-adopt-ai-new-study-says/"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "generatedAt": "2026-10-29T10:09:04.435Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "伊利诺伊州上诉法院对一名律师加重处罚至1.5万美元，因其未核实即向法庭提交含AI虚构案例的法律文书。法院强调律师对法庭负有诚实信用与勤勉义务，不能以技术不熟练免责。该案显示司法机关正以更严厉惩戒规范生成式AI在诉讼中的使用，涉及AI辅助法律判断中的核实责任与执业边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/illinois-appeals-court-imposes-higher-sanction-on-attorney-to-deter-unacceptable-misuse-of-ai/"
+          ],
+          "relevance": "涉及AI生成内容进入法律判断时的核实责任，可用于讨论AI与法律判断中的职业义务。"
+        },
+        {
+          "text": "两名交易员在马萨诸塞州联邦法院认罪，承认从大型律所窃取并购等未公开交易信息并用于内幕交易牟利。案件指向律所信息保密义务与第三方窃取商业秘密的交叉地带，以及证券欺诈刑事执法对专业服务机构信息泄露源头的追责。",
+          "refs": [
+            "https://www.abajournal.com/news/article/traders-plead-guilty-to-scheme-involving-insider-info-from-biglaw-firms/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文考察纽约州大麻许可改革，指出许可证发放率过低、掠夺性融资、非法市场泛滥与推行延误削弱了扶持受司法影响企业家的社会与经济公平目标，主张对许可规则与监管框架作结构性重构。研究揭示优先许可与配额若缺乏融资保障和市场监管，易被资本套利异化。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "保险公司请求弗吉尼亚联邦地区法院免除其支付一千万美元惩罚性赔偿的责任，该赔偿源于一名员工对人力资源公司种族歧视诉讼的胜诉判决。争议焦点是雇佣歧视案中惩罚性赔偿的可保性，即责任保险能否转移惩罚与威慑风险，触及保险条款边界与惩罚性赔偿制度功能。",
+          "refs": [
+            "https://www.abajournal.com/news/article/insurance-company-looks-to-dodge-10-million-damages-award/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/illinois-appeals-court-imposes-higher-sanction-on-attorney-to-deter-unacceptable-misuse-of-ai/",
+        "https://www.abajournal.com/news/article/traders-plead-guilty-to-scheme-involving-insider-info-from-biglaw-firms/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=turning-over-new-leaves-achieving-equity-through-cannabis-licensure-reform-in-new-york",
+        "https://www.abajournal.com/news/article/insurance-company-looks-to-dodge-10-million-damages-award/"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "generatedAt": "2026-10-29T10:09:07.015Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "研究基于数百万条行政记录与人口普查数据，发现过去五年每七个美国儿童就有一人的家庭成员被起诉，约一千一百万儿童受影响。文章主张立法与司法机构评估刑罚严厉程度时应纳入对家庭的代际附带损害。其以大规模数据链接量化刑罚波及效应的做法，为反思附随性制裁的社会成本提供了实证路径。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/challenging-multigenerational-punishment/?utm_source=rss&utm_medium=rss&utm_campaign=challenging-multigenerational-punishment"
+          ],
+          "relevance": "属量刑与刑罚方向，提供刑罚代际附带损害的实证数据与政策主张。"
+        },
+        {
+          "text": "华盛顿州三所法学院院长联名致函州最高法院，就NextGen统一律师考试技术故障致近700名考生无法完成作答，要求授予文凭特权，即毕业生免考直接取得执业资格。州最高法院尚需裁决该应急诉求与考试改革方案，事件将律师资格授予机制推向公共讨论。",
+          "refs": [
+            "https://www.abajournal.com/web/article/washington-law-deans-demand-diploma-privilege-after-aborted-nextgen-ube-administration/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "安德森诉英特尔公司投资政策委员会案的核心，是明确诉讼请求须达到何种标准方能通过法院初步审查，裁判结果将重塑受《雇员退休收入保障法》规制的养老计划诉讼起诉门槛，涉及司法资源分配与计划管理人受信义务纠纷的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/how-a-seemingly-unexciting-case-on-retirement-plans-could-have-massive-consequences/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/challenging-multigenerational-punishment/?utm_source=rss&utm_medium=rss&utm_campaign=challenging-multigenerational-punishment",
+        "https://www.scotusblog.com/2026/07/how-a-seemingly-unexciting-case-on-retirement-plans-could-have-massive-consequences/",
+        "https://www.abajournal.com/web/article/washington-law-deans-demand-diploma-privilege-after-aborted-nextgen-ube-administration/"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "generatedAt": "2026-10-29T10:09:09.692Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院近期在限制国会权力、削弱《投票权法案》及放松竞选资金监管等裁决后，民主党方面提出扩大法院规模、设大法官任期制，另有方案主张剥夺最高法院对总统豁免权等特定案件的管辖权。争论涉及终身任职制度、国会立法权与司法终审权的边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-push-to-reduce-the-supreme-courts-power/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普请求最高法院复审卡罗尔诉特朗普诽谤案8330万美元赔偿判决，主张下级法院剥夺其总统豁免权。下级法院曾将特朗普否认性侵的言论认定为非官方行为而拒绝豁免，案件涉及职务行为与个人言辞的区分及元首民事责任的边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trump-asks-supreme-court-to-hear-appeal-of-83-million-defamation-verdict-against-him/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "第七巡回上诉法院裁定，消费者依州消费者保护法指控Chobani将部分希腊式酸奶虚假宣传为无糖的集体诉讼可继续进行，法院认为原告已表明该宣传可能误导理性消费者。争点在于食品标签误导认定中原告的举证门槛与理性消费者标准。",
+          "refs": [
+            "https://www.abajournal.com/news/article/us-appeals-court-rules-chobani-can-face-lawsuit-over-no-sugar-yogurt-claim/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一篇论文通过全美五十州实证调查发现，四十四州在违宪审查中未完全采用联邦层面的单一审查标准，合宪与违宪之间存在灰色地带，州法院采取差异化标准与司法策略。研究打破了以联邦最高法院为中心的单一审查叙事。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/unconstitutional-but-not-unconstitutional-enough/?utm_source=rss&utm_medium=rss&utm_campaign=unconstitutional-but-not-unconstitutional-enough"
+          ],
+          "relevance": "法律实证研究方法：提供州法院违宪审查标准的量化调查数据与设计。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-push-to-reduce-the-supreme-courts-power/",
+        "https://www.scotusblog.com/2026/07/trump-asks-supreme-court-to-hear-appeal-of-83-million-defamation-verdict-against-him/",
+        "https://www.abajournal.com/news/article/us-appeals-court-rules-chobani-can-face-lawsuit-over-no-sugar-yogurt-claim/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/07/30/unconstitutional-but-not-unconstitutional-enough/?utm_source=rss&utm_medium=rss&utm_campaign=unconstitutional-but-not-unconstitutional-enough"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "generatedAt": "2026-10-29T10:09:12.273Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国刑罚不平等研究指出，警察、检察官、公设辩护人和刑事法院虽名称与基本法律功能相同，但实际运行标准差异巨大，形成阶层化的刑事诉讼程序：少数案件得到合法审慎处理，多数案件则在低质粗放中流转，结构性不平等根植于地方制度设计与资源分配差异。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/3"
+          ],
+          "relevance": "属量刑与刑罚方向，提供刑罚不平等制度成因的实证分析材料。"
+        },
+        {
+          "text": "特朗普政府未在7月27日截止期前向最高法院申请重审出生公民权案，电子案卷系统未见相关诉状。此前最高法院于6月30日推翻其终止出生公民权的行政命令，该裁决因放弃再审而得以维持，涉及第十四修正案解释与司法审查对行政越权的制约。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国第一巡回上诉法院审理缅因州龙虾行业诽谤诉讼时，关注诽谤指控与第一修正案言论自由的冲突，担忧轻易支持索赔会对公众批评商业及环境议题产生寒蝉效应，正试图界定商业名誉保护与公共议题言论自由的边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/maine-lobster-defamation-case-wades-into-speech-concerns-at-the-first-circuit/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/trump-administration-appears-not-to-have-asked-supreme-court-to-rehear-birthright-citizenship-ca/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/3",
+        "https://www.abajournal.com/news/article/maine-lobster-defamation-case-wades-into-speech-concerns-at-the-first-circuit/"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "generatedAt": "2026-10-29T10:09:15.460Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "特朗普政府请求最高法院全面实施限制邮寄投票的行政令，此前马萨诸塞州联邦法官裁定该令在23州及哥伦比亚特区暂停实施。政府主张下级法院的全国性禁令违背管辖法院介入时机的既定原则，并请求在审议期间中止执行。此案涉及总统行政令的边界与联邦法院介入行政争议的程序规则。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trump-administration-asks-supreme-court-to-clear-the-way-for-new-mail-in-voting-restrictions/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "评论文章以路易斯安那州诉Callais案为例，指出大法官在口头辩论中的发问倾向可预示判决的总体方向，如Thomas、Alito、Gorsuch质疑种族因素划区的合宪性，Kavanaugh则暗示救济应有时限，但具体大法官联盟仍有变数。这为通过辩论行为预判裁判提供了观察样本。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument/"
+          ],
+          "relevance": "涉及法官如何通过庭审提问形成判断，可为司法行为与裁判可预测性研究提供材料。"
+        },
+        {
+          "text": "论文重新审视Harlow v. Fitzgerald案中关于合格豁免的裁量权功能测试，指出最高法院判例中一个被忽视的短语与区分，分析官员行使裁量权时获得豁免的法定边界，认为现行标准适用模糊，并提出重构该测试以平衡执法保障与权利救济。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/exploring-the-limits-of-qualified-immunity-under-harlows-discretionary-function-test/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佛罗里达中区联邦法院法官斯蒂尔于7月14日去世后，一位国会议员仍公开呼吁对其启动弹劾。依美国宪法，弹劾用于罢免犯重罪的现任联邦官员，对已故者缺乏实际惩戒效果。事件引发弹劾条款适用边界的讨论，目前仅停留在政治表态层面。",
+          "refs": [
+            "https://www.abajournal.com/news/article/florida-congressman-calls-for-impeachment-of-dead-federal-judge/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/trump-administration-asks-supreme-court-to-clear-the-way-for-new-mail-in-voting-restrictions/",
+        "https://www.scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument/",
+        "https://harvardlawreview.org/print/vol-139/exploring-the-limits-of-qualified-immunity-under-harlows-discretionary-function-test/",
+        "https://www.abajournal.com/news/article/florida-congressman-calls-for-impeachment-of-dead-federal-judge/"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "generatedAt": "2026-10-29T10:09:17.568Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国得克萨斯州某县在刑事案件撤销后，被裁定须向12名正式陪审员和2名候补陪审员支付近2.7万美元补偿。法官曾要求他们在近两年内保持中立、不得评论案件，法院认定该义务超出合理限度。此案涉及陪审员保密与中立义务的期限边界，以及诉讼长期搁置时对普通公民言论自由和经济利益的限制。",
+          "refs": [
+            "https://www.abajournal.com/news/article/texas-county-must-pay-jurors-27k-after-case-was-dropped/"
+          ],
+          "relevance": "涉及陪审员履职负担与司法程序拖延，可为陪审员制度研究提供比较材料。"
+        },
+        {
+          "text": "论文提出，美国国会应在疫情后的经济刺激法案中设立联邦专项资金，为个人提供法律援助。作者认为，驱逐、止赎、债务催收、家庭暴力及保险理赔被拒等纠纷仅靠经济纾困无法解决，需通过立法保障弱势群体在复杂法律程序中获得代理，以维护实质正义与社会稳定。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/texas-county-must-pay-jurors-27k-after-case-was-dropped/",
+        "https://northwesternlawreview.org/uncategorized/a-legal-stimulus/"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "generatedAt": "2026-10-29T10:09:19.792Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国《联邦证据规则》第702条2023年修正案调整了专家意见可采性的审查标准，论文分析其如何重塑法官的守门人角色，并界定可靠性审查的边界。在缺乏DNA、指纹等物证时，控方常依赖专家意见构建证据链，故该标准直接关系事实认定的可靠性。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment/?utm_source=rss&utm_medium=rss&utm_campaign=the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment"
+          ],
+          "relevance": "涉及法官对专家证据可靠性的判断，可为司法行为与法律判断研究提供美国规则材料。"
+        },
+        {
+          "text": "SCOTUSblog访谈介绍南非宪法法院自1994年设立以来的职权配置，该法院同时具有初审与上诉管辖权，在具体案件中行使宪法守护职能。文章通过与最高法院比较，呈现该国违宪审查与司法审查的制度设计及其在后种族隔离时代的运作方式。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "MV Realty以12亿美元对Holland & Knight提起法律执业过失诉讼，指其在提供服务期间存在严重疏忽，致客户承受巨额损失与法律风险。案件审理将聚焦律所是否违反勤勉尽责义务，以及过错与损失之间的因果关系。",
+          "refs": [
+            "https://www.abajournal.com/news/article/holland-knight-hit-with-1.2b-malpractice-suit/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-constitutional-court-of-south-africa/",
+        "https://www.abajournal.com/news/article/holland-knight-hit-with-1.2b-malpractice-suit/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment/?utm_source=rss&utm_medium=rss&utm_campaign=the-difference-a-year-makes-the-admissibility-of-expert-opinion-testimony-under-the-2023-amendment"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "generatedAt": "2026-10-29T10:09:21.582Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院大法官艾琳娜·卡根在2015年金布尔诉漫威案中撰写多数意见，以六比三维持1964年布鲁洛特案确立的专利到期后不得继续收取专利使用费的先例，强调遵循先例对法律稳定性与可预期性的作用。文章由此讨论法院面对经济效率批评时是否应变更规则，涉及司法克制与立法纠偏的分工。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佐治亚州一名律师此前已受州最高法院纪律处分并自愿交出执照，近日又因盗窃与伪造文书等重罪指控被捕，刑事程序已启动。事件呈现律师行业自律惩戒与刑事追诉的衔接问题，涉及执业违规向财产类犯罪转化的定性，以及吊销执照与刑事侦查程序的协调。",
+          "refs": [
+            "https://www.abajournal.com/news/article/georgia-lawyer-arrested-charged-with-theft-and-forgery/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/is-elena-kagan-the-stare-decisis-justice/",
+        "https://www.abajournal.com/news/article/georgia-lawyer-arrested-charged-with-theft-and-forgery/"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "generatedAt": "2026-10-29T10:09:24.137Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院紧急事项审单中的异议形态、频率与论证深度存在显著差异，而此类命令通常仅一句话且不附说理。文章由此揭示大法官在快速、保密程序中表达法律意见的不同模式，涉及司法透明度与程序正当性问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/all-dissents-are-not-created-equal/"
+          ],
+          "relevance": "涉及法官在特殊程序中的行为与意见表达，可为司法行为实证研究提供材料。"
+        },
+        {
+          "text": "佛罗里达联邦法官裁定佛罗里达虚拟学校及其代理律师因提起缺乏事实与法律依据的商标诉讼，须共同承担130万美元赔偿，法院适用律师费转移与制裁机制。该案确立代理律师对滥诉的独立审查义务与连带责任，涉及诉权滥用规制与律师执业责任。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-orders-florida-virtual-school-attorneys-to-pay-1.3-million-for-abusive-lawsuit/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普请求最高法院重新考虑其维持2023年民事判决的决定，该判决涉及卡罗尔提起的性侵指控与诽谤诉讼，请愿书已分发给大法官，可能在8月下一批夏季命令中处理。案件涉及最高法院复审裁量权的行使，以及公众人物名誉权与性侵指控之间的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/judge-orders-florida-virtual-school-attorneys-to-pay-1.3-million-for-abusive-lawsuit/",
+        "https://www.scotusblog.com/2026/07/all-dissents-are-not-created-equal/",
+        "https://www.scotusblog.com/2026/07/trumps-petition-for-reconsideration-of-5-million-verdict-in-e-jean-carroll-case-may-be-considere/"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "generatedAt": "2026-10-29T10:09:26.518Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "特朗普要求审查联邦法官参考使用的科学手册，指控其已被政治化。该手册用于协助法官处理科学证据与专家证言，涉及专家证言可采性判定标准。争议核心是行政权能否干预司法实践所依赖的科学参考依据，进而影响涉及科学证据的诉讼裁判尺度。",
+          "refs": [
+            "https://www.abajournal.com/news/article/trump-calls-for-review-related-to-scientific-manual-used-by-judges/"
+          ],
+          "relevance": "涉及法官如何借助科学证据作出判断，可提供行政干预司法认知基准的材料。"
+        },
+        {
+          "text": "美国联邦第七巡回上诉法院认定，《电话消费者保护法》禁止未经请求营销呼叫的条款不适用于营销短信，理由是条文义仅涵盖传统语音通话。判决以严格文义解释限缩法条对新技术媒介的适用，厘清了成文法在通信技术演进下的适用边界，并可能推动国会修法。",
+          "refs": [
+            "https://www.abajournal.com/news/article/the-tcpas-unwanted-calls-provision-doesnt-include-texts-7th-circuit-says/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以杜波依斯1920年科幻小说《彗星》为切入点，结合非裔未来主义视角，指出美国宪制发展呈危机与复兴的循环而非线性进步，黑人抗议运动带来的变革常被随后的制度复兴所限制，文学想象可为断裂后的宪制重构提供新的理论框架。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-3/after-the-comet-du-bois-afrofuturism-and-constitutional-renewal/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/the-tcpas-unwanted-calls-provision-doesnt-include-texts-7th-circuit-says/",
+        "https://www.abajournal.com/news/article/trump-calls-for-review-related-to-scientific-manual-used-by-judges/",
+        "https://nyulawreview.org/issues/volume-101-number-3/after-the-comet-du-bois-afrofuturism-and-constitutional-renewal/"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "generatedAt": "2026-10-29T10:09:29.528Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在2025年十月庭审期就第二修正案作出两项判决：United States v. Hemani 中九名大法官一致认定，仅因偶尔使用大麻而剥夺持枪权违宪；Wolford v. Lopez 中判定夏威夷州在公共场所推定禁止携带枪支的禁令违宪。两案延续 Heller 与 Bruen 的进路，涉及基本权利限制与治安管理之间的边界，以及法院如何审查地方立法对宪法权利的实质限制。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/heller-and-bruen-are-here-to-stay-/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Bruen 案确立的枪支法律须符合国家历史传统方能通过第二修正案审查的测试，自诞生起即引发争议：现行法与历史法需相似到何种程度、需多少相似法规、哪些历史时期相关，均无明确答案。下级法院适用该测试时裁判尺度不一，司法混乱持续发酵，涉及原旨主义解释方法的操作困境与司法可预期性问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-history-the-court-would-rather-not-see/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Harvard Law Review 论文讨论联邦法院越来越多发布影响非当事人的普遍性禁令这一现象，指出禁令聚合虽提高救济效率，但可能违反案件当事人原则与三权分立。文章结合历史判例与联邦民事诉讼规则，主张在司法效能与宪法边界之间寻求平衡，对普遍性禁令的适用应予严格限制。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/aggregation-and-the-universal-injunction/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "因切碎冰山生菜受环孢子虫污染引发食源性疾病，律师已对供应商 Taylor Farms 提起至少四起消费者诉讼，司法维权程序启动。案件焦点集中于产品责任认定、大规模侵权中的因果关系证明、缺陷产品认定及食品供应链中供应商的严格责任，涉及民事侵权诉讼中举证责任分配问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/attorneys-begin-filing-lawsuits-over-contaminated-lettuce/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-history-the-court-would-rather-not-see/",
+        "https://www.scotusblog.com/2026/07/heller-and-bruen-are-here-to-stay-/",
+        "https://harvardlawreview.org/print/vol-139/aggregation-and-the-universal-injunction/",
+        "https://www.abajournal.com/news/article/attorneys-begin-filing-lawsuits-over-contaminated-lettuce/"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "generatedAt": "2026-10-29T10:09:33.002Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "最高法院在2025-26庭审期同意审理Jouppi诉阿拉斯加州案，审查阿拉斯加没收价值9.5万美元飞机的做法是否违反第八修正案禁止过度罚款条款；起因是飞行员因乘客携带六罐啤酒进入禁酒村落而被没收飞机。争点在于民事没收中财产价值与违法行为严重程度的比例失衡是否违宪，涉及公权力逐利性执法的边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/supreme-court-agrees-to-hear-case-on-whether-airplane-was-improperly-seized-s/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佐治亚州一名律师涉嫌利用律师会见特权，将浸有合成毒品的法律文件带入看守所交给在押人员，面临刑事指控及律师协会纪律审查。案件触及律师会见权与监所安全检查的平衡：法律文件通常免于常规拆封检查，此案可能推动监所引入更严格的检测或审查程序，并涉及律师执业伦理的监管。",
+          "refs": [
+            "https://www.abajournal.com/news/article/georgia-lawyer-charged-with-bringing-drug-soaked-legal-paperwork-into-jail/"
+          ],
+          "relevance": "涉及监狱管理与律师会见中的违禁品查控，可为监狱矫正与执业监管交叉问题提供素材。"
+        },
+        {
+          "text": "SCOTUSblog分析显示，2025-26庭审期35起单方为个人或家庭的辩论案件中5起涉及德州居民，出庭频率高于其他州；其中赫马尼案中最高法院裁定，禁止非法药物使用者持枪的联邦法律适用于吸食大麻的赫马尼时违反第二修正案。该案延续布鲁恩案的历史传统审查框架，限缩了依Gun Control Act对非暴力毒品使用者施加绝对持枪禁令的合宪性基础。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/when-it-comes-to-getting-the-supreme-courts-attention-does-one-state-have-an-edge/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "CFPB总法律顾问2025年1月的演讲论文讨论联邦政府律师在确保法律忠实执行中的作用，认为在民主面临挑战时政府律师是法治的守门人，主张强化其职业独立性，并在行政诉求与法律底线之间保持平衡。文章以行政监管高管的实务视角，将宏观法治命题具体化为政府律师的行为准则，涉及行政裁量权的约束与法律工具化的防止。",
+          "refs": [
+            "https://michiganlawreview.org/the-federal-general-counsel-law-and-our-democracy-at-a-crossroads/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/when-it-comes-to-getting-the-supreme-courts-attention-does-one-state-have-an-edge/",
+        "https://www.scotusblog.com/2026/07/supreme-court-agrees-to-hear-case-on-whether-airplane-was-improperly-seized-s/",
+        "https://www.abajournal.com/news/article/georgia-lawyer-charged-with-bringing-drug-soaked-legal-paperwork-into-jail/",
+        "https://michiganlawreview.org/the-federal-general-counsel-law-and-our-democracy-at-a-crossroads/"
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "generatedAt": "2026-10-29T10:09:35.476Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "纽约布鲁克林和皇后区的法律援助机构于2026年7月20日罢工，公设辩护人、律师助理及社工参与，原因包括工作量过大、薪酬不佳与资源短缺，直接影响贫困刑事被告人的法律服务获取。事件指向贫穷被告人获得有效法律帮助的宪法性权利，以及公共辩护系统的资金与运行机制问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/lawyers-for-low-income-clients-strike-in-nyc/"
+          ],
+          "relevance": "与刑事司法及法律援助运行相关，可提供公设辩护资源配置与辩护质量的材料。"
+        },
+        {
+          "text": "论文讨论2024年格兰茨帕斯案后法院如何维护罗宾逊案确立的身份犯罪原则，即依第八修正案，惩罚个人无辜或非自愿获得的身份属残忍且异常的刑罚。文章主张对惩罚公共场所睡觉等维持生命行为的反无家可归法仍应进行违宪审查，厘清惩罚身份与惩罚行为的合宪性界限。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/4"
+          ],
+          "relevance": "涉及刑罚的合宪性边界与惩罚对象的界定，可为刑罚正当性讨论提供教义学材料。"
+        },
+        {
+          "text": "特朗普政府请求最高法院指令第九巡回上诉法院重新审查维持临时保护身份保护的裁决，该身份为在美委内瑞拉和海地国民提供居留与工作权，争议在于国土安全部终止该项目决定的合法性及司法审查范围。案件触及行政裁量权边界与信赖利益保护。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trump-administration-asks-justices-to-have-lower-court-reconsider-protected-status-for-venezuela/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/trump-administration-asks-justices-to-have-lower-court-reconsider-protected-status-for-venezuela/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss2/4",
+        "https://www.abajournal.com/news/article/lawyers-for-low-income-clients-strike-in-nyc/"
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "generatedAt": "2026-10-29T10:09:38.105Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "国际刑事法院首席检察官卡里姆·汗面临性不当行为指控，成员国将投票决定是否罢免其职务。该案涉及国际组织高级官员的纪律问责与职权终止程序，也牵涉在追究个人责任与保障检察官起诉决策独立性之间如何取舍，对理解国际机构治理与司法公信力的制度安排具有参考价值。",
+          "refs": [
+            "https://www.abajournal.com/news/article/top-prosecutor-for-international-criminal-court-accused-of-sexual-misconduct/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "大型科技公司因在训练人工智能模型时使用受版权保护的材料而面临新一轮诉讼，起诉主体从版权所有者扩大至公司股东。争议核心在于未经许可抓取数据训练AI是否构成合理使用，同时股东诉讼把数据合规问题引入公司治理与董监高责任层面，涉及著作权规则与公司法的交叉。",
+          "refs": [
+            "https://www.abajournal.com/news/article/big-tech-companies-facing-new-wave-of-lawsuits-over-copyright-and-AI/"
+          ],
+          "relevance": "涉及AI训练数据使用的合法性与司法判断边界，可为人工智能与法律判断方向提供素材。"
+        },
+        {
+          "text": "论文指出，诉讼融资研究不应局限于资金协议披露，还应关注请求权聚合、当事人自治受损与第三方出资者不当干预。文章分析资本介入如何改变集体诉讼等程序机制的运行、侵蚀原告自主决策权，并据此论证监管框架的完善，涉及代理成本与利益冲突的规制。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling/?utm_source=rss&utm_medium=rss&utm_campaign=zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/top-prosecutor-for-international-criminal-court-accused-of-sexual-misconduct/",
+        "https://www.abajournal.com/news/article/big-tech-companies-facing-new-wave-of-lawsuits-over-copyright-and-AI/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling/?utm_source=rss&utm_medium=rss&utm_campaign=zombie-litigation-claim-aggregation-litigant-autonomy-and-funders-intermeddling"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "generatedAt": "2026-10-29T10:09:40.815Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在特朗普诉芭芭拉案中以五比多数认定限制出生公民权的行政令违反第十四修正案公民条款。托马斯与戈萨奇在异议中将争议提升为关于美国人身份界定的意识形态分歧，卡瓦诺亦持保留意见。案件落槌明确了行政令违法，但暴露出法院内部对国籍根基与司法审查边界的分歧。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/in-birthright-citizenship-dissent-justice-thomas-stakes-out-an-ideological-claim-of-who-counts-a/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "有研究指出，美国最高法院对第十三修正案例外条款、第四条保障条款和第三修正案长期少有实质审理，遇及这些条款时多持回避态度。文章认为，这种处理方式反映大法官对自身司法角色与法院权力边界的认知，涉及强迫劳动合宪边界、共和政体可诉性及军事权力与私权冲突等问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文讨论博物馆注销并出售馆藏后所得资金的使用问题，指出藏品通常被视为为公众利益持有的信托财产，仅靠行业自律规范不足，主张以更明确的法律监管确保收益继续用于公益目的。研究从信托信义义务角度分析处分行为，涉及慈善组织财产管理与公益信托制度。",
+          "refs": [
+            "https://pennlawreview.com/2026/07/12/judging-the-judgement-rule-the-case-for-regulating-the-use-of-museum-deaccessioning/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "得克萨斯州近期非律师无证提供法律服务的投诉显著上升，部分由移民法律援助需求激增推动。此类行为触及未经授权执业法律的监管红线，可能因专业能力不足损害移民申请人权益，州监管机构面临加大执法与满足援助需求之间的双重挑战。",
+          "refs": [
+            "https://www.abajournal.com/news/article/lone-star-state-sees-rise-in-complaints-of-non-lawyers-practicing-without-a-license/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/in-birthright-citizenship-dissent-justice-thomas-stakes-out-an-ideological-claim-of-who-counts-a/",
+        "https://pennlawreview.com/2026/07/12/judging-the-judgement-rule-the-case-for-regulating-the-use-of-museum-deaccessioning/",
+        "https://www.scotusblog.com/2026/07/three-profound-constitutional-provisions-and-how-the-supreme-court-has-avoided-dealing-with-them/",
+        "https://www.abajournal.com/news/article/lone-star-state-sees-rise-in-complaints-of-non-lawyers-practicing-without-a-license/"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "generatedAt": "2026-10-29T10:09:43.254Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国联邦最高法院2025至2026开庭期57起全面辩论案件中，纯刑事案件16起，占百分之二十八；计入涉及州总检察长调查传票起诉资格的First Choice v. Davenport案后达17起，占比近百分之三十。刑事法解释已成为该院司法审查的核心议题之一。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/"
+          ],
+          "relevance": "涉及最高法院刑事议程的案件结构数据，可用于量刑与刑事司法的实证观察。"
+        },
+        {
+          "text": "本开庭期该院还作出多项分权判决：特朗普诉斯劳特案与特朗普诉库克案处理国会与行政机构的关系，拉瑟福德诉美国案与费尔南德斯诉美国案则审视国会与司法部门的权力分配，后两案未获充分重视但影响国会与法院的权力平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review刊文讨论语言学是否应影响文本主义解释方法。文章指出，文本主义裁判中大量关于语言的论断缺乏科学语言学支撑，批评者质疑其对词语含义的主观假设，主张以语义学、语用学等语言学方法修正文本主义的内在缺陷。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-3/linguistics-and-textualism/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "智能眼镜在工作场所普及，美国律师协会指出律师预期相关纠纷将增加。一起联邦诉讼中，智能眼镜的隐蔽录像功能引发隐私与数据合规争议，员工佩戴可能记录敏感商业信息或同事互动，触发监听法、隐私权及保密义务方面的指控，企业需重新评估监控政策与合规边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/increasing-popularity-of-smart-glasses-could-lead-to-more-workplace-disputes/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-courts-criminal-law-term-overview-and-observations/",
+        "https://www.scotusblog.com/2026/07/the-administrative-agency-cases-were-not-the-courts-only-significant-separation-of-powers-decisi/",
+        "https://nyulawreview.org/issues/volume-101-number-3/linguistics-and-textualism/",
+        "https://www.abajournal.com/news/article/increasing-popularity-of-smart-glasses-could-lead-to-more-workplace-disputes/"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "generatedAt": "2026-10-29T10:09:46.372Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院六月作出两项第二修正案判决：Hemani案认定因非法使用受控物质而持枪的18 U.S.C. § 922(g)(3)指控违宪，Wolford案认定夏威夷州要求隐蔽持枪者进入向公众开放私人领地前须获所有人明示同意的法律违宪。判决被框定为对具体问题的狭义回应，但涉及基于身份或行为的枪支管制界限及持枪权与私人财产权的冲突。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "哈佛法律评论论文分析美国最高法院在缺乏资金与执行权的情况下如何自我保护：其权力主要建立在公众信任与制度威信上，法院通过裁判逻辑、程序设置与司法克制等策略应对政治压力和制度危机，以维系合法性并延续司法审查功能。文章涉及司法独立与司法权威维系，以及法院在政治压力下的生存策略。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/the-supreme-court-under-threat-early-lessons-in-judicial-self-protection/"
+          ],
+          "relevance": "涉及公众对司法公正的感知，可提供法院如何借裁判说理与自我约束维系公众信任的材料。"
+        },
+        {
+          "text": "电影《它结束于我们》相关诉讼审前阶段，两家大型律所产生超过700万美元律师费，对方当事人以研究与收费极其过度为由提出异议。争议焦点在于复杂商业与名誉诉讼中律师费的合理性边界，以及法院审查高额预审工作量的标准，涉及民事诉讼费用转移与合理性审查规则。",
+          "refs": [
+            "https://www.abajournal.com/news/article/extremely-excessive-research-fees-alleged-in-it-ends-with-us-litigation/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "爱荷华州最高法院对面临两州儿童性虐待刑事指控的律师Enoch Keoki作出暂停执业资格决定，在刑事程序推进期间先行褫夺其执业能力，以保护公众利益并维护职业伦理。该案体现律师纪律处分与刑事司法程序并行的双轨监管，涉及执业资格暂停与刑事追诉的程序衔接。",
+          "refs": [
+            "https://www.abajournal.com/news/article/iowa-supreme-court-suspends-license-of-lawyer-accused-of-child-sex-abuse-crimes/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/narrow-holdings-with-broad-consequences/",
+        "https://harvardlawreview.org/print/vol-139/the-supreme-court-under-threat-early-lessons-in-judicial-self-protection/",
+        "https://www.abajournal.com/news/article/extremely-excessive-research-fees-alleged-in-it-ends-with-us-litigation/",
+        "https://www.abajournal.com/news/article/iowa-supreme-court-suspends-license-of-lawyer-accused-of-child-sex-abuse-crimes/"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "generatedAt": "2026-10-29T10:09:48.804Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在 Trump v. Barbara 案中以五比四确认第十四修正案平等保护条款保障出生公民权，罗伯茨与巴雷特与三名自由派大法官组成多数，卡瓦诺虽承认制定法上的出生公民权但排除外交官子女。该案显示大法官在宪法文本解释方法上的分歧，以及微弱多数结盟对移民权利与国会立法权司法审查的判例影响。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
+            "https://www.scotusblog.com/2026/07/the-biggest-supreme-court-surprises-this-term/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文 Criminal Data Function Creep 对自动化犯罪背景调查作实证评估，指出犯罪记录数据存在功能蔓延，即被意外用于其他目的，从而产生不公与歧视，涉及反歧视法与消费者保护法问题。研究将功能蔓延理论引入法学分析，提示即便数据收集初始合法，跨场景二次利用仍会触发法律风险。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/2"
+          ],
+          "relevance": "属法律实证研究方法方向，提供犯罪记录数据自动化使用的实证评估材料。"
+        },
+        {
+          "text": "大法官卡根与巴雷特七年来首次出席国会听证会，就超2.2亿美元的2027财年法院预算作证，并讨论法院安保、伦理准则执行机制及紧急裁决程序。卡根倾向称该程序为临时而非紧急案件表，反映司法界对影子案档机制滥用的反思，涉及国会拨款权对司法分支的监督与司法透明度问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/justices-kagan-and-barrett-testify-before-congress/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/two-cheers-but-not-three-for-roberts-and-barrett/",
+        "https://www.scotusblog.com/2026/07/the-biggest-supreme-court-surprises-this-term/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/2",
+        "https://www.scotusblog.com/2026/07/justices-kagan-and-barrett-testify-before-congress/"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "generatedAt": "2026-10-29T10:09:51.943Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国第十一巡回上诉法院对佛罗里达州一名律师提出正式训诫，因其提交的文书含人工智能生成的虚假和幻觉案例引用，法院指出律师未尽合理核查义务，违反执业操守，并重申律师对提交材料真实性负最终责任，使用AI工具不能免责。此案涉及生成式人工智能在法律实践中应用时的核查义务与执业规范边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/lawyers-use-of-fake-and-hallucinated-case-gets-reprimand-from-us-appeals-court/"
+          ],
+          "relevance": "涉及AI生成内容进入法律判断与文书环节的合规风险，可为AI辅助司法的核查规则提供材料。"
+        },
+        {
+          "text": "论文《Procedure, Substance, and Judge Shopping》分析择地行诉与择官行诉现象，指出当事人通过管辖权异议、异地审理申请或移转联邦法院等程序工具争夺有利法院，看似中立的程序规则实际会改变实体结果，文章考察法官分配机制与管辖权规则的运作，主张完善程序机制以抑制策略性择官行诉。",
+          "refs": [
+            "https://pennlawreview.com/2026/07/12/procedure-substance-and-judge-shopping/"
+          ],
+          "relevance": "涉及法官分配与案件分派机制如何影响裁判结果，可为司法行为与分案制度研究提供材料。"
+        },
+        {
+          "text": "两名残疾律师起诉美国司法部，挑战移民审查执行办公室的无远程办公政策，主张强制返岗构成歧视并剥夺康复法案等联邦法律下的合理便利；法官裁决命令司法部允许涉案律师继续远程办公，明确雇主不能以全员在岗政策一刀切拒绝便利请求，须履行个别化评估义务。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-orders-doj-to-allow-disabled-lawyers-to-telework/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章回顾北美足球联赛诉NFL反垄断案，四十四年前拥有贝利的纽约宇宙队所属联赛指控NFL禁止球队老板跨界拥有其他大联盟球队的规则扼杀竞争，下级法院支持NASL，最高法院拒绝受理，Rehnquist大法官提出异议认为应审查该规则的反竞争影响。案件涉及体育联盟排他性所有权规则的反垄断适用边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/a-dissent-worthy-of-a-world-cup/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/lawyers-use-of-fake-and-hallucinated-case-gets-reprimand-from-us-appeals-court/",
+        "https://www.scotusblog.com/2026/07/a-dissent-worthy-of-a-world-cup/",
+        "https://www.abajournal.com/news/article/judge-orders-doj-to-allow-disabled-lawyers-to-telework/",
+        "https://pennlawreview.com/2026/07/12/procedure-substance-and-judge-shopping/"
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "generatedAt": "2026-10-29T10:09:55.379Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "特朗普政府请求法院重新听证出生公民权案件，争议在于第十四修正案属地主义原则的适用边界，即无合法身份父母在美所生子女是否自动获得国籍。此前裁决阻碍了限制出生公民权的行政令，政府寻求重审以推翻不利判决，涉及行政分支与司法系统在宪法解释权上的博弈。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文考察1974年路易斯安那州宪法第一条第20款的人道待遇权条款，该款禁止安乐死、酷刑及残酷、过度或不寻常的惩罚，在联邦宪法标准之上蓄意超越。研究梳理其历史渊源与文本演变，评估司法适用及对公民权利保护的实际影响，展示州宪法如何通过文本设计突破联邦第八修正案的最低保障。",
+          "refs": [
+            "https://pennlawreview.com/2026/07/12/a-whole-new-ideology-the-right-to-humane-treatment-and-the-louisiana-constitution-of-1974/"
+          ],
+          "relevance": "涉及刑罚人道化与残酷惩罚禁止的宪法文本及司法适用，可为量刑与刑罚方向提供州宪法层面的制度材料。"
+        },
+        {
+          "text": "大法官卡根和巴雷特将赴国会作证，触及权力分立原则及司法独立与立法监督的边界；同时特朗普要求最高法院重审其五百万美元陪审团裁决的上诉，涉及民事司法中上诉审标准的界定。两项进程分别关系司法与立法的互动及陪审团裁决的审查机制。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "人工智能产业扩张带动数据中心建设，为法律行业带来大量业务，服务集中于土地用途审批、大额能源供应合同谈判、环境影响评估及跨境合规审查。数据中心消耗大量电力与水资源，促使各地出台更严格的环保与土地监管措施，律师通过设计合规架构规避反垄断与数据安全风险。",
+          "refs": [
+            "https://www.abajournal.com/magazine/article/al-fueled-boom-in-data-centers-has-been-big-business-for-lawyers/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/trump-wants-court-to-rehear-birthright-citizenship-case/",
+        "https://www.abajournal.com/magazine/article/al-fueled-boom-in-data-centers-has-been-big-business-for-lawyers/",
+        "https://www.scotusblog.com/2026/07/kagan-and-barrett-to-testify-before-congress/",
+        "https://pennlawreview.com/2026/07/12/a-whole-new-ideology-the-right-to-humane-treatment-and-the-louisiana-constitution-of-1974/"
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "generatedAt": "2026-10-29T10:09:58.362Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院极少对已决案件进行重审，相关报道同时记录了律师Cecillia Wang就出生公民权案在最高法院辩论的体会。前者涉及遵循先例与司法终局性的程序规则，后者触及第十四修正案下公民身份认定的宪法争点，两项内容共同呈现最高法院在程序运作与基本权利解释上的司法态度。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "俄亥俄州州长签署法案，全面禁止外国诉讼资助者在该州开展业务，以限制境外资本介入本地诉讼、防范外部势力影响州司法系统。该立法涉及第三方诉讼资助监管中司法主权与当事人利益冲突问题，其绝对禁止模式与其他法域的登记披露模式形成对照，为诉讼资助规制研究提供立法例。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ohio-governor-signs-bill-prohibiting-foreign-litigation-funding/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国律所Blank Rome因数据泄露暴露超过5.7万人的个人信息，面临两项拟议集体诉讼，原告指控其未采取合理安全措施。案件核心在于数据控制者的安全保障义务，以及违约与侵权竞合时的救济路径，并涉及美国集体诉讼机制对分散性损害的聚合功能，对专业机构的数据合规具有警示作用。",
+          "refs": [
+            "https://www.abajournal.com/news/article/blank-rome-sued-over-data-breach-that-exposed-more-than-57000-peoples-information/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文讨论疫情期间政府关停商业地产的管制措施是否构成美国宪法第五修正案意义上的征收，结合历史判例与征收条款法理，分析防疫管制对商业财产权的干预程度及所有者寻求救济与赔偿的可能。文章从强制疫苗接种与隔离先例切入，考察公共卫生权力与私人财产权保护之间的边界。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/closed-for-business-open-for-litigation/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/blank-rome-sued-over-data-breach-that-exposed-more-than-57000-peoples-information/",
+        "https://www.abajournal.com/news/article/ohio-governor-signs-bill-prohibiting-foreign-litigation-funding/",
+        "https://www.scotusblog.com/2026/07/the-rarity-of-supreme-court-do-overs/",
+        "https://northwesternlawreview.org/uncategorized/closed-for-business-open-for-litigation/"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "generatedAt": "2026-10-29T10:10:01.463Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国第五巡回上诉法院连续第三个任期成为被最高法院撤销判决最多的联邦上诉法院，涉及移民、行政国家与宗教自由等议题。该数据反映上下级法院在具体法律适用上的张力，以及最高法院通过个案撤销统一法律适用、规制下级法院裁量的运作方式。",
+          "refs": [
+            "https://www.abajournal.com/news/article/5th-circuit-is-most-reversed-by-us-supreme-court-for-third-consecutive-time/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国第二修正案研究指出，Heller 案确立个人在家持枪自卫权后，最高法院尚未系统分析武器使用的历史背景，携带地点、武器类型与使用方式的限制边界仍存争议。法院在界定持枪权保护范围时，从文本解释转向依赖历史传统考证，直接影响各州枪支管控立法的合宪性审查。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佛罗里达州两名律师在客户死亡后隐瞒死讯、擅自了结诉讼并截留赔偿金，被处以三年暂停执业。该案涉及当事人死亡对诉讼权利能力的影响，以及律师信义义务与程序诚信的监管惩戒，提示需细化诉讼中止与遗产处理的衔接规则。",
+          "refs": [
+            "https://www.abajournal.com/news/article/2-lawyers-suspended-after-settling-dead-clients-cases-taking-money/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文针对大规模侵权与事故诉讼在责任认定后的赔偿阶段，提出九种处理损害赔偿的方法，用于群体诉讼与破产重整程序中的海量个体损害认定与赔偿分配。研究填补了补救阶段的管理理论空白，为损害批量认定与程序分流提供框架。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/phase-ii-managing-the-remedial-phase-in-aggregate-litigation/?utm_source=rss&utm_medium=rss&utm_campaign=phase-ii-managing-the-remedial-phase-in-aggregate-litigation"
+          ],
+          "relevance": "法律实证研究方法：九种损害赔偿处理方法的类型化梳理，可为群体性纠纷损害认定的程序设计与数据整理提供参考。"
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/5th-circuit-is-most-reversed-by-us-supreme-court-for-third-consecutive-time/",
+        "https://www.scotusblog.com/2026/07/the-limits-of-the-second-amendment/",
+        "https://www.abajournal.com/news/article/2-lawyers-suspended-after-settling-dead-clients-cases-taking-money/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/05/11/phase-ii-managing-the-remedial-phase-in-aggregate-litigation/?utm_source=rss&utm_medium=rss&utm_campaign=phase-ii-managing-the-remedial-phase-in-aggregate-litigation"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "generatedAt": "2026-10-29T10:10:04.693Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国德克萨斯州两名治安法官因各自在独立案件中面临刑事重罪指控（其中一人被控重罪毒品持有）而被暂停职务，相关司法委员会依法启动纪律处分程序。事件涉及刑事追诉与法官职务暂停之间的程序衔接，以及涉案法官在刑事程序终结前如何被处理职务履行问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/two-texas-judges-suspended-in-separate-cases/"
+          ],
+          "relevance": "法官惩戒与职务暂停机制，可为研究法官行为与司法问责提供制度素材。"
+        },
+        {
+          "text": "威斯康星州一名前法官因妨碍移民执法被陪审团定罪，法院仅判处5000美元罚款而未判监禁。该案呈现联邦移民执法与州司法系统之间的权力张力，以及公职人员妨害执法行为在定罪后的量刑裁量问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ex-milwaukee-judge-gets-5000-fine-but-no-prison-time-in-immigration-case/"
+          ],
+          "relevance": "涉及公职人员职务犯罪的量刑裁量，可为量刑标准研究提供个案材料。"
+        },
+        {
+          "text": "SCOTUSblog 文章指出，将九名大法官按任命党派划分为保守、自由与温和三类的线性标签，掩盖了投票倾向受案件领域、案卷组成、联盟构建、案件筛选机制及投票公开度等多重因素塑造的事实，呼吁放弃简化的意识形态叙事。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/who-is-the-supreme-courts-most-ideological-justice-and-does-that-question-even-make-sense-/"
+          ],
+          "relevance": "司法行为学与法律实证研究方法，涉及法官决策的测量方式与标签化分类的局限。"
+        },
+        {
+          "text": "Penn Law Review 论文分析 Bruen 与 Rahimi 案后指出，第二修正案审查中放弃目的手段审查、转向历史类比方法，并未真正约束法官裁量，反而使法官得以依自身偏好选择历史先例，并可能对其他宪法领域的审查标准产生溢出效应。",
+          "refs": [
+            "https://pennlawreview.com/2026/05/08/the-ambitions-of-history-and-tradition-in-and-beyond-the-second-amendment/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://pennlawreview.com/2026/05/08/the-ambitions-of-history-and-tradition-in-and-beyond-the-second-amendment/",
+        "https://www.abajournal.com/news/article/two-texas-judges-suspended-in-separate-cases/",
+        "https://www.abajournal.com/news/article/ex-milwaukee-judge-gets-5000-fine-but-no-prison-time-in-immigration-case/",
+        "https://www.scotusblog.com/2026/07/who-is-the-supreme-courts-most-ideological-justice-and-does-that-question-even-make-sense-/"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "generatedAt": "2026-10-29T10:10:07.481Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "SCOTUSblog刊文批评罗伯茨法院通过司法审查系统性削弱国会立法权，认为这是总统权力扩张背景下三权分立结构的重大转移。文章聚焦法院对立法权的侵入，涉及司法审查边界与立法权保留的宪政争议，并提及法院借助文本主义与原旨主义方法重构联邦权力边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "纽约大学法律评论论文以邦迪诉范德斯特克案为切入点，讨论最高法院在制定法解释中引入语言学实证研究的新路径，作者称之为语言文本主义。文章界定该方法的内涵与边界，评估其司法适用潜力与风险，涉及法条语义模糊时裁判说理如何借助跨学科实证手段的问题。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-3/amending-linguistic-textualism/"
+          ],
+          "relevance": "与人工智能与法律判断方向相关：该文讨论的语料库等语言学实证方法可为法律判断提供方法材料。"
+        },
+        {
+          "text": "一家人工智能初创公司创始人承认参与内幕交易，案情涉及大型律所律师提前泄露并购交易信息，执法机构正推进刑事追责。案件涉及内幕交易归责中违背信义义务传递重大非公开信息的要素，并暴露律所信息隔离与律师保密义务监管的薄弱环节。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ai-startup-founder-pleaded-guilty-to-receiving-insider-tips-from-biglaw-lawyers/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/",
+        "https://www.abajournal.com/news/article/ai-startup-founder-pleaded-guilty-to-receiving-insider-tips-from-biglaw-lawyers/",
+        "https://nyulawreview.org/issues/volume-101-number-3/amending-linguistic-textualism/"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "generatedAt": "2026-10-29T10:10:10.456Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在兰多尔诉路易斯安那州惩教局案中确立联邦支出项目应视为合同的前提，此前该逻辑已被用于拒绝受理针对非法拨款行为的挑战。将联邦资金分配拟制为契约关系，改变了联邦财政权力的司法审查路径，限缩法院对违法拨款的管辖，涉及支出条款下公法关系被私法契约框架替代的问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-supreme-courts-disturbing-approach-to-federal-spending/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "路易斯安那州奥尔良教区大陪审团对该州总检察长莉兹·穆里尔提起16项重罪指控，涉及恐吓与公职不当行为，州最高法院随即介入。案件涉及州首席执法官员职务犯罪的追诉程序，以及司法权在高级别行政官员涉嫌犯罪时的紧急干预与权力制衡，为大陪审团起诉过滤功能与职务犯罪管辖权提供样本。",
+          "refs": [
+            "https://www.abajournal.com/news/article/louisiana-supreme-court-steps-in-after-ag-indicted-for-intimidation-malfeasance/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文梳理英美刑法中犯罪意图与犯罪行为的对应关系，从文献与司法推理中提炼出同时性理论、行为激发理论与规范理论三种冲突观点，指出仅有意图和行为不足以正当化刑事责任。文章为罪过与实行行为时间错位、因果流程偏离的归责边界提供了分析框架。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/1"
+          ],
+          "relevance": "涉及刑事归责中主观与客观要件的连接，可为量刑与刑罚理论中的责任判断提供材料。"
+        },
+        {
+          "text": "两名前合伙人起诉Clifford Chance，指控律所要求偿还近580万美元薪酬，案件已进入联邦法院程序，核心争议为合伙人协议中薪酬追回条款的合法性与执行边界。该案将审查律所内部利润分配机制及退伙时资本账户结算规则，涉及合伙协议条款效力与退伙结算的司法审查标准。",
+          "refs": [
+            "https://www.abajournal.com/news/article/2-former-partners-sue-clifford-chance-over-compensation-clawbacks/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/the-supreme-courts-disturbing-approach-to-federal-spending/",
+        "https://www.abajournal.com/news/article/louisiana-supreme-court-steps-in-after-ag-indicted-for-intimidation-malfeasance/",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss3/1",
+        "https://www.abajournal.com/news/article/2-former-partners-sue-clifford-chance-over-compensation-clawbacks/"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "generatedAt": "2026-10-29T10:10:13.578Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "佛罗里达州最高法院正考虑对奥兰多一名法官处以罚款等纪律处分，该法官承认向左翼政治事业捐款900多次。美国司法行为准则通常限制法官进行政治捐款，以维护司法独立与中立。此案涉及法官业外政治活动的边界与司法问责机制的运作。",
+          "refs": [
+            "https://www.abajournal.com/news/article/florida-judge-facing-reprimand-for-900-political-donations-to-left-leaning-causes/"
+          ],
+          "relevance": "涉及法官行为规范与司法中立，可为研究法官行为及其对司法公正感知的影响提供素材。"
+        },
+        {
+          "text": "美国最高法院以未署名简令允许德克萨斯州在诉讼期间继续执行《应用商店问责法》，该法要求应用商店验证用户年龄并取得未成年人下载或应用内购买的父母同意。挑战者主张该年龄验证机制侵犯成年用户言论自由。争议焦点在于未成年人网络保护与成年人宪法权利之间的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "有评论指出，在特朗普2.0时期的宪政危机中，行政权通过消除内部法律制约实施争议行为，国会因党派极化怠于制衡，最高法院的独立性与司法审查成为约束行政越权的关键。文章涉及三权分立机制失灵时司法权的制衡角色。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/the-powerful-resilient-independent-supreme-court/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一篇实证研究考察精神治疗师与患者证据豁免权中危险患者例外的实际运行。该例外旨在患者对公众构成严重危险时突破保密限制，但联邦巡回法院在适用上存在分歧。研究以数据评估该规则对临床实践与司法程序的影响，涉及隐私保护与公共安全防范的平衡。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/an-empirical-examination-of-the-dangerous-patient-exception/?utm_source=rss&utm_medium=rss&utm_campaign=an-empirical-examination-of-the-dangerous-patient-exception"
+          ],
+          "relevance": "运用实证方法检验证据规则运行实效，属法律实证研究方法方向，可提供规则适用分歧与数据评估的示例。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/supreme-court-allows-texas-to-enforce-law-requiring-age-verification-and-parental-consent-on-app/",
+        "https://www.scotusblog.com/2026/07/the-powerful-resilient-independent-supreme-court/",
+        "https://www.abajournal.com/news/article/florida-judge-facing-reprimand-for-900-political-donations-to-left-leaning-causes/",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/05/26/an-empirical-examination-of-the-dangerous-patient-exception/?utm_source=rss&utm_medium=rss&utm_campaign=an-empirical-examination-of-the-dangerous-patient-exception"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "generatedAt": "2026-10-29T10:10:16.380Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院宣布将审理针对AR-15等半自动步枪禁令合宪性的案件，核心问题是特定类型半自动步枪是否受第二修正案保护。此前法院已推翻夏威夷州限制隐蔽携枪场所的法律，此次受理进一步将审查延伸至具体枪支类型，涉及历史传统审查标准的适用边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "特朗普提名一位近期获确认的联邦地区法院法官填补第五巡回上诉法院空缺，该法院常审理行政权边界、移民执法与联邦监管等议题。提名反映通过政治任命将特定司法理念注入司法体系的策略，后续须经参议院确认程序。",
+          "refs": [
+            "https://www.abajournal.com/news/article/trump-selects-new-federal-judge-for-open-seat-on-5th-circuit/"
+          ],
+          "relevance": "涉及法官选任与司法行为，可为研究法官任命机制及司法决策倾向提供素材。"
+        },
+        {
+          "text": "肯塔基大学董事会任命一名在任联邦法官担任法学院院长引发争议，随后修改相关规则。事件触及联邦司法伦理准则中关于兼职、薪酬与利益冲突的限制，以及高校自治与司法人员行为规范的制度边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/university-of-kentucky-trustees-change-rules-after-controversial-law-dean-pick/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文指出美国反性骚扰法律改革呈碎片化格局：联邦与州层面分别扩大诉诸法院机会、加强救济、强制培训与数据收集、废除证明严重心理伤害的要求，但各项措施缺乏协同，形成孤岛效应。作者主张整合实体规则与程序机制以构建统一防治框架。",
+          "refs": [
+            "https://pennlawreview.com/2026/05/08/the-sexual-harassment-silo/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/06/court-grants-several-new-cases-including-on-whether-the-second-amendment-protects-possession-of-/",
+        "https://www.abajournal.com/news/article/university-of-kentucky-trustees-change-rules-after-controversial-law-dean-pick/",
+        "https://pennlawreview.com/2026/05/08/the-sexual-harassment-silo/",
+        "https://www.abajournal.com/news/article/trump-selects-new-federal-judge-for-open-seat-on-5th-circuit/"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "generatedAt": "2026-10-29T10:10:18.102Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Chemerinsky 指出，自2022年布鲁恩案确立枪支管制须符合历史传统的审查标准后，涉枪诉讼大量涌入法院，但最高法院近期判决未解决涉枪资格、攻击性武器禁令与敏感场所限制等核心争议，下级法院在历史类比论证上分歧严重，全国枪支监管规则趋于碎片化。问题在于法官以历史类比裁决当代案件的方法论及其对裁判客观性的影响。",
+          "refs": [
+            "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-leaves-many-second-amendment-issues-unresolved/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "该文梳理美国最高法院处理行政权与宪法救济的两种进路：制度形式主义以权力分立框架裁决争议，现实主义则考量权力实际运作与制度互动。作者主张打破形式主义教条，依制度现实与实际后果设计救济措施，并揭示相关判例立场的摇摆。其争点在于违宪审查后救济手段如何兼顾权力结构与权利保护。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-leaves-many-second-amendment-issues-unresolved/",
+        "https://harvardlawreview.org/print/vol-139/some-realism-about-constitutional-remedies/"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "generatedAt": "2026-10-29T10:10:19.653Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "SCOTUSblog 评论指出，最高法院在 Mullin v. Al Otro Lado 案中依《移民与国籍法》文本裁定，在国际边界被拦截的移民无权申请庇护，但多数派意见显示大法官误解了国会创设的越境程序。评论认为，若理解该程序，法院不会轻易赋予边境官员切断庇护通道的权力，由此引出成文法解释与行政裁量权配置的问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/07/an-immigration-law-error-in-the-courts-asylum-decision-threatens-immigration-courts/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/07/an-immigration-law-error-in-the-courts-asylum-decision-threatens-immigration-courts/"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "generatedAt": "2026-10-29T10:10:21.371Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院裁定，各州可依据生理性别限制跨性别运动员参加女子体育赛事，认为爱达荷州与西弗吉尼亚州相关法律不违反联邦民权法及《教育法第九编》，但就西弗吉尼亚州法律对具体当事人的适用是否违宪存在分歧。该案涉及平等保护条款下性别认同与生理性别冲突时的司法审查边界，以及立法界定参赛资格时的实质平等与比例衡量问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review 论文探讨少数族裔教师讲授种族批判理论等敏感议题时面临的制度限制，分析第一修正案保护此类教学行为的边界，揭示反歧视原则与言论自由保护之间的宪法张力。文章聚焦种族身份与学术自由的交叉，涉及平等权与言论自由冲突的法学理解。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-3/can-you-be-black-and-teach-that/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+        "https://nyulawreview.org/issues/volume-101-number-3/can-you-be-black-and-teach-that/"
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "generatedAt": "2026-10-29T10:10:22.500Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Harvard Law Review 刊文讨论宪法危机爆发时现行法律框架内的救济机制，分析司法审查、立法制衡与行政干预在制度失效情形下的可行性，旨在为维护宪政秩序提供法理支撑与实践方案。文章涉及违宪审查与权力制衡的运作条件，属于宪法救济理论层面的讨论。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/remedies-for-a-constitutional-crisis/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://harvardlawreview.org/print/vol-139/remedies-for-a-constitutional-crisis/"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "generatedAt": "2026-10-29T10:10:23.771Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Penn Law Review 刊文以 TikTok 禁令为切入点，讨论外国国有企业在美国是否享有第一修正案言论自由保护，分析外国政府控制实体在现行宪法框架下的法律地位及与国家安全、信息流动的潜在冲突。文章指出该议题的影响超出社交媒体，涉及经济主权与企业权利边界。",
+          "refs": [
+            "https://pennlawreview.com/2026/05/08/bigger-than-tiktok-foreign-state-owned-enterprises-and-the-first-amendment/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://pennlawreview.com/2026/05/08/bigger-than-tiktok-foreign-state-owned-enterprises-and-the-first-amendment/"
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "generatedAt": "2026-10-29T10:10:25.892Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "论文以案例研究分析美国刑事司法中以监禁抵罚款（sitting out）的实践：被告因无力缴纳罚款、手续费或赔偿金而以额外羁押折抵金融义务，研究指出该做法对贫困被告形成双重惩罚，将收入不平等转化为刑事司法不平等，并挑战第十四修正案平等保护原则。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/3"
+          ],
+          "relevance": "涉及刑罚执行中的经济能力差异与自由剥夺，可为罚金刑执行不平等研究提供材料。"
+        },
+        {
+          "text": "论文主张将Batson原则从种族、性别扩展至宗教领域，禁止以宗教作为陪审团无因回避理由，并以历史分析与实证数据揭示对穆斯林、犹太教徒及无神论者的系统性排斥影响刑事案件结果，提出联邦立法与扩展Batson审查的双轨改革路径。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/4"
+          ],
+          "relevance": "涉及陪审员选任中的系统性偏见及其对裁判结果的影响，属法官与司法行为方向。"
+        }
+      ],
+      "items": [
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/3",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol116/iss1/4"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "generatedAt": "2026-10-29T10:10:28.231Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "联邦最高法院就一起死刑案件举行口头辩论，审查检察官在陪审员遴选中的种族歧视性理由挑战。Batson先例确立禁止以种族排除陪审员，但举证标准长期存争议。多名大法官提问显示对申请人立场的同情，争点涉及联邦法院对州法院事实认定的审查范围与《联邦人身保护令法》的尊重边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/04/court-appears-sympathetic-to-death-row-inmates-attempt-to-challenge-racial-discrimination-in-jury-selection/"
+          ],
+          "relevance": "涉及陪审团组成与死刑案件审理程序，可为陪审遴选中的结构性偏见研究提供比较材料。"
+        },
+        {
+          "text": "三篇NYU Law Review论文围绕Loper Bright判决后的行政法重构展开：一篇提出国会授权与司法尊重的类型化协调框架；一篇考察联邦机构转向指导文件、强化授权论证与技术证据等策略性调整；一篇以反支配理论重塑行政正当性标准，主张减少支配应成为行政法核心价值。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-100-number-6/harmonizing-delegation-and-deference-after-loper-bright/",
+            "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
+            "https://nyulawreview.org/issues/volume-100-number-6/new-challenges-for-federal-regulations-executive-branch-responses/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/04/court-appears-sympathetic-to-death-row-inmates-attempt-to-challenge-racial-discrimination-in-jury-selection/",
+        "https://nyulawreview.org/issues/volume-100-number-6/harmonizing-delegation-and-deference-after-loper-bright/",
+        "https://nyulawreview.org/issues/volume-100-number-6/anti-domination-and-administration/",
+        "https://nyulawreview.org/issues/volume-100-number-6/new-challenges-for-federal-regulations-executive-branch-responses/"
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "generatedAt": "2026-10-29T10:10:31.309Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "SCOTUSblog 分析出生公民权案口头辩论：争议集中在宪法第十四修正案“受美国管辖”条款的原意解释，以及总统能否以行政令单方重新界定其适用范围。保守派大法官关注原意主义论证，自由派强调百余年实践传统与先例约束。案件结果将影响数百万移民后代的公民身份及移民执法体系。",
+          "refs": [
+            "https://www.scotusblog.com/2026/04/what-oral-argument-told-us-in-the-birthright-citizenship-case/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review 一文考察 Loper Bright 推翻 Chevron 后监管和解协议的效力困境：此类协议既无判例约束力，又未被直接撤销，处于法律灰色地带。作者提出协议效力分层框架，区分纯粹合同性和解与准立法性监管协议，并给出机构应对建议。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-100-number-6/regulatory-settlement-stare-decisis-and-loper-bright/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "同刊论文提出规则制定模态框架，指出联邦机构除通知—评论程序外，还通过非正式指南、解释性规则、政策声明、执法优先顺序等准规则形式规避正式程序。基于2010—2024年数据的考察显示正式规则制定比例下降而非正式指引激增，作者并就司法审查标准提出建议。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-100-number-6/modalities-of-agency-rulemaking/"
+          ],
+          "relevance": "法律实证研究方法：其穷举数据库量化规则制定工具分布的路径可用于规范性文件研究。"
+        },
+        {
+          "text": "同刊论文关注遵循先例原则中被忽视的可执行性维度，主张现行推翻先例的分析框架未独立评估先例的理解与适用成本，导致模糊先例被维持、清晰但结果不当的先例被推翻。作者对1990—2024年最高法院相关判决作全样本文本分析，归纳该因素的论证模式并提出规范框架。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-100-number-6/stare-decisis-and-the-missing-administrability-inquiry/"
+          ],
+          "relevance": "法官与司法行为：其判决文本编码方法可量化裁判文书中遵循先例表述的演变。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/04/what-oral-argument-told-us-in-the-birthright-citizenship-case/",
+        "https://nyulawreview.org/issues/volume-100-number-6/regulatory-settlement-stare-decisis-and-loper-bright/",
+        "https://nyulawreview.org/issues/volume-100-number-6/modalities-of-agency-rulemaking/",
+        "https://nyulawreview.org/issues/volume-100-number-6/stare-decisis-and-the-missing-administrability-inquiry/"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "generatedAt": "2026-10-29T10:10:33.842Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国大规模侵权诉讼中出现原告律师通过资本整合、案件聚合与诉讼基础设施共享形成的诉讼巨兽，2015至2022年石棉、阿片类药物等案件显示其提升了原告议价能力，也带来律师忠诚度稀释与和解分配不公等争议。研究运用网络分析与定量方法追踪这一结构变化。",
+          "refs": [
+            "https://michiganlawreview.org/crossing-the-rubicon-assembling-a-litigation-colossus-in-mass-torts/"
+          ],
+          "relevance": "法律实证研究方法：以网络分析与定量追踪展示诉讼聚合的测量方式。"
+        },
+        {
+          "text": "研究梳理2010至2023年47个联邦上诉法院判例，发现各巡回法院对无偏见驳回可上诉性标准分歧明显，功能性分析与形式主义路径并存，2019年Nutraceutical案未解决该张力，作者提出按诉讼阶段、驳回理由与当事人负担作情境化判断。",
+          "refs": [
+            "https://michiganlawreview.org/there-is-no-helpful-general-rule-about-appealing-dismissals-without-prejudice/"
+          ],
+          "relevance": "法官与司法行为：巡回法院裁判分歧的材料，可用于观察法官如何适用程序规则。"
+        },
+        {
+          "text": "研究分析《康斯托克法》在堕胎药物邮寄争议中的平等保护问题，指出其中立表述规避严格审查却对女性生殖健康造成不对称负担，援引2023年Mifepristone诉讼数据称邮寄限制使部分州药物流产可及性下降47%。",
+          "refs": [
+            "https://michiganlawreview.org/the-comstock-acts-equal-protection-problem/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://michiganlawreview.org/crossing-the-rubicon-assembling-a-litigation-colossus-in-mass-torts/",
+        "https://michiganlawreview.org/the-comstock-acts-equal-protection-problem/",
+        "https://michiganlawreview.org/there-is-no-helpful-general-rule-about-appealing-dismissals-without-prejudice/"
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "generatedAt": "2026-10-29T10:10:36.298Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "第九巡回法院以2:1认定H-2A法规中shall的强制性措辞默示排除对劳工部工资决定的司法审查，异议法官认为这违背Chevron尊重原则与分权制衡。争点在于国会沉默能否剥夺法院对涉及数亿美元劳工成本的行政决定的审查权，触及APA第701(a)(1)条排除审查条款的适用边界。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/sun-valley-orchards-llcv-united-states-department-of-labor/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Fulton案研究指出，法院以普遍适用性标准认定费城将宗教机构排除出寄养服务合同非中立适用，构成对宗教活动的违宪负担，史密斯案的中立普遍原则被实质架空。文章以实证分析揭示全美类似合同条款的违宪风险，涉及政府购买社会服务市场中宗教供应商的宪法地位。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/fulton-v-fulton-county-board-of-commissioners/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "该文分析Chevron被推翻后最高法院以原旨主义和非授权原则重构行政权边界，1930年代专家治理模式正被法院主导型规制取代，2022至2024年行政法案件激增47%，独立机构权力被系统性限缩。文章认为这标志功能主义向形式主义的宪法解释转向，行政政策连续性将削弱。",
+          "refs": [
+            "https://michiganlawreview.org/whats-left-of-the-new-deal-state/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://harvardlawreview.org/print/vol-139/sun-valley-orchards-llcv-united-states-department-of-labor/",
+        "https://harvardlawreview.org/print/vol-139/fulton-v-fulton-county-board-of-commissioners/",
+        "https://michiganlawreview.org/whats-left-of-the-new-deal-state/"
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "generatedAt": "2026-10-29T10:10:39.477Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院以8:1裁定《武装职业犯罪法》中“暴力重罪”的残余条款因违反明确性原则而无效，斯卡利亚在多数意见中首次将该原则系统适用于刑事量刑指南，直接影响约6000名在押犯人的量刑复核，并为后续Johnson案与Dimaya案确立先例。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/united-states-v-johnson/"
+          ],
+          "relevance": "量刑与刑罚：提供明确性原则限制量刑规则模糊性的判例与在押者复核数据。"
+        },
+        {
+          "text": "SCOTUSblog报道，最高法院将审理Bissonnette v. LePage Bakeries案，争议在于《联邦仲裁法》第1条运输工人豁免是否适用于仅从事州内配送的最后一公里司机，巡回法院在功能测试与狭义文义解释之间分歧明显，案件涉及零工经济中司机的集体诉讼权利。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/justices-to-consider-arbitration-exemption-for-last-mile-drivers/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "SCOTUSblog报道，最高法院9-0允许俄克拉荷马州街头传教士约翰逊继续诉讼，推翻第十巡回法院以明显确立原则驳回起诉的判决，要求其重审警方以阻碍交通为由逮捕是否违反第一修正案，涉及公共论坛的时间地点方式限制与qualified immunity的边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/unanimous-court-allows-street-preachers-free-speech-case-to-move-forward/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Michigan Law Review刊文提出加密窃国概念，从混币器与跨链桥等技术层、监管套利与司法互助失效的制度层、FATF标准与主权冲突的治理层构建分析框架，基于链上数据论证传统反洗钱体系在链上空间的结构性失灵，并提出链上尽职调查与智能合约冻结等方案。",
+          "refs": [
+            "https://michiganlawreview.org/crypto-kleptocracy/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Michigan Law Review刊文以十诫纪念碑争议为切入点，引入宗教改革时期国家强制推行宗教正统的历史比较框架，批评Van Orden与McCreary等案的历史与目的测试忽视早期现代国家的压制性本质，主张法院更严格审查政府宗教符号的象征性强制效应。",
+          "refs": [
+            "https://michiganlawreview.org/ten-commandments-cases-learning-from-reformation-coercion/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/unanimous-court-allows-street-preachers-free-speech-case-to-move-forward/",
+        "https://www.scotusblog.com/2026/03/justices-to-consider-arbitration-exemption-for-last-mile-drivers/",
+        "https://harvardlawreview.org/print/vol-139/united-states-v-johnson/",
+        "https://michiganlawreview.org/crypto-kleptocracy/",
+        "https://michiganlawreview.org/ten-commandments-cases-learning-from-reformation-coercion/"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "generatedAt": "2026-10-29T10:10:42.181Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "最高法院同意审理破产法第727(a)(2)(A)条豁免条款争议，第七巡回法院采无恶意标准，第五、十一巡回法院要求证明遗漏无实质性损害。争点在于债务人非欺诈性财产遗漏申报的宽恕条件，涉及债权人信息权与债务人重生的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/justices-to-consider-rules-pardoning-omissions-by-bankrupt-debtors/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "法院受理Department of State v. Muñoz案，争点为美国公民能否依第五修正案正当程序挑战政府拒绝其外籍配偶入境，触及领事不可审查原则的边界与边境执法中正当程序的适用限度。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/justices-to-consider-the-rights-of-asylum-seekers-at-the-u-s-mexico-border/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Harvard Law Review刊文讨论错失机会学说的宪法化争议，涉及警察执法过失致关键证据灭失时证据排除规则的适用边界，以及但-for因果关系标准与实质性可能性标准的司法分歧。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/blown-chances/"
+          ],
+          "relevance": "涉及证据排除与警察执法过失的司法认定，可为法律实证研究提供判例分歧材料。"
+        },
+        {
+          "text": "Michigan Law Review刊文分析投票权法私人执行机制遭司法限缩的趋势，涉及选民诉讼资格与救济范围的收紧，以及私人执法与行政执行的权力张力。",
+          "refs": [
+            "https://michiganlawreview.org/curbing-private-enforcement-of-the-voting-rights-act-thoughts-on-recent-developments/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Michigan Law Review刊文主张立法强制少数党参与政策制定程序，以程序性保障替代实质性代表不足，涉及国会委员会权力结构与议事规则的可能调整。",
+          "refs": [
+            "https://michiganlawreview.org/including-minority-parties-in-policymaking-a-legislative-requirement-to-address-member-interests/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/justices-to-consider-rules-pardoning-omissions-by-bankrupt-debtors/",
+        "https://www.scotusblog.com/2026/03/justices-to-consider-the-rights-of-asylum-seekers-at-the-u-s-mexico-border/",
+        "https://harvardlawreview.org/print/vol-139/blown-chances/",
+        "https://michiganlawreview.org/curbing-private-enforcement-of-the-voting-rights-act-thoughts-on-recent-developments/",
+        "https://michiganlawreview.org/including-minority-parties-in-policymaking-a-legislative-requirement-to-address-member-interests/"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "generatedAt": "2026-10-29T10:10:46.150Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在 Department of State v. Muñoz 案中以6比3裁定，美国公民不享有宪法权利要求政府解释其外籍配偶签证（含庇护类）被拒的理由，司法审查被限缩至表面歧视情形。移民案件已占联邦上诉案件两成以上，该判决预计引发新一轮诉讼，进一步挤压司法资源。法律问题在于移民领域正当程序保护的例外化与行政裁量的司法监督边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/supreme-court-asylum-decision-burdens-already-overworked-doj/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "最高法院同意审理特朗普政府终止叙利亚、海地国民临时保护身份（TPS）的合法性争议，涉及约30万受保护移民，下级法院已发全国性禁令。核心问题是总统能否单方面撤销国会授权的TPS保护、该决定可否被司法审查，触及行政权边界与《移民与国籍法》解释。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/justices-will-hear-argument-on-trump-administrations-removal-of-protected-status-for-syrian-and-haitian-nationals/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以2003至2018年联邦量刑数据批判儿童色情案件按文件数量机械累加的量刑模式，指出其忽视图像严重性梯度、重复与缓存文件等技术现实，造成量刑畸重、审前羁押率过高与辩诉交易扭曲，并提出以被害人识别加行为严重性替代文件计数的方案。问题在于量化指标与比例原则的冲突。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/when-all-files-count-the-same-the-problem-of-undifferentiated-images-in-child-pornography-sentencing/"
+          ],
+          "relevance": "量刑规则与实证数据，可用于讨论数量标准如何扭曲量刑与比例原则。"
+        },
+        {
+          "text": "论文考察1842年《关税法》授予总统的规则制定权，发现总统与财政部长期弃用该权力而依赖个案裁决，形成授权与弃用并存的悖论，并以政治考量、信息成本与制度能力解释法律形式的选择。研究挑战了行政国家兴起中规则制定必然扩张的预设，涉及规则制定与个案裁决的功能替代。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/making-the-rules-of-the-rules-of-the-game-the-use-misuse-and-disuse-of-the-rulemaking-grant-in-the-act-of-1842/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文分析美国宪法第三条单一司法权问题，梳理从 Hayburn's Case 到 Stern v. Marshall 的判例，讨论国会能否剥离联邦法院管辖或创设非第三条法官裁判机制，并评估对行政法法官、破产法官的合宪性审查趋势。争议在于功能主义与形式主义之间摇摆对联邦司法结构完整性的影响。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/does-the-supreme-court-have-a-strong-unitary-judicial-power/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以1995至2020年SEC执法数据提出以行为人格为基点的证券规制框架，称坏小子条款驱逐重复违规者的效率高于民事罚款，主张将个人道德风险评估嵌入证券准入程序。问题在于事前人格筛选与正当程序、职业自由的张力，以及如何避免终身标签化。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/bad-boy-jurisprudence/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/supreme-court-asylum-decision-burdens-already-overworked-doj/",
+        "https://www.scotusblog.com/2026/03/does-the-supreme-court-have-a-strong-unitary-judicial-power/",
+        "https://harvardlawreview.org/print/vol-139/making-the-rules-of-the-rules-of-the-game-the-use-misuse-and-disuse-of-the-rulemaking-grant-in-the-act-of-1842/",
+        "https://harvardlawreview.org/print/vol-139/when-all-files-count-the-same-the-problem-of-undifferentiated-images-in-child-pornography-sentencing/",
+        "https://harvardlawreview.org/print/vol-139/bad-boy-jurisprudence/",
+        "https://www.scotusblog.com/2026/03/justices-will-hear-argument-on-trump-administrations-removal-of-protected-status-for-syrian-and-haitian-nationals/"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "generatedAt": "2026-10-29T10:10:49.448Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院就特朗普政府依《国际紧急经济权力法》征收关税的合法性作出裁决，以6-3认定下级法院缺乏管辖权，未触及关税本身的合宪性，原告应依《关税法》第1581(a)条向国际贸易法院寻求救济；索托马约尔异议认为排他性管辖条款不适用于宪法索赔。案件涉及总统紧急权力与国会征税权的边界及程序性回避技术。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Goldberg在《哈佛法律评论》撰文追问侵权法是什么，批判功利主义与权利理论两种主导视角，提出制度性正义框架，主张侵权法是通过程序化责任认定分配风险与损失的机制，并以Palsgraf等判例嵌入理论演变叙事加以验证。其二元批判结构与判例体系化运用对法学论证方法有参考价值。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/what-is-a-tort/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "《哈佛法律评论》一文以政治过程理论重释美国建国时期宗教自由条款，梳理各州宪法良心自由条款后发现其含义存在宗教豁免型、道德扩展型与政治排除型等异质理解，据此主张现代法院不应诉诸单一原旨，而应关注条款的反歧视结构功能。文章运用了异质性概念类型化与失败立法史的反事实分析。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Hamburger撰文检讨美国行政国家中的权力分立，追溯建国时期对宪法第一条立法权的理解，认为行政机关广泛行使准立法权破坏权力分立结构，授权理论的衰落与行政国家扩张存在制度关联，宽松适用intelligible principle标准使该原则名存实亡。文章采用制度史、规范论与比较法的三层结构及反事实推理。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
+        "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+        "https://harvardlawreview.org/print/vol-139/liberty-of-conscience-political-process-theory-and-founding-era-free-exercise/",
+        "https://harvardlawreview.org/print/vol-139/separating-the-powers-in-the-administrative-state-article-i/"
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "generatedAt": "2026-10-29T10:10:53.354Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在Learning Resources v. Trump关税案中，大法官Jackson重新援引立法史解释法律，与Scalia对立法史被选择性引用的批评形成对话；Easterbrook和Silberman则持温和立场，认为立法史可展示立法妥协范围。随着Chevron尊重原则被推翻，法院解释模糊法律时可能重新诉诸立法史。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "阿利托大法官在Malliotakis v. Williams案协同意见中暗示《选举权法》第2条可能违宪，将遵守该法的选区重划等同于赤裸裸的种族歧视，与2023年Allen v. Milligan案维持该法合宪性的判决形成张力；待决的Louisiana v. Callais案可能进一步限缩该法适用范围。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佛罗里达州律师协会先称调查前临时联邦检察官Halligan，次日又否认存在正式调查；Halligan任内起诉特朗普政治对手的两案均因任命无效被驳回，法官指其向大陪审团作出根本性法律错误陈述。司法部正推动限制州律协对联邦雇员的调查权。",
+          "refs": [
+            "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "两篇论文分别以纳瓦霍族疫情应对和街头摊贩管制为个案：前者用法律地理学揭示部落主权、联邦信托责任与公共卫生治理中的结构性不平等；后者结合GIS执法热点分析与民族志，发现公共卫生话语被工具化以强化空间排斥。二者均展示危机情境下法律权力结构的显性化与实证方法的运用。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/covid-19-and-indian-country-a-legal-dispatch-from-the-navajo-nation/",
+            "https://northwesternlawreview.org/uncategorized/essential-but-excluded-vending-in-the-time-of-corona/"
+          ],
+          "relevance": "法律实证研究方法：GIS空间分析与民族志结合，可提供执法密度差异的研究设计示例。"
+        },
+        {
+          "text": "关于邮寄投票的论文以各州制度差异为自然实验，用双重差分法估计邮寄投票对投票率与选民代表性的影响，发现无过错缺席投票与自动登记结合可提升投票率，但签名匹配等验证程序设计不当会产生种族差异化拒票率。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/vote-by-mail-can-save-our-democracy-but-reforms-are-needed/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "关于疫情虚假信息的论文引入流行病学SIR模型刻画虚假信息传播，提出传播威慑概念，主张平台责任规则从内容审核转向干预传播速率，通过改变算法激励降低虚假信息的基本再生数，并以美欧立法比较提取功能等价原则。",
+          "refs": [
+            "https://northwesternlawreview.org/uncategorized/deterring-viral-pandemics-of-covid-19-misinformation/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/does-legislative-history-have-a-judicial-future/",
+        "https://www.scotusblog.com/2026/03/is-justice-alito-jumping-the-gun-on-voting-rights/",
+        "https://www.abajournal.com/news/article/florida-bar-reverses-itself-says-it-is-not-investigating-lindsey-halligan/",
+        "https://northwesternlawreview.org/uncategorized/covid-19-and-indian-country-a-legal-dispatch-from-the-navajo-nation/",
+        "https://northwesternlawreview.org/uncategorized/essential-but-excluded-vending-in-the-time-of-corona/",
+        "https://northwesternlawreview.org/uncategorized/vote-by-mail-can-save-our-democracy-but-reforms-are-needed/",
+        "https://northwesternlawreview.org/uncategorized/deterring-viral-pandemics-of-covid-19-misinformation/"
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "generatedAt": "2026-10-29T10:10:56.281Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "研究指出，美国职场性别不平等源于非标准用工扩张、低工资服务业与缺乏带薪家庭假等劳动市场制度，而非女性个人偏好；所谓自愿选择灵活工作实为结构性约束下的适应策略，主张法律改革应重构制度而非要求女性个体调整行为。",
+          "refs": [
+            "https://minnesotalawreview.org/2024/12/20/change-the-system-not-the-woman-addressing-workplace-inequities-stemming-from-the-american-economy/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文分析制药业依征收条款对《通胀削减法案》药品价格谈判条款的合宪性挑战，提出以投资预期为基准的测试，将宪法保护限于合理投资回报而非垄断利润，从而为价格管制留出合宪空间。",
+          "refs": [
+            "https://minnesotalawreview.org/2024/04/15/a-new-take-on-takings-big-pharmas-constitutional-challenges-to-bidens-inflation-reduction-act/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以赠地大学为对象，追溯《莫里尔法案》以来的制度演进，提出条件性联邦主义框架，说明联邦通过资源分配附加条件间接介入传统属州权的教育领域，形成联邦、州与大学的三方治理空间。",
+          "refs": [
+            "https://wustllawreview.org/2026/01/19/land-grant-universities/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文区分渐进式与突破性创新，指出预测性治理工具以未来可从过去推断为认知预设，会固化现有技术轨迹、排斥颠覆性变革，并以基因编辑与人工智能治理为例说明这一路径依赖陷阱。",
+          "refs": [
+            "https://www.bu.edu/bulawreview/2025/12/15/innovation-and-the-limits-of-predictive-governance/"
+          ],
+          "relevance": "涉及AI治理与法律判断，可提供预测模型认知局限的分析材料。"
+        }
+      ],
+      "items": [
+        "https://minnesotalawreview.org/2024/12/20/change-the-system-not-the-woman-addressing-workplace-inequities-stemming-from-the-american-economy/",
+        "https://minnesotalawreview.org/2024/04/15/a-new-take-on-takings-big-pharmas-constitutional-challenges-to-bidens-inflation-reduction-act/",
+        "https://wustllawreview.org/2026/01/19/land-grant-universities/",
+        "https://www.bu.edu/bulawreview/2025/12/15/innovation-and-the-limits-of-predictive-governance/"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "generatedAt": "2026-10-29T10:10:58.202Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "UCLA Law Review 刊出 David H. Gans 论文，主张以案件量透明度替代个案伦理投诉的事后救济，通过强制披露案件量、借助声誉激励与问责压力约束公设辩护人过度负担，并以多辖区试点数据评估效果。文章涉及律师职业伦理规则如何界定过度负担，以及信息披露这一程序性设计能否替代硬性案件数量上限。",
+          "refs": [
+            "https://www.uclalawreview.org/caseload-transparency-a-new-approach-to-the-ethics-of-excessive-caseloads/"
+          ],
+          "relevance": "法律实证研究方法：以试点数据评估披露机制效果，可参考其研究设计。"
+        }
+      ],
+      "items": [
+        "https://www.uclalawreview.org/caseload-transparency-a-new-approach-to-the-ethics-of-excessive-caseloads/"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "generatedAt": "2026-10-29T10:11:00.167Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院出生公民权争议围绕宪法第十四修正案中受其管辖这一例外条款展开。文章追溯1884年Elk v. Wilkins案与1898年United States v. Wong Kim Ark案的判例演变，指出当前行政命令扩大管辖例外范围面临的法律障碍，焦点在于Wong Kim Ark案确立的属地主义原则是否允许立法或行政手段创设新例外类别。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/birthright-citizenship-the-exceptions-provide-the-rule/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "2022年Dobbs案多数意见草案泄露后，首席大法官任命的内部调查历时数月未能锁定泄密者，报告于2023年1月公布，泄密者身份至今成谜。事件暴露最高法院信息管控的结构性脆弱：司法分支缺乏强制取证手段，大法官及助理的伦理约束机制失效，泄密还引发司法正当程序与司法独立的规范争议。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/will-the-mystery-of-the-dobbs-leak-ever-be-solved/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/birthright-citizenship-the-exceptions-provide-the-rule/",
+        "https://www.scotusblog.com/2026/03/will-the-mystery-of-the-dobbs-leak-ever-be-solved/"
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "generatedAt": "2026-10-29T10:11:03.166Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "学者以定量内容分析法系统审查声称基于原旨主义的出生公民权法律意见，发现其对第十四修正案相关建国史料的引用存在选择性偏差，支持与反对限制出生公民权的文献在史料完整性与准确性上均有缺陷。研究由此质疑原旨主义论证的方法论可靠性：当历史证据被选择性使用时，宪法解释是否仍受史料约束。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/birthright-citizenship-an-empirical-analysis-of-supposedly-originalist-briefs/"
+          ],
+          "relevance": "法律实证研究方法：示范以定量内容分析审查法律论证中的史料引用。"
+        },
+        {
+          "text": "叙利亚国民请求最高法院维持下级法院临时禁令，阻止政府终止其临时保护身份并启动遣返。争点在于行政机关单方面撤销人道主义保护身份的权限边界，以及法院在移民执法中介入的时机与强度，涉及行政裁量与正当程序保障的关系。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "最高法院以7-2裁定新泽西州交通局不享有第十一修正案主权豁免，可在其他州法院被诉，多数意见以商业性质为核心提出多因素判断框架，重新划定政府商业实体的豁免边界。该案与我国国有企业诉讼主体资格、政府投资平台公司法律身份的界定问题法理相通。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/supreme-court-rules-that-new-jersey-transit-can-be-sued-in-other-states/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "最高法院审理联邦运输安全法是否优先于州侵权法上的过失雇佣索赔，口头辩论中大法官对明示优先与隐含优先的区分标准存在分歧。争点在于联邦监管标准是否排除州法层面的民事追责路径，关系到受害者在受联邦监管行业中的救济渠道。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/court-grapples-with-whether-federal-law-supersedes-negligent-hiring-claims-against-freight-brokers/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/birthright-citizenship-an-empirical-analysis-of-supposedly-originalist-briefs/",
+        "https://www.scotusblog.com/2026/03/syrian-nationals-urge-supreme-court-to-keep-ruling-in-place-allowing-them-to-stay-in-the-united-states/",
+        "https://www.scotusblog.com/2026/03/supreme-court-rules-that-new-jersey-transit-can-be-sued-in-other-states/",
+        "https://www.scotusblog.com/2026/03/court-grapples-with-whether-federal-law-supersedes-negligent-hiring-claims-against-freight-brokers/"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "generatedAt": "2026-10-29T10:11:04.990Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在移民争议中以全票一致裁定支持联邦政府，确认行政机关在移民法适用中享有广泛裁量权，判决重申了移民领域对行政裁量的传统尊让原则，同时引发学界关于司法审查在移民执法中是否过度退让的讨论。该案显示，即便在意识形态分裂的法院，移民行政裁量尊让仍具跨党派共识。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/court-unanimously-sides-with-government-in-immigration-dispute/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/court-unanimously-sides-with-government-in-immigration-dispute/"
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "generatedAt": "2026-10-29T10:11:06.604Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院在涉及加州公立学校跨性别学生政策的案件中支持家长立场，争议在于学校是否有义务将学生性别认同信息告知家长，以及未成年人自我认同权是否构成对家长教育权的宪法性限制。案件呈现未成年人权利、家长教育权与学校职责的三角关系。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/divided-court-sides-with-parents-in-dispute-over-california-policies-on-transgender-students/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国最高法院批准共和党请求，暂停执行纽约州法院要求重划国会选区地图的命令。此前州上诉法院认定该地图存在党派性不公正划分并违反州宪法，故下令由独立特别主事官重绘。暂停令涉及联邦最高法院干预州法院选举法裁决的边界及独立州立法机关理论的延伸适用。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/supreme-court-grants-republicans-request-to-pause-order-to-redraw-new-york-congressional-map/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/03/divided-court-sides-with-parents-in-dispute-over-california-policies-on-transgender-students/",
+        "https://www.scotusblog.com/2026/03/supreme-court-grants-republicans-request-to-pause-order-to-redraw-new-york-congressional-map/"
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "generatedAt": "2026-10-29T10:11:08.436Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "最高法院就禁止药物使用者持有枪支的联邦法律举行口头辩论，多位大法官在Bruen案确立的历史文本主义框架下质疑其合宪性，核心问题是第二修正案持枪权能否仅因个人药物使用状态而被剥夺，以及历史上是否存在以危险性推定限制权利的先例传统。",
+          "refs": [
+            "https://www.scotusblog.com/2026/02/court-to-hear-argument-on-whether-and-when-drug-users-may-possess-firearms/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "最高法院受理一起联邦刑事被告上诉弃权条款适用范围案，争议在于辩诉交易中放弃上诉权的条款是否涵盖对量刑不当的上诉，弃权范围应作严格解释还是广义解释；该解释标准将影响联邦刑事案件中通过辩诉交易结案的被告。",
+          "refs": [
+            "https://www.scotusblog.com/2026/03/justices-to-consider-breadth-of-a-federal-defendants-waiver-of-appeal/"
+          ],
+          "relevance": "涉及量刑错误的上诉救济与辩诉交易中的权利放弃，可为量刑与刑罚方向提供比较法材料。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/02/court-to-hear-argument-on-whether-and-when-drug-users-may-possess-firearms/",
+        "https://www.scotusblog.com/2026/03/justices-to-consider-breadth-of-a-federal-defendants-waiver-of-appeal/"
       ]
     }
   ]
