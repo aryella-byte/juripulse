@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court finds law protecting judges, officers’ personal information unconstitutional",
+      "titleCN": "Court finds law protecting judges, officers’ personal information unconstitutional",
+      "url": "https://www.abajournal.com/news/article/west-virginia-court-finds-law-protecting-judges-officers-personal-information-unconstitutional/",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-29T06:07:59.456Z",
+      "summaryCN": "美国西弗吉尼亚州一项旨在保护法官和执法人员个人信息免于网络公开的法律，被联邦法院裁定违宪。该法禁止在互联网上发布上述人员的个人住址、电话等信息，但法院认为其过度限制言论自由，未能通过严格审查。判决涉及第一修正案与隐私权保护的平衡，可能影响其他州类似立法的合宪性，并引发关于公职人员隐私与公众知情权边界的讨论。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决直接触及第一修正案对言论自由的保护与政府试图通过立法保护特定群体隐私之间的张力，为审查此类信息屏蔽立法设定了严格标准。其制度影响在于：一是可能促使各州重新评估类似保护法官和执法人员个人信息的立法，避免过度宽泛的限制；二是为公众获取公职人员相关信息（包括住址等）的权利提供了判例支持，强化了知情权与监督权的宪法基础。对中国法而言，可比较公职人员隐私保护与舆论监督的边界，以及比例原则在限制言论措施中的适用。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "隐私权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Justices to decide whether failure to plead an affirmative defense prevents moving for summary judgment on that same defense",
+      "titleCN": "Justices to decide whether failure to plead an affirmative defense prevents moving for summary judgment on that same defense",
+      "url": "https://www.scotusblog.com/2026/10/justices-to-decide-whether-failure-to-plead-an-affirmative-defense-prevents-moving-for-summary-j/",
+      "date": "2026-10-28",
+      "addedAt": "2026-10-29T06:07:59.456Z",
+      "summaryCN": "美国最高法院将审理Younge诉富尔顿县地方检察官办公室案，核心争点是：当事人未在答辩中依《联邦民事诉讼规则》第8条提出积极抗辩，是否即丧失在第56条简易判决阶段主张该抗辩的权利。案件源于一名被解雇的政府雇员提起的民权诉讼。法院需协调第8条、第15条、第16条与第56条的关系，厘清未及时提出抗辩的失权后果及其例外。口头辩论定于11月2日进行。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接关涉联邦民事诉讼中积极抗辩的提出时点与失权规则，影响第8条与第56条之间的程序衔接。若最高法院认定未在答辩中提出即不得在简易判决阶段主张，将强化诉答阶段的对抗功能，促使被告及时披露抗辩事由；反之则可能弱化第8条的失权效果。对中国民事诉讼中答辩失权与逾期抗辩的处理亦有比较法参考价值，涉及程序失权与实体公正的平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦民事诉讼规则",
+          "class": ""
+        },
+        {
+          "name": "积极抗辩",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Chemerinsky: Supreme Court once again examines conflicts over the free exercise of religion",
+      "titleCN": "Chemerinsky: Supreme Court once again examines conflicts over the free exercise of religion",
+      "url": "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-once-again-examines-conflicts-over-the-free-exercise-of-religion/",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-29T06:07:59.456Z",
+      "summaryCN": "美国最高法院将于周二就一起涉及宗教自由行使条款的重大案件进行口头辩论。加州大学伯克利分校法学院教授埃尔温·切默林斯基在ABA Journal撰文分析该案。案件核心在于如何界定第一修正案宗教自由行使条款与中立普遍适用法律之间的冲突边界，涉及最高法院近年来在宗教自由领域的判例走向。切默林斯基长期研究宪法与宗教自由议题，其评论预示该案可能对政教关系规则产生进一步调整。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接触及美国宪法第一修正案宗教自由行使条款的适用范围，可能重塑中立普遍适用法律与宗教豁免之间的平衡规则，影响就业、医疗、教育等领域的合规义务。对比较法研究而言，美国最高法院在宗教自由与反歧视法冲突中的判例演进，为中国处理宗教事务法治化、政教关系制度设计提供参照。同时，该案口头辩论进展值得关注联邦最高法院在宪政争议中的裁判倾向，对理解普通法体系下基本权利冲突的司法衡量方法具有制度意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "美国最高法院",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Court declines to restore Biden-era regulation allowing some deportation proceedings to be suspended",
       "titleCN": "Court declines to restore Biden-era regulation allowing some deportation proceedings to be suspended",
       "url": "https://www.scotusblog.com/2026/10/court-declines-to-restore-biden-era-regulation-allowing-some-deportation-proceedings-to-be-suspe/",
@@ -5177,6 +5246,29 @@
   ],
   "research": [
     {
+      "title": "The Forgotten Elected Officials",
+      "titleCN": "The Forgotten Elected Officials",
+      "url": "https://pennlawreview.com/2026/10/24/the-forgotten-elected-officials/",
+      "date": "2026-10-24",
+      "addedAt": "2026-10-29T06:08:13.083Z",
+      "summaryCN": "论文指出，地方政府法研究长期聚焦于市长、议员、县委员和学校董事会成员等管理性机构官员，却忽视了数量更为庞大的其他经选举产生的地方官员，如治安官、检察官、验尸官、审计官等。文章系统梳理这类被遗忘官员的选举产生方式、职权范围与问责机制，揭示其分散化选举结构对地方治理和民主问责的影响，并主张重新审视地方选举官员的整体图景。",
+      "summaryEN": "",
+      "whyMattersCN": "该文填补了地方政府法与选举法交叉领域的研究空白，将治安官、地方检察官等独立选举官员纳入分析框架，有助于理解美国地方治理中碎片化选举产生的问责难题。对中国法而言，其比较法价值在于提示地方选举官员的职权配置与监督机制设计需与地方治理结构相匹配，避免因选举职位过多导致责任分散和协调失灵，对完善基层治理与官员问责制度具有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "地方政府法",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举官员",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Precedent and Jurisdiction",
       "titleCN": "Precedent and Jurisdiction",
       "url": "https://pennlawreview.com/2026/10/24/precedent-and-jurisdiction/",
@@ -7916,8 +8008,8 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-28T06:00:04.486Z",
+    "updatedAt": "2026-10-29T06:08:22.404Z",
     "generator": "ai",
-    "checkedAt": "2026-10-28T06:00:04.486Z"
+    "checkedAt": "2026-10-29T06:08:22.404Z"
   }
 }
