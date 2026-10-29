@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "title": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
+      "titleCN": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
+      "url": "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-29T11:56:53.906Z",
+      "summaryCN": "密苏里州此前通过一项法律，允许对被错误定罪者进行国家赔偿。现两名蒙冤入狱共38年的男子依据该法索赔240万美元，但州总检察长却在法庭上竭力抗辩，试图阻止赔付。此案凸显了错案赔偿立法在实施环节遭遇的行政抵制：法律虽已确立赔偿权利，但检察机关作为诉讼对手方，可能通过法律解释或程序抗辩架空补偿机制。案件目前仍在法院审理中，其结果将检验该州赔偿法的实际效力与错案救济的可及性。",
+      "summaryEN": "",
+      "whyMattersCN": "该案揭示了错案赔偿制度从立法到落地的关键断层：赔偿法通过后，总检察长仍可运用诉讼策略限缩其适用，使法定权利沦为纸面承诺。对美国各州而言，这提出了赔偿立法如何设计才足以抵御行政机关抵制的制度问题，例如是否应设置独立赔偿委员会、排除检察机关的对抗角色、或规定强制性赔偿标准。对中国而言，错案国家赔偿同样面临赔偿范围窄、程序门槛高、精神损害抚慰金偏低等实施难题，本案提示应关注赔偿决定程序中权力配置对权利实现的影响，并思考如何通过程序独立化保障赔偿请求人的实质救济。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "错案赔偿",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Can the Attorney General Remove Assistant U.S. Attorneys at Will?",
       "titleCN": "Can the Attorney General Remove Assistant U.S. Attorneys at Will?",
       "url": "https://www.lawfaremedia.org/article/can-the-attorney-general-remove-assistant-u.s.-attorneys-at-will",
@@ -8123,49 +8146,72 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-29T11:55:27.140Z",
+    "updatedAt": "2026-10-29T11:57:03.937Z",
     "generator": "ai",
-    "checkedAt": "2026-10-29T11:55:27.140Z"
+    "checkedAt": "2026-10-29T11:57:03.937Z"
   },
   "digests": [
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T10:05:34.240Z",
+      "generatedAt": "2026-10-29T11:57:03.932Z",
       "model": "deepseek-flash",
       "points": [
         {
-          "text": "美国最高法院将审理 Younge 诉富尔顿县地方检察官办公室案，争点为当事人未依《联邦民事诉讼规则》第8条在答辩中提出积极抗辩，是否即丧失在第56条简易判决阶段主张该抗辩的权利。案件源于一名被解雇政府雇员提起的民权诉讼，法院需协调第8、15、16、56条关系，口头辩论定于11月2日。",
+          "text": "密苏里州两名蒙冤入狱共38年的男子依据该州错案赔偿法索赔240万美元，州总检察长却在法庭上竭力抗辩阻止赔付。该案显示赔偿立法通过后，检察机关作为诉讼对手方仍可通过法律解释与程序抗辩限缩法定权利，暴露错案救济从立法到落地的断层。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation"
+          ],
+          "relevance": "涉及错案救济与赔偿实施，可为刑事司法纠错与矫正研究提供材料。"
+        },
+        {
+          "text": "一项大规模实证实验发现，大语言模型的裁判判断对提示措辞、输出处理方式和模型选择高度敏感，前沿模型无法准确评估语言通常含义，调校为助手模型还会不可预测地改变判断并可能降低与人类判断的一致性。这削弱了LLM作为法律解释者的可信度。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70041"
+          ],
+          "relevance": "直接检验AI用于法律判断的可靠性，为智慧司法中模型输出的验证与披露提供实证依据。"
+        },
+        {
+          "text": "论文利用明尼苏达州2004至2017年法院行政数据，以监狱容量为工具变量，同时估计监禁、缓刑与罚金三类刑罚要素，发现处境相似的被告在刑罚组合上已呈现种族化模式，仅考察孤立量刑决定会低估刑事法律系统中的不平等。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70045"
+          ],
+          "relevance": "以工具变量处理刑罚同时性问题，属量刑与刑罚实证研究，可提供刑罚组合整体效应的数据与方法参考。"
+        },
+        {
+          "text": "美国最高法院将审理Younge诉富尔顿县地方检察官办公室案，争点是当事人未依《联邦民事诉讼规则》第8条在答辩中提出积极抗辩，是否即丧失在第56条简易判决阶段主张该抗辩的权利，涉及第8条、第15条、第16条与第56条的衔接及失权后果。",
           "refs": [
             "https://www.scotusblog.com/2026/10/justices-to-decide-whether-failure-to-plead-an-affirmative-defense-prevents-moving-for-summary-j/"
           ],
           "relevance": ""
         },
         {
-          "text": "西弗吉尼亚州一项保护法官和执法人员个人信息免于网络公开的法律被联邦法院裁定违宪，法院认为其过度限制言论自由、未通过严格审查。判决涉及第一修正案与隐私权的平衡，可能影响其他州类似立法的合宪性，并引发公职人员隐私与公众知情权边界的讨论。",
+          "text": "纽约南区联邦地区法院法官Furman裁定，司法部长无权在无正当理由下解雇助理联邦检察官，宪法第二条任命与罢免条款不改变这一结论，触及司法部人事控制与检察独立的张力；西弗吉尼亚州保护法官和执法人员个人信息免于网络公开的法律则被联邦法院以过度限制言论自由、未通过严格审查为由裁定违宪。",
           "refs": [
+            "https://www.lawfaremedia.org/article/can-the-attorney-general-remove-assistant-u.s.-attorneys-at-will",
             "https://www.abajournal.com/news/article/west-virginia-court-finds-law-protecting-judges-officers-personal-information-unconstitutional/"
           ],
           "relevance": ""
         },
         {
-          "text": "Penn Law Review 论文指出，地方政府法研究长期聚焦市长、议员等管理性机构官员，忽视数量更庞大的经选举产生的地方官员，如治安官、检察官、验尸官、审计官等。文章梳理这类官员的选举方式、职权范围与问责机制，揭示分散化选举结构对地方治理和民主问责的影响。",
+          "text": "多起宪法与监管争议进入司法视野：司法部起诉加州选举官员要求隔离约2万名被怀疑为非公民者所投邮寄选票；最高法院将就宗教自由行使条款与中立普遍适用法律的冲突进行口头辩论；另有文章主张AI模型权重的许可制度应预先嵌入第一修正案保障。",
           "refs": [
-            "https://pennlawreview.com/2026/10/24/the-forgotten-elected-officials/"
-          ],
-          "relevance": ""
-        },
-        {
-          "text": "美国最高法院将就一起涉及宗教自由行使条款的重大案件进行口头辩论，核心是界定该条款与中立普遍适用法律之间的冲突边界。加州大学伯克利分校法学院教授切默林斯基在 ABA Journal 撰文分析，其评论预示该案可能对政教关系规则产生进一步调整。",
-          "refs": [
+            "https://www.scotusblog.com/2026/10/the-trump-administrations-attempt-to-prevent-noncitizen-voting-and-the-role-of-supreme-court/",
+            "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
             "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-once-again-examines-conflicts-over-the-free-exercise-of-religion/"
           ],
           "relevance": ""
         }
       ],
       "items": [
+        "https://www.lawfaremedia.org/article/can-the-attorney-general-remove-assistant-u.s.-attorneys-at-will",
+        "https://www.scotusblog.com/2026/10/the-trump-administrations-attempt-to-prevent-noncitizen-voting-and-the-role-of-supreme-court/",
         "https://www.abajournal.com/news/article/west-virginia-court-finds-law-protecting-judges-officers-personal-information-unconstitutional/",
         "https://www.scotusblog.com/2026/10/justices-to-decide-whether-failure-to-plead-an-affirmative-defense-prevents-moving-for-summary-j/",
+        "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation",
+        "https://doi.org/10.1111/jels.70041",
+        "https://doi.org/10.1111/1745-9125.70045",
         "https://pennlawreview.com/2026/10/24/the-forgotten-elected-officials/",
+        "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
         "https://www.abajournal.com/columns/article/chemerinsky-supreme-court-once-again-examines-conflicts-over-the-free-exercise-of-religion/"
       ]
     },
