@@ -13,7 +13,7 @@ on:
         default: '3'
       max_research:
         description: 'Max research items to add this run'
-        default: '1'
+        default: '2'
       backfill_from:
         description: 'Backfill start date YYYY-MM-DD (leave empty for a normal run)'
         default: ''
@@ -59,7 +59,7 @@ jobs:
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           BRIEF_AI_MODEL: ${{ vars.BRIEF_AI_MODEL || 'ark-code-latest' }}
           MAX_NEWS: ${{ inputs.max_news || 3 }}
-          MAX_RESEARCH: ${{ inputs.max_research || 1 }}
+          MAX_RESEARCH: ${{ inputs.max_research || 2 }}
           BACKFILL_FROM: ${{ inputs.backfill_from }}
           BACKFILL_TO: ${{ inputs.backfill_to }}
           DIGEST_BACKFILL: ${{ inputs.digest_backfill }}

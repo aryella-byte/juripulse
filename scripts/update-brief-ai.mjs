@@ -16,6 +16,9 @@ const newsSources = {
   JURIST: 'https://www.jurist.org/feed/',
   'Just Security': 'https://www.justsecurity.org/feed/',
   'ABA Journal': 'https://www.abajournal.com/rss',
+  // 2026-10-29 加入：刑事司法与 AI 法律两个与本组研究线对口的来源
+  'The Marshall Project': 'https://www.themarshallproject.org/rss/recent',
+  Lawfare: 'https://www.lawfaremedia.org/feeds/articles',
 }
 
 const researchSources = {
@@ -30,7 +33,24 @@ const researchSources = {
   'Virginia Law Review': 'https://virginialawreview.org/feed/',
   'Northwestern Law Review': 'https://northwesternlawreview.org/feed/',
   'J Criminal Law & Criminology': 'https://scholarlycommons.law.northwestern.edu/jclc/recent.rss',
+  // 2026-10-29 加入：实证法学、犯罪学、法律心理学与 AI 法律期刊（Law and Human Behavior、Sentencing Law and Policy 等对脚本返回 403，未收）
+  'J Empirical Legal Studies': 'https://onlinelibrary.wiley.com/feed/17401461/most-recent',
+  Criminology: 'https://onlinelibrary.wiley.com/feed/17459125/most-recent',
+  'Criminology & Public Policy': 'https://onlinelibrary.wiley.com/feed/17459133/most-recent',
+  'Behavioral Sciences & the Law': 'https://onlinelibrary.wiley.com/feed/10990798/most-recent',
+  'Justice Quarterly': 'https://www.tandfonline.com/feed/rss/rjqy20',
+  'J Quantitative Criminology': 'https://link.springer.com/search.rss?facet-journal-id=10940&facet-content-type=Article',
+  'Artificial Intelligence and Law': 'https://link.springer.com/search.rss?facet-journal-id=10506&facet-content-type=Article',
 }
+
+// 出版社文章页拒绝脚本访问（403），跳过可达性检查；链接改为 doi.org 永久地址
+const publisherResearchSources = new Set([
+  'J Empirical Legal Studies',
+  'Criminology',
+  'Criminology & Public Policy',
+  'Behavioral Sciences & the Law',
+  'Justice Quarterly',
+])
 
 const junkKeywords = [
   'call for submissions',
@@ -141,6 +161,15 @@ const legalKeywords = [
 
 const researchKeywords = [
   'abstract',
+  'court',
+  'crime',
+  'judge',
+  'offend',
+  'police',
+  'prison',
+  'punishment',
+  'sentenc',
+  'victim',
   'article',
   'claim',
   'constitutional',
@@ -175,6 +204,17 @@ const sourceWeights = {
   JURIST: 8,
   'Just Security': 8,
   'ABA Journal': 7,
+  'The Marshall Project': 9,
+  Lawfare: 7,
+  // 与本组研究线（量刑、司法行为、公众感知、AI 与法律判断、实证方法）对口的期刊优先
+  'J Empirical Legal Studies': 12,
+  Criminology: 11,
+  'Criminology & Public Policy': 11,
+  'Behavioral Sciences & the Law': 11,
+  'Justice Quarterly': 11,
+  'J Quantitative Criminology': 11,
+  'Artificial Intelligence and Law': 11,
+  'J Criminal Law & Criminology': 10,
 }
 
 const maxNews = Number(process.env.MAX_NEWS || 3)
@@ -309,9 +349,11 @@ function parseFeed(xml) {
         normalizeUrl(block.match(/<link[^>]*href=["']([^"']+)["'][^>]*>/i)?.[1] ?? '')
       const date =
         textBetween(block, 'pubDate') ||
+        textBetween(block, 'dc:date') ||
         textBetween(block, 'published') ||
         textBetween(block, 'updated')
       const excerpt =
+        textBetween(block, 'dc:description') ||
         textBetween(block, 'description') ||
         textBetween(block, 'summary') ||
         textBetween(block, 'content:encoded')
@@ -337,7 +379,11 @@ async function fetchFeed(url, source) {
     }, feedTimeoutMs, `Feed request for ${source}`)
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`)
     const xml = await response.text()
-    const items = parseFeed(xml).slice(0, 15)
+    const items = parseFeed(xml).slice(0, 15).map((item) => {
+      if (!publisherResearchSources.has(source)) return item
+      const doi = item.url.match(/\/doi\/(?:full\/|abs\/|epdf\/)?(10\.\d{4,9}\/[^?#\s]+)/i)?.[1]
+      return doi ? { ...item, url: `https://doi.org/${doi}` } : item
+    })
     log(`${source}: ${items.length} candidates`)
     return items
   } catch (error) {
@@ -599,6 +645,8 @@ async function buildQueue(sources, { isResearch = false } = {}) {
     }),
   )
 
+  // 轮流取各来源时，权重高（与本组研究线对口）的来源排在前面
+  entries.sort((a, b) => (sourceWeights[b.source] || 0) - (sourceWeights[a.source] || 0))
   const queue = []
   for (let rank = 0; rank < 15; rank += 1) {
     let added = false
@@ -625,7 +673,7 @@ async function updateSection({ aiConfig, data, sources, key, limit, isResearch }
     if (existing.has(itemId(item.title))) continue
 
     try {
-      if (!(await isReachableUrl(item.url, source))) continue
+      if (!publisherResearchSources.has(source) && !(await isReachableUrl(item.url, source))) continue
       log(`AI analyzing: ${item.title.slice(0, 80)}`)
       const analysis = await analyzeWithAi(aiConfig, item, source, isResearch)
       const qualityScore = Number(analysis?.qualityScore || 0)
