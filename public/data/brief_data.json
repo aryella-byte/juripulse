@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Groups ask Supreme Court to leave lower court order in place halting border wall construction in southwestern Texas",
+      "titleCN": "Groups ask Supreme Court to leave lower court order in place halting border wall construction in southwestern Texas",
+      "url": "https://www.scotusblog.com/2026/10/groups-ask-supreme-court-to-leave-lower-court-order-in-place-halting-border-wall-construction-in/",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-30T06:08:22.180Z",
+      "summaryCN": "原告挑战特朗普政府在得克萨斯州西南部大弯地区修建边境墙，联邦地区法官已发布临时禁令暂停施工。原告律师向最高法院提交40页文件，敦促大法官维持该禁令，称若解除将允许政府立即恢复爆破、推土、道路建设等破坏性施工，影响美国最偏远且生态文化意义重大的景观之一。争议核心在于总统边境墙建设权限与联邦法院禁令的司法审查标准。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及总统在边境安全领域的行政权限边界，以及联邦法院发布临时禁令后最高法院介入的标准。若最高法院解除禁令，将强化行政部门在移民管控和边境建设中的自主权，削弱下级法院对行政行为的司法制约；若维持禁令，则确认法院对生态和文化敏感区域施工的审查权。该争议还触及《国家环境政策法》等环境审查要求与国家安全豁免的张力，对理解美国宪政分权、行政程序及环境公益诉讼的临时救济标准具有判例意义，也为中国法上行政禁令与生态保护红线的司法审查提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "边境墙",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "A Tale of Two Cases: How ICE Operates in the Shadows",
+      "titleCN": "A Tale of Two Cases: How ICE Operates in the Shadows",
+      "url": "https://www.themarshallproject.org/2026/10/27/ice-detention-compare-criminal-cases-los-angeles",
+      "date": "2026-10-27",
+      "addedAt": "2026-10-30T06:08:22.180Z",
+      "summaryCN": "报道对比两名同期被捕男子的不同境遇：一人进入刑事司法程序，享有律师权、保释听证与公开审判等宪法保障；另一人则被转入ICE行政移民拘留系统，程序封闭、缺乏有效司法审查与法律援助。调查揭示ICE在阴影中运作的执法模式，包括秘密拘留、快速遣返及信息不透明，凸显刑事与移民两套程序在权利保障上的结构性落差。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示美国移民执法中行政拘留与刑事程序的权利鸿沟，涉及正当程序、平等保护及人身保护令的适用边界。ICE行政系统缺乏律师权与独立司法审查，与刑事被告的宪法保障形成鲜明对比，对理解移民法的程序正义缺陷具有比较法价值。中国可借鉴其关于行政拘留司法审查与法律援助覆盖的讨论，反思收容遣送类措施的程序保障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民执法",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Why is the Government Hiding Court Rebuke on Warrantless FISA Surveillance?",
+      "titleCN": "Why is the Government Hiding Court Rebuke on Warrantless FISA Surveillance?",
+      "url": "https://www.justsecurity.org/160451/government-hiding-rebuke-warrantless-fisa-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=government-hiding-rebuke-warrantless-fisa-surveillance",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-30T06:08:22.180Z",
+      "summaryCN": "Just Security刊文质疑特朗普政府隐瞒法院对无证FISA 702监控的司法训诫。文章指出，政府机构长期滥用《外国情报监视法》第702条，而行政部门现以违法方式向公众隐匿相关司法裁决。核心争议在于：当外国情报监控项目被法院认定违宪或越权时，行政机关是否有义务公开该裁决；以及国会监督与公众知情权在国家安全保密框架下如何保障。最新进展是文章呼吁披露被隐匿的法院意见，并追究行政部门妨碍监督的责任。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国宪政体制中外国情报监控的司法审查与行政透明边界。FISA第702条授权无证监控境外非美国人的通信，但连带收集美国人的信息，长期引发第四修正案争议。若行政机关隐匿法院对监控项目的违宪或越权认定，将削弱国会监督、司法审查和公众问责，形成秘密宪法判例。对中国法而言，该问题类比国家安全领域监察与司法审查的透明度，涉及监察法、国家情报法及数据安全法下秘密监控的监督机制设计，具有比较法启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "FISA 702",
+          "class": "constitutional"
+        },
+        {
+          "name": "外国情报监控",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
       "title": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
       "titleCN": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
       "url": "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation",
@@ -5338,6 +5407,52 @@
   ],
   "research": [
     {
+      "title": "Advocates for Community Transformation: Using the civil justice system to tackle drug houses and empower residents",
+      "titleCN": "Advocates for Community Transformation: Using the civil justice system to tackle drug houses and empower residents",
+      "url": "https://doi.org/10.1111/1745-9133.70044",
+      "date": "2026-10-13",
+      "addedAt": "2026-10-30T06:08:37.905Z",
+      "summaryCN": "该研究探讨达拉斯市一项创新项目，支持居民主导执行妨害消除法，要求业主对物业内犯罪负责，以民事司法系统治理毒品房屋。基于情境犯罪预防原则，2021至2024年间项目成功处理48处妨害物业，主要为涉毒品与暴力犯罪的独栋住宅，救济措施包括租客驱逐与物业修复。",
+      "summaryEN": "",
+      "whyMattersCN": "论文将情境犯罪预防理论延伸至民事妨害消除法领域，揭示居民主导执法如何弥补刑事司法系统在治理毒品房屋上的局限。其制度价值在于展示民事救济（驱逐、修复令）与社区赋权的结合，为财产权与公共安全的平衡提供实证依据。对中国法而言，可启发思考物业业主责任、社区参与治安治理及行政与民事手段衔接，尤其在毒品犯罪空间防控与基层治理创新方面具有比较法参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "情境犯罪预防",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Criminology & Public Policy"
+    },
+    {
+      "title": "Beyond the Adversarial Rivalry: A Developmental Rights‐Based Model for Minor‐on‐Minor Crime, Part 1",
+      "titleCN": "Beyond the Adversarial Rivalry: A Developmental Rights‐Based Model for Minor‐on‐Minor Crime, Part 1",
+      "url": "https://doi.org/10.1002/bsl.70082",
+      "date": "2026-10-06",
+      "addedAt": "2026-10-30T06:08:37.905Z",
+      "summaryCN": "本文针对儿童伤害儿童的未成年人之间犯罪情形，指出传统被害人—加害人对抗框架难以应对发展性、关系性与制度性复杂因素。论文整合少年司法、儿童发展与治疗法理学文献，检视未成年被告人与被害人权利利益之间的张力，并识别出缺乏整合性框架的空白，进而提出以发展权利为基础的模型（第一部分）。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及少年司法中长期被忽视的未成年人互害领域，挑战对抗制与被害人权利二元对立的制度预设，对少年审判、恢复性司法与儿童保护衔接具有比较法启发。其发展权利框架可为中国未成年人保护法与预防未成年人犯罪法的衔接、附条件不起诉与被害人救助的协调提供参考，并提示在程序设计上兼顾未成年被告人的发展需求与被害人的儿童敏感保护。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "少年司法",
+          "class": "criminal"
+        },
+        {
+          "name": "未成年人互害",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
       "title": "Off‐The‐Shelf Large Language Models Are Unreliable Judges",
       "titleCN": "Off‐The‐Shelf Large Language Models Are Unreliable Judges",
       "url": "https://doi.org/10.1111/jels.70041",
@@ -8146,11 +8261,54 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-29T11:57:03.937Z",
+    "updatedAt": "2026-10-30T06:08:47.393Z",
     "generator": "ai",
-    "checkedAt": "2026-10-29T11:57:03.937Z"
+    "checkedAt": "2026-10-30T06:08:47.393Z"
   },
   "digests": [
+    {
+      "date": "2026-10-30",
+      "generatedAt": "2026-10-30T06:08:47.386Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "两篇论文分别涉及社区以民事妨害消除法治理毒品房屋，以及未成年人之间犯罪的发展权利模型。前者基于情境犯罪预防，由居民推动要求业主对物业内犯罪负责，救济包括驱逐与修复；后者指出被害人—加害人对抗框架难以应对发展性与关系性因素，提出整合少年司法与儿童发展的权利模型。二者共同显示，刑事之外的民事与少年司法路径如何回应犯罪治理与权利保障的张力。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9133.70044",
+            "https://doi.org/10.1002/bsl.70082"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "报道对比两名同期被捕男子的境遇：一人进入刑事程序，享有律师权、保释听证与公开审判；另一人转入ICE行政移民拘留，程序封闭，缺乏有效司法审查与法律援助。调查揭示秘密拘留、快速遣返与信息不透明，凸显刑事与移民两套程序在正当程序与人身保护令适用上的结构性落差。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/10/27/ice-detention-compare-criminal-cases-los-angeles"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Just Security刊文质疑政府隐匿法院对无证FISA 702监控的司法训诫，指行政部门以违法方式向公众隐瞒相关裁决。争议在于监控项目被认定违宪或越权时行政机关是否有公开义务，以及国会监督与公众知情权在国家安全保密框架下如何保障；文章呼吁披露被隐匿的法院意见并追究妨碍监督的责任。",
+          "refs": [
+            "https://www.justsecurity.org/160451/government-hiding-rebuke-warrantless-fisa-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=government-hiding-rebuke-warrantless-fisa-surveillance"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "原告挑战政府在得克萨斯州西南部大弯地区修建边境墙，联邦地区法官已发布临时禁令暂停施工。原告向最高法院提交文件，请求维持禁令，称解除将允许立即恢复爆破、推土与道路建设。争议核心是总统边境墙建设权限的边界，以及联邦法院发布临时禁令后最高法院介入的审查标准。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/groups-ask-supreme-court-to-leave-lower-court-order-in-place-halting-border-wall-construction-in/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/10/groups-ask-supreme-court-to-leave-lower-court-order-in-place-halting-border-wall-construction-in/",
+        "https://www.themarshallproject.org/2026/10/27/ice-detention-compare-criminal-cases-los-angeles",
+        "https://www.justsecurity.org/160451/government-hiding-rebuke-warrantless-fisa-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=government-hiding-rebuke-warrantless-fisa-surveillance",
+        "https://doi.org/10.1111/1745-9133.70044",
+        "https://doi.org/10.1002/bsl.70082"
+      ]
+    },
     {
       "date": "2026-10-29",
       "generatedAt": "2026-10-29T11:57:03.932Z",
