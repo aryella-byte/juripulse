@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Fraudfare: Weaponized Fraud Under International Law",
+      "titleCN": "Fraudfare: Weaponized Fraud Under International Law",
+      "url": "https://www.lawfaremedia.org/article/fraudfare--weaponized-fraud-under-international-law",
+      "date": "2026-10-30",
+      "addedAt": "2026-10-31T06:03:58.931Z",
+      "summaryCN": "Lawfare刊文探讨国际法框架下诈骗呼叫中心被武器化的问题，聚焦跨国诈骗产业与武装冲突的关联。文章分析诈骗园区在东南亚等地依托武装势力运作，其收益为冲突方提供资金，并提出此类行为可能构成战争罪或危害人类罪的论证路径。核心争点在于国内检察机关对组织犯罪的消极追诉是否构成国际法上的归责障碍，以及俄罗斯等国提出的虚假指控如何影响国际司法协作。文章主张强化普遍管辖权与资产追缴机制以应对跨境诈骗的国家责任真空。",
+      "summaryEN": "",
+      "whyMattersCN": "该文将电信诈骗从国内刑法议题提升至国际刑法层面，触及普遍管辖权、国家归责与战争罪构成要件等制度问题。对中国的启发在于：跨境诈骗园区治理需与反洗钱、资产冻结及国际刑事司法协助衔接，而非仅依赖双边警务合作。文章关于检察机关追诉懈怠可能引发国家责任的论证，对完善中国打击跨境电诈的执法监督与合规追责机制具有比较法参考价值，也提示在引渡与证据互认规则上需应对虚假指控风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际刑法",
+          "class": "international"
+        },
+        {
+          "name": "跨境电信诈骗",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "Guantanamo Dispatches: USS Cole Defense Lawyers Make 11th Hour Plea for Delay of Trial Starting Monday",
+      "titleCN": "Guantanamo Dispatches: USS Cole Defense Lawyers Make 11th Hour Plea for Delay of Trial Starting Monday",
+      "url": "https://www.justsecurity.org/162545/uss-cole-trial-defense-plea-delay/?utm_source=rss&utm_medium=rss&utm_campaign=uss-cole-trial-defense-plea-delay",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-31T06:03:58.931Z",
+      "summaryCN": "关塔那摩 USS Cole 爆炸案审判定于下周一启动陪审团遴选，辩方资深军事律师在最后时刻请求主审法官将审判推迟六个月。该案涉及军事委员会审判恐怖主义嫌疑人的程序合法性、被告获得有效辩护与准备时间等核心争议。辩方主张仓促开庭将损害其辩护权，而检方与法院面临推进审判的压力。此动议的裁决将直接影响审判能否如期进行，并可能引发关于军事审判正当程序的进一步上诉。",
+      "summaryEN": "",
+      "whyMattersCN": "本案触及军事委员会审判恐怖主义嫌疑人的正当程序底线，尤其是被告获得有效律师帮助与合理准备时间的宪法与军事司法规则。推迟动议的裁决将检验军事法官如何在国家安全利益与程序公正之间权衡，并可能为后续上诉创造关于军事审判合宪性的判例。对中国法而言，该案启发在于：特别刑事程序（如军事或反恐审判）中辩护权的保障标准、审前准备时间的合理性审查，以及程序性动议对审判正当性的影响，均值得比较法借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "军事委员会",
+          "class": "criminal"
+        },
+        {
+          "name": "正当程序",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
+      "titleCN": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
+      "url": "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/",
+      "date": "2026-10-29",
+      "addedAt": "2026-10-31T06:03:58.931Z",
+      "summaryCN": "俄亥俄州最高法院于周一无限期暂停了一名律师的执业资格，该律师因在2020年大选中同时在俄亥俄州和佛罗里达州非法投票而被刑事定罪。法院依据律师纪律规则，认定其行为涉及欺诈和故意违反选举法，构成对律师职业操守的严重违反。该律师此前已被刑事法院判处缓刑和社区服务。最新进展是州最高法院通过纪律处分程序，将刑事定罪转化为对执业资格的即时制裁，体现了法院对律师诚信义务的严格审查。",
+      "summaryEN": "",
+      "whyMattersCN": "本案展示了美国州最高法院如何通过律师纪律程序，将选举犯罪与职业资格挂钩，强化法律职业的诚信门槛。制度上，它明确了律师在选举中的非法行为可构成纪律处分的独立依据，无需等待刑事程序终结。比较法上，中国律师法及执业规范同样强调律师应模范守法，但针对选举违法与执业资格的联动机制尚不明确。本案可为完善律师职业行为负面清单、建立刑事定罪与执业资格的动态衔接提供参考，也提示选举诚信立法需关注法律职业群体的示范效应。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师纪律",
+          "class": "criminal"
+        },
+        {
+          "name": "选举法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Groups ask Supreme Court to leave lower court order in place halting border wall construction in southwestern Texas",
       "titleCN": "Groups ask Supreme Court to leave lower court order in place halting border wall construction in southwestern Texas",
       "url": "https://www.scotusblog.com/2026/10/groups-ask-supreme-court-to-leave-lower-court-order-in-place-halting-border-wall-construction-in/",
@@ -5407,6 +5476,52 @@
   ],
   "research": [
     {
+      "title": "Mind the Gap: Institutional Capacity, Globalization, and the Discrepancy Between Criminal Justice and Health Homicide Data",
+      "titleCN": "Mind the Gap: Institutional Capacity, Globalization, and the Discrepancy Between Criminal Justice and Health Homicide Data",
+      "url": "https://doi.org/10.1080/07418825.2026.2623928",
+      "date": "2026-02-03",
+      "addedAt": "2026-10-31T06:04:13.401Z",
+      "summaryCN": "该论文聚焦刑事司法与公共卫生两套凶杀数据系统之间的系统性差异，提出制度能力与全球化压力是解释差距的关键变量。研究利用跨国或跨地区数据，检验刑事司法统计与卫生统计在凶杀认定标准、记录流程与机构激励上的分歧如何随制度能力强弱和全球化程度而变化。结论表明，数据差距并非随机误差，而是制度结构与外部压力的产物，对以凶杀率作为治理指标的研究与政策评估构成方法论挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对比较刑事司法与实证犯罪学研究具有直接方法论意义：凶杀率常被用作暴力治理、警务绩效与国际比较的核心指标，但刑事司法与卫生系统的统计口径差异可能导致结论偏误。论文将制度能力与全球化纳入解释框架，提示中国语境下公安立案统计与卫生健康死因监测之间的衔接问题值得关注，也为评估数据治理能力、完善跨部门数据比对机制提供比较法启发。其贡献在于把数据差距从技术问题提升为制度问题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "凶杀数据",
+          "class": "criminal"
+        },
+        {
+          "name": "制度能力",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Justice Quarterly"
+    },
+    {
+      "title": "Everyday Network Exposure to Crime and Victimization and its Association with Commercial Sexual Exploitation",
+      "titleCN": "Everyday Network Exposure to Crime and Victimization and its Association with Commercial Sexual Exploitation",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09684-4",
+      "date": "2026-07-31",
+      "addedAt": "2026-10-31T06:04:13.401Z",
+      "summaryCN": "该研究基于荷兰2016至2023年未成年人及青年人群数据，将警方记录的商业性剥削受害记录与家庭、学校、邻里及工作等大规模自我网络数据链接，采用潜在剖面分析识别网络暴露模式，检验个体即时社交网络中的犯罪暴露是否与商业性剥削受害风险相关，并评估该关联是否反映独立的网络效应而非个体或结构性脆弱性。研究为网络暴露与受害风险的关系提供了创新性实证视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文对商业性剥削受害的成因研究具有方法论与制度双重价值。方法上，它将警方记录与多层级自我网络数据链接，并运用潜在剖面分析区分网络效应与个体、结构性脆弱性，为犯罪学与 Victimology 的因果识别提供可借鉴设计。制度上，其结论可启发未成年人保护、社区矫正与警方受害预防的跨部门协作，提示干预应关注社交网络环境而非仅个体风险因素。对中国法而言，可参照其网络暴露测量思路，完善未成年人性剥削受害的早期识别与跨机构预警机制，并推动实证研究从个体归因转向关系性归因。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "商业性剥削",
+          "class": "criminal"
+        },
+        {
+          "name": "网络暴露",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Quantitative Criminology"
+    },
+    {
       "title": "Advocates for Community Transformation: Using the civil justice system to tackle drug houses and empower residents",
       "titleCN": "Advocates for Community Transformation: Using the civil justice system to tackle drug houses and empower residents",
       "url": "https://doi.org/10.1111/1745-9133.70044",
@@ -8261,11 +8376,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-30T06:08:47.393Z",
+    "updatedAt": "2026-10-31T06:04:23.610Z",
     "generator": "ai",
-    "checkedAt": "2026-10-30T06:08:47.393Z"
+    "checkedAt": "2026-10-31T06:04:23.610Z"
   },
   "digests": [
+    {
+      "date": "2026-10-31",
+      "generatedAt": "2026-10-31T06:04:23.603Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩 USS Cole 爆炸案审判定于下周一启动陪审团遴选，辩方资深军事律师在最后时刻请求主审法官推迟六个月，主张仓促开庭损害被告获得有效辩护与准备时间的权利。推迟动议的裁决将检验军事法官如何在国家安全利益与程序公正之间权衡，并可能引发关于军事审判正当程序与合宪性的后续上诉。",
+          "refs": [
+            "https://www.justsecurity.org/162545/uss-cole-trial-defense-plea-delay/?utm_source=rss&utm_medium=rss&utm_campaign=uss-cole-trial-defense-plea-delay"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Justice Quarterly 论文指出，刑事司法与公共卫生两套凶杀数据系统在认定标准、记录流程与机构激励上存在系统性差异，制度能力与全球化压力是解释差距的关键变量，数据差距并非随机误差。凶杀率常被用作暴力治理与警务绩效指标，口径差异可能导致实证结论偏误，公安立案统计与死因监测的衔接值得关注。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2623928"
+          ],
+          "relevance": "法律实证研究的方法与数据：为凶杀率作为治理指标的测量效度与跨部门数据比对提供方法论材料。"
+        },
+        {
+          "text": "荷兰2016至2023年未成年人及青年数据研究将警方记录的商业性剥削受害记录与家庭、学校、邻里及工作等自我网络数据链接，用潜在剖面分析识别网络暴露模式，检验即时社交网络中的犯罪暴露是否与受害风险相关，并区分网络效应与个体、结构性脆弱性。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09684-4"
+          ],
+          "relevance": "刑事司法与被害人实证研究：为区分关系性因素与个体归因的因果识别设计提供材料。"
+        },
+        {
+          "text": "Lawfare 刊文讨论东南亚等地诈骗园区依托武装势力运作、收益为冲突方提供资金，提出此类行为可能构成战争罪或危害人类罪的论证路径，争点包括国内检察机关对组织犯罪消极追诉是否构成国际法上的归责障碍，以及虚假指控对国际司法协作的影响，主张强化普遍管辖权与资产追缴。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/fraudfare--weaponized-fraud-under-international-law"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "俄亥俄州最高法院无限期暂停一名律师执业资格，该律师因2020年大选同时在俄亥俄与佛罗里达非法投票被刑事定罪，法院依律师纪律规则认定其行为涉及欺诈和故意违反选举法，在刑事程序之外直接作出职业资格制裁。本案显示选举犯罪可构成纪律处分的独立依据，涉及律师诚信义务与执业资格衔接问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/162545/uss-cole-trial-defense-plea-delay/?utm_source=rss&utm_medium=rss&utm_campaign=uss-cole-trial-defense-plea-delay",
+        "https://link.springer.com/article/10.1007/s10940-026-09684-4",
+        "https://www.lawfaremedia.org/article/fraudfare--weaponized-fraud-under-international-law",
+        "https://doi.org/10.1080/07418825.2026.2623928",
+        "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/"
+      ]
+    },
     {
       "date": "2026-10-30",
       "generatedAt": "2026-10-30T06:08:47.386Z",
