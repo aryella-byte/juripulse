@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
+      "titleCN": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
+      "url": "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/",
+      "date": "2026-10-29",
+      "addedAt": "2026-11-01T06:33:35.318Z",
+      "summaryCN": "俄亥俄州最高法院于周一无限期暂停了一名律师的执业资格，该律师因在2020年大选中同时在俄亥俄州和佛罗里达州非法投票而被刑事定罪。法院依据律师纪律规则，认定其行为涉及故意违法和欺骗，损害了法律职业的诚信。该律师此前已被刑事处罚，此次纪律处分体现了对律师个人行为与职业适格性之间关联的严格审查。案件进展表明，选举犯罪可触发律师执照的自动或裁量性纪律程序。",
+      "summaryEN": "",
+      "whyMattersCN": "本案展示了律师纪律制度与选举刑事定罪之间的联动机制：州最高法院可基于律师的故意犯罪行为（即使与执业无关）暂停其执照，强化了法律职业对诚信义务的高标准。对中国法而言，可比较律师执业资格撤销与行政处罚、刑事处罚的衔接设计，尤其是非执业行为是否应纳入职业惩戒的考量。同时，该案涉及选举诚信的刑事执法与职业监管的交叉，为研究律师职业伦理的域外适用和双重处罚原则提供了具体判例。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师纪律",
+          "class": "criminal"
+        },
+        {
+          "name": "选举犯罪",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Justices to debate when an established rule is “previously unavailable” in habeas case",
+      "titleCN": "Justices to debate when an established rule is “previously unavailable” in habeas case",
+      "url": "https://www.scotusblog.com/2026/10/justices-to-debate-when-an-established-rule-is-previously-unavailable-in-prisoner-habeas-cases/",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-01T06:33:35.318Z",
+      "summaryCN": "美国最高法院将于11月4日就Guerrero诉Johnson案进行口头辩论，核心问题是州囚犯依据《反恐怖主义与有效死刑法》第2244(b)(2)条提出第二次联邦人身保护令申请时，如何认定“先前无法获得”的既定规则例外。该条款原则上禁止重复申请，仅允许在依赖新规则且该规则此前不可获得等有限情形下放行。本案将厘清下级法院对“先前无法获得”的判断标准，直接影响重复人身保护令申请的门槛与联邦司法审查范围。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及AEDPA第2244(b)(2)条重复人身保护令申请的例外解释，关乎联邦法院对州囚犯二次审查的准入标准，影响刑事被告获得联邦救济的机会与州判决终局性之间的平衡。最高法院的裁判将统一各巡回法院对“既定规则先前无法获得”的认定，可能收紧或放宽重复申请门槛，对刑事司法制度、联邦与州权力分配产生明确法律增量，并为比较法上研究人身保护令与既判力例外提供重要参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人身保护令",
+          "class": "criminal"
+        },
+        {
+          "name": "AEDPA",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Virginia May Automatically Restore Voting Rights After Prison. What About Mississippi?",
+      "titleCN": "Virginia May Automatically Restore Voting Rights After Prison. What About Mississippi?",
+      "url": "https://www.themarshallproject.org/2026/10/31/vote-election-virginia-mississippi-prison",
+      "date": "2026-10-31",
+      "addedAt": "2026-11-01T06:33:35.318Z",
+      "summaryCN": "弗吉尼亚州选民将就自动恢复重罪犯投票权进行公投，若通过，该州将加入自动恢复投票权的行列。密西西比州倡导者正密切关注这一进展，因为该州目前仍要求重罪犯在服刑后另行申请恢复投票权，程序繁琐且成功率低。报道梳理了两州在重罪犯投票权恢复机制上的差异，并指出弗吉尼亚的公投可能对密西西比等南部州的立法和倡导策略产生示范效应。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻涉及重罪犯投票权这一宪政与刑事司法交叉议题。弗吉尼亚若通过公投，将从逐案行政裁量模式转向自动恢复模式，直接改变州宪法框架下的选举权规则，并可能影响密西西比等仍保留申请制的州。从比较法看，美国各州对重罪犯投票权的处理差异显著，涉及刑罚附随效果、选举权平等和种族正义等宪法问题。对中国法而言，虽无直接对应制度，但可启发对刑罚附随后果、前科消灭与公民权利恢复之间关系的讨论，以及行政裁量与立法自动恢复之间的制度选择。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "重罪犯投票权",
+          "class": "constitutional"
+        },
+        {
+          "name": "选举权恢复",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Fraudfare: Weaponized Fraud Under International Law",
       "titleCN": "Fraudfare: Weaponized Fraud Under International Law",
       "url": "https://www.lawfaremedia.org/article/fraudfare--weaponized-fraud-under-international-law",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 8,
       "source": "Just Security"
-    },
-    {
-      "title": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
-      "titleCN": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
-      "url": "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/",
-      "date": "2026-10-29",
-      "addedAt": "2026-10-31T06:03:58.931Z",
-      "summaryCN": "俄亥俄州最高法院于周一无限期暂停了一名律师的执业资格，该律师因在2020年大选中同时在俄亥俄州和佛罗里达州非法投票而被刑事定罪。法院依据律师纪律规则，认定其行为涉及欺诈和故意违反选举法，构成对律师职业操守的严重违反。该律师此前已被刑事法院判处缓刑和社区服务。最新进展是州最高法院通过纪律处分程序，将刑事定罪转化为对执业资格的即时制裁，体现了法院对律师诚信义务的严格审查。",
-      "summaryEN": "",
-      "whyMattersCN": "本案展示了美国州最高法院如何通过律师纪律程序，将选举犯罪与职业资格挂钩，强化法律职业的诚信门槛。制度上，它明确了律师在选举中的非法行为可构成纪律处分的独立依据，无需等待刑事程序终结。比较法上，中国律师法及执业规范同样强调律师应模范守法，但针对选举违法与执业资格的联动机制尚不明确。本案可为完善律师职业行为负面清单、建立刑事定罪与执业资格的动态衔接提供参考，也提示选举诚信立法需关注法律职业群体的示范效应。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "律师纪律",
-          "class": "criminal"
-        },
-        {
-          "name": "选举法",
-          "class": "criminal"
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Groups ask Supreme Court to leave lower court order in place halting border wall construction in southwestern Texas",
@@ -5476,6 +5522,52 @@
   ],
   "research": [
     {
+      "title": "Judicial Decision‐Making in Free Exercise Cases: The Effect of Legal Standards, Judge Party, and Shared Religion",
+      "titleCN": "Judicial Decision‐Making in Free Exercise Cases: The Effect of Legal Standards, Judge Party, and Shared Religion",
+      "url": "https://doi.org/10.1111/jels.70038",
+      "date": "2026-08-06",
+      "addedAt": "2026-11-01T06:33:49.550Z",
+      "summaryCN": "该文以宗教自由行使案件为对象，利用实证方法考察法律标准、法官党派与法官与当事人共享宗教信仰三个因素对裁判结果的影响。研究利用同一或高度相似主张在不同法律标准下裁判的比较优势，涵盖宪法第一修正案、宗教自由恢复法及宗教土地使用与被收容人法三类规范框架。核心发现揭示法律标准与法官党派交互作用，且共享宗教身份在特定标准下显著影响裁判。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对宗教自由行使裁判的实证分析具有多重制度价值。其一，揭示法律标准选择本身如何塑造裁判结果，为评估宗教自由恢复法与宗教土地使用与被收容人法的实际效果提供经验证据。其二，法官党派与共享宗教身份的交互效应，回应了司法决策中意识形态与身份认同的争论，对司法选任与回避制度有参考意义。其三，其比较不同法律标准的实证设计，可为中国宗教事务治理的法治化与比例原则适用研究提供方法借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宗教自由",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法决策",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "Participatory Liberatory Resentencing",
+      "titleCN": "Participatory Liberatory Resentencing",
+      "url": "https://nyulawreview.org/issues/volume-101-number-4/participatory-liberatory-resentencing/",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-01T06:33:49.550Z",
+      "summaryCN": "本文研究美国各州兴起的第二次量刑审查（second-look resentencing） statute 的实施困境。论文指出，此类立法本可削减大规模监禁，但法院与检察官难以理解在押申请人的经历叙述，导致减刑适用受限。作者提出参与式解放性重新量刑框架，主张通过程序机制让被监禁者的经验获得制度性倾听，从而提升非监禁化效果。文章结合规范分析与实践观察，为量刑改革落地提供新路径。",
+      "summaryEN": "",
+      "whyMattersCN": "本文直面第二次量刑审查 statute 从立法到落地的断层，揭示程序倾听机制对减刑裁决的实质影响，对量刑制度设计与司法裁量研究具有方法论贡献。其参与式框架为比较法上审视中国认罪认罚从宽、减刑假释听证及在押人员程序参与权提供参照，提示制度实效取决于裁判者能否有效接收被追诉人经验叙述，而非仅依赖实体规则扩张。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二次量刑审查",
+          "class": "criminal"
+        },
+        {
+          "name": "大规模监禁",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Mind the Gap: Institutional Capacity, Globalization, and the Discrepancy Between Criminal Justice and Health Homicide Data",
       "titleCN": "Mind the Gap: Institutional Capacity, Globalization, and the Discrepancy Between Criminal Justice and Health Homicide Data",
       "url": "https://doi.org/10.1080/07418825.2026.2623928",
@@ -8376,11 +8468,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-10-31T06:04:23.610Z",
+    "updatedAt": "2026-11-01T06:33:59.007Z",
     "generator": "ai",
-    "checkedAt": "2026-10-31T06:04:23.610Z"
+    "checkedAt": "2026-11-01T06:33:59.007Z"
   },
   "digests": [
+    {
+      "date": "2026-11-01",
+      "generatedAt": "2026-11-01T06:33:59.000Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院将就 Guerrero 诉 Johnson 案辩论：州囚犯依 AEDPA 第2244(b)(2)条提出第二次联邦人身保护令申请时，如何认定既定规则此前无法获得。该例外原则上禁止重复申请，仅有限放行。争点在于下级法院的判断标准，直接影响二次审查门槛与州判决终局性的平衡。",
+          "refs": [
+            "https://www.scotusblog.com/2026/10/justices-to-debate-when-an-established-rule-is-previously-unavailable-in-prisoner-habeas-cases/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文研究美国各州第二次量刑审查 statute 的实施困境：法院与检察官难以理解在押申请人的经历叙述，减刑适用因此受限。作者提出参与式解放性重新量刑框架，主张以程序机制让被监禁者经验获得制度性倾听。文章揭示程序倾听对减刑裁决的实质影响，而非仅依赖实体规则扩张。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-4/participatory-liberatory-resentencing/"
+          ],
+          "relevance": "属量刑与刑罚方向，提供第二次量刑审查落地困境与程序倾听机制的经验材料。"
+        },
+        {
+          "text": "论文以宗教自由行使案件为对象，用实证方法考察法律标准、法官党派及法官与当事人共享宗教信仰对裁判结果的影响，比较第一修正案、宗教自由恢复法与宗教土地使用与被收容人法三类框架。发现法律标准与法官党派存在交互作用，共享宗教身份在特定标准下显著影响裁判。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70038"
+          ],
+          "relevance": "属法官与司法行为方向，提供法律标准与法官身份影响裁判的实证设计。"
+        },
+        {
+          "text": "弗吉尼亚州将就自动恢复重罪犯投票权举行公投，若通过则从逐案行政裁量转向自动恢复模式；密西西比州仍要求服刑后另行申请，程序繁琐且成功率低。报道梳理两州机制差异，并指出公投可能对南部各州立法与倡导策略产生示范效应。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/10/31/vote-election-virginia-mississippi-prison"
+          ],
+          "relevance": "属刑事司法与刑罚附随后果方向，提供投票权恢复的裁量与自动模式对比材料。"
+        },
+        {
+          "text": "俄亥俄州最高法院无限期暂停一名律师执业资格，该律师因2020年大选在俄亥俄与佛罗里达两州非法投票被刑事定罪。法院依律师纪律规则认定其行为属故意违法与欺骗，损害职业诚信。案件显示选举犯罪可触发执照的自动或裁量性纪律程序，即使行为与执业无关。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/10/justices-to-debate-when-an-established-rule-is-previously-unavailable-in-prisoner-habeas-cases/",
+        "https://doi.org/10.1111/jels.70038",
+        "https://nyulawreview.org/issues/volume-101-number-4/participatory-liberatory-resentencing/",
+        "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/",
+        "https://www.themarshallproject.org/2026/10/31/vote-election-virginia-mississippi-prison"
+      ]
+    },
     {
       "date": "2026-10-31",
       "generatedAt": "2026-10-31T06:04:23.603Z",
