@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Guantanamo Dispatches: Trial Judge Finds Defendant in USS Cole Bombing Case Competent to Face Trial",
+      "titleCN": "Guantanamo Dispatches: Trial Judge Finds Defendant in USS Cole Bombing Case Competent to Face Trial",
+      "url": "https://www.justsecurity.org/162732/defendant-uss-cole-bombing-case-competent-face-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defendant-uss-cole-bombing-case-competent-face-trial",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-02T06:34:27.837Z",
+      "summaryCN": "关塔那摩军事委员会审理的 USS Cole 爆炸案出现程序性进展：主审法官裁定被告具备受审能力，为11月2日启动陪审团遴选扫清障碍。该案是关塔那摩军事委员会审理的首例死刑案件，涉及被告在军事委员会中的受审能力标准、死刑案件陪审团遴选程序以及军事审判的正当程序保障等核心争议。裁定作出后，案件将进入陪审团选任阶段，后续审理进程和被告权利保障问题仍受关注。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁定触及军事委员会审判的正当程序核心：受审能力标准如何在死刑案件中适用，直接关系到被告辩护权与审判合法性。关塔那摩军事委员会长期面临是否符合国际人权法与国内宪政保障的争议，此案作为首例死刑案件，其程序规则将为后续军事审判确立先例。对中国法而言，可比较军事司法与普通刑事程序中的受审能力认定、死刑案件程序保障及被追诉人权利救济机制，亦为研究国际刑事司法与反恐法治化提供具体样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "关塔那摩军事委员会",
+          "class": "criminal"
+        },
+        {
+          "name": "受审能力",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Racial comments to attorney sparked investigation of federal judge",
+      "titleCN": "Racial comments to attorney sparked investigation of federal judge",
+      "url": "https://www.abajournal.com/news/article/racial-comments-to-attorney-sparked-investigation-of-federal-judge/",
+      "date": "2026-10-29",
+      "addedAt": "2026-11-02T06:34:27.837Z",
+      "summaryCN": "一名律师针对达拉斯联邦法官提出不当行为投诉，起因是该法官在听证中多次发表种族言论。投诉已触发对联邦法官的正式调查程序。事件涉及联邦司法行为准则中关于法官不得基于种族等偏见发表言论的核心规则，并考验司法投诉审查机制的实际运作。最新进展是投诉进入调查阶段，具体处理结果尚待观察。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件直接触及联邦司法行为准则第2条关于法官应避免偏见与种族歧视言论的规范，并检验司法投诉审查机制能否有效约束法官庭上言行。对比较法而言，它提供了司法伦理监管如何启动、调查与问责的实例，可启发中国完善法官行为惩戒程序与投诉处理透明度。同时涉及司法独立与言论边界的制度平衡，具有明确的法律制度增量。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法伦理",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦法官",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "When ICE Makes People Disappear",
+      "titleCN": "When ICE Makes People Disappear",
+      "url": "https://www.themarshallproject.org/2026/10/27/ice-detention-rules-civil-process",
+      "date": "2026-10-27",
+      "addedAt": "2026-11-02T06:34:27.837Z",
+      "summaryCN": "调查报道揭示美国移民与海关执法局（ICE）拘留体系中的程序性不透明问题：与刑事法庭可追踪逮捕不同，ICE在24小时内将数千名被拘留者跨州转移，且不通知家属或律师，导致被拘留者事实上与外界失联。报道通过个案与数据呈现这一做法如何规避人身保护令救济与律师会见权，并指出其与刑事程序公开原则的系统性落差。最新进展显示，民权组织正以此类转移行为提起宪法诉讼，挑战缺乏通知与司法审查的拘留转移政策。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道触及移民拘留中人身保护令的实际可及性、律师帮助权与正当程序的核心争议。ICE大规模跨州转移使被拘留者难以在转移前向联邦法院申请人身保护令，实质上削弱了宪法第八修正案与第五修正案的程序保障。对比较法与中国法而言，其启发在于：行政羁押场所的变更是否应纳入司法审查、家属与律师的通知义务如何法定化，以及羁押透明度作为程序正义底线在移民执法中的适用边界。该议题亦涉及联邦法院对行政拘留转移的管辖权与审查标准。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民拘留",
+          "class": "constitutional"
+        },
+        {
+          "name": "人身保护令",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
       "titleCN": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
       "url": "https://www.abajournal.com/news/article/ohio-supreme-court-suspends-law-license-of-attorney-convicted-of-voting-multiple-times/",
@@ -5522,6 +5591,52 @@
   ],
   "research": [
     {
+      "title": "Gridlocked justice: Legislative opportunity and criminal sentencing reform in the US states, 2000—2019",
+      "titleCN": "Gridlocked justice: Legislative opportunity and criminal sentencing reform in the US states, 2000—2019",
+      "url": "https://doi.org/10.1111/1745-9125.70071",
+      "date": "2026-10-09",
+      "addedAt": "2026-11-02T06:34:44.616Z",
+      "summaryCN": "本文研究2000至2019年美国各州为何采纳降低刑罚的量刑改革政策。既有解释多假设议员共识驱动刑事政策变迁，但忽视了党派分歧对政策过程的阻碍。作者提出互补性的立法机会视角，考察立法环境特征如何促进或制约议员将量刑改革倡议转化为政策的能力，并利用149项州级量刑改革政策的新数据加以检验。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对量刑改革立法条件的实证分析，有助于理解大规模监禁的终结机制，并补充了党派政治与立法机会结构在刑事政策制定中的作用。其149项州级政策数据与立法环境变量设计，为比较刑事政策研究提供可借鉴的方法框架。对中国而言，可启发思考量刑规范化改革中立法与司法互动、地方试点差异及政策采纳条件，也提示在比较法层面关注政治共识与制度约束对刑罚轻缓化的影响。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "量刑改革",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事政策",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology"
+    },
+    {
+      "title": "Law enforcement policies for individuals with intellectual and developmental disabilities: A mixed‐methods analysis",
+      "titleCN": "Law enforcement policies for individuals with intellectual and developmental disabilities: A mixed‐methods analysis",
+      "url": "https://doi.org/10.1111/1745-9133.70016",
+      "date": "2026-08-13",
+      "addedAt": "2026-11-02T06:34:44.616Z",
+      "summaryCN": "该研究聚焦智力与发育障碍（IDD）人士受害后寻求警务协助的制度障碍，采用收敛式混合方法，系统分析四州1678个警察机构网站，考察残障相关政策的普及程度与内容性质，并结合27名执法专业人员的访谈与焦点小组。研究发现此类政策极为罕见，且往往不直接适用于受害者，揭示警务网站作为信息渠道的制度空白。",
+      "summaryEN": "",
+      "whyMattersCN": "论文将被害人学与警务行政法交叉，以网站政策文本加执法者访谈的混合方法，检验警察机构对IDD受害者的合理便利义务是否落地，方法上兼具文本量化与一线经验质性证据。制度层面，其揭示的网站信息公开与政策适用缺口，对中国警务公开、残障者诉讼支持及被害人援助制度具有比较法启发，亦为评估警察服务可及性与反歧视义务履行提供可复制的研究设计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "残障与警务",
+          "class": "criminal"
+        },
+        {
+          "name": "被害人权利",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Criminology & Public Policy"
+    },
+    {
       "title": "Judicial Decision‐Making in Free Exercise Cases: The Effect of Legal Standards, Judge Party, and Shared Religion",
       "titleCN": "Judicial Decision‐Making in Free Exercise Cases: The Effect of Legal Standards, Judge Party, and Shared Religion",
       "url": "https://doi.org/10.1111/jels.70038",
@@ -8468,11 +8583,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-01T06:33:59.007Z",
+    "updatedAt": "2026-11-02T06:35:00.354Z",
     "generator": "ai",
-    "checkedAt": "2026-11-01T06:33:59.007Z"
+    "checkedAt": "2026-11-02T06:35:00.354Z"
   },
   "digests": [
+    {
+      "date": "2026-11-02",
+      "generatedAt": "2026-11-02T06:35:00.346Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国各州2000至2019年为何采纳降低刑罚的量刑改革，论文以149项州级量刑改革政策的新数据检验立法机会视角，指出既有解释多假设议员共识驱动刑事政策变迁，忽视党派分歧对政策过程的阻碍，并考察立法环境特征如何促进或制约议员将倡议转化为政策。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70071"
+          ],
+          "relevance": "量刑改革的政治与立法条件，为刑罚轻缓化的实证研究提供州级政策数据与变量设计。"
+        },
+        {
+          "text": "关塔那摩军事委员会审理的USS Cole爆炸案中，主审法官裁定被告具备受审能力，为11月2日启动陪审团遴选扫清障碍；该案系该委员会首例死刑案件，涉及受审能力标准在死刑案件中的适用、陪审团遴选程序与正当程序保障。",
+          "refs": [
+            "https://www.justsecurity.org/162732/defendant-uss-cole-bombing-case-competent-face-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defendant-uss-cole-bombing-case-competent-face-trial"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "调查报道显示，ICE在24小时内将数千名被拘留者跨州转移且不通知家属或律师，使被拘留者事实上与外界失联，规避人身保护令救济与律师会见权；民权组织正就此提起宪法诉讼，挑战缺乏通知与司法审查的转移政策。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/10/27/ice-detention-rules-civil-process"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一名律师投诉达拉斯联邦法官在听证中多次发表种族言论，已触发对联邦法官的正式调查程序；事件涉及司法行为准则中法官不得基于种族等偏见发表言论的规则，并检验司法投诉审查机制的实际运作。",
+          "refs": [
+            "https://www.abajournal.com/news/article/racial-comments-to-attorney-sparked-investigation-of-federal-judge/"
+          ],
+          "relevance": "法官庭上言行与司法伦理监管的启动、调查程序，为法官行为研究提供个案材料。"
+        },
+        {
+          "text": "研究以收敛式混合方法分析四州1678个警察机构网站，考察智力与发育障碍人士相关警务政策的普及程度与内容，并结合27名执法人员的访谈与焦点小组；发现此类政策极为罕见且往往不直接适用于受害者，揭示警务网站作为信息渠道的制度空白。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9133.70016"
+          ],
+          "relevance": "警察机构政策文本量化加执法人员访谈的混合方法，为法律实证研究提供可复制设计。"
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/162732/defendant-uss-cole-bombing-case-competent-face-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defendant-uss-cole-bombing-case-competent-face-trial",
+        "https://www.themarshallproject.org/2026/10/27/ice-detention-rules-civil-process",
+        "https://doi.org/10.1111/1745-9125.70071",
+        "https://www.abajournal.com/news/article/racial-comments-to-attorney-sparked-investigation-of-federal-judge/",
+        "https://doi.org/10.1111/1745-9133.70016"
+      ]
+    },
     {
       "date": "2026-11-01",
       "generatedAt": "2026-11-01T06:33:59.000Z",
