@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Judge advances McDonald’s McRib lawsuit that alleges deceptive marketing",
+      "titleCN": "Judge advances McDonald’s McRib lawsuit that alleges deceptive marketing",
+      "url": "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/",
+      "date": "2026-11-02",
+      "addedAt": "2026-11-03T07:04:26.680Z",
+      "summaryCN": "美国伊利诺伊州联邦法官驳回麦当劳就McRib营销误导集体诉讼提出的撤诉动议，允许案件继续推进。原告指控麦当劳在McRib的供应稀缺性、限时回归等宣传中误导消费者，涉嫌违反州消费者保护法。法院认为原告充分主张了可诉的欺骗性营销行为，具体事实争议需进一步审理。该裁定使针对快餐行业限时营销手法的集体诉讼得以进入证据开示阶段。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁定涉及美国州消费者保护法对限时、稀缺性营销话术的规制边界，为食品行业广告合规提供判例参考。法院未采纳麦当劳关于商业言论自由及原告未受实际损害的抗辩，表明限时促销中的稀缺性暗示可能构成可诉欺骗。对中国法而言，可比较《反不正当竞争法》第八条虚假宣传及《消费者权益保护法》知情权规则，提示餐饮企业限时营销文案需避免制造虚假稀缺预期，并关注集体诉讼程序在消费欺诈领域的适用。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "消费者保护",
+          "class": "constitutional"
+        },
+        {
+          "name": "虚假宣传",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Judge accused of making racial remarks, skipping court is no-show at her own hearing",
+      "titleCN": "Judge accused of making racial remarks, skipping court is no-show at her own hearing",
+      "url": "https://www.abajournal.com/news/article/judge-accused-of-making-racial-remarks-skipping-court-is-no-show-at-her-own-hearing/",
+      "date": "2026-11-02",
+      "addedAt": "2026-11-03T07:04:26.680Z",
+      "summaryCN": "美国得克萨斯州达拉斯市一名联邦地区法官被指控拒绝受理案件、发表种族侮辱言论并擅自离岗，在对其展开的调查听证会上又缺席不到。该法官此前已面临司法不当行为投诉，此次缺席进一步引发对其是否妨碍调查程序及司法问责机制有效性的关注。案件涉及联邦法官行为规范、司法纪律程序以及法官回避与停职的法律边界，目前调查仍在进行中。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件触及美国联邦司法纪律的核心制度问题：依据《司法行为与 disability 法案》，对联邦法官不当行为的调查由巡回司法委员会负责，但法官本人缺席听证可能构成对调查程序的阻碍，并引发是否应启动弹劾或强制措施的讨论。此案还涉及法官种族言论是否违反司法伦理准则、拒绝受理案件是否构成失职，以及司法问责与司法独立之间的张力。对中国法而言，可比较法官惩戒委员会的程序设计、法官回避与停职规则，以及如何平衡对法官不当行为的监督与职务保障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法纪律",
+          "class": ""
+        },
+        {
+          "name": "联邦法官",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Congressional Oversight after Trump v. United States",
+      "titleCN": "Congressional Oversight after Trump v. United States",
+      "url": "https://www.lawfaremedia.org/article/congressional-oversight-after-trump-v.-united-states",
+      "date": "2026-11-02",
+      "addedAt": "2026-11-03T07:04:26.680Z",
+      "summaryCN": "Lawfare刊文分析特朗普诉美国案对国会监督权的削弱效应。该判例确立总统对官方行为享有推定豁免，使国会通过传票、调查和弹劾程序追究总统责任的路径受限。文章指出，若民主党在中期选举后重夺国会，预计将尝试以立法授权、独立机构调查、预算附加条件及州级配合等方式绕开判例限制，重建监督能力。文章梳理了判例规则与国会现有监督工具之间的张力，并评估替代性监督机制的法律可行性与政治风险。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及美国总统豁免判例与国会监督权之间的宪政边界，直接关系到三权分立中立法机关调查权的实际范围。特朗普诉美国案确立的推定豁免规则，可能使国会传票执行、藐视国会刑事追诉及弹劾证据收集面临新的司法障碍。文章提出的绕行方案涉及立法授权、独立机构、预算条件和州级配合等具体制度工具，对理解美国宪政争议的演进具有参考价值。对中国法而言，该讨论启发对监督权配置、权力分立与豁免规则之间制度张力的比较法思考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "总统豁免",
+          "class": "constitutional"
+        },
+        {
+          "name": "国会监督权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
       "title": "Guantanamo Dispatches: Trial Judge Finds Defendant in USS Cole Bombing Case Competent to Face Trial",
       "titleCN": "Guantanamo Dispatches: Trial Judge Finds Defendant in USS Cole Bombing Case Competent to Face Trial",
       "url": "https://www.justsecurity.org/162732/defendant-uss-cole-bombing-case-competent-face-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defendant-uss-cole-bombing-case-competent-face-trial",
@@ -5591,6 +5660,52 @@
   ],
   "research": [
     {
+      "title": "Attorney Investigation and Discipline Evidence From the State Bar of California",
+      "titleCN": "Attorney Investigation and Discipline Evidence From the State Bar of California",
+      "url": "https://doi.org/10.1111/jels.70047",
+      "date": "2026-11-02",
+      "addedAt": "2026-11-03T07:04:43.409Z",
+      "summaryCN": "本文利用加州州律师协会提供的1990至2024年全样本个体数据，研究律师因职业不当行为被调查与惩戒的决定因素。研究发现，惩戒风险集中于毕业于选拔性较低法学院、律师资格考试通过分数最低的律师群体，并呈现明显的 demographics 差异。该研究首次以全人口数据揭示监管审视的分布不均，为理解律师纪律制度的实际运作提供了实证基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对律师惩戒制度的实证分析具有重要比较法价值。中国律师惩戒体系同样面临裁量标准不统一、地区差异显著等问题，但缺乏全样本微观数据支撑。本文方法提示可借助司法行政机关与律协的个体级数据，检验法学院背景、资格考试分数与惩戒风险的关系，进而反思准入标准与执业监管的衔接。此外，研究揭示的惩戒风险集中现象，对完善律师职业行为规范、优化监管资源配置及保障执业公平具有直接参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师惩戒",
+          "class": ""
+        },
+        {
+          "name": "实证法学",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "Beyond the Adversarial Rivalry: A Developmental Rights‐Based Model for Minor‐on‐Minor Crime, Part 2",
+      "titleCN": "Beyond the Adversarial Rivalry: A Developmental Rights‐Based Model for Minor‐on‐Minor Crime, Part 2",
+      "url": "https://doi.org/10.1002/bsl.70083",
+      "date": "2026-10-06",
+      "addedAt": "2026-11-03T07:04:43.409Z",
+      "summaryCN": "该文为两部分系列研究的第二部分，聚焦儿童对儿童犯罪中传统被害人—加害人框架的不足。第一部分已构建融合治疗性司法、发展原则、关系性程序正义与儿童权利规范的四支柱理论模型；本文进一步探讨该模型的实施路径，涉及发展性、关系性与制度性复杂因素，并尝试在少年司法康复导向与被害人权利保护之间建立整合性方案。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究针对未成年人相互侵害这一少年司法与被害人权利研究的交叉盲区，提出以发展权利为基础的四支柱实施模型，对完善我国未成年人保护法、预防未成年人犯罪法中的分级干预与修复性司法衔接具有比较法参考价值。其整合治疗性司法与程序正义的路径，可为校园欺凌、低龄未成年人恶性案件的分流处遇及被害人参与机制提供制度设计启发，并提示实证评估该模型在关系修复与再犯预防方面的效果。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "少年司法",
+          "class": "criminal"
+        },
+        {
+          "name": "儿童权利",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
       "title": "Gridlocked justice: Legislative opportunity and criminal sentencing reform in the US states, 2000—2019",
       "titleCN": "Gridlocked justice: Legislative opportunity and criminal sentencing reform in the US states, 2000—2019",
       "url": "https://doi.org/10.1111/1745-9125.70071",
@@ -8583,11 +8698,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-02T06:35:00.354Z",
+    "updatedAt": "2026-11-03T07:04:57.985Z",
     "generator": "ai",
-    "checkedAt": "2026-11-02T06:35:00.354Z"
+    "checkedAt": "2026-11-03T07:04:57.985Z"
   },
   "digests": [
+    {
+      "date": "2026-11-03",
+      "generatedAt": "2026-11-03T07:04:57.977Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "加州州律师协会1990至2024年全样本数据显示，律师因职业不当行为被调查与惩戒的风险集中于毕业于选拔性较低法学院、律师资格考试分数最低的群体，并呈现人口特征差异。研究以全人口数据揭示监管审视分布不均，涉及准入标准与执业监管如何衔接的问题。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70047"
+          ],
+          "relevance": "法律实证研究：提供个体级全样本数据与惩戒风险分布的分析范例。"
+        },
+        {
+          "text": "得州达拉斯一名联邦地区法官被指拒绝受理案件、发表种族侮辱言论并擅自离岗，在调查听证会上缺席不到。事件涉及联邦法官行为规范、司法纪律程序及回避与停职的法律边界，也引出法官缺席是否妨碍调查、司法问责与职务保障如何平衡的问题。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-accused-of-making-racial-remarks-skipping-court-is-no-show-at-her-own-hearing/"
+          ],
+          "relevance": "法官与司法行为：涉及法官不当行为的调查程序与问责机制。"
+        },
+        {
+          "text": "伊利诺伊州联邦法官驳回麦当劳就McRib营销误导集体诉讼提出的撤诉动议，认为原告已充分主张可诉的欺骗性营销行为，案件进入证据开示。争点在于限时、稀缺性宣传话术是否构成可诉欺骗，以及商业言论抗辩与消费者损害主张的界限。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Lawfare刊文分析特朗普诉美国案确立的总统官方行为推定豁免对国会监督权的削弱：传票执行、藐视国会追诉与弹劾证据收集均面临新的司法障碍。文章梳理判例规则与现有监督工具的张力，并评估立法授权、独立机构调查、预算附加条件及州级配合等替代路径的可行性与政治风险。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/congressional-oversight-after-trump-v.-united-states"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "少年司法系列研究第二部分在治疗性司法、发展原则、关系性程序正义与儿童权利四支柱模型基础上，探讨儿童对儿童犯罪的实施路径，涉及发展性、关系性与制度性复杂因素，尝试整合康复导向与被害人权利保护。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70083"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.lawfaremedia.org/article/congressional-oversight-after-trump-v.-united-states",
+        "https://doi.org/10.1111/jels.70047",
+        "https://www.abajournal.com/news/article/judge-accused-of-making-racial-remarks-skipping-court-is-no-show-at-her-own-hearing/",
+        "https://doi.org/10.1002/bsl.70083",
+        "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/"
+      ]
+    },
     {
       "date": "2026-11-02",
       "generatedAt": "2026-11-02T06:35:00.346Z",
