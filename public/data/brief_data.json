@@ -1,14 +1,60 @@
 {
   "news": [
     {
+      "title": "The border wall dispute isn’t fit for the emergency docket",
+      "titleCN": "The border wall dispute isn’t fit for the emergency docket",
+      "url": "https://www.scotusblog.com/2026/11/the-border-wall-dispute-isnt-fit-for-the-emergency-docket/",
+      "date": "2026-11-03",
+      "addedAt": "2026-11-04T06:48:34.454Z",
+      "summaryCN": "美国司法部就特朗普总统边境墙计划向最高法院紧急上诉，请求快速批准在得克萨斯州西部偏远地区517英里沿线建设边境屏障系统。此前联邦地区法院于10月发布初步禁令阻止施工，司法部主张需最高法院介入以避免国家不可弥补的损害。但SCOTUSblog分析指出，政府法律论证细节显示其试图将紧急上诉程序用作快速获胜通道，而法律争议本身缺乏真正紧迫性。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及最高法院紧急上诉程序（emergency docket）的适用边界，即当事人能否以紧急程序绕过常规上诉审查。该程序近年使用频率激增，引发关于其是否侵蚀上诉审慎审查功能的宪政争议。本案将检验法院对行政分支以紧急程序推进争议性移民政策的容忍度，对行政程序法、禁令救济标准及最高法院影子案卷（shadow docket）的规范化具有判例意义。对中国法而言，可比较紧急程序与行为保全制度的程序保障差异。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院紧急上诉程序",
+          "class": "constitutional"
+        },
+        {
+          "name": "边境墙",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "‘Lost in the System’: What It’s Like to Be Stuck for Months in a Mississippi Jail",
+      "titleCN": "‘Lost in the System’: What It’s Like to Be Stuck for Months in a Mississippi Jail",
+      "url": "https://www.themarshallproject.org/2026/11/03/jail-mississippi-trapped-inside-hinds-county",
+      "date": "2026-11-03",
+      "addedAt": "2026-11-04T06:48:34.454Z",
+      "summaryCN": "密西西比州海因兹县被捕人员长期滞留监狱，案件处于悬而未决状态，数月甚至数年等待正式指控。马歇尔项目调查揭示，部分被拘留者因案件积压、公设辩护资源不足及保释制度缺陷，陷入无指控羁押困境，实质剥夺了快速审判权与正当程序保障。报道追踪具体个案，呈现审前羁押系统性失灵，并指出地方司法管理缺乏有效监督与问责机制。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道直击美国刑事司法中审前羁押与快速审判权的制度性失灵，涉及宪法第六修正案快速审判权及第十四修正案正当程序。海因兹县的无指控长期羁押暴露保释制度、公设辩护资源分配与法院案件管理三重缺陷，对理解审前羁押的宪法边界具有比较法价值。中国刑诉法规定羁押期限与审查起诉期限，可借此反思超期羁押的监督机制与检察监督实效，以及地方司法资源配置对程序权利的现实约束。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "审前羁押",
+          "class": "criminal"
+        },
+        {
+          "name": "快速审判权",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Judge advances McDonald’s McRib lawsuit that alleges deceptive marketing",
       "titleCN": "Judge advances McDonald’s McRib lawsuit that alleges deceptive marketing",
       "url": "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/",
       "date": "2026-11-02",
-      "addedAt": "2026-11-03T07:04:26.680Z",
-      "summaryCN": "美国伊利诺伊州联邦法官驳回麦当劳就McRib营销误导集体诉讼提出的撤诉动议，允许案件继续推进。原告指控麦当劳在McRib的供应稀缺性、限时回归等宣传中误导消费者，涉嫌违反州消费者保护法。法院认为原告充分主张了可诉的欺骗性营销行为，具体事实争议需进一步审理。该裁定使针对快餐行业限时营销手法的集体诉讼得以进入证据开示阶段。",
+      "addedAt": "2026-11-04T06:48:34.454Z",
+      "summaryCN": "美国伊利诺伊州联邦法官驳回麦当劳对McRib虚假营销集体诉讼的撤诉动议，允许案件继续推进。原告指控麦当劳在McRib限时回归营销中误导消费者，使其误以为产品为真实猪肋排肉制作或具有特定品质。法院认为原告就欺骗性营销提出了足以进入后续程序的合理主张。该案涉及《联邦民事诉讼规则》第12(b)(6)条撤诉标准、集体认证前景以及食品广告中合理消费者标准的适用。",
       "summaryEN": "",
-      "whyMattersCN": "该裁定涉及美国州消费者保护法对限时、稀缺性营销话术的规制边界，为食品行业广告合规提供判例参考。法院未采纳麦当劳关于商业言论自由及原告未受实际损害的抗辩，表明限时促销中的稀缺性暗示可能构成可诉欺骗。对中国法而言，可比较《反不正当竞争法》第八条虚假宣传及《消费者权益保护法》知情权规则，提示餐饮企业限时营销文案需避免制造虚假稀缺预期，并关注集体诉讼程序在消费欺诈领域的适用。",
+      "whyMattersCN": "该裁定虽非终局判决，但对食品与快餐行业广告合规具有直接警示：限时产品营销中的暗示性表述可能构成可诉的欺骗行为，企业需审查产品命名、图像与宣传语是否与配料实际相符。程序上，法院对撤诉动议的否定强化了消费者集体诉讼在广告法领域的可进入性，涉及Rule 12(b)(6)下合理主张标准与集体认证门槛的互动。比较法上，可对照中国《广告法》《消费者权益保护法》及反不正当竞争法对虚假宣传的规制，思考惩罚性赔偿与集体诉讼机制差异对执法激励的影响。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -16,11 +62,11 @@
           "class": "constitutional"
         },
         {
-          "name": "虚假宣传",
+          "name": "虚假广告",
           "class": "constitutional"
         }
       ],
-      "quality_score": 6,
+      "quality_score": 7,
       "source": "ABA Journal"
     },
     {
@@ -5660,6 +5706,52 @@
   ],
   "research": [
     {
+      "title": "LLM as a law professor: having a large language model write a commentary on freedom of assembly",
+      "titleCN": "LLM as a law professor: having a large language model write a commentary on freedom of assembly",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09527-4",
+      "date": "2026-07-22",
+      "addedAt": "2026-11-04T06:48:48.077Z",
+      "summaryCN": "该论文以欧洲人权公约集会自由保障为试验场，验证大语言模型能否完全替代法学教授撰写评注。作者用GPT-4o、Gemini 2.5 Flash与Kimi K2 Instruct独立生成评注，并构建基于标准NLP指标与LLM-as-a-judge的评估流水线，无需昂贵人工标注。结果显示，机器评注与欧洲人权法院官方指南这一最佳人类竞品质量相当，证明该学术任务可被外包给大模型。",
+      "summaryEN": "",
+      "whyMattersCN": "论文直接挑战法学评注作为教授专属产出的制度前提，对学术评价、出版伦理与法律职业分工具有冲击。其评估流水线为法律AI研究提供了可复用的无人工标注基准，可启发中国法教义学与案例评注的自动化辅助。同时，以欧洲人权法院指南为对照，提示在集会自由等基本权利领域，机器生成评注的可靠性需结合判例法一致性与可问责性审查，对监管者设计AI法律内容披露规则有比较法价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "大语言模型",
+          "class": "tech"
+        },
+        {
+          "name": "法学评注",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
+      "title": "Satellite‐Derived Environmental Metrics and the Micro-Spatial Ecology of Crime: Extending Routine Activity and Social Disorganization Theory with Big, Complex Data",
+      "titleCN": "Satellite‐Derived Environmental Metrics and the Micro-Spatial Ecology of Crime: Extending Routine Activity and Social Disorganization Theory with Big, Complex Data",
+      "url": "https://doi.org/10.1080/07418825.2026.2684657",
+      "date": "2026-06-11",
+      "addedAt": "2026-11-04T06:48:48.077Z",
+      "summaryCN": "该论文发表于Justice Quarterly，探讨卫星衍生的环境指标如何用于犯罪微观空间生态研究。作者将日常活动理论与社会解组理论相结合，利用高分辨率遥感数据构建环境特征（如绿化、照明、土地利用混合度），检验其对犯罪空间分布的影响。研究采用大数据与复杂数据方法，扩展了传统犯罪学理论在微观尺度的解释力，并展示了卫星数据在犯罪预测与警务资源配置中的潜在应用。结论表明，卫星指标能显著提升对犯罪热点微空间差异的解释，为环境犯罪学提供了新的数据驱动路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对犯罪治理与警务监管具有直接制度启示：卫星环境指标可作为社区犯罪风险预警的客观依据，辅助警方在微观网格层面优化巡逻与资源配置，并推动环境设计预防犯罪（CPTED）政策的量化评估。在研究方法上，其将遥感大数据与犯罪学理论结合，为中国城市犯罪空间治理、智慧警务建设及社区环境改造提供比较法借鉴。同时，该路径引发隐私与算法治理问题，值得监管者关注数据使用边界与算法透明度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "犯罪学",
+          "class": "criminal"
+        },
+        {
+          "name": "遥感大数据",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Justice Quarterly"
+    },
+    {
       "title": "Attorney Investigation and Discipline Evidence From the State Bar of California",
       "titleCN": "Attorney Investigation and Discipline Evidence From the State Bar of California",
       "url": "https://doi.org/10.1111/jels.70047",
@@ -8698,11 +8790,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-03T07:04:57.985Z",
+    "updatedAt": "2026-11-04T06:49:04.110Z",
     "generator": "ai",
-    "checkedAt": "2026-11-03T07:04:57.985Z"
+    "checkedAt": "2026-11-04T06:49:04.110Z"
   },
   "digests": [
+    {
+      "date": "2026-11-04",
+      "generatedAt": "2026-11-04T06:49:04.102Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "密西西比州海因兹县调查显示，被捕者因案件积压、公设辩护资源不足与保释制度缺陷，数月甚至数年处于无正式指控的羁押状态，快速审判权与正当程序保障实质落空，地方司法管理缺乏监督问责。这涉及审前羁押的宪法边界与超期羁押的监督机制。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/03/jail-mississippi-trapped-inside-hinds-county"
+          ],
+          "relevance": "属监狱与矫正及刑事司法方向，提供审前羁押失灵与程序权利受损的实证个案材料。"
+        },
+        {
+          "text": "论文以欧洲人权公约集会自由评注为试验，用GPT-4o、Gemini 2.5 Flash与Kimi K2 Instruct独立生成评注，并以NLP指标加LLM-as-a-judge流水线评估，结果显示机器评注与欧洲人权法院官方指南质量相当，无需昂贵人工标注。其挑战法学评注由教授专属产出的制度前提，涉及学术评价与AI内容可问责性。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09527-4"
+          ],
+          "relevance": "属人工智能与法律判断方向，提供大模型生成法律评注的质量评估方法与基准。"
+        },
+        {
+          "text": "Justice Quarterly论文将日常活动理论与社会解组理论结合，用高分辨率遥感数据构建绿化、照明、土地利用混合度等环境特征，检验其对犯罪微观空间分布的影响，发现卫星指标能显著提升对犯罪热点微空间差异的解释。该路径可用于警务资源配置与环境设计预防犯罪的量化评估，同时引出数据使用边界与算法透明度问题。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2684657"
+          ],
+          "relevance": "属法律实证研究方法方向，提供遥感大数据用于犯罪空间分析的测量路径。"
+        },
+        {
+          "text": "美国司法部就边境墙计划向最高法院紧急上诉，请求批准在得州西部517英里沿线建设屏障，此前地区法院已发初步禁令。SCOTUSblog分析认为政府论证显示其把紧急上诉程序当作快速获胜通道，争议本身缺乏真正紧迫性。案件触及紧急案卷适用边界与影子案卷规范化，涉及禁令救济标准。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/the-border-wall-dispute-isnt-fit-for-the-emergency-docket/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "伊利诺伊州联邦法官驳回麦当劳对McRib虚假营销集体诉讼的撤诉动议，认为原告就限时回归营销中的欺骗性表述提出了足以进入后续程序的合理主张。裁定涉及Rule 12(b)(6)撤诉标准、集体认证前景与食品广告中合理消费者标准的适用，对限时产品营销的暗示性表述构成警示。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/the-border-wall-dispute-isnt-fit-for-the-emergency-docket/",
+        "https://www.themarshallproject.org/2026/11/03/jail-mississippi-trapped-inside-hinds-county",
+        "https://link.springer.com/article/10.1007/s10506-026-09527-4",
+        "https://doi.org/10.1080/07418825.2026.2684657",
+        "https://www.abajournal.com/news/article/judge-advances-mcdonalds-mcrib-lawsuit-that-alleges-fraud/"
+      ]
+    },
     {
       "date": "2026-11-03",
       "generatedAt": "2026-11-03T07:04:57.977Z",
