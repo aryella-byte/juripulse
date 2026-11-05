@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court to hear argument on whether and when federal officials can be held liable for violations of the Constitution",
+      "titleCN": "Court to hear argument on whether and when federal officials can be held liable for violations of the Constitution",
+      "url": "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-and-when-federal-officials-can-be-held-liable-for-violations-o/",
+      "date": "2026-11-04",
+      "addedAt": "2026-11-05T07:08:58.769Z",
+      "summaryCN": "美国最高法院将于11月9日听取口头辩论，审理夏威夷男子Kekai Watanabe提起的诉讼。Watanabe称其在联邦羁押期间斗殴受伤后，监狱急救员Francis Nielsen未提供医疗救治，侵犯其宪法权利。Nielsen与特朗普政府均主张驳回此案，Nielsen更请求法院彻底关闭依据Bivens案对联邦官员提起宪法侵权赔偿的路径。本案核心在于是否及何时可追究联邦官员的宪法侵权责任，可能动摇Bivens救济体系。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直接触及Bivens诉六名未知联邦探员案确立的联邦官员宪法侵权赔偿救济的存废边界。最高法院若采纳Nielsen主张，将实质推翻或大幅限缩Bivens判例，影响联邦执法、监狱医疗、国家安全等领域官员的问责机制，并改变宪法权利受侵害者的救济路径。对中国比较法研究而言，本案涉及公权力人员个人责任与国家赔偿的界分、宪法权利的司法可诉性及判例稳定性，对完善公职人员违法责任体系具有参照意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "Bivens救济",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦官员责任",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+      "titleCN": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+      "url": "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/",
+      "date": "2026-11-04",
+      "addedAt": "2026-11-05T07:08:58.769Z",
+      "summaryCN": "美国联邦上诉法院驳回了一项主张：律所使用人工智能应削减其115,000美元律师费裁决。路透社周一报道，该案涉及律所在诉讼中使用AI工具辅助法律工作，对方当事人以此为由要求大幅降低费用裁决。上诉法院认为，AI使用本身不构成削减合理律师费的充分理由，维持了原费用裁决。这一裁决为AI在法律服务中的使用与费用合理性认定之间的关系提供了初步司法指引。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁决触及科技法与美国联邦民事诉讼费用裁决制度的核心交叉点：律师费合理性通常依据《美国法典》第42编第1988条及Lodestar方法（合理小时费率乘以合理小时数）判断，而AI工具是否改变工作性质、是否应降低可补偿小时数，此前缺乏明确判例。裁决明确AI使用不自动导致费用削减，对律所采用法律科技的成本回收与当事人费用负担分配具有直接指引，也为中国法院在律师费酌定与法律科技应用背景下评估服务价值提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "律师费",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Musk’s Minnesota Deepfake Fight Could Define AI’s First Amendment",
+      "titleCN": "Musk’s Minnesota Deepfake Fight Could Define AI’s First Amendment",
+      "url": "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment",
+      "date": "2026-11-04",
+      "addedAt": "2026-11-05T07:08:58.769Z",
+      "summaryCN": "第八巡回法院正在审查明尼苏达州一项对AI生成裸体图像（nudification）适用严格责任的州法，该法禁止未经同意生成他人性化图像且不要求证明故意。马斯克旗下xAI提起宪法挑战，主张该法违反第一修正案。核心争点在于AI公司承担法律责任所需的主观状态：严格责任是否过度寒蝉合法表达，抑或州有权在深度伪造性暴力防治中免除故意要件。第八巡回法院的裁决可能为AI生成内容的言论自由边界与平台责任标准确立先例。",
+      "summaryEN": "",
+      "whyMattersCN": "本案将首次由联邦上诉法院界定AI生成性化图像监管中第一修正案审查的适用强度，直接影响各州深度伪造立法能否采用严格责任模式。若法院维持该法，将降低受害者举证门槛但可能迫使AI公司实施输出过滤；若认定违宪，则各州需回归过错责任，削弱对非自愿性化内容的遏制。对中国法而言，本案涉及生成式AI服务提供者的内容审核义务与侵权归责原则，可比较我国深度合成管理规定中的标识与审核责任，并为AI服务提供者主观要件的立法设计提供参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "深度伪造",
+          "class": "tech"
+        },
+        {
+          "name": "第一修正案",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
       "title": "The border wall dispute isn’t fit for the emergency docket",
       "titleCN": "The border wall dispute isn’t fit for the emergency docket",
       "url": "https://www.scotusblog.com/2026/11/the-border-wall-dispute-isnt-fit-for-the-emergency-docket/",
@@ -5706,6 +5775,52 @@
   ],
   "research": [
     {
+      "title": "Ghosts of Confession Law Past, Present, and Future",
+      "titleCN": "Ghosts of Confession Law Past, Present, and Future",
+      "url": "https://publications.lawschool.cornell.edu/lawreview/2026/11/04/ghosts-of-confession-law-past-present-and-future/?utm_source=rss&utm_medium=rss&utm_campaign=ghosts-of-confession-law-past-present-and-future",
+      "date": "2026-11-04",
+      "addedAt": "2026-11-05T07:09:13.220Z",
+      "summaryCN": "论文质疑美国现代供述法所宣称的普通法起源，指出最高法院以“自愿性”为核心的正当程序规则并非源自两个世纪的盎格鲁—美国传统，而是一种虚构的教义叙事。作者通过历史与教义分析揭示该起源故事的虚构性，并批判当前供述可采性规则过度简化，主张重新审视供述法的过去、现在与未来。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直接挑战美国供述可采性规则的历史正当性基础，涉及第五修正案与正当程序条款下的自白审查标准，对米兰达规则之后的供述法教义具有重构意义。其历史批判方法提示中国刑事证据法研究应警惕比较法移植中的起源叙事虚构，启发对非法供述排除规则中自愿性标准的反思，并推动对供述规则制度史与教义史之间关系的比较法考察。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "供述法",
+          "class": "criminal"
+        },
+        {
+          "name": "正当程序",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Cornell Law Review"
+    },
+    {
+      "title": "Automated transformation of financial regulations into SBVR: an ontology-based and natural language processing approach",
+      "titleCN": "Automated transformation of financial regulations into SBVR: an ontology-based and natural language processing approach",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09532-7",
+      "date": "2026-08-18",
+      "addedAt": "2026-11-05T07:09:13.220Z",
+      "summaryCN": "该论文提出CFR2SBVR方法，旨在将自然语言金融监管规则自动转化为SBVR标准下的结构化词汇与规则。研究结合自然语言处理、大语言模型及与金融行业业务本体FIBO的映射，从美国法典中提取、分类并形式化监管内容，以缓解传统GRC方法的被动性与法律语言歧义导致的合规追溯难题。论文展示了自动化监管形式化在提升合规可追溯性与规则一致性方面的进展。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对金融监管科技与合规治理具有直接制度意义：将美国联邦金融监管文本自动转化为机器可读规则，可提升监管规则的可追溯性与一致性，降低机构合规成本与解释偏差。方法上，其融合NLP、LLM与FIBO本体的路径，为监管规则形式化提供了可复用的技术框架，对推进中国金融监管规则数字化、监管沙盒与合规科技建设具有比较法启发，也提示需关注自动化转化中的法律解释权与责任归属问题。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "金融监管",
+          "class": "tech"
+        },
+        {
+          "name": "合规科技",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
       "title": "LLM as a law professor: having a large language model write a commentary on freedom of assembly",
       "titleCN": "LLM as a law professor: having a large language model write a commentary on freedom of assembly",
       "url": "https://link.springer.com/article/10.1007/s10506-026-09527-4",
@@ -8790,11 +8905,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-04T06:49:04.110Z",
+    "updatedAt": "2026-11-05T07:09:29.734Z",
     "generator": "ai",
-    "checkedAt": "2026-11-04T06:49:04.110Z"
+    "checkedAt": "2026-11-05T07:09:29.734Z"
   },
   "digests": [
+    {
+      "date": "2026-11-05",
+      "generatedAt": "2026-11-05T07:09:29.726Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院将审理Watanabe诉Nielsen案，争议在于联邦官员在羁押期间未提供医疗救治是否可依Bivens案承担宪法侵权赔偿责任，被告请求彻底关闭该救济路径。案件涉及公职人员个人责任与国家赔偿的界分及宪法权利的司法可诉性。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-and-when-federal-officials-can-be-held-liable-for-violations-o/"
+          ],
+          "relevance": "涉及监狱医疗与在押人员权利救济，可为监狱矫正中的问责机制提供材料。"
+        },
+        {
+          "text": "第八巡回法院审查明尼苏达州对AI生成性化图像适用严格责任的法律，xAI以第一修正案提出挑战，争点为AI公司承担法律责任所需的主观状态及严格责任是否过度寒蝉合法表达。裁决将影响各州深度伪造立法的责任模式选择。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Cornell Law Review论文质疑美国现代供述法所宣称的普通法起源，指出以自愿性为核心的正当程序规则实为虚构的教义叙事，并批判现行供述可采性规则过度简化，主张重审供述法的过去与现在。",
+          "refs": [
+            "https://publications.lawschool.cornell.edu/lawreview/2026/11/04/ghosts-of-confession-law-past-present-and-future/?utm_source=rss&utm_medium=rss&utm_campaign=ghosts-of-confession-law-past-present-and-future"
+          ],
+          "relevance": "涉及供述自愿性标准与非法供述排除规则，可为刑事证据与供述审查研究提供教义史材料。"
+        },
+        {
+          "text": "论文提出CFR2SBVR方法，结合自然语言处理、大语言模型与金融业务本体FIBO，将美国法典中的金融监管规则自动转化为SBVR结构化规则，以缓解法律语言歧义导致的合规追溯难题，并提示自动化转化中的解释权与责任归属问题。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09532-7"
+          ],
+          "relevance": "涉及AI用于法律规则的形式化转化，可为人工智能与法律判断研究提供方法材料。"
+        },
+        {
+          "text": "联邦上诉法院驳回以律所使用AI为由削减115,000美元律师费的主张，认为AI使用本身不构成削减合理律师费的充分理由，维持原裁决。争点在于AI工具是否改变工作性质、是否应降低可补偿小时数。",
+          "refs": [
+            "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-and-when-federal-officials-can-be-held-liable-for-violations-o/",
+        "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment",
+        "https://publications.lawschool.cornell.edu/lawreview/2026/11/04/ghosts-of-confession-law-past-present-and-future/?utm_source=rss&utm_medium=rss&utm_campaign=ghosts-of-confession-law-past-present-and-future",
+        "https://link.springer.com/article/10.1007/s10506-026-09532-7",
+        "https://www.abajournal.com/news/article/appellate-court-lawyers-ai-use-doesnt-justify-slashing-fee-award/"
+      ]
+    },
     {
       "date": "2026-11-04",
       "generatedAt": "2026-11-04T06:49:04.102Z",
