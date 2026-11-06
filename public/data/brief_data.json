@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Gavin Newsom Issues Commutations for All 548 Californians Facing Execution",
+      "titleCN": "Gavin Newsom Issues Commutations for All 548 Californians Facing Execution",
+      "url": "https://www.themarshallproject.org/2026/11/05/newsom-commutation-california-death-sentences",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-06T07:08:06.020Z",
+      "summaryCN": "加州州长纽森于2026年11月5日对全部548名死囚发布减刑令，将死刑改为终身监禁不得假释。该决定须经州法院批准方可生效。若获批准，全国死囚人数将减少近三分之一。此举实质暂停加州死刑执行，并可能引发关于州长减刑权边界、死刑存废的宪政与刑事司法争议。",
+      "summaryEN": "",
+      "whyMattersCN": "该减刑令触及美国联邦制下州长减刑权的宪法边界，涉及第八修正案禁止残酷刑罚的判例体系（如Furman v. Georgia与Gregg v. Georgia）以及加州死刑合宪性争议。若州法院批准，将实质性改变加州死刑适用，并可能推动其他州重新审视死刑政策。对中国法而言，可比较研究死刑复核程序、减刑假释制度及死刑替代措施的制度设计，为限制死刑适用提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "死刑",
+          "class": "criminal"
+        },
+        {
+          "name": "减刑权",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 9,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Justices grapple with how to apply pretrial procedure rules in improper firing dispute",
+      "titleCN": "Justices grapple with how to apply pretrial procedure rules in improper firing dispute",
+      "url": "https://www.scotusblog.com/2026/11/justices-grapple-with-how-to-apply-pretrial-procedure-rules-in-improper-firing-dispute/",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-06T07:08:06.020Z",
+      "summaryCN": "美国最高法院本周就 Younge v. Fulton Judicial Circuit District Attorney’s Office, Georgia 案进行口头辩论，核心问题是：被告未在诉答阶段提出积极抗辩，是否因此丧失在简易判决阶段以该抗辩为由申请简易判决的资格。该案源于一名原告主张自己被不当解雇的民权诉讼。多位大法官明确表示，联邦民事诉讼规则有其存在理由，应当被遵守。案件涉及审前程序规则适用的严格程度，以及未及时修改诉答文书的法律后果。",
+      "summaryEN": "",
+      "whyMattersCN": "该案将厘清《联邦民事诉讼规则》下积极抗辩的放弃规则与简易判决程序的衔接，直接影响联邦法院审前程序的可预期性。若最高法院严格适用规则，将强化诉答阶段的抗辩披露要求，促使被告及时修改诉答文书；若允许例外，则可能削弱规则8(c)的约束力。对中国民事诉讼中答辩失权与逾期抗辩的处理亦有比较法参考价值，尤其在审前程序刚性与当事人程序保障的平衡方面。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦民事诉讼规则",
+          "class": ""
+        },
+        {
+          "name": "简易判决",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Former Sean ‘Diddy’ Combs prosecutor will lead Cornell investigation",
+      "titleCN": "Former Sean ‘Diddy’ Combs prosecutor will lead Cornell investigation",
+      "url": "https://www.abajournal.com/news/article/former-diddy-prosecutor-to-lead-cornell-investigation/",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-06T07:08:06.020Z",
+      "summaryCN": "康奈尔大学聘请曾主导肖恩·迪迪·库姆斯刑事案的前联邦检察官担任外部法律顾问，领导一项校内调查。该检察官为康奈尔校友，此前在联邦检察系统中负责针对这位嘻哈大亨的刑事指控。此次聘任表明高校在面临内部不当行为指控时，倾向借助具有重大刑事案件经验的外部法律人士开展独立调查，以增强程序公信力并控制机构责任风险。调查具体对象与范围尚未公开，但人事选择本身已凸显高校合规调查的对抗性与敏感性。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻的制度意义在于高校内部调查的外部化与准司法化趋势。聘请曾主导高知名度刑事案的前联邦检察官，实质是将刑事程序的证据标准、访谈技巧与对抗性思维引入校园纪律程序，可能影响被调查者的程序权利配置与校方责任边界。在美国法上，这涉及Title IX调查、正当程序判例（如Goss v. Lopez）及机构过失侵权风险的交织；对中国法而言，高校学生纪律处分与教师学术不端调查同样面临独立性与正当程序质疑，可比较外部法律顾问在调查中的角色定位、利益冲突审查及调查报告的证据效力，为完善校内调查程序提供参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "高校合规",
+          "class": ""
+        },
+        {
+          "name": "内部调查",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Court to hear argument on whether and when federal officials can be held liable for violations of the Constitution",
       "titleCN": "Court to hear argument on whether and when federal officials can be held liable for violations of the Constitution",
       "url": "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-and-when-federal-officials-can-be-held-liable-for-violations-o/",
@@ -5775,6 +5844,52 @@
   ],
   "research": [
     {
+      "title": "A New Jury System to Build Legitimacy: The Case of Argentina",
+      "titleCN": "A New Jury System to Build Legitimacy: The Case of Argentina",
+      "url": "https://doi.org/10.1111/jels.70044",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-06T07:08:21.588Z",
+      "summaryCN": "本文研究阿根廷内乌肯省2015年引入英美式陪审团审判后向十二省扩散的现象，探讨大陆法系背景下的民主创新如何建构司法合法性。作者收集37次审判中433名陪审员的审后问卷，考察其传唤反应、证据理解、评议体验及态度变化，并调查34名法官与108名律师的认知。结论揭示陪审制运作效果与制度移植的可行性。",
+      "summaryEN": "",
+      "whyMattersCN": "该文以实证方法评估大陆法系国家移植陪审制的合法性建构功能，填补了拉美司法改革比较研究的空白。对中国而言，人民陪审员制度改革正面临实质参审与制度公信力难题，阿根廷经验提供了问卷测量陪审员认知与态度的可操作框架，并启发思考民主创新与司法权威之间的因果机制，对完善参审制实证评估具有方法借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "陪审制",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法合法性",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "Directly Constitutional Statutory Interpretation",
+      "titleCN": "Directly Constitutional Statutory Interpretation",
+      "url": "https://nyulawreview.org/issues/volume-101-number-4/directly-constitutional-statutory-interpretation/",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-06T07:08:21.588Z",
+      "summaryCN": "该论文针对美国制定法解释理论半个世纪以来默认宪法不规定解释方法的前提提出挑战，论证宪法实际上对两个根本问题具有直接规范力：法院能否将解释方法视为可自由选择或可受立法约束的事项，以及解释方法的选择是否受宪法结构约束。作者提出直接宪法性制定法解释框架，主张宪法文本与结构可为解释方法提供独立规范基础，从而修正传统上认为宪法对制定法解释沉默的共识。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直接挑战美国制定法解释理论中宪法沉默的通说，为解释方法之争引入宪法规范维度，可能影响法院对立法机关干预解释规则的合宪性审查标准。其论证框架对理解三权分立下立法与司法的解释权配置具有比较法价值，尤其可启发中国法语境下法律解释方法规范化与合宪性审查中解释规则定位的讨论，并为研究制定法解释的宪法约束提供新的分析路径。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "制定法解释",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法理论",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Ghosts of Confession Law Past, Present, and Future",
       "titleCN": "Ghosts of Confession Law Past, Present, and Future",
       "url": "https://publications.lawschool.cornell.edu/lawreview/2026/11/04/ghosts-of-confession-law-past-present-and-future/?utm_source=rss&utm_medium=rss&utm_campaign=ghosts-of-confession-law-past-present-and-future",
@@ -8905,11 +9020,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-05T07:09:29.734Z",
+    "updatedAt": "2026-11-06T07:08:37.676Z",
     "generator": "ai",
-    "checkedAt": "2026-11-05T07:09:29.734Z"
+    "checkedAt": "2026-11-06T07:08:37.676Z"
   },
   "digests": [
+    {
+      "date": "2026-11-06",
+      "generatedAt": "2026-11-06T07:08:37.669Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "加州州长纽森对全部548名死囚发布减刑令，将死刑改为终身监禁不得假释，须经州法院批准方可生效；若获批准，全国死囚人数将减少近三分之一。此举实质暂停加州死刑执行，并引发州长减刑权边界与死刑存废的宪政争议。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/05/newsom-commutation-california-death-sentences"
+          ],
+          "relevance": "涉及死刑执行与减刑制度，可提供死刑替代措施与减刑权运作的比较材料。"
+        },
+        {
+          "text": "阿根廷内乌肯省2015年引入英美式陪审团审判后向十二省扩散，作者收集37次审判中433名陪审员的审后问卷，并调查34名法官与108名律师的认知，考察传唤反应、证据理解、评议体验及态度变化，揭示陪审制运作效果与制度移植可行性。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70044"
+          ],
+          "relevance": "以问卷实证方法测量陪审员认知与态度，为公众司法感知与参审制评估提供方法与数据参考。"
+        },
+        {
+          "text": "美国最高法院就 Younge v. Fulton Judicial Circuit District Attorney’s Office, Georgia 案进行口头辩论，争点为被告未在诉答阶段提出积极抗辩，是否丧失在简易判决阶段据此申请简易判决的资格；多位大法官表示联邦民事诉讼规则应被遵守。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/justices-grapple-with-how-to-apply-pretrial-procedure-rules-in-improper-firing-dispute/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文挑战美国制定法解释理论半个世纪以来默认宪法不规定解释方法的前提，论证宪法对法院能否自由选择解释方法、解释方法是否受宪法结构约束这两个问题具有直接规范力，并提出直接宪法性制定法解释框架。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-4/directly-constitutional-statutory-interpretation/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "康奈尔大学聘请曾主导肖恩·迪迪·库姆斯刑事案的前联邦检察官担任外部法律顾问，领导一项校内调查；调查对象与范围尚未公开。此举体现高校内部调查的外部化与准司法化趋势，涉及被调查者程序权利与校方责任边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/former-diddy-prosecutor-to-lead-cornell-investigation/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/05/newsom-commutation-california-death-sentences",
+        "https://doi.org/10.1111/jels.70044",
+        "https://nyulawreview.org/issues/volume-101-number-4/directly-constitutional-statutory-interpretation/",
+        "https://www.scotusblog.com/2026/11/justices-grapple-with-how-to-apply-pretrial-procedure-rules-in-improper-firing-dispute/",
+        "https://www.abajournal.com/news/article/former-diddy-prosecutor-to-lead-cornell-investigation/"
+      ]
+    },
     {
       "date": "2026-11-05",
       "generatedAt": "2026-11-05T07:09:29.726Z",
