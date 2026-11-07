@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Justices consider when a constitutional rule is “previously unavailable” to prisoner",
+      "titleCN": "Justices consider when a constitutional rule is “previously unavailable” to prisoner",
+      "url": "https://www.scotusblog.com/2026/11/justices-consider-when-a-constitutional-rule-is-previously-unavailable-to-prisoner/",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-07T06:20:02.155Z",
+      "summaryCN": "美国最高法院就Guerrero诉Johnson案进行口头辩论，核心问题是死刑犯能否依据更新的精神病学标准，主张其因智力障碍不得被执行死刑，从而在《反恐怖主义与有效死刑法》通常禁止二次联邦定罪后救济的情况下获得例外。争议焦点在于该主张是否构成可追溯适用的宪法新规则，以及智力障碍认定标准变化是否属于先前无法获得的情形。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接关涉《反恐怖主义与有效死刑法》第2244条对二次人身保护令申请的严格限制，并检验宪法新规则追溯适用例外中先前无法获得要件的解释边界。判决将影响联邦法院对死刑犯智力障碍 claims 的受理门槛，涉及第八修正案禁止残酷刑罚与程序终局性的平衡，对刑事后定罪救济制度及比较法上死刑复核程序具有明确指引意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "死刑",
+          "class": "criminal"
+        },
+        {
+          "name": "人身保护令",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
+      "titleCN": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
+      "url": "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-07T06:20:02.155Z",
+      "summaryCN": "加州上诉法院合议庭一致裁定，医疗题材电视剧《ER》与《The Pitt》存在足够相似性，允许针对后者的著作权侵权诉讼继续推进。该案核心争议在于两部作品在角色设定、情节结构和叙事模式上是否构成实质性相似，从而越过简易判决阶段进入审理。上诉法院认为原告已提出足以支持陪审团裁断的事实争点，推翻了下级法院此前驳回诉讼的裁定。此裁定不涉及侵权是否最终成立，仅确认诉讼程序可以继续进行。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁定强化了著作权法中实质性相似标准的程序性适用，明确在作品类型、题材和叙事框架高度重合时，法院不宜在早期阶段以简易判决否定侵权主张，而应交由陪审团判断。这对影视行业具有直接合规启示：题材相近的衍生创作面临更高诉讼风险，权利人在开发阶段需更审慎评估与既有作品的相似度。比较法上，中国著作权侵权判定同样采用接触加实质性相似规则，本案关于叙事结构、角色关系等抽象要素能否构成相似依据的讨论，对我国法院处理同类影视作品纠纷具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "著作权",
+          "class": ""
+        },
+        {
+          "name": "实质性相似",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Technological Sophistication of Drones and Required Interoperability",
+      "titleCN": "Technological Sophistication of Drones and Required Interoperability",
+      "url": "https://www.lawfaremedia.org/article/technological-sophistication-of-drones-and-required-interoperability",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-07T06:20:02.155Z",
+      "summaryCN": "Lawfare刊文讨论AI赋能下无人机技术复杂度的提升及其对盟国互操作性的要求。文章指出，无人机在AI驱动下的快速演进扩大了使用范围与影响，同时技术迭代速度加快，使盟国之间在标准、接口与作战协同上的互操作性成为紧迫问题。核心论证在于技术优势本身不足以保障联合行动效能，需通过制度化的互操作标准与联盟协调机制加以支撑。文章为政策分析类评论，未涉及具体立法或判例，但对科技法与国家安全监管具有参考价值。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及无人机AI化带来的出口管制、军事技术合作与联盟标准协调问题，涉及国际法中的武器审查义务与科技法中的自主系统监管空白。对中国法而言，可启发思考民用无人机出口合规、军民两用技术管制及与其他国家在空域管理与数据接口标准上的互操作安排。研究方法上属政策评论，缺乏实证或判例支撑，制度增量有限，但对理解盟国互操作标准如何转化为法律义务具有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "无人机",
+          "class": "tech"
+        },
+        {
+          "name": "人工智能",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
       "title": "Gavin Newsom Issues Commutations for All 548 Californians Facing Execution",
       "titleCN": "Gavin Newsom Issues Commutations for All 548 Californians Facing Execution",
       "url": "https://www.themarshallproject.org/2026/11/05/newsom-commutation-california-death-sentences",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 7,
       "source": "SCOTUSblog"
-    },
-    {
-      "title": "Former Sean ‘Diddy’ Combs prosecutor will lead Cornell investigation",
-      "titleCN": "Former Sean ‘Diddy’ Combs prosecutor will lead Cornell investigation",
-      "url": "https://www.abajournal.com/news/article/former-diddy-prosecutor-to-lead-cornell-investigation/",
-      "date": "2026-11-05",
-      "addedAt": "2026-11-06T07:08:06.020Z",
-      "summaryCN": "康奈尔大学聘请曾主导肖恩·迪迪·库姆斯刑事案的前联邦检察官担任外部法律顾问，领导一项校内调查。该检察官为康奈尔校友，此前在联邦检察系统中负责针对这位嘻哈大亨的刑事指控。此次聘任表明高校在面临内部不当行为指控时，倾向借助具有重大刑事案件经验的外部法律人士开展独立调查，以增强程序公信力并控制机构责任风险。调查具体对象与范围尚未公开，但人事选择本身已凸显高校合规调查的对抗性与敏感性。",
-      "summaryEN": "",
-      "whyMattersCN": "该新闻的制度意义在于高校内部调查的外部化与准司法化趋势。聘请曾主导高知名度刑事案的前联邦检察官，实质是将刑事程序的证据标准、访谈技巧与对抗性思维引入校园纪律程序，可能影响被调查者的程序权利配置与校方责任边界。在美国法上，这涉及Title IX调查、正当程序判例（如Goss v. Lopez）及机构过失侵权风险的交织；对中国法而言，高校学生纪律处分与教师学术不端调查同样面临独立性与正当程序质疑，可比较外部法律顾问在调查中的角色定位、利益冲突审查及调查报告的证据效力，为完善校内调查程序提供参照。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "高校合规",
-          "class": ""
-        },
-        {
-          "name": "内部调查",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Court to hear argument on whether and when federal officials can be held liable for violations of the Constitution",
@@ -5844,6 +5890,52 @@
   ],
   "research": [
     {
+      "title": "Understanding bystander decision‐making: Experimental evidence on when and how people respond to crime",
+      "titleCN": "Understanding bystander decision‐making: Experimental evidence on when and how people respond to crime",
+      "url": "https://doi.org/10.1111/1745-9125.70048",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-07T06:20:16.428Z",
+      "summaryCN": "该论文研究目击犯罪时旁观者是否及如何干预的决策机制。作者整合反应性监护、程序正义与犯罪举报理论，提出涵盖官方干预（报警）与非官方干预（当面制止）的扩展框架。基于全美样本（N=1901）的预注册视频析因实验，操纵施害者与受害者种族，检验种族因素对干预决策的影响。研究推进了对旁观者社会控制行为的因果理解。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对犯罪治理与警务制度有直接启发：旁观者干预是正式社会控制的重要补充，其决策受程序正义感知与种族因素影响，提示警方应提升合法性以激励举报与合作。方法上，预注册视频析因实验为旁观者研究提供了因果识别策略，值得中国犯罪学与法律实证研究借鉴。对中国而言，可启发见义勇为制度、举报奖励与社区警务设计，并警示种族/身份差异可能导致的干预偏差，需在比较法层面审慎检验本土情境。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "旁观者干预",
+          "class": "criminal"
+        },
+        {
+          "name": "反应性监护",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology"
+    },
+    {
+      "title": "Redefining Neighborhoods: The Multiscale Impact of the Built Environment on Intimate Partner Violence",
+      "titleCN": "Redefining Neighborhoods: The Multiscale Impact of the Built Environment on Intimate Partner Violence",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09696-0",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-07T06:20:16.428Z",
+      "summaryCN": "该研究以2023年芝加哥人口普查区块组的亲密伴侣暴力（IPV）率为因变量，检验邻里定义方式如何影响建成环境特征与IPV率之间推断关系的结论。作者提出理论导向邻里定义的三项原则——自我中心、模糊性与多尺度，并比较忽略、部分实现与完全操作化这些原则的模型，进而识别空置建筑、绿地、酒类销售点等具体建成环境特征各自发挥作用的独特空间尺度。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对犯罪学与城市治理研究具有方法论的直接贡献：它表明邻里边界的选择并非技术细节，而会系统性改变建成环境与IPV关联的方向与强度，从而影响基于空间证据的警务部署、分区规划与酒类许可监管。对中国而言，社区治理单元（居委会辖区、网格）与统计单元并不重合，该文的三原则为反家暴法实施中社区干预资源配置、以及城市更新中空置建筑与绿地布局的暴力预防评估提供了可比较的空间分析框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "亲密伴侣暴力",
+          "class": "criminal"
+        },
+        {
+          "name": "建成环境",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "J Quantitative Criminology"
+    },
+    {
       "title": "A New Jury System to Build Legitimacy: The Case of Argentina",
       "titleCN": "A New Jury System to Build Legitimacy: The Case of Argentina",
       "url": "https://doi.org/10.1111/jels.70044",
@@ -9020,11 +9112,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-06T07:08:37.676Z",
+    "updatedAt": "2026-11-07T06:20:31.471Z",
     "generator": "ai",
-    "checkedAt": "2026-11-06T07:08:37.676Z"
+    "checkedAt": "2026-11-07T06:20:31.471Z"
   },
   "digests": [
+    {
+      "date": "2026-11-07",
+      "generatedAt": "2026-11-07T06:20:31.467Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院就Guerrero诉Johnson案进行口头辩论，争点在于死刑犯能否依据更新的精神病学标准主张因智力障碍不得被执行死刑，从而在《反恐怖主义与有效死刑法》通常禁止二次联邦定罪后救济的情况下获得例外。案件涉及宪法新规则能否追溯适用，以及智力障碍认定标准变化是否属于先前无法获得的情形，判决将影响联邦法院对此类申请的受理门槛。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/justices-consider-when-a-constitutional-rule-is-previously-unavailable-to-prisoner/"
+          ],
+          "relevance": "涉及死刑执行与后定罪救济规则，可为量刑与刑罚研究提供美国死刑程序材料。"
+        },
+        {
+          "text": "一项预注册视频析因实验以全美样本（N=1901）检验旁观者在目击犯罪时的干预决策，操纵施害者与受害者种族，区分报警等官方干预与当面制止等非官方干预。研究发现旁观者干预是正式社会控制的重要补充，其决策受程序正义感知与种族因素影响，提示警方合法性会影响举报与合作意愿。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70048"
+          ],
+          "relevance": "涉及公众对司法与警方合法性的感知如何影响配合行为，可为司法公正感知研究提供实验证据。"
+        },
+        {
+          "text": "研究以2023年芝加哥人口普查区块组的亲密伴侣暴力率为因变量，提出自我中心、模糊性与多尺度三项邻里定义原则，比较不同操作化模型下建成环境特征与IPV率的关联，并识别空置建筑、绿地、酒类销售点各自发挥作用的独特空间尺度。作者指出邻里边界选择会系统性改变关联的方向与强度，进而影响警务部署、分区规划与酒类许可监管。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09696-0"
+          ],
+          "relevance": "属法律实证研究中的空间数据与方法议题，可为犯罪治理与社区干预的因果推断提供方法参考。"
+        },
+        {
+          "text": "Lawfare刊文讨论AI赋能下无人机技术复杂度提升对盟国互操作性的要求，指出技术迭代加快使标准、接口与作战协同成为紧迫问题，技术优势本身不足以保障联合行动效能，需依靠制度化互操作标准与联盟协调机制。文章为政策评论，未涉及具体立法或判例，但触及出口管制、军民两用技术管制与自主系统监管空白。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/technological-sophistication-of-drones-and-required-interoperability"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "加州上诉法院合议庭一致裁定，医疗剧《ER》与《The Pitt》在角色设定、情节结构和叙事模式上存在足够相似性，原告已提出足以支持陪审团裁断的事实争点，故推翻下级法院驳回诉讼的裁定，允许著作权侵权诉讼继续推进。该裁定仅确认程序可以继续，不涉及侵权是否最终成立，但明确题材与叙事框架高度重合时不宜在早期以简易判决否定主张。",
+          "refs": [
+            "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/justices-consider-when-a-constitutional-rule-is-previously-unavailable-to-prisoner/",
+        "https://doi.org/10.1111/1745-9125.70048",
+        "https://www.lawfaremedia.org/article/technological-sophistication-of-drones-and-required-interoperability",
+        "https://link.springer.com/article/10.1007/s10940-026-09696-0",
+        "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/"
+      ]
+    },
     {
       "date": "2026-11-06",
       "generatedAt": "2026-11-06T07:08:37.669Z",
