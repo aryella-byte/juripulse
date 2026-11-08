@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
+      "titleCN": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
+      "url": "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-08T06:26:34.957Z",
+      "summaryCN": "加州上诉法院一致裁定，医疗题材电视剧《ER》与《The Pitt》存在足够相似性，允许针对后者的侵权诉讼继续推进。该案核心在于判断两部作品在角色设定、情节结构和叙事表达上是否构成实质性相似，从而可能侵犯版权。上诉法院的裁决并未最终认定侵权成立，而是确认原告提出的相似性主张足以通过初步审查，案件将发回初审法院进一步审理。这一进展为影视行业作品相似性判断提供了新的程序性参照。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁决强化了版权侵权诉讼中实质性相似标准的程序门槛，明确法院在早期阶段不宜过度限缩原告的相似性主张。对影视行业而言，这意味着创意相近的题材可能面临更高诉讼风险，促使制作方在开发阶段加强版权尽调。从比较法看，中国著作权法同样采用接触加实质性相似规则，本案对相似性判断中情节与角色元素的整体考量，可为国内影视侵权案件提供参考，尤其涉及题材撞车与表达边界时，法院如何区分思想与表达具有启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "版权侵权",
+          "class": ""
+        },
+        {
+          "name": "实质性相似",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Russell Brand found guilty of rape, sexual assault as judge promises ‘sentence of some length’",
+      "titleCN": "Russell Brand found guilty of rape, sexual assault as judge promises ‘sentence of some length’",
+      "url": "https://www.abajournal.com/news/article/russell-brand-found-guilty-of-rape-sexual-assault-as-judge-promises-jail-time/",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-08T06:26:34.957Z",
+      "summaryCN": "英国伦敦法院经四周审理后裁定，喜剧演员拉塞尔·布兰德强奸一名女性并对另外三名女性实施性侵的罪名成立。法官当庭表示将判处一定长度的刑期，具体量刑稍后宣布。该案是英国近年来备受关注的性犯罪刑事追诉案件之一，涉及多名被害人、跨年度指控，审判过程及定罪结果对性侵案件证据审查、被害人作证保护及量刑实践具有参考意义。",
+      "summaryEN": "",
+      "whyMattersCN": "该案凸显英国刑事司法中性犯罪追诉的程序特点：多名被害人分别指控、陪审团事实认定、法官保留量刑裁量权。对研究性侵案件证据规则（如相似事实证据、被害人陈述可信性评估）及量刑指南适用具有比较法价值。同时，案件涉及公众人物利用身份与影响力实施性暴力的情形，对完善职场与娱乐行业性骚扰防治、被害人支持机制及中国刑法中性侵犯罪（强奸罪、强制猥亵罪）的证据审查与量刑规范化具有启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "性犯罪",
+          "class": "criminal"
+        },
+        {
+          "name": "刑事审判",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Court to consider the reach of Article III courts in immigration contract dispute",
+      "titleCN": "Court to consider the reach of Article III courts in immigration contract dispute",
+      "url": "https://www.scotusblog.com/2026/11/court-to-consider-the-reach-of-article-iii-courts-in-immigration-contract-dispute/",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-08T06:26:34.957Z",
+      "summaryCN": "美国最高法院将于11月10日审理劳工部诉Sun Valley Orchards案，核心争点是宪法第三条是否允许国会将H-2A签证项目中雇主与临时农业工人雇佣协议合规义务的裁决权授予行政部门而非法院。劳工部数十年來通过行政法官裁决此类争议，认为Sun Valley Orchards存在多项违规。该案涉及行政裁决权与司法权的边界，可能影响移民劳工合同争议的管辖格局。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接触及宪法第三条司法权与行政裁决权的分界，涉及国会能否将移民劳工合同争议的裁决权授予劳工部行政法官。若最高法院限缩行政裁决范围，将影响H-2A项目下雇主合规审查的管辖路径，并可能波及联邦行政机关在其他领域裁决合同争议的合法性。对中国法而言，该案为行政裁决与司法审查的权限配置提供比较法参照，尤其涉及劳动监察与合同争议解决机制的分工。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法第三条",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政裁决",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Justices consider when a constitutional rule is “previously unavailable” to prisoner",
       "titleCN": "Justices consider when a constitutional rule is “previously unavailable” to prisoner",
       "url": "https://www.scotusblog.com/2026/11/justices-consider-when-a-constitutional-rule-is-previously-unavailable-to-prisoner/",
@@ -22,29 +91,6 @@
       ],
       "quality_score": 8,
       "source": "SCOTUSblog"
-    },
-    {
-      "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
-      "titleCN": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
-      "url": "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/",
-      "date": "2026-11-06",
-      "addedAt": "2026-11-07T06:20:02.155Z",
-      "summaryCN": "加州上诉法院合议庭一致裁定，医疗题材电视剧《ER》与《The Pitt》存在足够相似性，允许针对后者的著作权侵权诉讼继续推进。该案核心争议在于两部作品在角色设定、情节结构和叙事模式上是否构成实质性相似，从而越过简易判决阶段进入审理。上诉法院认为原告已提出足以支持陪审团裁断的事实争点，推翻了下级法院此前驳回诉讼的裁定。此裁定不涉及侵权是否最终成立，仅确认诉讼程序可以继续进行。",
-      "summaryEN": "",
-      "whyMattersCN": "该裁定强化了著作权法中实质性相似标准的程序性适用，明确在作品类型、题材和叙事框架高度重合时，法院不宜在早期阶段以简易判决否定侵权主张，而应交由陪审团判断。这对影视行业具有直接合规启示：题材相近的衍生创作面临更高诉讼风险，权利人在开发阶段需更审慎评估与既有作品的相似度。比较法上，中国著作权侵权判定同样采用接触加实质性相似规则，本案关于叙事结构、角色关系等抽象要素能否构成相似依据的讨论，对我国法院处理同类影视作品纠纷具有参考价值。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "著作权",
-          "class": ""
-        },
-        {
-          "name": "实质性相似",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Technological Sophistication of Drones and Required Interoperability",
@@ -5890,6 +5936,52 @@
   ],
   "research": [
     {
+      "title": "From prison to profession: Postsecondary education and access to middle‐skill jobs",
+      "titleCN": "From prison to profession: Postsecondary education and access to middle‐skill jobs",
+      "url": "https://doi.org/10.1111/1745-9125.70047",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-08T06:26:53.894Z",
+      "summaryCN": "本文针对犯罪学中就业作为犯罪转折点的理论，指出普通就业对减少累犯效果有限，真正起作用的是优质工作。研究聚焦于在监期间获得的高等教育证书——副学士学位与学士学位——是否提升刑满释放人员获得中等技能岗位的可能性。论文利用实证数据检验狱内高等教育对就业结果的影响，试图为刑事政策与再犯预防提供更精准的技能培养路径。结论倾向于支持狱内高等教育作为改善就业质量的有效干预手段。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对刑事司法中的再犯预防政策具有直接制度意义：它挑战了以任意就业为核心的矫正就业项目，主张将资源投向狱内高等教育与中等技能劳动力市场对接。对中国而言，社区矫正法与监狱法修订中关于教育矫正措施的规定可借鉴其思路，即从泛化的职业培训转向可认证的高等教育凭证。研究方法上，其区分证书类型与就业质量的实证设计，也为中国再犯率研究提供了可比较的分析框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "狱内高等教育",
+          "class": "criminal"
+        },
+        {
+          "name": "再犯预防",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Criminology"
+    },
+    {
+      "title": "Rational choice models of crime decision‐making: A flexible utility framework",
+      "titleCN": "Rational choice models of crime decision‐making: A flexible utility framework",
+      "url": "https://doi.org/10.1111/1745-9125.70055",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-08T06:26:53.894Z",
+      "summaryCN": "该论文针对理性选择犯罪决策模型理论碎片化的问题，系统整合贝卡里亚古典威慑模型等分散要素，构建系列方程形式化犯罪决策的核心机制，并论证该框架对近期犯罪决策研究进展的包容弹性。论文旨在澄清对理性选择模型解释力与政策相关性的误解，为犯罪学理论综合提供形式化基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对刑事政策与刑罚理论具有直接启发：形式化理性选择框架可为中国刑法中罪责刑相适应原则、威慑效果评估及量刑规范化提供理论工具，亦有助于比较法上审视严打政策与一般预防的边界。其方程化方法为犯罪决策实证研究提供可检验模型，对监管设计如罚金刑优化、监禁替代措施的成本效益分析具有方法论价值，并推动犯罪学与法经济学在中国语境下的交叉研究。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "理性选择理论",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪决策",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Criminology"
+    },
+    {
       "title": "Understanding bystander decision‐making: Experimental evidence on when and how people respond to crime",
       "titleCN": "Understanding bystander decision‐making: Experimental evidence on when and how people respond to crime",
       "url": "https://doi.org/10.1111/1745-9125.70048",
@@ -9112,11 +9204,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-07T06:20:31.471Z",
+    "updatedAt": "2026-11-08T06:27:12.756Z",
     "generator": "ai",
-    "checkedAt": "2026-11-07T06:20:31.471Z"
+    "checkedAt": "2026-11-08T06:27:12.756Z"
   },
   "digests": [
+    {
+      "date": "2026-11-08",
+      "generatedAt": "2026-11-08T06:27:12.749Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "英国伦敦法院经四周审理裁定拉塞尔·布兰德强奸及性侵四名女性罪名成立，法官表示将判处一定长度刑期，具体量刑稍后宣布。案件涉及多名被害人分别指控、陪审团事实认定与法官量刑裁量，为性侵案件证据审查与量刑实践提供比较法素材。",
+          "refs": [
+            "https://www.abajournal.com/news/article/russell-brand-found-guilty-of-rape-sexual-assault-as-judge-promises-jail-time/"
+          ],
+          "relevance": "涉及性犯罪定罪后的量刑裁量与量刑实践。"
+        },
+        {
+          "text": "论文指出普通就业对减少累犯效果有限，真正起作用的是优质工作，并利用实证数据检验在监期间获得副学士与学士学位是否提升刑满释放人员获得中等技能岗位的可能，结论倾向支持狱内高等教育作为改善就业质量的干预手段。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70047"
+          ],
+          "relevance": "涉及监狱教育与矫正干预对再犯预防的效果，属监狱矫正实证研究。"
+        },
+        {
+          "text": "论文针对理性选择犯罪决策模型的理论碎片化，整合贝卡里亚古典威慑模型等分散要素，以系列方程形式化犯罪决策的核心机制，并论证该框架对近期研究进展的包容弹性，澄清对模型解释力与政策相关性的误解。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70055"
+          ],
+          "relevance": "涉及刑罚威慑与犯罪决策的形式化建模，可为量刑与刑罚效果评估提供理论工具。"
+        },
+        {
+          "text": "美国最高法院将于11月10日审理劳工部诉Sun Valley Orchards案，争点为宪法第三条是否允许国会将H-2A签证项目中雇主与临时农业工人雇佣协议合规义务的裁决权授予行政部门而非法院，涉及行政裁决权与司法权的边界。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/court-to-consider-the-reach-of-article-iii-courts-in-immigration-contract-dispute/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "加州上诉法院一致裁定《ER》与《The Pitt》存在足够相似性，允许侵权诉讼继续推进，但未最终认定侵权成立，仅确认原告的相似性主张足以通过初步审查，案件发回初审法院进一步审理。",
+          "refs": [
+            "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/court-to-consider-the-reach-of-article-iii-courts-in-immigration-contract-dispute/",
+        "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/",
+        "https://www.abajournal.com/news/article/russell-brand-found-guilty-of-rape-sexual-assault-as-judge-promises-jail-time/",
+        "https://doi.org/10.1111/1745-9125.70047",
+        "https://doi.org/10.1111/1745-9125.70055"
+      ]
+    },
     {
       "date": "2026-11-07",
       "generatedAt": "2026-11-07T06:20:31.467Z",
