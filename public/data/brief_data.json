@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Addressing Iran’s Plutonium Pathway",
+      "titleCN": "Addressing Iran’s Plutonium Pathway",
+      "url": "https://www.lawfaremedia.org/article/addressing-iran-s-plutonium-pathway",
+      "date": "2026-11-08",
+      "addedAt": "2026-11-09T06:58:44.265Z",
+      "summaryCN": "文章聚焦伊朗核谈判中常被忽视的钚路径问题。尽管谈判主要围绕铀浓缩展开，但作者指出，达成持久协议必须同时封堵伊朗通过钚生产获取核武器的潜在途径。文章分析了钚路径的技术环节与核查难点，论证了仅限制铀浓缩不足以防止核扩散，并探讨了在协议中纳入钚路径限制条款的必要性与可行方案，为理解核不扩散法律机制提供了补充视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对国际核不扩散法律机制具有明确增量：它揭示了《不扩散核武器条约》及附加议定书框架下，核查实践长期偏重铀浓缩而忽视钚路径的制度盲区。文章关于封堵钚路径的论证，可启发中国在参与国际核安全治理、完善出口管制与保障监督立法时，重视对乏燃料后处理与钚分离活动的法律规制。同时，其比较法视角有助于评估双边核协议中核查条款的完备性，对国际法教学与研究亦有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "核不扩散",
+          "class": "international"
+        },
+        {
+          "name": "国际核查",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "Guantanamo Dispatches: Slow-Going in Jury Selection for First Capital Terror Trial at Guantanamo Bay",
+      "titleCN": "Guantanamo Dispatches: Slow-Going in Jury Selection for First Capital Terror Trial at Guantanamo Bay",
+      "url": "https://www.justsecurity.org/163504/slow-jury-selection-uss-cole-trial-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=slow-jury-selection-uss-cole-trial-guantanamo",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-09T06:58:44.265Z",
+      "summaryCN": "关塔那摩湾USS Cole爆炸案首次死刑恐怖审判的陪审团遴选进展缓慢，预计将持续数周并可能延至感恩节后。该案涉及军事委员会审判恐怖嫌疑人的程序问题，陪审团遴选耗时反映死刑案件与国家安全案件的特殊复杂性。最新进展显示遴选工作仍在进行中，尚未进入实质审理阶段。",
+      "summaryEN": "",
+      "whyMattersCN": "该案是美国在关塔那摩军事委员会体系下首次进行死刑恐怖审判，涉及军事审判与联邦刑事审判的程序差异、死刑案件陪审团遴选标准、被告获得公正审判权等宪政与刑事司法争议。其进展对评估关塔那摩军事委员会的合法性与实效性具有指标意义，也为比较法研究军事审判程序、死刑案件陪审团组成及国家安全与正当程序平衡提供重要素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "关塔那摩",
+          "class": "criminal"
+        },
+        {
+          "name": "军事委员会",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Germany’s Proposed Hack-Back Powers and Outsourced Surveillance Are Testing Constitutional Limits",
+      "titleCN": "Germany’s Proposed Hack-Back Powers and Outsourced Surveillance Are Testing Constitutional Limits",
+      "url": "https://www.justsecurity.org/161646/germany-security-reforms-hack-back/?utm_source=rss&utm_medium=rss&utm_campaign=germany-security-reforms-hack-back",
+      "date": "2026-11-05",
+      "addedAt": "2026-11-09T06:58:44.265Z",
+      "summaryCN": "德国拟议的网络与监控改革赋予情报机构主动黑客反击权限，并允许将监控任务外包给私营主体，引发宪政争议。文章指出，相关立法草案可能使情报部门在缺乏有效司法审查和透明度的情况下秘密监控与行动，触及基本权利保障、权力分立与法治原则的边界。最新进展为改革方案仍处立法讨论阶段，批评者呼吁强化议会监督与司法授权机制。",
+      "summaryEN": "",
+      "whyMattersCN": "该议题直接涉及情报监控的宪法边界与比例原则，对比较宪法与科技法研究具有参考价值。德国联邦宪法法院此前关于BND监控及自动数据处理的判例已确立信息自决权与保留性法律要求，本次改革可能构成新的宪政测试。外包监控还触及国家任务私有化与基本权利受侵害时的责任归属问题。对中国而言，可启发对技术侦查措施司法授权、数据最小化及第三方外包监管的制度反思。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "网络监控",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪政争议",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
       "title": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
       "titleCN": "‘ER’ and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
       "url": "https://www.abajournal.com/news/article/appeals-court-says-er-and-the-pitt-are-similar-enough-for-lawsuit-to-move-forward/",
@@ -5936,6 +6005,52 @@
   ],
   "research": [
     {
+      "title": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
+      "titleCN": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09546-1",
+      "date": "2026-11-07",
+      "addedAt": "2026-11-09T06:59:00.488Z",
+      "summaryCN": "该研究首次将基于BigBird稀疏注意力机制的Transformer模型应用于土耳其宪法法院个人申请决定的预测任务，以克服标准BERT模型输入长度受限的缺陷。论文在BigBird提供的语义丰富表示基础上，融合词汇信号，构建可解释的长文档分类模型，用于预测宪法法院对个人申请的决定结果。研究展示了长文档法律NLP在土耳其语司法场景中的可行性，并强调模型可解释性对法律应用的重要性。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文对宪法法院裁判预测与法律人工智能研究具有多重意义。首先，它针对土耳其宪法法院个人申请这一具体制度场景，展示了长文档Transformer模型在司法决定预测中的适用性，弥补了标准BERT在长法律文书处理上的不足。其次，研究强调可解释性，回应了法律AI在透明性与问责方面的监管关切，对司法决策辅助工具的合规设计具有参考价值。对中国而言，该研究为法院裁判文书长文本分析、类案检索与裁判预测提供了方法借鉴，也提示在引入AI辅助司法时需同步构建可解释性机制与制度约束。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "宪法法院",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
+      "title": "Dangerously Vague: The Indeterminacy of Dangerousness Criteria of Preventive Sanctions in Dutch Criminal Law",
+      "titleCN": "Dangerously Vague: The Indeterminacy of Dangerousness Criteria of Preventive Sanctions in Dutch Criminal Law",
+      "url": "https://doi.org/10.1002/bsl.70101",
+      "date": "2026-10-17",
+      "addedAt": "2026-11-09T06:59:00.488Z",
+      "summaryCN": "该论文以荷兰刑法中的预防性制裁为对象，指出从预防性拘禁到社区监督均须满足危险性要件，但立法对这些要件所要求未来损害的类型、严重程度、发生概率与时间范围缺乏定义或定义不精确。作者借助法律模糊性理论论证模糊危险性要件不可取，因其使要件是否满足的判断失去可预测性与可争辩性，并可能影响人身自由限制的正当性。",
+      "summaryEN": "",
+      "whyMattersCN": "论文直接触及预防性制裁的合法性基础：危险性要件若不确定，法官与专家判断易受裁量偏好影响，羁押与监督的适用边界随之扩张。其分析框架可用于比较中国刑法中的人身危险性评估、社区矫正与强制医疗等制度，提示立法应细化损害类型、概率门槛与预测时间窗，并强化说理与司法审查，避免以模糊标准替代证据裁判。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "危险性要件",
+          "class": "criminal"
+        },
+        {
+          "name": "预防性制裁",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
       "title": "From prison to profession: Postsecondary education and access to middle‐skill jobs",
       "titleCN": "From prison to profession: Postsecondary education and access to middle‐skill jobs",
       "url": "https://doi.org/10.1111/1745-9125.70047",
@@ -9204,11 +9319,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-08T06:27:12.756Z",
+    "updatedAt": "2026-11-09T06:59:21.469Z",
     "generator": "ai",
-    "checkedAt": "2026-11-08T06:27:12.756Z"
+    "checkedAt": "2026-11-09T06:59:21.469Z"
   },
   "digests": [
+    {
+      "date": "2026-11-09",
+      "generatedAt": "2026-11-09T06:59:21.464Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "荷兰刑法中的预防性制裁均以危险性要件为前提，但立法未界定未来损害的类型、严重程度、发生概率与时间范围。论文以法律模糊性理论论证此类要件缺乏可预测性与可争辩性，进而影响人身自由限制的正当性，并指出法官与专家判断易受裁量偏好影响。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70101"
+          ],
+          "relevance": "涉及预防性拘禁与社区监督的危险性要件，可为量刑与刑罚研究提供比较材料。"
+        },
+        {
+          "text": "研究以BigBird稀疏注意力模型预测土耳其宪法法院个人申请决定，克服标准BERT输入长度限制，并融合词汇信号提升可解释性。论文强调可解释性对法律应用的重要性，回应法律AI在透明性与问责方面的监管关切。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09546-1"
+          ],
+          "relevance": "AI用于裁判结果预测并强调可解释性，属人工智能与法律判断方向。"
+        },
+        {
+          "text": "关塔那摩USS Cole爆炸案首次死刑恐怖审判的陪审团遴选进展缓慢，预计持续数周。案件涉及军事委员会审判程序、死刑案件陪审团遴选标准与被告公正审判权等争议，对评估该军事委员会体系的合法性与实效性具有指标意义。",
+          "refs": [
+            "https://www.justsecurity.org/163504/slow-jury-selection-uss-cole-trial-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=slow-jury-selection-uss-cole-trial-guantanamo"
+          ],
+          "relevance": "涉及死刑案件陪审团遴选程序，可为刑罚与刑事司法研究提供材料。"
+        },
+        {
+          "text": "德国拟议的网络与监控改革赋予情报机构主动黑客反击权限，并允许将监控任务外包给私营主体。文章指出草案可能在缺乏有效司法审查与透明度的情况下秘密监控，触及基本权利保障、权力分立与法治原则的边界，批评者呼吁强化议会监督与司法授权。",
+          "refs": [
+            "https://www.justsecurity.org/161646/germany-security-reforms-hack-back/?utm_source=rss&utm_medium=rss&utm_campaign=germany-security-reforms-hack-back"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "文章指出伊朗核谈判主要围绕铀浓缩展开，但持久协议须同时封堵钚生产路径。作者分析钚路径的技术环节与核查难点，论证仅限制铀浓缩不足以防止核扩散，并探讨在协议中纳入钚路径限制条款的必要性与可行方案。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/addressing-iran-s-plutonium-pathway"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/161646/germany-security-reforms-hack-back/?utm_source=rss&utm_medium=rss&utm_campaign=germany-security-reforms-hack-back",
+        "https://link.springer.com/article/10.1007/s10506-026-09546-1",
+        "https://doi.org/10.1002/bsl.70101",
+        "https://www.lawfaremedia.org/article/addressing-iran-s-plutonium-pathway",
+        "https://www.justsecurity.org/163504/slow-jury-selection-uss-cole-trial-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=slow-jury-selection-uss-cole-trial-guantanamo"
+      ]
+    },
     {
       "date": "2026-11-08",
       "generatedAt": "2026-11-08T06:27:12.749Z",
