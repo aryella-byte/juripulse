@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Ohio’s Laws Make it More Difficult to Right a Wrongful Conviction",
+      "titleCN": "Ohio’s Laws Make it More Difficult to Right a Wrongful Conviction",
+      "url": "https://www.themarshallproject.org/2026/11/09/ohio-wrongful-conviction-new-trial-delays",
+      "date": "2026-11-09",
+      "addedAt": "2026-11-10T07:35:26.387Z",
+      "summaryCN": "俄亥俄州刑事程序规则对寻求重新审判的被定罪人构成系统性障碍。报道指出，该州法律对新审判动议设置严格时限和程序门槛，导致冤案纠正被拖延数十年，无辜者长期被监禁，纳税人承担数百万美元额外羁押成本。调查聚焦程序延迟如何将实体正义转化为时间竞赛，揭示州级刑事司法纠错机制的结构性缺陷，并呈现冤案当事人因程序障碍难以获得救济的具体案例。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示刑事冤案纠错机制中的程序正义与实体正义张力。俄亥俄州对新审判动议的时限和程序要求，实质上将无辜者置于时间竞赛劣势，与联邦宪法正当程序原则及第八修正案禁止残酷刑罚的精神形成紧张。比较法上，中国刑事再审程序同样面临启动难、时限严的问题，可借鉴美国州级冤案纠错委员会和DNA洗冤制度的经验，反思如何在程序安定性与纠错可能性之间建立平衡，避免程序规则异化为掩盖实体错误的屏障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事冤案纠错",
+          "class": "criminal"
+        },
+        {
+          "name": "程序正义",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Lawfare Daily: The Trials of the Trump Administration, November 9",
+      "titleCN": "Lawfare Daily: The Trials of the Trump Administration, November 9",
+      "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-6",
+      "date": "2026-11-09",
+      "addedAt": "2026-11-10T07:35:26.387Z",
+      "summaryCN": "Lawfare播客节目汇集Benjamin Wittes、Molly Roberts、Roger Parloff、Anna Bower与Eric Columbus等法律评论者，讨论针对特朗普政府政策的最新诉讼动态。节目梳理了多起涉及行政权力边界、联邦机构运作及政策合法性的司法挑战，分析法院对行政行为的审查标准与临时救济措施，并评估这些诉讼在程序与实体层面的走向。讨论涵盖诉讼策略、管辖权争议及判决对后续政策执行的即时影响，为理解行政与司法互动提供实务视角。",
+      "summaryEN": "",
+      "whyMattersCN": "该讨论聚焦行政权力司法审查这一宪政核心议题，涉及法院对总统政策合法性的审查标准、临时禁令与初步禁令的适用条件，以及行政机关在诉讼期间的政策执行空间。对比较法研究而言，美国法院如何界定行政行为的可审查性与救济门槛，可为理解司法制衡机制提供参照；对中国行政法而言，其中关于诉讼策略、程序性救济与政策稳定性的讨论，亦有助于反思行政行为司法审查的时机与强度。节目还提示关注下级法院判决的累积效应与巡回法院分歧的形成路径。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政权力",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "Supreme Court allows Trump administration to continue border wall construction",
+      "titleCN": "Supreme Court allows Trump administration to continue border wall construction",
+      "url": "https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/",
+      "date": "2026-11-09",
+      "addedAt": "2026-11-10T07:35:26.387Z",
+      "summaryCN": "美国最高法院以四页未署名意见批准特朗普政府请求，暂停联邦地区法官此前发出的临时禁令，允许恢复在得克萨斯州大弯地区修建边境墙。仅大法官杰克逊未说明理由地表示会拒绝该请求。争议源于今年早些时候国土安全部长诺姆及其继任者马林签发三项豁免，授权该地区建设边境墙并豁免多项环境与保护法律。",
+      "summaryEN": "",
+      "whyMattersCN": "本案凸显最高法院在紧急程序中对行政机关事实性豁免环境法行为的司法审查强度，涉及三权分立下总统边境安全权限与国会环境立法之间的张力。未署名意见和唯一异议均无说理，延续了影子案卷程序缺乏透明度的争议，对下级法院临时禁令的效力边界及环境法豁免的司法可审查性具有判例意义。对中国法而言，可比较行政机关以国家安全为由豁免环境规制时的合法性审查标准与程序保障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "边境墙",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Addressing Iran’s Plutonium Pathway",
       "titleCN": "Addressing Iran’s Plutonium Pathway",
       "url": "https://www.lawfaremedia.org/article/addressing-iran-s-plutonium-pathway",
@@ -6005,6 +6074,52 @@
   ],
   "research": [
     {
+      "title": "Ambivalent Sexism, Minority Threat, and Support for the Criminalization of Abortion",
+      "titleCN": "Ambivalent Sexism, Minority Threat, and Support for the Criminalization of Abortion",
+      "url": "https://doi.org/10.1080/07418825.2026.2670999",
+      "date": "2026-05-20",
+      "addedAt": "2026-11-10T07:35:43.783Z",
+      "summaryCN": "该论文考察矛盾性别歧视与少数群体威胁感知如何共同影响公众对堕胎犯罪化的支持。研究以美国公众为样本，将性别歧视区分为敌意与善意两个维度，并结合种族或族裔少数群体威胁理论，检验二者对堕胎刑事化态度的独立与交互效应。结果表明，敌意性别歧视显著提升支持度，善意性别歧视亦可能通过保护性叙事发挥作用，而少数群体威胁感知则强化了惩罚性取向。论文推进了堕胎规制态度的社会心理学解释，对理解刑事化立法的公众基础具有实证贡献。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对理解美国堕胎刑事化的公众态度形成机制具有直接意义。在Dobbs案后各州重启堕胎禁令的背景下，研究揭示了性别意识形态与族群威胁感知如何交织影响惩罚性立法偏好，为评估刑事化政策的社会基础与潜在偏见风险提供实证依据。方法上，其将矛盾性别歧视量表与少数群体威胁框架结合，可为中文语境下堕胎规制态度研究提供可借鉴的测量策略。对中国法而言，虽堕胎不涉刑事化争议，但论文提示应关注性别偏见与群体威胁话语如何渗入规制论证，对反思生育政策与刑法介入边界具有比较法启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "堕胎刑事化",
+          "class": "criminal"
+        },
+        {
+          "name": "矛盾性别歧视",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Justice Quarterly"
+    },
+    {
+      "title": "Simplifying Personal Jurisdiction in Complex Litigation",
+      "titleCN": "Simplifying Personal Jurisdiction in Complex Litigation",
+      "url": "https://nyulawreview.org/issues/volume-101-number-4/simplifying-personal-jurisdiction-in-complex-litigation/",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-10T07:35:43.783Z",
+      "summaryCN": "该论文针对美国最高法院在Bristol-Myers Squibb案后对复杂诉讼中属人管辖权规则的混乱适用展开研究。文章指出，法院试图以既定原则处理 evolving 的复杂诉讼，却导致法律更加不确定。作者通过分析该判例及后续发展，提出简化属人管辖权分析的框架，旨在为跨州大规模侵权与集体诉讼中的管辖权争议提供更清晰的规则，并探讨如何在尊重州主权与保障受害人诉权之间取得平衡。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直接回应Bristol-Myers Squibb案后美国属人管辖权在复杂诉讼中的适用困境，涉及大规模侵权、集体诉讼与跨州管辖等核心程序问题。其简化框架对理解美国联邦制下州法院管辖边界具有制度意义，并为中国法上涉外民商事管辖、群体性纠纷的法院管辖规则提供比较法参考，尤其在互联网与跨区域交易背景下，有助于反思管辖权确定性与当事人诉权保障之间的平衡。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "属人管辖权",
+          "class": ""
+        },
+        {
+          "name": "复杂诉讼",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
       "title": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
       "titleCN": "Explainable long-document classification for predicting outcomes of individual applications to the C​onstitutional Court of Türkiye",
       "url": "https://link.springer.com/article/10.1007/s10506-026-09546-1",
@@ -9319,11 +9434,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-09T06:59:21.469Z",
+    "updatedAt": "2026-11-10T07:36:06.214Z",
     "generator": "ai",
-    "checkedAt": "2026-11-09T06:59:21.469Z"
+    "checkedAt": "2026-11-10T07:36:06.214Z"
   },
   "digests": [
+    {
+      "date": "2026-11-10",
+      "generatedAt": "2026-11-10T07:36:06.209Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "俄亥俄州刑事程序规则对新审判动议设严格时限与程序门槛，冤案纠正被拖延数十年，无辜者长期监禁并产生额外羁押成本。报道呈现程序障碍如何使纠错变成时间竞赛，涉及程序安定性与实体正义的张力，以及州级刑事司法纠错机制的结构性缺陷。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/09/ohio-wrongful-conviction-new-trial-delays"
+          ],
+          "relevance": "涉及冤案纠正与长期监禁，可为刑罚执行与纠错机制研究提供材料。"
+        },
+        {
+          "text": "Justice Quarterly 论文以美国公众为样本，检验敌意与善意性别歧视及少数群体威胁感知对支持堕胎犯罪化的影响，发现敌意性别歧视显著提升支持度，威胁感知强化惩罚性取向。研究为理解惩罚性立法偏好的社会心理基础提供实证依据。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2670999"
+          ],
+          "relevance": "关涉公众惩罚性态度与刑事化立法偏好，属公众对司法与刑罚态度的实证研究。"
+        },
+        {
+          "text": "Lawfare 播客讨论针对特朗普政府政策的多起诉讼，梳理行政权力边界、联邦机构运作与政策合法性的司法挑战，分析法院审查标准、临时救济措施及诉讼对政策执行的即时影响，并涉及诉讼策略、管辖权争议与下级法院判决的累积效应。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-6"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国最高法院以四页未署名意见批准暂停联邦地区法院的临时禁令，允许恢复得克萨斯州大弯地区边境墙建设，仅杰克逊大法官未说明理由表示反对。争议涉及国土安全部豁免多项环境与保护法律，凸显紧急程序中司法审查强度与影子案卷透明度问题。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "NYU Law Review 论文针对 Bristol-Myers Squibb 案后复杂诉讼中属人管辖权规则的混乱适用，提出简化分析框架，以处理跨州大规模侵权与集体诉讼的管辖权争议，并讨论尊重州主权与保障受害人诉权之间的平衡。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-4/simplifying-personal-jurisdiction-in-complex-litigation/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/09/ohio-wrongful-conviction-new-trial-delays",
+        "https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/",
+        "https://nyulawreview.org/issues/volume-101-number-4/simplifying-personal-jurisdiction-in-complex-litigation/",
+        "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-6",
+        "https://doi.org/10.1080/07418825.2026.2670999"
+      ]
+    },
     {
       "date": "2026-11-09",
       "generatedAt": "2026-11-09T06:59:21.464Z",
