@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court appears unlikely to side with inmate in lawsuit for violation of his constitutional rights",
+      "titleCN": "Court appears unlikely to side with inmate in lawsuit for violation of his constitutional rights",
+      "url": "https://www.scotusblog.com/2026/11/court-appears-unlikely-to-allow-inmates-lawsuit-for-violation-of-his-constitutional-rights/",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-11T06:53:29.788Z",
+      "summaryCN": "美国最高法院就 Nielsen v. Watanabe 案进行口头辩论，该案涉及联邦拘留中心囚犯 Kekai Watanabe 起诉监狱护理人员 Francis Nielsen，主张其未提供充分医疗救治的行为违反了宪法权利。辩论持续约80分钟，多数大法官似乎倾向于驳回该囚犯的诉讼，但尚不清楚法院是否准备在未来更广泛地禁止此类诉讼。案件核心在于囚犯能否依据宪法直接起诉提供医疗服务的私人承包商雇员。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及美国宪法下囚犯医疗权利的可诉性边界，尤其是私人承包商雇员是否可被追究宪法侵权责任。若最高法院限缩此类诉讼，将影响联邦拘留设施中囚犯获得医疗救治的救济途径，并可能重塑依据 Bivens 诉六名未知联邦探员案所确立的默示诉权范围。对中国法而言，该案提示在监管场所医疗服务外包背景下，需明确服务提供者的法律责任与权利救济机制，具有比较法参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "囚犯权利",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法诉权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Sheriff allows law firm to profit from policing, lawsuit alleges",
+      "titleCN": "Sheriff allows law firm to profit from policing, lawsuit alleges",
+      "url": "https://www.abajournal.com/news/article/lawsuit-alleges-that-miami-sheriff-allows-law-firm-to-profit-from-policing/",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-11T06:53:29.788Z",
+      "summaryCN": "佛罗里达州迈阿密-戴德县治安官被诉违宪，指控其允许一家律师事务所从执法活动中获利。诉讼称，该安排涉及民事没收程序，律所通过协助治安官办公室处理没收案件获取经济利益，可能违反正当程序与平等保护条款。此案可能影响佛罗里达州部分没收程序的处理方式，并引发对执法机构与私人律所利益捆绑的审查。目前案件已进入司法程序，具体裁决尚未作出。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及美国民事没收制度的核心争议：执法机构能否将没收程序外包给营利性律所并分享收益。若法院认定违宪，将直接限制执法部门通过私人律所创收的模式，并可能推动佛罗里达州乃至全美对民事没收程序的正当程序审查。对中国法而言，可比较思考行政执法中第三方参与的利益冲突规制，以及没收程序中的程序正义保障。该案也为研究执法私有化与宪法约束提供了新的司法素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民事没收",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Courts Are Striking Down Warrantless Flock Camera Use",
+      "titleCN": "Courts Are Striking Down Warrantless Flock Camera Use",
+      "url": "https://www.lawfaremedia.org/article/courts-are-striking-down-warrantless-flock-camera-use",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-11T06:53:29.788Z",
+      "summaryCN": "文章梳理了近期联邦与州法院针对无证使用Flock车牌识别摄像头系统的判决，指出多个法院认定执法部门在未取得搜查令的情况下大规模、持续采集车辆位置信息，构成违宪搜查。核心规则在于，长期、系统性监控可揭示个人生活模式，超出公开道路行驶的合理隐私期待，需受第四修正案约束。最新进展显示，相关判例正在形成对自动车牌识别技术无证使用的司法限制，并推动执法机构调整数据保留与访问政策。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示了第四修正案在算法监控时代的适用边界，涉及卡彭特案确立的长期监控规则能否延伸至车牌识别数据。其制度影响在于：法院正以判例形式为无证自动监控设定宪法门槛，迫使执法机构在数据保留期限、跨机构共享和访问权限上建立合规机制。对中国法而言，可比较我国个人信息保护法下公共场所图像采集的合法性基础与比例原则，以及刑事诉讼法中技术侦查措施的令状要求，为自动驾驶与智慧城市监控的规制提供比较法参考。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第四修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "车牌识别",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
       "title": "Ohio’s Laws Make it More Difficult to Right a Wrongful Conviction",
       "titleCN": "Ohio’s Laws Make it More Difficult to Right a Wrongful Conviction",
       "url": "https://www.themarshallproject.org/2026/11/09/ohio-wrongful-conviction-new-trial-delays",
@@ -6074,6 +6143,52 @@
   ],
   "research": [
     {
+      "title": "Stably Unstable? – Testing the Temporal Stability of Spatial Crime Patterns",
+      "titleCN": "Stably Unstable? – Testing the Temporal Stability of Spatial Crime Patterns",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09691-5",
+      "date": "2026-10-05",
+      "addedAt": "2026-11-11T06:53:42.610Z",
+      "summaryCN": "该研究检验挪威奥斯陆二十年间微观地理犯罪格局的时间稳定性，系统梳理空间稳定性的定义与操作化方式，并基于100×100米网格的警方登记犯罪数据，采用K均值纵向聚类分析犯罪趋势。研究扩展了既有文献，明确分析簇内变异、按犯罪类型分别检验，并考察抢劫等特定犯罪的稳定性假设，为空间犯罪模式的稳定性争论提供实证证据。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对犯罪地理学中稳定性概念的操作化争议具有方法论贡献，其簇内变异分析与分犯罪类型检验有助于澄清既有研究结论分歧的来源。对中国犯罪治理而言，网格化警务与治安防控体系高度依赖微观空间犯罪格局的稳定性假设，若稳定性因犯罪类型而异，则警力配置与预测性巡逻的制度设计需差异化调整。研究亦为比较法视角下城市犯罪空间治理的实证评估提供可借鉴的纵向聚类方法。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "空间犯罪模式",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪地理学",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "J Quantitative Criminology"
+    },
+    {
+      "title": "Silicon Formalism: Rules, Standards, and Judge AI",
+      "titleCN": "Silicon Formalism: Rules, Standards, and Judge AI",
+      "url": "https://doi.org/10.1111/jels.70046",
+      "date": "2026-10-23",
+      "addedAt": "2026-11-11T06:53:42.610Z",
+      "summaryCN": "该文以GPT-5复现一项原以61名美国联邦法官为对象的司法实验，考察大语言模型在冲突法汽车事故假想案中的裁判行为。实验操纵三个变量：适用规则抑或标准、当事人同情性呈现、事故地点所涉州冲突法规则。研究发现，LLM遵循实验设计所定法律正确结果的频率显著高于人类法官，揭示规则与标准对AI裁判的差异化影响。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对AI辅助裁判的司法改革具有直接比较法启示：其一，以随机实验方法检验LLM的规则遵循性，为算法裁判可解释性与偏差评估提供方法范式；其二，规则与标准之区分在AI语境下呈现新意，提示立法者设计规范时应考虑机器可读性与裁量空间；其三，结论挑战人类法官在冲突法领域表现逊于AI的直觉，对中国推进智慧法院建设、界定AI裁判辅助边界及法官责任分配具有参照价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能裁判",
+          "class": "tech"
+        },
+        {
+          "name": "冲突法",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
       "title": "Ambivalent Sexism, Minority Threat, and Support for the Criminalization of Abortion",
       "titleCN": "Ambivalent Sexism, Minority Threat, and Support for the Criminalization of Abortion",
       "url": "https://doi.org/10.1080/07418825.2026.2670999",
@@ -9434,11 +9549,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-10T07:36:06.214Z",
+    "updatedAt": "2026-11-11T06:54:00.568Z",
     "generator": "ai",
-    "checkedAt": "2026-11-10T07:36:06.214Z"
+    "checkedAt": "2026-11-11T06:54:00.568Z"
   },
   "digests": [
+    {
+      "date": "2026-11-11",
+      "generatedAt": "2026-11-11T06:54:00.561Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院就 Nielsen v. Watanabe 案进行口头辩论，多数大法官似倾向驳回囚犯依据宪法直接起诉监狱私人承包商雇员的请求。争点在于囚犯医疗救治权利的可诉性边界及 Bivens 默示诉权的适用范围，若限缩将影响联邦拘留设施中囚犯获得医疗救济的途径。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/court-appears-unlikely-to-allow-inmates-lawsuit-for-violation-of-his-constitutional-rights/"
+          ],
+          "relevance": "涉及监狱医疗与囚犯权利救济，可为监狱矫正研究提供比较材料。"
+        },
+        {
+          "text": "有研究以 GPT-5 复现原以 61 名美国联邦法官为对象的冲突法实验，操纵规则与标准、当事人同情性呈现及州冲突法规则三个变量，发现大语言模型遵循实验设定法律正确结果的频率显著高于人类法官。文章据此讨论规则与标准对 AI 裁判的差异化影响及算法裁判的可解释性与偏差评估。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70046"
+          ],
+          "relevance": "直接涉及 AI 用于法律判断及法官行为实验，可提供方法与数据参考。"
+        },
+        {
+          "text": "有研究基于挪威奥斯陆二十年 100×100 米网格警方登记犯罪数据，用 K 均值纵向聚类检验微观地理犯罪格局的时间稳定性，并分犯罪类型考察、分析簇内变异。结果显示稳定性假设需按犯罪类型分别检验，这对依赖空间格局稳定性的网格化警务与巡逻配置提出差异化要求。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09691-5"
+          ],
+          "relevance": "属法律实证研究的空间数据分析方法，可为犯罪治理与警务配置研究提供参考。"
+        },
+        {
+          "text": "近期联邦与州法院在多起判决中认定，执法部门无搜查令长期、系统采集 Flock 车牌识别数据构成违宪搜查，理由是持续监控可揭示个人生活模式，超出公开道路行驶的合理隐私期待。判例正推动执法机构调整数据保留期限与访问政策。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/courts-are-striking-down-warrantless-flock-camera-use"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "佛罗里达州迈阿密-戴德县治安官被诉违宪，指控其允许一家律师事务所从民事没收执法活动中获利，涉及正当程序与平等保护争议。案件触及执法机构能否将没收程序外包给营利性律所并分享收益，目前尚待裁决。",
+          "refs": [
+            "https://www.abajournal.com/news/article/lawsuit-alleges-that-miami-sheriff-allows-law-firm-to-profit-from-policing/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/court-appears-unlikely-to-allow-inmates-lawsuit-for-violation-of-his-constitutional-rights/",
+        "https://www.lawfaremedia.org/article/courts-are-striking-down-warrantless-flock-camera-use",
+        "https://doi.org/10.1111/jels.70046",
+        "https://www.abajournal.com/news/article/lawsuit-alleges-that-miami-sheriff-allows-law-firm-to-profit-from-policing/",
+        "https://link.springer.com/article/10.1007/s10940-026-09691-5"
+      ]
+    },
     {
       "date": "2026-11-10",
       "generatedAt": "2026-11-10T07:36:06.209Z",
