@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Lawmakers Hold Hearing on Investigation Into Deadly Illinois Prison Fires",
+      "titleCN": "Lawmakers Hold Hearing on Investigation Into Deadly Illinois Prison Fires",
+      "url": "https://www.themarshallproject.org/2026/11/11/illinois-prison-fires-legislature-hearing",
+      "date": "2026-11-11",
+      "addedAt": "2026-11-12T07:29:40.324Z",
+      "summaryCN": "伊利诺伊州乔利埃特惩教中心发生致命火灾后，州议员举行听证会调查监狱安全与应急管理问题。一名该中心员工作证称，现有措施不足以保障人员免受火灾威胁，议员对惩教部门的安全管理表示不满。听证聚焦于监狱设施消防安全标准、应急疏散程序及监管责任，可能推动州级立法或监管改革，涉及囚犯与工作人员的生命安全及惩教机构的法定注意义务。",
+      "summaryEN": "",
+      "whyMattersCN": "该听证直接触及惩教设施安全监管的制度漏洞：监狱消防安全标准是否得到执行、应急疏散预案是否充分、惩教部门对在押人员与员工是否履行了法定安全保障义务。若调查揭示系统性失职，可能引发州级立法修订、监管执法强化乃至囚犯家属提起民权诉讼，涉及第八修正案禁止残忍与异常惩罚下的羁押条件标准。对中国法而言，可比较监狱安全监管责任、事故调查公开性与在押人员权利保障机制，具有制度反思价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "惩教设施安全",
+          "class": "criminal"
+        },
+        {
+          "name": "监狱监管",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Elvis Presley estate shakes up licensing, copyright lawsuit against AI music generator",
+      "titleCN": "Elvis Presley estate shakes up licensing, copyright lawsuit against AI music generator",
+      "url": "https://www.abajournal.com/news/article/elvis-presley-estate-shakes-up-licensing-copyright-lawsuit-against-ai-music-generator/",
+      "date": "2026-11-11",
+      "addedAt": "2026-11-12T07:29:40.324Z",
+      "summaryCN": "2026年11月11日，猫王埃尔维斯·普雷斯利的遗产管理方及音乐版权持有人在美国加州法院对AI音乐生成器Suno提起诉讼，指控其未经授权使用受版权保护的音乐作品训练人工智能模型并生成音乐，构成版权侵权。本案核心争议在于AI训练使用版权材料的合法性边界，以及生成式AI输出与原始作品实质性相似的认定标准。该案是继唱片公司起诉AI音乐平台后，版权持有人针对AI音乐生成器发起的最新重大诉讼，目前处于初审阶段，尚未有判决。",
+      "summaryEN": "",
+      "whyMattersCN": "本案将测试美国版权法下AI训练数据的合理使用抗辩边界，尤其是音乐作品不同于文字作品的旋律、录音等元素在AI生成中的复制与演绎认定。若法院限制合理使用，将直接影响生成式AI音乐产业的训练数据合规路径，并可能推动授权许可市场形成。对中国法而言，本案涉及著作权法第二十四条合理使用条款在AI训练场景的适用争议，以及AI生成内容与既有作品实质性相似的侵权判定标准，对国内正在审理的AI版权纠纷具有比较法参考价值，也可能影响国家版权局对AI训练数据的监管态度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI版权",
+          "class": "tech"
+        },
+        {
+          "name": "合理使用",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Ohio Lawmaker Says Closing Troubled Treatment Facilities Isn’t Enough to Protect Children",
+      "titleCN": "Ohio Lawmaker Says Closing Troubled Treatment Facilities Isn’t Enough to Protect Children",
+      "url": "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio",
+      "date": "2026-11-11",
+      "addedAt": "2026-11-12T07:29:40.324Z",
+      "summaryCN": "俄亥俄州议员在《马歇尔计划》调查揭露州监管漏洞后，主张仅关闭问题治疗设施不足以保护儿童，呼吁加强州级问责。调查发现州政府对儿童治疗机构的监督存在系统性缺失，包括检查不足、投诉处理滞后和透明性缺乏。议员与倡导者推动立法改革，要求建立更严格的许可标准、定期公开检查记录并追究监管失职责任。最新进展是相关法案已进入委员会审议阶段，但具体条款和表决时间尚未确定。",
+      "summaryEN": "",
+      "whyMattersCN": "该新闻涉及儿童福利机构监管的制度性缺陷，直接关联行政法中的许可与监督责任、政府透明度以及弱势群体保护。俄亥俄州的改革讨论为比较法提供了观察美国州级监管问责机制的窗口，尤其是调查报道推动立法回应的互动模式。对中国而言，可启发对儿童福利机构、民办康复机构的事中事后监管设计，包括检查频次、信息公开和投诉响应机制。同时提示监管失职的法律责任配置问题，避免以关闭机构替代系统性问责。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "儿童福利监管",
+          "class": ""
+        },
+        {
+          "name": "州级问责",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Court appears unlikely to side with inmate in lawsuit for violation of his constitutional rights",
       "titleCN": "Court appears unlikely to side with inmate in lawsuit for violation of his constitutional rights",
       "url": "https://www.scotusblog.com/2026/11/court-appears-unlikely-to-allow-inmates-lawsuit-for-violation-of-his-constitutional-rights/",
@@ -6143,6 +6212,52 @@
   ],
   "research": [
     {
+      "title": "Ambient Population and Crime: The Fragility of Causal Links in Urban Environments",
+      "titleCN": "Ambient Population and Crime: The Fragility of Causal Links in Urban Environments",
+      "url": "https://doi.org/10.1080/07418825.2026.2747582",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-12T07:29:52.326Z",
+      "summaryCN": "该论文探讨城市环境中环境人口（ambient population）与犯罪之间的因果关系脆弱性。研究可能利用城市人口流动数据与犯罪记录，检验人口密度或流动变化对犯罪率的因果效应，并指出既有因果推断对模型设定、工具变量或固定效应选择的高度敏感性。核心论证在于：环境人口与犯罪之间的因果链条在城市复杂环境中并不稳健，微小的分析选择变化即可导致结论翻转。结论强调犯罪学实证研究需更谨慎地处理因果识别与稳健性检验。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对犯罪学与城市治理的实证研究具有方法论警示意义：若环境人口与犯罪的因果链接脆弱，则基于人口密度或流动性的警务资源配置、城市安全监管措施可能缺乏可靠证据基础。对中国法语境而言，城市流动人口管理与治安防控政策常以人口-犯罪关联为预设，本文提示需审慎对待此类因果推断，避免将相关性误作政策依据。同时，其稳健性检验框架可为国内犯罪实证研究提供方法参照，推动因果识别标准的提升。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "环境人口",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪因果推断",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Justice Quarterly"
+    },
+    {
+      "title": "Intelligent support for soil and water conservation compliance: decision assistance capabilities of prompt-enhanced large language models",
+      "titleCN": "Intelligent support for soil and water conservation compliance: decision assistance capabilities of prompt-enhanced large language models",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09531-8",
+      "date": "2026-08-04",
+      "addedAt": "2026-11-12T07:29:52.326Z",
+      "summaryCN": "该论文针对水土保持法律法规层级复杂、修订频繁而基层合规亟需高效智能工具的问题，以71部国家和地方水土保持法规及新颁布的《中华人民共和国生态环境法典》为素材，构建覆盖理论知识、操作规范、执法实务等四类任务的评估数据集，系统考察可本地部署的小语言模型在水土保持法律领域的 capability 边界，并探索提示增强等提升路径，为智能合规决策辅助提供实证依据。",
+      "summaryEN": "",
+      "whyMattersCN": "论文将大语言模型研究从通用法律问答推进到水土保持合规这一具体监管领域，回应了基层执法与合规的知识获取难题；其以中国生态环境法典和新修法规为语料，具有鲜明的中国法语境和制度时效性。研究采用小语言模型本地部署方案，兼顾数据安全与算力成本，对监管机构和企业合规工具设计有直接参考价值；同时构建四类任务评估数据集的方法，为法律人工智能的领域适配评测提供了可复用的研究框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "水土保持法",
+          "class": "tech"
+        },
+        {
+          "name": "法律人工智能",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
       "title": "Stably Unstable? – Testing the Temporal Stability of Spatial Crime Patterns",
       "titleCN": "Stably Unstable? – Testing the Temporal Stability of Spatial Crime Patterns",
       "url": "https://link.springer.com/article/10.1007/s10940-026-09691-5",
@@ -9549,11 +9664,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-11T06:54:00.568Z",
+    "updatedAt": "2026-11-12T07:30:17.797Z",
     "generator": "ai",
-    "checkedAt": "2026-11-11T06:54:00.568Z"
+    "checkedAt": "2026-11-12T07:30:17.797Z"
   },
   "digests": [
+    {
+      "date": "2026-11-12",
+      "generatedAt": "2026-11-12T07:30:17.792Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国加州法院受理猫王遗产管理方及音乐版权持有人对AI音乐生成器Suno的诉讼，指控其未经授权使用受版权保护作品训练模型并生成音乐。争议集中在AI训练使用版权材料的合理使用边界，以及生成内容与原始作品实质性相似的认定标准，目前处于初审阶段。",
+          "refs": [
+            "https://www.abajournal.com/news/article/elvis-presley-estate-shakes-up-licensing-copyright-lawsuit-against-ai-music-generator/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以71部国家和地方水土保持法规及新颁布的生态环境法典为素材，构建覆盖理论知识、操作规范、执法实务等四类任务的评估数据集，考察可本地部署小语言模型在该领域的capability边界，并探索提示增强等提升路径。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09531-8"
+          ],
+          "relevance": "涉及AI用于法律判断与合规决策辅助，可提供领域适配评测框架。"
+        },
+        {
+          "text": "论文检验城市环境中环境人口与犯罪之间的因果效应，指出既有因果推断对模型设定、工具变量或固定效应选择高度敏感，微小的分析选择变化即可导致结论翻转，强调犯罪学实证研究需更谨慎处理因果识别与稳健性检验。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2747582"
+          ],
+          "relevance": "属法律实证研究方法，可为人口与犯罪关联的因果识别提供方法参照。"
+        },
+        {
+          "text": "伊利诺伊州乔利埃特惩教中心发生致命火灾后，州议员举行听证会调查监狱安全与应急管理。一名该中心员工作证称现有措施不足以保障人员免受火灾威胁，听证聚焦设施消防安全标准、应急疏散程序及监管责任，可能推动州级立法或监管改革。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/11/illinois-prison-fires-legislature-hearing"
+          ],
+          "relevance": "涉及监狱羁押条件与矫正机构安全监管，可提供惩教设施问责材料。"
+        },
+        {
+          "text": "俄亥俄州议员在调查揭露州监管漏洞后主张，仅关闭问题儿童治疗设施不足以保护儿童，呼吁加强州级问责。调查发现检查不足、投诉处理滞后和透明性缺乏，相关法案已进入委员会审议阶段，具体条款和表决时间尚未确定。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.abajournal.com/news/article/elvis-presley-estate-shakes-up-licensing-copyright-lawsuit-against-ai-music-generator/",
+        "https://www.themarshallproject.org/2026/11/11/illinois-prison-fires-legislature-hearing",
+        "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio",
+        "https://doi.org/10.1080/07418825.2026.2747582",
+        "https://link.springer.com/article/10.1007/s10506-026-09531-8"
+      ]
+    },
     {
       "date": "2026-11-11",
       "generatedAt": "2026-11-11T06:54:00.561Z",
