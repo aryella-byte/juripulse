@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "How The Marshall Project Talks About ICE Detention Facilities",
+      "titleCN": "How The Marshall Project Talks About ICE Detention Facilities",
+      "url": "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp",
+      "date": "2026-11-12",
+      "addedAt": "2026-11-13T07:00:50.357Z",
+      "summaryCN": "《马歇尔计划》于2026年11月12日发布编辑说明，宣布今后在报道中改用“移民营”指称美国移民与海关执法局（ICE）的拘留设施。该机构称其系统梳理了相关语言、历史与法律框架，认为原有术语掩盖了大规模羁押的实质。此举属于新闻机构对移民拘留法律定性的话语调整，涉及拘留设施的法律地位、被拘留者权利保障及政府信息公开等争议，但本身不产生新的法律规则或判决。",
+      "summaryEN": "",
+      "whyMattersCN": "该说明虽非司法或立法行为，却触及美国移民拘留制度的法律定性问题：ICE设施长期因羁押条件、医疗照护、法律代理可及性及羁押期限引发行政诉讼与人身保护令争议，术语选择影响公众对设施是否构成“刑事惩罚”的认知，进而关联正当程序与第八修正案适用边界。对比较法研究而言，它提示媒体话语可成为监管问责的补充机制，也提醒中国法研究关注收容遣送、行政羁押场所的法律属性与权利保障的对应关系。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民拘留",
+          "class": "constitutional"
+        },
+        {
+          "name": "ICE",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Calling judge vulgar name doesn’t amount to criminal contempt, state supreme court says",
+      "titleCN": "Calling judge vulgar name doesn’t amount to criminal contempt, state supreme court says",
+      "url": "https://www.abajournal.com/news/article/calling-judge-a-vulgar-name-doesnt-amount-to-criminal-contempt-says-pennsylvania-supreme-court/",
+      "date": "2026-11-12",
+      "addedAt": "2026-11-13T07:00:50.357Z",
+      "summaryCN": "美国某州最高法院裁定，法庭旁听者在法官驳回其熟人动议后以粗俗词语辱骂法官，不构成刑事藐视法庭罪。法院认为，刑事藐视要求行为具有直接妨碍法庭程序或挑战司法权威的实质威胁，单纯冒犯性言语不足以入罪。该判决推翻了下级法院的定罪，明确了言论自由与法庭秩序维护之间的界限，对藐视法庭罪的适用标准作出限缩解释。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决为刑事藐视法庭罪的构成要件设定了更严格的言语行为门槛，强调冒犯性表达本身不等于妨碍司法程序，需结合语境判断是否具有实际干扰或威胁。这涉及美国宪法第一修正案与司法权威维护的平衡，对下级法院过度适用藐视罪形成约束。比较法上，中国刑法第309条扰乱法庭秩序罪同样要求行为具有严重扰乱秩序的性质，该案提示应避免将单纯情绪性辱骂入罪，对完善法庭秩序维护的合比例性审查具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事藐视",
+          "class": "criminal"
+        },
+        {
+          "name": "言论自由",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "What Trump cases might soon return to the Supreme Court?",
+      "titleCN": "What Trump cases might soon return to the Supreme Court?",
+      "url": "https://www.scotusblog.com/2026/11/what-trump-cases-might-soon-return-to-the-supreme-court/",
+      "date": "2026-11-12",
+      "addedAt": "2026-11-13T07:00:50.357Z",
+      "summaryCN": "在2025-26开庭期，最高法院在出生公民权限制、全面关税以及解雇美联储理事Lisa Cook的初步尝试三项议题上判特朗普政府败诉。但判决后特朗普继续推进相关举措，可能引发新一轮诉讼并重返最高法院。中期选举民主党赢得众议院多数，也可能影响相关立法与监督格局。文章梳理三项争议的后续诉讼路径与再次进入最高法院的可能性。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道涉及出生公民权解释、总统关税权边界以及美联储理事免职权三项重大宪政与行政法问题，均可能形成具有先例效力的最高法院裁决。出生公民权争议关乎第十四修正案公民条款的适用范围；关税案涉及行政权与国会贸易权的分界；Cook案则触及中央银行独立性与总统免职权的界限。这些议题对理解美国宪政结构、行政权扩张及比较法上的独立监管机构保障具有参考价值，后续诉讼进展值得持续关注。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "出生公民权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "Lawmakers Hold Hearing on Investigation Into Deadly Illinois Prison Fires",
       "titleCN": "Lawmakers Hold Hearing on Investigation Into Deadly Illinois Prison Fires",
       "url": "https://www.themarshallproject.org/2026/11/11/illinois-prison-fires-legislature-hearing",
@@ -6212,6 +6281,52 @@
   ],
   "research": [
     {
+      "title": "The Graveyard of Constitutional Rights: Legal, but Unconstitutional, Disenfranchisement in the Age of Callais",
+      "titleCN": "The Graveyard of Constitutional Rights: Legal, but Unconstitutional, Disenfranchisement in the Age of Callais",
+      "url": "https://harvardlawreview.org/print/vol-140/the-graveyard-of-constitutional-rights-legal-but-unconstitutional-disenfranchisement-in-the-age-of-callais/",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-13T07:01:08.794Z",
+      "summaryCN": "本文以最高法院在 Callais 案后选举法领域的最新发展为背景，探讨各州在形式上合法的选举规则下对少数族裔实施实质性宪法性剥夺选举权的问题。文章提出合法但违宪的剥夺选举权这一分析框架，梳理相关判例如何为州级歧视性选举实践提供空间，并论证在现行教义下此类权利侵害难以获得有效司法救济。结论指出这一现象构成宪法权利的墓地，呼吁重新审视选举权保护的司法标准。",
+      "summaryEN": "",
+      "whyMattersCN": "本文直接回应 Callais 案后选举法教义的结构性变化，揭示合法性与合宪性之间的张力如何使少数族裔选举权保护出现司法真空。对美国而言，这涉及投票权法第二条、平等保护条款与谢尔比县案后预先审查机制失效的叠加效应，对理解州级选举立法扩张具有判例法价值。对中国法而言，本文提供比较法视角下形式合法性与实质权利保障之间张力的分析框架，对研究选举权救济机制、合宪性审查标准以及少数群体权利保护路径具有启发意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "选举权",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
+    {
+      "title": "Diffusion of benefits: A roadmap for continuing Ron Clarke's legacy",
+      "titleCN": "Diffusion of benefits: A roadmap for continuing Ron Clarke's legacy",
+      "url": "https://doi.org/10.1111/1745-9133.70047",
+      "date": "2026-11-06",
+      "addedAt": "2026-11-13T07:01:08.794Z",
+      "summaryCN": "本文以罗纳德·V·克拉克的学术与职业遗产为对象，从教学、指导、全球领导力与实务合作四个维度展开分析。作者结合自身作为克拉克博士生、合作者及罗格斯大学刑事司法学院院长的经历，并综合数十位学生、同事与合作者的致敬材料，论证克拉克最持久的贡献超越其已发表成果：他通过情境犯罪预防理论深刻改变了犯罪学，并经由人才培养与制度网络扩散了其学术影响。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对犯罪学学术传承与知识扩散机制进行了系统反思，对理解情境犯罪预防理论的制度化路径具有方法论价值。其关于导师制、学派建设与实务伙伴关系的讨论，可为我国犯罪学学科建设、警务改革与社区治理研究提供比较法启发，尤其有助于思考学术成果如何通过教育网络与政策合作转化为可操作的犯罪预防制度安排。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "情境犯罪预防",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪学学术史",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Criminology & Public Policy"
+    },
+    {
       "title": "Ambient Population and Crime: The Fragility of Causal Links in Urban Environments",
       "titleCN": "Ambient Population and Crime: The Fragility of Causal Links in Urban Environments",
       "url": "https://doi.org/10.1080/07418825.2026.2747582",
@@ -9664,11 +9779,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-12T07:30:17.797Z",
+    "updatedAt": "2026-11-13T07:01:28.090Z",
     "generator": "ai",
-    "checkedAt": "2026-11-12T07:30:17.797Z"
+    "checkedAt": "2026-11-13T07:01:28.090Z"
   },
   "digests": [
+    {
+      "date": "2026-11-13",
+      "generatedAt": "2026-11-13T07:01:28.084Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国某州最高法院裁定，旁听者在法官驳回其熟人动议后以粗俗词语辱骂法官，不构成刑事藐视法庭罪，推翻下级法院定罪。法院认为刑事藐视须有直接妨碍程序或挑战司法权威的实质威胁，单纯冒犯性言语不足入罪，从而限缩了藐视罪的言语行为门槛，涉及第一修正案与法庭秩序维护的平衡。",
+          "refs": [
+            "https://www.abajournal.com/news/article/calling-judge-a-vulgar-name-doesnt-amount-to-criminal-contempt-says-pennsylvania-supreme-court/"
+          ],
+          "relevance": "涉及法官权威与法庭秩序的边界，可为司法行为与藐视罪适用标准研究提供素材。"
+        },
+        {
+          "text": "《马歇尔计划》发布编辑说明，宣布今后以移民营指称ICE拘留设施，称系统梳理语言、历史与法律框架后认为原有术语掩盖大规模羁押实质。该调整涉及拘留设施法律地位、被拘留者权利保障与政府信息公开争议，术语选择影响公众对设施是否构成刑事惩罚的认知，关联正当程序与第八修正案适用边界。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp"
+          ],
+          "relevance": "涉及羁押场所的法律属性与权利保障，可为刑事司法与监狱矫正比较研究提供材料。"
+        },
+        {
+          "text": "SCOTUSblog梳理2025-26开庭期三项特朗普政府败诉议题的后续诉讼路径：出生公民权限制、全面关税及解雇美联储理事Lisa Cook的初步尝试。判决后政府继续推进相关举措，可能引发新一轮诉讼并重返最高法院；中期选举民主党赢得众议院多数，也可能影响立法与监督格局。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/what-trump-cases-might-soon-return-to-the-supreme-court/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "《哈佛法律评论》论文以Callais案后选举法发展为背景，提出合法但违宪的剥夺选举权分析框架，梳理判例如何为州级歧视性选举实践留出空间，并论证现行教义下此类权利侵害难以获得有效司法救济，呼吁重新审视选举权保护的司法标准。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-140/the-graveyard-of-constitutional-rights-legal-but-unconstitutional-disenfranchisement-in-the-age-of-callais/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "《Criminology & Public Policy》论文从教学、指导、全球领导力与实务合作四个维度分析罗纳德·V·克拉克的学术遗产，论证其最持久的贡献超越已发表成果：通过情境犯罪预防理论改变犯罪学，并经由人才培养与制度网络扩散学术影响。文章系统反思犯罪学知识传承与扩散机制。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9133.70047"
+          ],
+          "relevance": "涉及犯罪预防知识的制度化与学术传承机制，可为法律实证研究与矫正实践研究提供方法参考。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/what-trump-cases-might-soon-return-to-the-supreme-court/",
+        "https://harvardlawreview.org/print/vol-140/the-graveyard-of-constitutional-rights-legal-but-unconstitutional-disenfranchisement-in-the-age-of-callais/",
+        "https://www.abajournal.com/news/article/calling-judge-a-vulgar-name-doesnt-amount-to-criminal-contempt-says-pennsylvania-supreme-court/",
+        "https://doi.org/10.1111/1745-9133.70047",
+        "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp"
+      ]
+    },
     {
       "date": "2026-11-12",
       "generatedAt": "2026-11-12T07:30:17.792Z",
