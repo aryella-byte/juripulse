@@ -1,14 +1,37 @@
 {
   "news": [
     {
+      "title": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
+      "titleCN": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
+      "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
+      "date": "2026-11-13",
+      "addedAt": "2026-11-14T06:50:32.780Z",
+      "summaryCN": "美国最高法院同意受理特朗普政府暂停美墨边境移民庇护准入政策的案件。此前哥伦比亚特区联邦上诉法院裁定该政策超越政府权限，最高法院将审查该判决。法院同时将一起涉及证券欺诈案件标准的案件加入2026-27开庭期辩论日程。庇护案是最高法院日益增多的移民案件清单中的最新一项，该清单已包括对特朗普政府驱逐移民做法的挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直接触及美国移民法中庇护准入的行政裁量边界与司法审查标准，涉及行政机关是否有权以行政命令实质中止国会立法设立的庇护程序。最高法院的裁决将厘清行政权在边境管控与庇护制度中的宪法与法定权限，对下级法院审理类似移民政策挑战具有判例约束力。同时，该案与法院已受理的其他移民案件形成集群效应，可能系统性重塑美国庇护与驱逐制度的司法审查框架，对研究行政权边界、移民权利保障及比较法上的庇护制度具有重要参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "移民庇护",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 9,
+      "source": "SCOTUSblog"
+    },
+    {
       "title": "How The Marshall Project Talks About ICE Detention Facilities",
       "titleCN": "How The Marshall Project Talks About ICE Detention Facilities",
       "url": "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp",
       "date": "2026-11-12",
-      "addedAt": "2026-11-13T07:00:50.357Z",
-      "summaryCN": "《马歇尔计划》于2026年11月12日发布编辑说明，宣布今后在报道中改用“移民营”指称美国移民与海关执法局（ICE）的拘留设施。该机构称其系统梳理了相关语言、历史与法律框架，认为原有术语掩盖了大规模羁押的实质。此举属于新闻机构对移民拘留法律定性的话语调整，涉及拘留设施的法律地位、被拘留者权利保障及政府信息公开等争议，但本身不产生新的法律规则或判决。",
+      "addedAt": "2026-11-14T06:50:32.780Z",
+      "summaryCN": "《马歇尔计划》研究移民拘留的语言、历史与法律框架后宣布改用“移民营”一词。该机构梳理了美国移民拘留设施从行政羁押到大规模长期拘禁的演变，指出“拘留中心”等表述淡化了其封闭性、惩罚性与人权争议。此次用语调整旨在更准确描述设施的法律性质与实际运作，并推动公众与法律界反思现行移民羁押制度的正当程序保障缺失问题。",
       "summaryEN": "",
-      "whyMattersCN": "该说明虽非司法或立法行为，却触及美国移民拘留制度的法律定性问题：ICE设施长期因羁押条件、医疗照护、法律代理可及性及羁押期限引发行政诉讼与人身保护令争议，术语选择影响公众对设施是否构成“刑事惩罚”的认知，进而关联正当程序与第八修正案适用边界。对比较法研究而言，它提示媒体话语可成为监管问责的补充机制，也提醒中国法研究关注收容遣送、行政羁押场所的法律属性与权利保障的对应关系。",
+      "whyMattersCN": "该新闻涉及美国移民拘留的法律定性争议，触及行政羁押与刑事惩罚的界限、正当程序权利及人身保护令适用等宪政问题。用语调整虽非正式法律规则，但影响法律文书、媒体报道与公众认知，可能推动对拘留设施监管标准与司法审查的讨论。对中国法而言，可启发思考行政强制措施场所的法律定性、被羁押者权利保障及监管透明度，以及媒体与法律研究机构在推动制度反思中的角色。",
       "whyMattersEN": "",
       "tags": [
         {
@@ -16,12 +39,35 @@
           "class": "constitutional"
         },
         {
-          "name": "ICE",
+          "name": "正当程序",
           "class": "constitutional"
         }
       ],
-      "quality_score": 6,
+      "quality_score": 7,
       "source": "The Marshall Project"
+    },
+    {
+      "title": "Tribal property and the Supreme Court",
+      "titleCN": "Tribal property and the Supreme Court",
+      "url": "https://www.scotusblog.com/2026/11/tribal-property-and-the-supreme-court/",
+      "date": "2026-11-13",
+      "addedAt": "2026-11-14T06:50:32.780Z",
+      "summaryCN": "美国最高法院即将审议第八巡回法院在Chase案中的裁决，该案涉及原住民财产权的法律定性。联邦法长期将原住民财产视为特殊类别（sui generis），从Johnson v. McIntosh到Lone Wolf v. Hitchcock，这一传统常损害原住民利益。拜登政府印第安事务助理部长Bryan Newland近期演讲指出，殖民氛围下判例的遗产仍影响21世纪诉讼。调卷申请已提交，核心问题是原住民财产权参数及历史判例的当代效力。",
+      "summaryEN": "",
+      "whyMattersCN": "该案触及联邦印第安法的基础规则：原住民财产权是否继续适用特殊定性，以及Johnson v. McIntosh等殖民时代判例在当代的拘束力。第八巡回法院裁决若被维持或推翻，将直接影响部落土地、资源管理与主权范围，并检验最高法院对先例的遵循原则。对中国比较法而言，该案展示历史不正义判例的当代处理机制，涉及法律连续性、原住民权利保障与司法审查边界，为研究殖民遗产与财产权理论提供关键素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "原住民财产权",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦印第安法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
     },
     {
       "title": "Calling judge vulgar name doesn’t amount to criminal contempt, state supreme court says",
@@ -6281,6 +6327,52 @@
   ],
   "research": [
     {
+      "title": "Closing the Gun Show Loophole? Evidence on Federal Firearms Licensing and Background Checks",
+      "titleCN": "Closing the Gun Show Loophole? Evidence on Federal Firearms Licensing and Background Checks",
+      "url": "https://doi.org/10.1080/07418825.2026.2757498",
+      "date": "2026-11-12",
+      "addedAt": "2026-11-14T06:50:45.713Z",
+      "summaryCN": "该论文以美国联邦枪支许可与背景审查制度为对象，检验关闭枪展漏洞相关立法的实际效果。研究利用联邦 firearms licensing 数据与背景审查记录，采用实证方法评估许可要求对枪支交易渠道、审查覆盖率及规避行为的影响。核心发现指向联邦许可制度在枪展等非传统销售场景中的执行缺口，并讨论统一背景审查对交易模式的改变。结论为立法收紧许可与审查义务提供了因果证据，并指出执法资源配置与数据库衔接是制度见效的关键条件。",
+      "summaryEN": "",
+      "whyMattersCN": "论文直接回应美国枪支管制中最具争议的枪展漏洞问题，涉及联邦 firearms licensing 制度与 Brady 背景审查法的衔接，对 Second Amendment 判例后的监管空间讨论具有实证价值。其方法上以许可与审查行政数据做准实验评估，弥补了以往研究依赖自报数据的不足。对中国比较法启示在于：行政许可与交易前审查的制度设计需匹配执行能力与信息共享机制，否则易产生渠道转移与规避。论文亦为评估审查覆盖率与执法资源配比提供可迁移的量化框架。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "枪支管制",
+          "class": "criminal"
+        },
+        {
+          "name": "背景审查",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Justice Quarterly"
+    },
+    {
+      "title": "The Fast and the Spurious: A Causal Evaluation of NYPD’s Pursuit Policy, 2022–2025",
+      "titleCN": "The Fast and the Spurious: A Causal Evaluation of NYPD’s Pursuit Policy, 2022–2025",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09692-4",
+      "date": "2026-09-24",
+      "addedAt": "2026-11-14T06:50:45.713Z",
+      "summaryCN": "论文以纽约市警局2022年底大幅扩张车辆追捕的执法转向为自然实验，评估追捕激增对机动车碰撞、抢劫与枪击的影响。方法上，碰撞结果采用中断时间序列分段回归提供直接因果估计；犯罪结果则通过市级中断时间序列、将纽约与全美大城市比较的广义合成控制，以及检验2025年2月后犯罪是否上升进行三角验证，以区分地方政策效应与全国趋势。结论指向追捕扩张的碰撞成本是否被犯罪预防收益抵消。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究直接回应警察追捕政策中安全与犯罪控制的制度权衡，为美国各州及地方警局追捕规则改革提供因果证据。其方法组合——中断时间序列与广义合成控制三角验证——对评估中国治安执法政策（如醉驾查处、街面盘查、追捕规范）具有方法借鉴意义。研究还涉及警察问责与行政规制，可启发比较法上对高风险执法行为的事前授权与事后评估机制设计，避免以犯罪预防为名忽视公共安全成本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "警察追捕",
+          "class": "criminal"
+        },
+        {
+          "name": "因果推断",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Quantitative Criminology"
+    },
+    {
       "title": "The Graveyard of Constitutional Rights: Legal, but Unconstitutional, Disenfranchisement in the Age of Callais",
       "titleCN": "The Graveyard of Constitutional Rights: Legal, but Unconstitutional, Disenfranchisement in the Age of Callais",
       "url": "https://harvardlawreview.org/print/vol-140/the-graveyard-of-constitutional-rights-legal-but-unconstitutional-disenfranchisement-in-the-age-of-callais/",
@@ -9779,11 +9871,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-13T07:01:28.090Z",
+    "updatedAt": "2026-11-14T06:51:04.099Z",
     "generator": "ai",
-    "checkedAt": "2026-11-13T07:01:28.090Z"
+    "checkedAt": "2026-11-14T06:51:04.099Z"
   },
   "digests": [
+    {
+      "date": "2026-11-14",
+      "generatedAt": "2026-11-14T06:51:04.092Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "纽约市警局2022年底大幅扩张车辆追捕，论文以之为自然实验评估其对碰撞、抢劫与枪击的影响：碰撞用中断时间序列分段回归作因果估计，犯罪用市级中断时间序列、与全美大城市比较的广义合成控制及2025年2月后趋势检验三角验证。研究触及追捕政策中公共安全成本与犯罪预防收益的权衡及高风险执法的事前授权与事后评估。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09692-4"
+          ],
+          "relevance": "涉及警察执法行为的效果评估与因果识别方法，可为法律实证研究提供准实验设计样本。"
+        },
+        {
+          "text": "论文利用联邦枪支许可数据与背景审查记录，评估关闭枪展漏洞立法的实际效果，发现联邦许可制度在枪展等非传统销售场景存在执行缺口，并指出执法资源配置与数据库衔接是制度见效的关键条件。研究为许可与交易前审查的制度设计需匹配执行能力与信息共享机制提供了实证依据。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2757498"
+          ],
+          "relevance": "以行政数据做准实验评估，属法律实证研究的方法与数据素材。"
+        },
+        {
+          "text": "美国最高法院同意受理特朗普政府暂停边境庇护准入政策案，此前哥伦比亚特区联邦上诉法院认定该政策超越政府权限；法院同时将一起证券欺诈标准案件加入2026-27开庭期日程。案件触及行政裁量边界与对国会立法所设庇护程序的司法审查标准，并与已受理的其他移民案件形成集群。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "最高法院将审议第八巡回法院在Chase案中的裁决，核心是原住民财产权是否继续适用特殊定性，以及Johnson v. McIntosh等殖民时代判例在当代的拘束力；拜登政府印第安事务助理部长Bryan Newland指出殖民氛围下判例的遗产仍影响21世纪诉讼。案件涉及先例遵循、部落土地与主权范围及历史不正义判例的当代处理。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/tribal-property-and-the-supreme-court/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "《马歇尔计划》研究移民拘留的语言、历史与法律框架后改用移民营一词，指出拘留中心等表述淡化了设施的封闭性、惩罚性与人权争议，意在推动反思移民羁押的正当程序保障缺失。用语调整虽非正式法律规则，但影响法律文书、媒体报道与公众认知，涉及行政羁押与刑事惩罚的界限及人身保护令适用。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
+        "https://www.scotusblog.com/2026/11/tribal-property-and-the-supreme-court/",
+        "https://doi.org/10.1080/07418825.2026.2757498",
+        "https://link.springer.com/article/10.1007/s10940-026-09692-4",
+        "https://www.themarshallproject.org/2026/11/12/ice-detention-facilities-language-immigrant-camp"
+      ]
+    },
     {
       "date": "2026-11-13",
       "generatedAt": "2026-11-13T07:01:28.084Z",
