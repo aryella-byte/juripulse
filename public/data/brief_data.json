@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "The Criminal Justice Election Results You Might Have Missed",
+      "titleCN": "The Criminal Justice Election Results You Might Have Missed",
+      "url": "https://www.themarshallproject.org/2026/11/14/texas-colordado-election-arizona-midterm",
+      "date": "2026-11-14",
+      "addedAt": "2026-11-15T06:55:06.967Z",
+      "summaryCN": "2026年美国中期选举中，多州就刑事司法议题举行投票，结果涉及死刑适用、警察监控技术、保释制度改革与检察官选举方式。得克萨斯州选民否决了扩大死刑适用范围的提案，多个城市通过限制警方使用人脸识别与预测性警务工具的市政法令，部分州则收紧或放宽了现金保释的适用条件。此外，若干地区检察官选举产生改革派或强硬派更替，直接影响当地起诉政策与量刑实践。这些结果未获全国媒体充分报道，但将实质改变相关司法辖区的刑事程序规则与执法监督机制。",
+      "summaryEN": "",
+      "whyMattersCN": "本次选举结果在刑事司法领域产生直接制度影响：死刑公投反映第八修正案框架下各州对加重情节的立法裁量；地方监控技术禁令构成对第四修正案隐私保护与算法治理的补充规制；保释改革投票触及第十四修正案平等保护与审前羁押的合宪性边界；检察官选举更替则改变辩诉交易与量刑建议的实践走向。对中国比较法研究而言，可观察地方民主问责机制如何塑造刑事政策碎片化格局，以及技术性执法监督规则在缺乏统一联邦立法时的替代性制度功能。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "刑事司法",
+          "class": "criminal"
+        },
+        {
+          "name": "选举与司法",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks",
+      "titleCN": "Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks",
+      "url": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=nonprofits-lawsuit-freeze-frontier-ai-development",
+      "date": "2026-11-13",
+      "addedAt": "2026-11-15T06:55:06.967Z",
+      "summaryCN": "四家非营利组织于2026年11月起诉Anthropic、谷歌、Meta、OpenAI及SpaceX，请求法院冻结前沿人工智能开发，理由是网络攻击与灾难性风险。诉状援引侵权法中的公共妨害与预防性禁令原则，主张现有安全措施不足，要求司法介入设定开发红线。案件目前处于立案阶段，尚未有实体裁决，但已引发关于法院是否有权在技术风险未完全科学确定时发布禁令的讨论。",
+      "summaryEN": "",
+      "whyMattersCN": "本案将前沿AI开发风险纳入侵权法与预防性禁令框架，测试司法权在科技治理中的边界。若法院受理并发布临时禁令，将确立法院可基于灾难性风险预先限制AI研发的先例，冲击行政监管主导的格局。对中国法而言，可比较民事诉讼法行为保全制度在AI风险预防中的适用空间，以及网络安全法、数据安全法与侵权责任编的衔接。案件亦涉及公司合规义务的司法化，促使企业重新评估风险披露与安全论证标准。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能治理",
+          "class": "tech"
+        },
+        {
+          "name": "预防性禁令",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
+      "titleCN": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
+      "url": "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/",
+      "date": "2026-11-11",
+      "addedAt": "2026-11-15T06:55:06.967Z",
+      "summaryCN": "前NBA球员克里斯·安德森与其代理律师就法律 malpractice 诉讼达成和解。安德森主张该律师未能保护其知识产权，导致相关权益受损。案件原涉及律师在代理过程中是否尽到勤勉与忠实义务、是否因疏忽造成客户可诉损失。和解避免了庭审对律师执业过失标准的进一步厘清，但也再次提示体育、娱乐领域客户对知识产权布局与律师专业分工的依赖。",
+      "summaryEN": "",
+      "whyMattersCN": "本案虽以和解结案、未形成公开裁判规则，但对律师职业责任制度具有现实提示意义：一是知识产权代理中律师的勤勉义务边界与专家证人标准，二是体育明星等非传统客户对商标、形象权等无形资产的保护需求，三是和解保密条款对执业过失判例积累的削弱效应。对中国法而言，可比较律师法第49条及民法典侵权责任编下专家责任的构成要件，并反思体育经纪与知识产权律师分工协作中的利益冲突与告知义务。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业责任",
+          "class": ""
+        },
+        {
+          "name": "知识产权",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
       "titleCN": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
       "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/",
@@ -6327,6 +6396,52 @@
   ],
   "research": [
     {
+      "title": "Heterogeneity in the relationship between undocumented immigration and violent victimization: Evidence from the National Crime Victimization Survey",
+      "titleCN": "Heterogeneity in the relationship between undocumented immigration and violent victimization: Evidence from the National Crime Victimization Survey",
+      "url": "https://doi.org/10.1111/1745-9125.70070",
+      "date": "2026-09-26",
+      "addedAt": "2026-11-15T06:55:20.482Z",
+      "summaryCN": "该论文研究无证移民与暴力受害风险之间的关系是否因个人公民身份和地方移民政策环境而异。作者将县级无证移民估计数和移民执法政策与2017至2019年具有地区标识的全国犯罪受害调查数据合并，发现控制大量变量后，无证移民比例较高的县居民受害几率更低，且这一关系受公民身份和地方政策调节。研究为移民与公共安全辩论提供了新的实证证据。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对移民与犯罪关系的实证研究作出方法上的推进：首次将个人公民身份与地方移民执法政策作为调节变量纳入分析，利用地区标识的全国犯罪受害调查数据与县级移民估计数合并，回应了美国移民政策辩论中的核心争议。其发现对理解地方执法政策（如庇护城市）与联邦移民执法的互动具有制度意义，也为中国流动人口管理与犯罪被害研究提供比较法与方法论启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "无证移民",
+          "class": "criminal"
+        },
+        {
+          "name": "受害风险",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology"
+    },
+    {
+      "title": "Return of the MAC, the Columbia model: Full‐scale crime intervention and public perceptions of police presence",
+      "titleCN": "Return of the MAC, the Columbia model: Full‐scale crime intervention and public perceptions of police presence",
+      "url": "https://doi.org/10.1111/1745-9133.70037",
+      "date": "2026-10-07",
+      "addedAt": "2026-11-15T06:55:20.482Z",
+      "summaryCN": "该研究评估2025年夏哥伦比亚市警察局在Millwood大道走廊（MAC）高犯罪社区实施的全规模犯罪干预措施，包括高犯罪时段随机高可见度巡逻、增加LED照明、加强法规执行（如拆除危房）、发放340份防盗门挂以及协调禁毒行动。研究采用贝叶斯合成控制法，发现干预期间第一部分犯罪、暴力犯罪和财产犯罪均显著下降，并考察公众对警察存在的感知。",
+      "summaryEN": "",
+      "whyMattersCN": "该论文为犯罪热点警务与情境犯罪预防的组合干预提供了严格的因果推断证据，方法上采用贝叶斯合成控制法处理小样本政策评估难题，对警务资源配置与社区感知研究具有方法示范意义。对中国而言，其高可见度巡逻与法规执行协同治理的思路可启发基层治安综合治理与警民信任建设，尤其在城市高犯罪街区更新与警务策略评估方面具有比较法参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "警务干预",
+          "class": "criminal"
+        },
+        {
+          "name": "犯罪预防",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology & Public Policy"
+    },
+    {
       "title": "Closing the Gun Show Loophole? Evidence on Federal Firearms Licensing and Background Checks",
       "titleCN": "Closing the Gun Show Loophole? Evidence on Federal Firearms Licensing and Background Checks",
       "url": "https://doi.org/10.1080/07418825.2026.2757498",
@@ -9871,11 +9986,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-14T06:51:04.099Z",
+    "updatedAt": "2026-11-15T06:55:36.694Z",
     "generator": "ai",
-    "checkedAt": "2026-11-14T06:51:04.099Z"
+    "checkedAt": "2026-11-15T06:55:36.694Z"
   },
   "digests": [
+    {
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-15T06:55:36.687Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "四家非营利组织起诉Anthropic、谷歌、Meta、OpenAI及SpaceX，请求法院冻结前沿人工智能开发，理由为网络攻击与灾难性风险，援引公共妨害与预防性禁令原则。案件尚在立案阶段，争点在于法院能否在技术风险未完全确定时发布禁令，涉及司法权介入科技治理的边界。",
+          "refs": [
+            "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=nonprofits-lawsuit-freeze-frontier-ai-development"
+          ],
+          "relevance": "涉及AI风险与法律判断，可提供司法设定研发红线的讨论材料。"
+        },
+        {
+          "text": "研究将县级无证移民估计数、移民执法政策与2017至2019年全国犯罪受害调查数据合并，发现无证移民比例较高的县居民受害几率更低，且该关系受个人公民身份与地方政策调节。该文把公民身份与地方执法环境作为调节变量，回应移民与公共安全的实证争议。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9125.70070"
+          ],
+          "relevance": "属于法律实证研究，可提供受害调查数据与调节变量设计的方法示例。"
+        },
+        {
+          "text": "研究评估哥伦比亚市警察局在Millwood大道走廊高犯罪社区实施的全规模干预，包括高可见度巡逻、增加照明、法规执行与防盗门挂发放，采用贝叶斯合成控制法发现干预期间财产犯罪与暴力犯罪显著下降，并考察公众对警察存在的感知。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9133.70037"
+          ],
+          "relevance": "涉及公众对警察与司法秩序的感知及警务干预评估方法，可提供合成控制法的应用材料。"
+        },
+        {
+          "text": "2026年美国中期选举中多州就死刑适用、警方人脸识别与预测性警务、现金保释及检察官选举方式举行投票，得州否决扩大死刑适用范围，部分城市通过限制监控技术的市政法令，若干地区检察官更替将改变当地起诉政策与量刑实践。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/14/texas-colordado-election-arizona-midterm"
+          ],
+          "relevance": "涉及量刑实践与刑罚适用的地方差异，可提供检察官选举影响起诉与量刑的材料。"
+        },
+        {
+          "text": "前NBA球员克里斯·安德森与其代理律师就法律malpractice诉讼达成和解，其主张律师未保护知识产权致权益受损，原争点为代理中是否尽到勤勉与忠实义务。和解未形成公开裁判规则，涉及知识产权代理中律师义务边界与专家责任构成要件。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/14/texas-colordado-election-arizona-midterm",
+        "https://doi.org/10.1111/1745-9125.70070",
+        "https://doi.org/10.1111/1745-9133.70037",
+        "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=nonprofits-lawsuit-freeze-frontier-ai-development",
+        "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/"
+      ]
+    },
     {
       "date": "2026-11-14",
       "generatedAt": "2026-11-14T06:51:04.092Z",
