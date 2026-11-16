@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
+      "titleCN": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
+      "url": "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/",
+      "date": "2026-11-11",
+      "addedAt": "2026-11-16T06:58:41.187Z",
+      "summaryCN": "前NBA球员克里斯·安德森就其律师未能保护其知识产权提起法律 malpractice 诉讼，现已达成和解。安德森指控其律师在代理过程中存在职业过失，未能采取必要措施维护其知识产权利益。和解的具体条款未公开。该案凸显了律师在知识产权代理中的注意义务标准，以及职业责任保险在体育娱乐法律服务中的实践意义。",
+      "summaryEN": "",
+      "whyMattersCN": "本案虽以和解结案，但涉及律师职业过失责任与知识产权保护的交叉领域。美国法律 malpractice 制度要求律师具备合理技能与勤勉，尤其在知识产权这类时效性强、权利边界复杂的领域，律师的注意义务标准更高。该案提示中国律师在知识产权代理中应强化风险告知与流程留痕，也启发我国完善律师执业责任保险与过错认定规则，对体育娱乐产业法律服务合规具有比较法参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业责任",
+          "class": ""
+        },
+        {
+          "name": "知识产权",
+          "class": ""
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Guantanamo Dispatches: Six Jurors Chosen, 14 More Needed For First Death Penalty Tribunal At Guantanamo Bay",
+      "titleCN": "Guantanamo Dispatches: Six Jurors Chosen, 14 More Needed For First Death Penalty Tribunal At Guantanamo Bay",
+      "url": "https://www.justsecurity.org/164450/six-jurors-chosen-death-penalty-tribunal-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=six-jurors-chosen-death-penalty-tribunal-guantanamo",
+      "date": "2026-11-13",
+      "addedAt": "2026-11-16T06:58:41.187Z",
+      "summaryCN": "关塔那摩湾军事委员会首次死刑审判进入陪审团遴选阶段。针对科尔号驱逐舰爆炸案嫌疑人的审判，已选出六名美国军官担任陪审员，仍需十四人组成完整陪审团。该案是关塔那摩军事委员会历史上首例死刑案件，涉及恐怖主义指控、死刑量刑程序及军事审判的正当性争议。陪审团遴选进展表明审判程序正在推进，但辩护方可能继续就军事委员会的管辖权与程序公正性提出挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "该案将关塔那摩军事委员会制度推向死刑量刑的宪政与刑事程序检验。核心法律问题包括：军事委员会对恐怖主义嫌疑人适用死刑是否符合美国宪法第五、第六修正案正当程序与陪审团审判要求；死刑案件中陪审团一致裁决规则如何适用于军事审判；以及关塔那摩审判的域外管辖与国际人道法约束。此案为比较法研究提供军事审判与普通刑事司法在死刑程序上的制度差异样本，也涉及国际反恐中公正审判权的保障边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "关塔那摩军事委员会",
+          "class": "criminal"
+        },
+        {
+          "name": "死刑审判",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Former Trump lawyer Alina Habba Mildon faces state ethics complaint",
+      "titleCN": "Former Trump lawyer Alina Habba Mildon faces state ethics complaint",
+      "url": "https://www.abajournal.com/news/article/former-trump-lawyer-alina-habba-mildon-faces-ethics-complaint-in-new-jersey/",
+      "date": "2026-11-12",
+      "addedAt": "2026-11-16T06:58:41.187Z",
+      "summaryCN": "新泽西州律师伦理办公室于周二对阿丽娜·哈巴·米尔顿提起纪律投诉，她曾是特朗普总统的私人律师。投诉具体指控尚未在摘要中详述，但涉及州律师职业行为规则。此案属于律师监管执法，可能影响其在新泽西州的执业资格，并引发对高关注度政治人物法律顾问职业伦理的审视。",
+      "summaryEN": "",
+      "whyMattersCN": "该投诉凸显州律师伦理监管机构对政治任命或高曝光律师的独立执法，涉及律师职业行为规则（如利益冲突、不当陈述等）的具体适用。对中国法而言，可比较律师惩戒程序与司法行政机关监管的衔接，以及政治关联律师的伦理约束机制。同时，该案可能成为律师纪律判例，影响未来对类似行为的认定标准。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师伦理",
+          "class": ""
+        },
+        {
+          "name": "纪律投诉",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "The Criminal Justice Election Results You Might Have Missed",
       "titleCN": "The Criminal Justice Election Results You Might Have Missed",
       "url": "https://www.themarshallproject.org/2026/11/14/texas-colordado-election-arizona-midterm",
@@ -45,29 +114,6 @@
       ],
       "quality_score": 7,
       "source": "Just Security"
-    },
-    {
-      "title": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
-      "titleCN": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
-      "url": "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/",
-      "date": "2026-11-11",
-      "addedAt": "2026-11-15T06:55:06.967Z",
-      "summaryCN": "前NBA球员克里斯·安德森与其代理律师就法律 malpractice 诉讼达成和解。安德森主张该律师未能保护其知识产权，导致相关权益受损。案件原涉及律师在代理过程中是否尽到勤勉与忠实义务、是否因疏忽造成客户可诉损失。和解避免了庭审对律师执业过失标准的进一步厘清，但也再次提示体育、娱乐领域客户对知识产权布局与律师专业分工的依赖。",
-      "summaryEN": "",
-      "whyMattersCN": "本案虽以和解结案、未形成公开裁判规则，但对律师职业责任制度具有现实提示意义：一是知识产权代理中律师的勤勉义务边界与专家证人标准，二是体育明星等非传统客户对商标、形象权等无形资产的保护需求，三是和解保密条款对执业过失判例积累的削弱效应。对中国法而言，可比较律师法第49条及民法典侵权责任编下专家责任的构成要件，并反思体育经纪与知识产权律师分工协作中的利益冲突与告知义务。",
-      "whyMattersEN": "",
-      "tags": [
-        {
-          "name": "律师职业责任",
-          "class": ""
-        },
-        {
-          "name": "知识产权",
-          "class": ""
-        }
-      ],
-      "quality_score": 6,
-      "source": "ABA Journal"
     },
     {
       "title": "Supreme Court agrees to hear case on Trump administration’s suspension of asylum",
@@ -6396,6 +6442,52 @@
   ],
   "research": [
     {
+      "title": "Dangerousness Assessment as Personal Mitigation: Empirical Insights From Chinese Criminal Sentencing in Belated Self‐Defense Cases",
+      "titleCN": "Dangerousness Assessment as Personal Mitigation: Empirical Insights From Chinese Criminal Sentencing in Belated Self‐Defense Cases",
+      "url": "https://doi.org/10.1002/bsl.70107",
+      "date": "2026-11-14",
+      "addedAt": "2026-11-16T06:58:58.015Z",
+      "summaryCN": "该论文以中国刑事司法中基于危险性的量刑调整为研究对象，聚焦迟延防卫案件，指出传统理论以被害人过错或类推防卫解释量刑从宽，忽视了危险性的预防功能。作者将人身危险性作为量刑因素，提出超越传统再犯预测的修正概念，通过行为人违反法律规范的方式与态度识别危险性，并参照防卫过当教义学。基于2014至2024年763份公开裁判文书的回归分析，论文实证检验了危险性评估在迟延防卫案件量刑中的作用。",
+      "summaryEN": "",
+      "whyMattersCN": "论文将人身危险性从再犯预测中解放出来，赋予其独立的量刑减轻功能，为迟延防卫案件的从宽处罚提供了新的教义学与实证基础。其参照防卫过当的定量过剩教义识别危险性，有助于整合正当防卫与量刑理论。763份裁判文书的回归分析填补了中国迟延防卫量刑实证研究的空白，对司法实践中防卫案件量刑规范化具有直接参考价值，也为比较法上危险性评估与个人减轻事由的关系提供了中国样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "迟延防卫",
+          "class": "criminal"
+        },
+        {
+          "name": "人身危险性",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
+      "title": "Arsenal of Anger: A TRAP‐18 Analysis of John Brown",
+      "titleCN": "Arsenal of Anger: A TRAP‐18 Analysis of John Brown",
+      "url": "https://doi.org/10.1002/bsl.70105",
+      "date": "2026-11-14",
+      "addedAt": "2026-11-16T06:58:58.015Z",
+      "summaryCN": "论文以TRAP-18（恐怖分子激进化的25个风险因素框架）为分析工具，对约翰·布朗1856年堪萨斯波塔瓦托米大屠杀与1859年哈珀斯渡口袭击进行系统评估，追问其是否属于“好恐怖分子”以及是否兼具妄想与工具性暴力动机。研究将恐怖主义风险评估框架应用于历史政治暴力个案，考察意识形态狂热、领导力、目标选择与道德正当化叙事之间的互动，并讨论布朗行动如何加剧南北对立、助推内战爆发。结论倾向于以框架化方式呈现其暴力行为的复合动机，而非作单一道德定性。",
+      "summaryEN": "",
+      "whyMattersCN": "该文的价值在于把TRAP-18这一反恐与暴力风险评估工具移用于历史政治暴力个案，展示风险评估框架如何解释意识形态驱动的“独狼式”领导型暴力，对理解恐怖主义定义边界、政治暴力归因与道德评价的分离具有方法论意义。对中国法而言，可启发反恐立法中“恐怖活动”认定与政治动机、历史评价之间的界限，以及刑法中恐怖主义与普通暴力犯罪区分的教义学讨论；同时提示比较法上对暴力政治行动者动机评估应避免道德标签先行，而应结合行为模式与组织特征进行类型化判断。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "恐怖主义",
+          "class": "criminal"
+        },
+        {
+          "name": "TRAP-18",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
       "title": "Heterogeneity in the relationship between undocumented immigration and violent victimization: Evidence from the National Crime Victimization Survey",
       "titleCN": "Heterogeneity in the relationship between undocumented immigration and violent victimization: Evidence from the National Crime Victimization Survey",
       "url": "https://doi.org/10.1111/1745-9125.70070",
@@ -9986,11 +10078,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-15T06:55:36.694Z",
+    "updatedAt": "2026-11-16T06:59:17.885Z",
     "generator": "ai",
-    "checkedAt": "2026-11-15T06:55:36.694Z"
+    "checkedAt": "2026-11-16T06:59:17.885Z"
   },
   "digests": [
+    {
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T06:59:17.879Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "关塔那摩军事委员会首次死刑审判进入陪审团遴选，已选出六名美国军官，仍需十四人组成完整陪审团。该案涉及军事委员会对恐怖主义嫌疑人适用死刑是否符合美国宪法正当程序与陪审团审判要求，以及死刑一致裁决规则在军事审判中的适用。",
+          "refs": [
+            "https://www.justsecurity.org/164450/six-jurors-chosen-death-penalty-tribunal-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=six-jurors-chosen-death-penalty-tribunal-guantanamo"
+          ],
+          "relevance": "涉及死刑量刑程序与陪审团裁决规则，可为死刑审判比较研究提供材料。"
+        },
+        {
+          "text": "论文以2014至2024年763份公开裁判文书为样本，对迟延防卫案件量刑作回归分析，将人身危险性从再犯预测中分离，参照防卫过当教义识别危险性，论证其独立的量刑减轻功能，弥补了该类案件量刑实证研究的空白。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70107"
+          ],
+          "relevance": "以裁判文书数据检验量刑减轻事由，属量刑与法律实证研究方向。"
+        },
+        {
+          "text": "论文用TRAP-18风险评估框架分析约翰·布朗1856年波塔瓦托米大屠杀与1859年哈珀斯渡口袭击，考察意识形态、领导力、目标选择与道德正当化叙事，倾向呈现其复合动机而非作单一道德定性，并讨论其对南北对立的影响。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70105"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "新泽西州律师伦理办公室对前特朗普私人律师阿丽娜·哈巴·米尔顿提起纪律投诉，具体指控未详，涉及州律师职业行为规则的适用，可能影响其执业资格，并引发对高曝光政治人物法律顾问职业伦理的审视。",
+          "refs": [
+            "https://www.abajournal.com/news/article/former-trump-lawyer-alina-habba-mildon-faces-ethics-complaint-in-new-jersey/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "前NBA球员克里斯·安德森就其律师未保护知识产权提起法律malpractice诉讼并达成和解，条款未公开。案件涉及律师职业过失责任与知识产权代理注意义务标准的交叉，以及职业责任保险在体育娱乐法律服务中的实践。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/164450/six-jurors-chosen-death-penalty-tribunal-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=six-jurors-chosen-death-penalty-tribunal-guantanamo",
+        "https://doi.org/10.1002/bsl.70107",
+        "https://www.abajournal.com/news/article/former-trump-lawyer-alina-habba-mildon-faces-ethics-complaint-in-new-jersey/",
+        "https://doi.org/10.1002/bsl.70105",
+        "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/"
+      ]
+    },
     {
       "date": "2026-11-15",
       "generatedAt": "2026-11-15T06:55:36.687Z",
