@@ -1,26 +1,72 @@
 {
   "news": [
     {
-      "title": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
-      "titleCN": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
-      "url": "https://www.abajournal.com/news/article/ex-denver-nuggets-player-chris-andersen-attorney-settle-malpractice-lawsuit/",
-      "date": "2026-11-11",
-      "addedAt": "2026-11-16T06:58:41.187Z",
-      "summaryCN": "前NBA球员克里斯·安德森就其律师未能保护其知识产权提起法律 malpractice 诉讼，现已达成和解。安德森指控其律师在代理过程中存在职业过失，未能采取必要措施维护其知识产权利益。和解的具体条款未公开。该案凸显了律师在知识产权代理中的注意义务标准，以及职业责任保险在体育娱乐法律服务中的实践意义。",
+      "title": "Lawfare Daily: The Trials of the Trump Administration, November 16",
+      "titleCN": "Lawfare Daily: The Trials of the Trump Administration, November 16",
+      "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-16",
+      "date": "2026-11-16",
+      "addedAt": "2026-11-17T08:15:06.833Z",
+      "summaryCN": "Lawfare播客节目讨论特朗普政府政策相关诉讼的最新进展，参与嘉宾包括Benjamin Wittes、Molly Roberts、Roger Parloff、Anna Bower和Eric Columbus。节目梳理了针对特朗普政府各项行政措施的多起诉讼，涉及行政令合法性、联邦机构权限边界以及政策实施中的程序性争议，分析了法院对这些争议的初步回应与案件走向。",
       "summaryEN": "",
-      "whyMattersCN": "本案虽以和解结案，但涉及律师职业过失责任与知识产权保护的交叉领域。美国法律 malpractice 制度要求律师具备合理技能与勤勉，尤其在知识产权这类时效性强、权利边界复杂的领域，律师的注意义务标准更高。该案提示中国律师在知识产权代理中应强化风险告知与流程留痕，也启发我国完善律师执业责任保险与过错认定规则，对体育娱乐产业法律服务合规具有比较法参考价值。",
+      "whyMattersCN": "该讨论聚焦特朗普政府政策引发的宪政与行政法争议，涉及总统行政权边界、联邦法院对行政行为的司法审查标准以及程序正义要求。对研究美国行政法、分权体制及紧急状态权力扩张的学者具有参考价值，也为比较法视角下审视中国行政诉讼中规范性文件审查与权力监督机制提供对照素材。",
       "whyMattersEN": "",
       "tags": [
         {
-          "name": "律师职业责任",
+          "name": "特朗普政府诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政法",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "Guantanamo Dispatches: First Marine Added, Space Force Officer Excused from USS Cole Jury",
+      "titleCN": "Guantanamo Dispatches: First Marine Added, Space Force Officer Excused from USS Cole Jury",
+      "url": "https://www.justsecurity.org/164854/first-marine-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=first-marine-uss-cole-jury",
+      "date": "2026-11-16",
+      "addedAt": "2026-11-17T08:15:06.833Z",
+      "summaryCN": "关塔那摩军事委员会首次审判的陪审团组建过程中，一名海军陆战队员被增补为陪审员，而一名太空军军官被免除在科尔号驱逐舰爆炸案审判中的陪审职责。该案涉及2000年美军科尔号在也门遭袭事件，被告面临军事委员会审判。报道跟踪了陪审团遴选的最新动态，反映了关塔那摩军事审判程序的实际运作及陪审员资格争议。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示了关塔那摩军事委员会审判中陪审团组建的程序细节，涉及军事陪审员的资格标准与回避规则。科尔号案作为关塔那摩军事委员会审理的标志性案件，其陪审团构成直接影响审判公正性与合法性。太空军军官被免除陪审职责可能涉及军种豁免或利益冲突规则，对理解军事司法程序中陪审员选任的制度设计具有参考价值，也为比较军事审判与普通刑事陪审制度提供了实证素材。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "关塔那摩",
+          "class": "criminal"
+        },
+        {
+          "name": "军事委员会",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Just Security"
+    },
+    {
+      "title": "ABA Legal Ed council votes to loosen faculty, course requirements in accreditation standards",
+      "titleCN": "ABA Legal Ed council votes to loosen faculty, course requirements in accreditation standards",
+      "url": "https://www.abajournal.com/web/article/legal-ed-council-votes-to-loosen-faculty-course-requirements-in-accreditation-standards/",
+      "date": "2026-11-16",
+      "addedAt": "2026-11-17T08:15:06.833Z",
+      "summaryCN": "美国律师协会法律教育与律师资格委员会投票决定放宽法学院认证标准中的师资与课程要求，降低对全职教师比例、课程设置的具体约束。此举发生在该委员会等待美国教育部就其全国法学院认证机构地位作出通知之际，反映出认证标准与联邦监管认可之间的紧张关系。新标准将赋予法学院更大自主权，但也引发对教育质量与消费者保护的担忧。",
+      "summaryEN": "",
+      "whyMattersCN": "该决定直接影响美国法学院认证制度，进而影响法学生资格与联邦学生贷款资格。放宽师资与课程要求可能削弱认证对教育质量的保障功能，并触及认证机构与教育部监管之间的权力配置。对中国法学教育评估而言，可比较认证标准中过程性要求与结果性要求的平衡，以及行业自律与政府监管的边界。同时，认证地位的不确定性也提示行业认证组织在联邦监管框架下的合规风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法学教育认证",
           "class": ""
         },
         {
-          "name": "知识产权",
+          "name": "监管改革",
           "class": ""
         }
       ],
-      "quality_score": 6,
+      "quality_score": 7,
       "source": "ABA Journal"
     },
     {
@@ -6442,6 +6488,52 @@
   ],
   "research": [
     {
+      "title": "Configurations and Temporal Patterns of Motivational Drivers and Factors Associated With Participation in The Com",
+      "titleCN": "Configurations and Temporal Patterns of Motivational Drivers and Factors Associated With Participation in The Com",
+      "url": "https://doi.org/10.1002/bsl.70106",
+      "date": "2026-11-16",
+      "addedAt": "2026-11-17T08:15:17.617Z",
+      "summaryCN": "本文针对网络社群The Com成员涉罪行为缺乏实证研究的问题，基于NOVEL数据库对29名被指控或定罪个体进行配对构型分析，识别出与线下暴力、网络犯罪、性勒索及担任领导角色四类行为结果相关的动机驱动因素组合，并运用邻近系数分析考察这些因素的时间序列。研究发现意识形态指标在构型中有所呈现，揭示了不同行为路径的差异化因素配置。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究填补了The Com这一新兴网络暴力社群实证研究的空白，为执法与政策制定提供行为模式依据。其构型分析与时间序列方法对理解网络社群激进化路径具有方法论参考价值。对中国而言，网络性勒索、跨境网络暴力等新型犯罪治理亟需类似实证支撑，可启发公安机关对网络社群犯罪的分层预警与差异化干预策略，并推动比较法视野下网络犯罪参与形态的理论反思。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "网络犯罪",
+          "class": "criminal"
+        },
+        {
+          "name": "性勒索",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
+      "title": "Sentencing in the Shadow of Promotion: The Impacts of Circuit Court Nomination on Federal Judges",
+      "titleCN": "Sentencing in the Shadow of Promotion: The Impacts of Circuit Court Nomination on Federal Judges",
+      "url": "https://doi.org/10.1111/jels.70034",
+      "date": "2026-08-06",
+      "addedAt": "2026-11-17T08:15:17.617Z",
+      "summaryCN": "该文研究联邦法官是否会为谋求晋升而进行量刑 audition。作者利用2006至2023年联邦法院刑事量刑数据，发现最终被提名至上级法院的法官比同为竞争者的同僚判处更长刑期，且该效应受司法辖区调节。作者指出这一效应混合了司法行为与选择效应，即法官因多种其他原因获得晋升，量刑偏严可能既是晋升动机的体现，也是选拔机制筛选的结果。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对司法激励与量刑偏差的实证分析具有重要制度意义。它揭示联邦法官的晋升预期可能系统性影响刑事量刑，挑战了联邦法官不受选举激励因而中立的传统假设。研究方法上，利用长期量刑数据与提名结果匹配，为司法行为选择效应提供了识别策略。对中国法而言，法官考核与晋升机制同样可能影响裁判行为，本文提示应关注晋升激励对量刑一致性的潜在扭曲，并为司法人事管理与量刑规范化改革提供比较法参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "司法行为",
+          "class": "criminal"
+        },
+        {
+          "name": "量刑",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
       "title": "Dangerousness Assessment as Personal Mitigation: Empirical Insights From Chinese Criminal Sentencing in Belated Self‐Defense Cases",
       "titleCN": "Dangerousness Assessment as Personal Mitigation: Empirical Insights From Chinese Criminal Sentencing in Belated Self‐Defense Cases",
       "url": "https://doi.org/10.1002/bsl.70107",
@@ -10078,11 +10170,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-16T06:59:17.885Z",
+    "updatedAt": "2026-11-17T08:15:37.243Z",
     "generator": "ai",
-    "checkedAt": "2026-11-16T06:59:17.885Z"
+    "checkedAt": "2026-11-17T08:15:37.243Z"
   },
   "digests": [
+    {
+      "date": "2026-11-17",
+      "generatedAt": "2026-11-17T08:15:37.238Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国联邦法官的量刑行为可能受晋升预期影响。该文利用2006至2023年联邦法院刑事量刑数据，发现最终被提名至上级法院的法官比同为竞争者的同僚判处更长刑期，且效应受司法辖区调节；作者指出其中混合了司法行为与选择效应，量刑偏严既可能是晋升动机的体现，也可能是选拔机制筛选的结果。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70034"
+          ],
+          "relevance": "量刑与法官司法行为：提供晋升激励影响量刑的实证识别策略。"
+        },
+        {
+          "text": "关塔那摩军事委员会在科尔号驱逐舰爆炸案审判的陪审团组建中，增补一名海军陆战队员为陪审员，并免除一名太空军军官的陪审职责。报道呈现了军事陪审员资格标准与回避规则的实际运作，涉及陪审团构成对审判公正性与合法性的影响，为比较军事审判与普通刑事陪审制度提供素材。",
+          "refs": [
+            "https://www.justsecurity.org/164854/first-marine-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=first-marine-uss-cole-jury"
+          ],
+          "relevance": "刑事司法与陪审程序：提供军事陪审员选任与回避的实证材料。"
+        },
+        {
+          "text": "Lawfare播客梳理针对特朗普政府各项行政措施的诉讼进展，涉及行政令合法性、联邦机构权限边界及政策实施中的程序性争议，并分析法院的初步回应与案件走向。讨论集中于总统行政权边界与联邦法院对行政行为的司法审查标准，属宪政与行政法争议。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-16"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国律师协会法律教育与律师资格委员会投票放宽法学院认证标准中的师资与课程要求，降低对全职教师比例和课程设置的具体约束。此举发生在该委员会等待教育部就其全国认证机构地位作出通知之际，反映认证标准与联邦监管认可之间的紧张，并引发对教育质量与消费者保护的担忧。",
+          "refs": [
+            "https://www.abajournal.com/web/article/legal-ed-council-votes-to-loosen-faculty-course-requirements-in-accreditation-standards/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "针对网络社群The Com成员涉罪行为缺乏实证研究的情况，该文基于NOVEL数据库对29名被指控或定罪个体作配对构型分析，识别出与线下暴力、网络犯罪、性勒索及担任领导角色四类结果相关的动机因素组合，并用邻近系数分析考察其时间序列，发现意识形态指标在构型中有所呈现。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70106"
+          ],
+          "relevance": "法律实证研究方法：提供网络犯罪动机的构型分析与时间序列方法示例。"
+        }
+      ],
+      "items": [
+        "https://doi.org/10.1111/jels.70034",
+        "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-16",
+        "https://www.justsecurity.org/164854/first-marine-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=first-marine-uss-cole-jury",
+        "https://www.abajournal.com/web/article/legal-ed-council-votes-to-loosen-faculty-course-requirements-in-accreditation-standards/",
+        "https://doi.org/10.1002/bsl.70106"
+      ]
+    },
     {
       "date": "2026-11-16",
       "generatedAt": "2026-11-16T06:59:17.879Z",
