@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Mandatory detention arrives at the Supreme Court – though not all at once",
+      "titleCN": "Mandatory detention arrives at the Supreme Court – though not all at once",
+      "url": "https://www.scotusblog.com/2026/11/mandatory-detention-arrives-at-the-supreme-court-though-not-all-at-once/",
+      "date": "2026-11-17",
+      "addedAt": "2026-11-18T07:48:31.496Z",
+      "summaryCN": "美国最高法院于2026年10月1日受理特朗普政府是否可继续不经保释听证即羁押非公民的问题。该争议分为两部分：法院已同意裁定的法定问题，以及尚待合适案件受理的宪法问题。自1996年《非法移民改革与移民责任法》通过至2025年7月，历届政府均羁押未经检查入境者，但如今长期居留者能否在遣返诉讼期间请求法官释放成为焦点。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直接触及移民羁押中的正当程序与人身保护令核心争点，将厘清《移民与国籍法》第1226条等强制羁押条款的合宪性边界。若最高法院限缩行政机关无保释羁押权限，将影响数十万长期居留非公民的释放听证权利，并重塑行政羁押与司法审查的关系。其宪法问题部分也为后续类似案件设定审查框架，对中国法比较研究而言，提供了行政羁押司法控制与比例原则适用的重要参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民羁押",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "After Feds Shut Down ‘Rape Club’ Prison, Rampant Sexual Abuse Continued Elsewhere",
+      "titleCN": "After Feds Shut Down ‘Rape Club’ Prison, Rampant Sexual Abuse Continued Elsewhere",
+      "url": "https://www.themarshallproject.org/2026/11/17/sexual-abuse-womens-federal-prison-bop",
+      "date": "2026-11-17",
+      "addedAt": "2026-11-18T07:48:31.496Z",
+      "summaryCN": "联邦监狱局在关闭被称为“强奸俱乐部”的加州都柏林女子监狱后，性虐待问题并未根除。马歇尔项目调查发现，尽管官方承诺整改，全系统仍有超过185起工作人员被控性虐待的案例，内部人士称有罪不罚的文化持续存在。报道揭示了联邦监狱系统在监管问责、受害者保护与内部举报机制上的系统性失灵，并质疑司法部与监狱局在刑事追诉和行政处分上的实际执行力度。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道直指美国联邦监狱系统性虐待的持续性与问责缺失，涉及《监狱强奸消除法》的实施效果、监狱工作人员性侵的刑事追诉标准、受害者申诉机制及内部监督失灵。对比较法而言，它提供了监管机构如何落实反性侵立法、如何设计独立监察与举报保护制度的反面样本。中国法可借鉴其教训，强化监所内性侵案件的强制报告、独立调查与责任追究，避免以行政整改替代刑事追责。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "监狱性虐待",
+          "class": "criminal"
+        },
+        {
+          "name": "监管问责",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Immigration agents’ seizure of lawyer’s phone at airport appears retaliatory, judge finds",
+      "titleCN": "Immigration agents’ seizure of lawyer’s phone at airport appears retaliatory, judge finds",
+      "url": "https://www.abajournal.com/news/article/judge-finds-that-agents-seizure-of-lawyers-phone-at-airport-appears-retaliatory/",
+      "date": "2026-11-17",
+      "addedAt": "2026-11-18T07:48:31.496Z",
+      "summaryCN": "美国联邦法官于周五认定，美国海关与边境保护局（CBP）探员在机场扣押一名移民律师的手机，很可能构成对该律师批评移民执法政策的报复。该裁定针对律师提出的初步禁令或证据开示请求，法官基于时间线与言论背景认定存在报复动机的实质可能性。此案涉及边境搜查权限与第一修正案言论自由保护的冲突，最新进展是法院允许案件继续推进并可能限制CBP的扣押行为。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁定触及边境搜查例外与律师言论自由的核心张力：CBP长期主张在边境无需令状即可搜查电子设备，但本案表明若扣押动机是报复律师对执法政策的批评，则可能违反第一修正案。制度上，它为律师代理移民案件时的通信保密与执业安全设定了司法审查门槛，并可能推动CBP内部政策调整。比较法上，中国海关与出入境管理中的电子设备检查权限亦面临类似监督与比例原则问题，本案对律师职业特权与行政执法边界的平衡具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第一修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "边境搜查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Lawfare Daily: The Trials of the Trump Administration, November 16",
       "titleCN": "Lawfare Daily: The Trials of the Trump Administration, November 16",
       "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-16",
@@ -6488,6 +6557,52 @@
   ],
   "research": [
     {
+      "title": "The Court Against the Courts",
+      "titleCN": "The Court Against the Courts",
+      "url": "https://harvardlawreview.org/print/vol-140/the-court-against-the-courts/",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-18T07:48:44.287Z",
+      "summaryCN": "该文以近期联邦最高法院在程序性裁定中直接取代地区法院实体判断的现象为切入点，提出多数意见借由自我授权行使本属地区法院的正当职能，从而模糊了上诉审与初审的权限边界。文章梳理相关判例脉络，分析最高法院在紧急程序、影子案卷与实体审查中的角色扩张，论证此种做法削弱下级法院的事实认定功能并改变司法层级间的制度均衡。结论指出，法院对法院的对抗实质是最高法院对自身权限的重新界定，需从程序规则与司法伦理层面加以回应。",
+      "summaryEN": "",
+      "whyMattersCN": "文章触及美国联邦司法体系中上诉审与初审权限分配的核心制度问题，尤其针对影子案卷与紧急救济程序中最高法院直接作出实体判断的实践，具有明确的判例法分析价值。其论证有助于理解司法层级间职能边界如何被程序性裁定悄然重塑，对比较法上讨论最高法院的权限自制、程序正当性与下级法院独立地位具有参考意义，也可启发中国法语境下上下级法院审判监督关系的制度反思。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法权限",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Harvard Law Review"
+    },
+    {
+      "title": "Back to the future for the Prison Rape Elimination Act (PREA): The development and validation of an actuarial risk assessment instrument for sexual violence in prison",
+      "titleCN": "Back to the future for the Prison Rape Elimination Act (PREA): The development and validation of an actuarial risk assessment instrument for sexual violence in prison",
+      "url": "https://doi.org/10.1111/1745-9133.70042",
+      "date": "2026-10-07",
+      "addedAt": "2026-11-18T07:48:44.287Z",
+      "summaryCN": "该研究评估明尼苏达州基于专业判断的《监狱强奸消除法》(PREA)筛查工具的预测效度，并开发性别特异性的精算风险评估工具，用于预测监狱内性受害与性实施风险。基于2021至2025年间22238名入狱者数据和官方性虐待报告，发现专业判断式PREA工具预测区分力较弱，而精算模型表现显著更强，女性AUC值为0.74至0.79，男性为0.71至0.73。研究主张以精算工具替代或补充现行筛查机制。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直接挑战美国PREA框架下广泛采用的专业判断式筛查范式，为监狱性暴力风险评估的精算化转型提供了实证依据。其制度意义在于：若精算工具预测效度显著优于现行工具，则惩教机构在履行PREA筛查义务时可能面临从临床判断向统计预测迁移的合规压力，并引发关于性别特异性评估、算法公平性及囚犯正当程序权利的讨论。对中国监狱性暴力防治与分类管理而言，该研究提示应重视筛查工具的信效度验证，并审慎平衡精算预测与个体化处遇之间的张力。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "监狱性暴力",
+          "class": "criminal"
+        },
+        {
+          "name": "精算风险评估",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Criminology & Public Policy"
+    },
+    {
       "title": "Configurations and Temporal Patterns of Motivational Drivers and Factors Associated With Participation in The Com",
       "titleCN": "Configurations and Temporal Patterns of Motivational Drivers and Factors Associated With Participation in The Com",
       "url": "https://doi.org/10.1002/bsl.70106",
@@ -10170,11 +10285,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-17T08:15:37.243Z",
+    "updatedAt": "2026-11-18T07:49:03.634Z",
     "generator": "ai",
-    "checkedAt": "2026-11-17T08:15:37.243Z"
+    "checkedAt": "2026-11-18T07:49:03.634Z"
   },
   "digests": [
+    {
+      "date": "2026-11-18",
+      "generatedAt": "2026-11-18T07:49:03.629Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "联邦最高法院受理特朗普政府能否不经保释听证继续羁押非公民的问题，争议分为已获裁定的法定问题与尚待受理的宪法问题。自1996年立法以来历届政府均羁押未经检查入境者，如今焦点转向长期居留者在遣返诉讼中能否请求法官释放，涉及强制羁押条款的合宪性边界与行政羁押的司法审查。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/mandatory-detention-arrives-at-the-supreme-court-though-not-all-at-once/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "研究基于明尼苏达州2021至2025年22238名入狱者数据与官方性虐待报告，检验PREA专业判断式筛查工具的预测效度，并开发性别特异性精算工具。结果显示现行工具区分力较弱，精算模型显著更强，女性AUC为0.74至0.79，男性为0.71至0.73，作者主张以精算工具替代或补充现行筛查。",
+          "refs": [
+            "https://doi.org/10.1111/1745-9133.70042"
+          ],
+          "relevance": "属监狱矫正与法律实证研究方向，提供筛查工具信效度验证的数据与方法。"
+        },
+        {
+          "text": "马歇尔项目调查发现，加州都柏林女子监狱关闭后，联邦监狱系统仍有超过185起工作人员被控性虐待的案例，内部人士称有罪不罚文化持续存在。报道涉及《监狱强奸消除法》的实施效果、性侵刑事追诉标准、受害者申诉机制与内部监督失灵，质疑以行政整改替代刑事追责的做法。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/17/sexual-abuse-womens-federal-prison-bop"
+          ],
+          "relevance": "属监狱矫正研究方向，提供监所性侵问责与举报机制失灵的经验材料。"
+        },
+        {
+          "text": "联邦法官认定，CBP探员在机场扣押一名移民律师手机，很可能构成对其批评移民执法政策的报复，基于时间线与言论背景存在报复动机的实质可能性，允许案件继续推进并可能限制扣押行为。争点在于边境无令状搜查电子设备的权限与第一修正案言论自由保护的冲突。",
+          "refs": [
+            "https://www.abajournal.com/news/article/judge-finds-that-agents-seizure-of-lawyers-phone-at-airport-appears-retaliatory/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以联邦最高法院在程序性裁定中直接取代地区法院实体判断为切入点，分析其在紧急程序、影子案卷与实体审查中的角色扩张，认为多数意见借自我授权行使本属地区法院的职能，模糊上诉审与初审的权限边界，削弱下级法院事实认定功能，主张从程序规则与司法伦理层面回应。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-140/the-court-against-the-courts/"
+          ],
+          "relevance": "属法官与司法行为研究方向，提供上诉审与初审权限边界的判例分析。"
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/mandatory-detention-arrives-at-the-supreme-court-though-not-all-at-once/",
+        "https://www.themarshallproject.org/2026/11/17/sexual-abuse-womens-federal-prison-bop",
+        "https://www.abajournal.com/news/article/judge-finds-that-agents-seizure-of-lawyers-phone-at-airport-appears-retaliatory/",
+        "https://doi.org/10.1111/1745-9133.70042",
+        "https://harvardlawreview.org/print/vol-140/the-court-against-the-courts/"
+      ]
+    },
     {
       "date": "2026-11-17",
       "generatedAt": "2026-11-17T08:15:37.238Z",
