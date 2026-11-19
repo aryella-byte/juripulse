@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "An election impact on the Supreme Court’s immigration docket",
+      "titleCN": "An election impact on the Supreme Court’s immigration docket",
+      "url": "https://www.scotusblog.com/2026/11/an-election-impact-on-the-supreme-courts-immigration-docket/",
+      "date": "2026-11-18",
+      "addedAt": "2026-11-19T07:43:47.919Z",
+      "summaryCN": "美国最高法院正在考虑是否受理一起关于艾奥瓦州2024年移民法合宪性的案件。该州共和党总检察长曾请求最高法院审理此案，而最高法院此前已释放出愿意介入的信号。本月选举结果导致此前由共和党控制的多个州转向民主党，这一政治格局变化可能比预期更早影响移民法走向，并波及最高法院的移民案件日程安排。案件核心在于州级移民执法立法是否与联邦移民权发生冲突。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及联邦制下州级移民立法的合宪性边界，直接触及联邦政府对外国人入境与居留的排他性权力这一宪政争议。若最高法院受理并作出实体裁决，将明确各州在移民执法领域可自主立法的空间，对地方移民执法合作、拘留与起诉规则产生直接影响，并可能重塑联邦与州在移民事务上的权限分配。选举带来的州政治格局变化亦可能改变案件推进节奏与当事人立场，为观察司法与选举周期互动提供样本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民法",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦制",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Israel Is Denying Some Americans Entry Under the Visa Waiver Program",
+      "titleCN": "Israel Is Denying Some Americans Entry Under the Visa Waiver Program",
+      "url": "https://www.lawfaremedia.org/article/israel-is-denying-some-americans-entry-under-the-visa-waiver-program",
+      "date": "2026-11-18",
+      "addedAt": "2026-11-19T07:43:47.919Z",
+      "summaryCN": "该文讨论以色列在美国免签证计划（VWP）下拒绝部分美国公民入境的现象，指出这一做法与美国给予以色列公民免签待遇形成不对等。文章核心问题是互惠原则在VWP中的法律约束力，论证国务院和国土安全部对指定国是否遵守互惠条件缺乏有效执法机制。最新进展是作者呼吁特朗普政府援引VWP法定条件对以色列施加压力，否则免签安排将失去制度基础。",
+      "summaryEN": "",
+      "whyMattersCN": "VWP的指定以互惠入境为法定前提，若指定国系统性拒绝美国公民入境，国务院可启动审查乃至撤销指定，这涉及行政裁量与国际礼让的边界。该问题对比较法有直接启发：中国在单方面免签与互惠安排之间如何设计对等审查和退出机制，可借鉴VWP的定期合规评估与国会监督路径。同时，该争议触及国籍歧视与入境主权的张力，对研究签证互惠条款的可执行性具有制度意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "免签证计划",
+          "class": "international"
+        },
+        {
+          "name": "互惠原则",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "What to Look for in Thursday’s ICJ Judgment on Genocide",
+      "titleCN": "What to Look for in Thursday’s ICJ Judgment on Genocide",
+      "url": "https://www.justsecurity.org/165047/what-look-for-icj-judgment-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=what-look-for-icj-judgment-genocide",
+      "date": "2026-11-18",
+      "addedAt": "2026-11-19T07:43:47.919Z",
+      "summaryCN": "该文为冈比亚诉缅甸案即将作出的国际法院判决提供观察指引。案件涉及《防止及惩治灭绝种族罪公约》下缅甸对罗兴亚人的行为是否构成种族灭绝，以及冈比亚作为公约缔约国能否基于普遍义务提起诉讼。国际法院此前已发布临时措施，要求缅甸保护罗兴亚群体并防止毁灭证据。周四判决预计将处理管辖权、可受理性或实体问题，可能对公约共同利益条款的适用产生重要影响。",
+      "summaryEN": "",
+      "whyMattersCN": "该判决将检验国际法院在种族灭绝公约下普遍义务的管辖权边界，直接影响缔约国能否就他国境内违反公约行为提起诉讼。若法院确认管辖权，将强化公约共同利益机制，推动国际法从国家间互惠义务向社区利益义务转型。对国际刑事司法而言，判决可能为后续平行程序提供法律定性参考。对中国而言，需关注普遍义务扩张对主权原则的潜在张力，以及在国际公约履约与外交立场间的平衡策略。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法院",
+          "class": "international"
+        },
+        {
+          "name": "种族灭绝公约",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
       "title": "Mandatory detention arrives at the Supreme Court – though not all at once",
       "titleCN": "Mandatory detention arrives at the Supreme Court – though not all at once",
       "url": "https://www.scotusblog.com/2026/11/mandatory-detention-arrives-at-the-supreme-court-though-not-all-at-once/",
@@ -6557,6 +6626,52 @@
   ],
   "research": [
     {
+      "title": "Front‐End Governance of Juvenile Cybercrime in China: Platform Accountability, Risk Mitigation, and Tri‐Partite Collaboration",
+      "titleCN": "Front‐End Governance of Juvenile Cybercrime in China: Platform Accountability, Risk Mitigation, and Tri‐Partite Collaboration",
+      "url": "https://doi.org/10.1002/bsl.70077",
+      "date": "2026-10-06",
+      "addedAt": "2026-11-19T07:44:04.084Z",
+      "summaryCN": "该论文针对中国未成年人网络犯罪治理，提出以儿童最佳利益原则为锚点的前端治理框架，包含平台风险缓解义务、有害设计与风险数字环境规制、风险可预见性三项教义支柱。研究以K.G.M.诉Meta平台案为切入，并结合中国横截面调查的实证数据，考察制度支持对前端治理的接受度与协作机制。论文超越事后制裁的传统视角，强调平台设计、数字风险环境与未成年人发展脆弱性之间的互动，主张通过平台问责与三方协作实现风险预防。",
+      "summaryEN": "",
+      "whyMattersCN": "该文将未成年人网络犯罪治理从刑事事后追责前移至平台设计与风险环境规制，为理解中国未成年人保护法、网络安全法与平台责任规则的交汇提供了教义学框架。其援引K.G.M.诉Meta案具有比较法价值，可启发中国在平台风险缓解义务与可预见性标准上的规则细化。实证调查部分有助于评估三方协作机制的制度接受度，对监管机构设计平台合规激励与跨部门协同具有参考意义，也补充了现有文献对前端治理理论化的不足。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "未成年人网络犯罪",
+          "class": "tech"
+        },
+        {
+          "name": "平台问责",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
+      "title": "Evaluating the Effect of Enhanced LED Street Lighting on Nighttime Crime in Newark, New Jersey",
+      "titleCN": "Evaluating the Effect of Enhanced LED Street Lighting on Nighttime Crime in Newark, New Jersey",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09690-6",
+      "date": "2026-09-24",
+      "addedAt": "2026-11-19T07:44:04.084Z",
+      "summaryCN": "该研究评估新泽西州纽瓦克市2019至2021年将高压钠灯替换为LED路灯的优先项目对夜间犯罪分布的影响。基于环境犯罪学理论，作者假设在犯罪高发区域增强街道照明可有效减少犯罪、提升公共安全。研究采用准实验设计，利用项目分阶段推广的时空差异识别照明增强的因果效应，比较不同区域夜间犯罪率的变化。结论倾向于支持增强LED照明对夜间犯罪具有威慑效果，但效应大小因犯罪类型和区域特征而异。",
+      "summaryEN": "",
+      "whyMattersCN": "该文为街道照明作为情境犯罪预防手段提供了较新的准实验证据，对城市公共安全治理和警务资源配置具有直接参考价值。研究方法上，利用分阶段推广构造处理组与对照组，有助于缓解内生性问题，对中国城市更新中的照明改造、社区安全评估及实证犯罪学方法具有比较法启发。同时，研究提示照明干预的犯罪减少效应可能存在犯罪类型与空间异质性，制度设计上应避免一刀切，需结合区域犯罪特征进行精准投放与效果评估。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "街道照明",
+          "class": "criminal"
+        },
+        {
+          "name": "情境犯罪预防",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "J Quantitative Criminology"
+    },
+    {
       "title": "The Court Against the Courts",
       "titleCN": "The Court Against the Courts",
       "url": "https://harvardlawreview.org/print/vol-140/the-court-against-the-courts/",
@@ -10285,11 +10400,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-18T07:49:03.634Z",
+    "updatedAt": "2026-11-19T07:44:26.824Z",
     "generator": "ai",
-    "checkedAt": "2026-11-18T07:49:03.634Z"
+    "checkedAt": "2026-11-19T07:44:26.824Z"
   },
   "digests": [
+    {
+      "date": "2026-11-19",
+      "generatedAt": "2026-11-19T07:44:26.817Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "新泽西州纽瓦克市2019至2021年将高压钠灯替换为LED路灯的优先项目，被一项准实验研究评估为对夜间犯罪具有威慑效果，但效应大小因犯罪类型和区域特征而异。研究利用项目分阶段推广的时空差异识别因果效应，为情境犯罪预防与警务资源配置提供了实证证据。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09690-6"
+          ],
+          "relevance": "法律实证研究方法：分阶段推广构造处理组与对照组的准实验设计，可用于犯罪预防干预的因果评估。"
+        },
+        {
+          "text": "中国未成年人网络犯罪治理研究提出以儿童最佳利益为锚点的前端治理框架，包含平台风险缓解义务、有害设计与风险数字环境规制、风险可预见性三项支柱，并结合K.G.M.诉Meta案与中国横截面调查数据考察制度接受度与三方协作机制。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70077"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "冈比亚诉缅甸案的国际法院判决即将作出，涉及缅甸对罗兴亚人的行为是否构成种族灭绝，以及冈比亚作为公约缔约国能否基于普遍义务起诉。判决预计处理管辖权、可受理性或实体问题，将检验种族灭绝公约下普遍义务的管辖权边界。",
+          "refs": [
+            "https://www.justsecurity.org/165047/what-look-for-icj-judgment-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=what-look-for-icj-judgment-genocide"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "美国最高法院正考虑是否受理艾奥瓦州2024年移民法合宪性案件，核心是州级移民执法立法是否与联邦移民权冲突。本月选举使此前由共和党控制的多个州转向民主党，可能改变案件推进节奏与当事人立场，并影响最高法院移民案件日程。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/an-election-impact-on-the-supreme-courts-immigration-docket/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "以色列在美国免签证计划下拒绝部分美国公民入境，与美国给予以色列公民免签待遇形成不对等。文章讨论互惠原则在VWP中的法律约束力，指出国务院和国土安全部对指定国是否遵守互惠条件缺乏有效执法机制，并呼吁援引VWP法定条件施压。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/israel-is-denying-some-americans-entry-under-the-visa-waiver-program"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/165047/what-look-for-icj-judgment-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=what-look-for-icj-judgment-genocide",
+        "https://doi.org/10.1002/bsl.70077",
+        "https://www.scotusblog.com/2026/11/an-election-impact-on-the-supreme-courts-immigration-docket/",
+        "https://www.lawfaremedia.org/article/israel-is-denying-some-americans-entry-under-the-visa-waiver-program",
+        "https://link.springer.com/article/10.1007/s10940-026-09690-6"
+      ]
+    },
     {
       "date": "2026-11-18",
       "generatedAt": "2026-11-18T07:49:03.629Z",
