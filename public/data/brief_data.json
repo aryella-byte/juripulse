@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies",
+      "titleCN": "Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies",
+      "url": "https://www.justsecurity.org/165130/1000-litigation-cases-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=1000-litigation-cases-trump-administration",
+      "date": "2026-11-19",
+      "addedAt": "2026-11-20T07:35:36.522Z",
+      "summaryCN": "截至2026年11月，针对特朗普政府政策的诉讼案件已突破1000起，Just Security通过图表呈现了原告与联邦政府在不同案件中的胜诉率差异。这些诉讼覆盖移民、环境、行政程序、公民权利等多个领域，反映出大规模政策变动引发的司法审查密度显著上升。文章以数据可视化方式追踪案件进展与裁判结果，为评估行政权力边界和法院对政策合法性的审查强度提供了实证基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该里程碑凸显行政国家背景下司法审查的制度负荷：千起诉讼涉及行政程序法上的程序合法性、移民法中的快速遣返与庇护规则、环境监管的权限依据以及宪法性权利主张，法院在临时禁令、简易判决与实体审理中的胜诉率差异直接影响政策执行节奏与行政机关的合规策略。对中国法而言，可比较大规模政策诉讼中的原告资格、预防性救济与合法性审查标准，并启发对行政规范性文件附带审查与公益诉讼制度衔接的研究。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政诉讼法",
+          "class": "constitutional"
+        },
+        {
+          "name": "司法审查",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Lawyer sentenced to 87 months in prison for defrauding Motley Rice",
+      "titleCN": "Lawyer sentenced to 87 months in prison for defrauding Motley Rice",
+      "url": "https://www.abajournal.com/news/article/former-motley-rice-lawyer-sentenced-to-87-months-in-prison-for-defrauding-firm/",
+      "date": "2026-11-18",
+      "addedAt": "2026-11-20T07:35:36.522Z",
+      "summaryCN": "美国南卡罗来纳州查尔斯顿联邦法院于2026年11月16日判处一名前Motley Rice律师事务所律师87个月监禁，并责令其支付超过250万美元赔偿。该律师被认定通过虚假陈述和欺诈手段侵占律所资金，涉及对雇主信任的严重背弃。案件由联邦检察官办公室提起，凸显律所内部财务管控与律师职业伦理监管的漏洞。判决同时包含监督释放条件，具体欺诈手法与受害者范围在量刑文件中详述。此案为近年来针对大型人身伤害律所内部人员职务犯罪中刑期较重的判例之一。",
+      "summaryEN": "",
+      "whyMattersCN": "本案对律师职业责任与律所合规治理具有直接制度意义。其一，联邦重罪定罪与87个月刑期表明司法部对律师利用受托地位实施欺诈从严追诉，强化了《美国量刑指南》中滥用信任地位的加重情节适用。其二，判决推动律所审视内部财务授权与客户信托账户（IOLTA）监管机制，防范合伙人或雇员挪用资金。其三，对中国法启示在于：律师协会惩戒与刑事追诉的衔接、律所强制审计义务以及客户资金第三方托管制度均可借鉴。此外，该案为跨境律所合规培训提供了实证素材，强调职业伦理教育与内部举报渠道的必要性。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业伦理",
+          "class": "criminal"
+        },
+        {
+          "name": "律所合规",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The Invisible Hand Wasn’t Meant to Be Held by the State",
+      "titleCN": "The Invisible Hand Wasn’t Meant to Be Held by the State",
+      "url": "https://www.lawfaremedia.org/article/the-invisible-hand-wasn-t-meant-to-be-held-by-the-state",
+      "date": "2026-11-19",
+      "addedAt": "2026-11-20T07:35:36.522Z",
+      "summaryCN": "Lawfare刊文指出，美国联邦政府目前已在40家公司持有股权，且与2008年金融危机时期的救助不同，这些持股并非以救援为目的，而是旨在获取控制权，且缺乏明确的退出策略。文章认为这种国家资本主义式的直接持股模糊了公共权力与私人治理的边界，引发宪政与公司治理层面的关切。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及国家作为股东行使控制权时的宪政与公司法问题：政府持股若伴随表决权、董事席位或政策性条件，可能改变公司治理的信义义务结构，并引发征用、正当程序及权力分立争议。对中国比较法而言，可对照国有资本投资运营公司的权责边界、国家出资人监管与市场化退出机制，反思政府持股的透明度、退出规则与竞争中性原则。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国家持股",
+          "class": "constitutional"
+        },
+        {
+          "name": "公司治理",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
       "title": "An election impact on the Supreme Court’s immigration docket",
       "titleCN": "An election impact on the Supreme Court’s immigration docket",
       "url": "https://www.scotusblog.com/2026/11/an-election-impact-on-the-supreme-courts-immigration-docket/",
@@ -6626,6 +6695,52 @@
   ],
   "research": [
     {
+      "title": "The American Presidency Post-Slaughter",
+      "titleCN": "The American Presidency Post-Slaughter",
+      "url": "https://harvardlawreview.org/print/vol-140/the-american-presidency-post-slaughter/",
+      "date": "2026-11-10",
+      "addedAt": "2026-11-20T07:35:53.997Z",
+      "summaryCN": "本文以1935年5月28日国会立法为切入点，追问在最高法院作出“异常重要”判决后国会应如何回应，并以此审视Slaughter案后美国总统职权的宪法构造。文章核心论证在于：国会立法并非在司法真空进行，重大判决会重塑总统与国会间的权力边界；作者通过历史制度分析，揭示总统制在司法裁决冲击下的适应与变形机制，进而提出评估总统权力扩张的规范框架。结论指向对当代总统制正当性与问责制的重新审视。",
+      "summaryEN": "",
+      "whyMattersCN": "本文直接触及美国总统制与国会立法权的宪法分界，对理解Slaughter案后行政权扩张的规范基础具有判例与制度双重意义。其历史制度分析方法为研究司法判决如何反馈至立法过程提供了可迁移框架，亦对中国法语境下司法与立法互动、权力配置的宪法学研究具有比较法启发。文章还提示监管国家中总统对独立机构的控制边界问题，对行政法与国际比较宪法研究均有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "美国总统制",
+          "class": "constitutional"
+        },
+        {
+          "name": "国会立法权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Harvard Law Review"
+    },
+    {
+      "title": "Human Trafficking Myths and Misconceptions: A Scoping Review of Empirical Evidence and Practical Implications",
+      "titleCN": "Human Trafficking Myths and Misconceptions: A Scoping Review of Empirical Evidence and Practical Implications",
+      "url": "https://doi.org/10.1002/bsl.70100",
+      "date": "2026-10-12",
+      "addedAt": "2026-11-20T07:35:53.997Z",
+      "summaryCN": "该文针对人口贩运认知中的刻板印象与误解开展范围综述，遵循PRISMA‐ScR与JBI指南，检索Web of Science、Scopus、Criminal Justice Database及PsycINFO，无日期限制，筛得34项实证研究。研究梳理了贩运迷思的概念化与测量方式，识别出反复出现的迷思领域及其相关因素，并考察了教育与传播干预的相关证据，揭示迷思如何影响被害人识别、归责与机构应对。",
+      "summaryEN": "",
+      "whyMattersCN": "对刑事司法中被害人识别与不起诉/免责条款适用具有直接意义：迷思可能使执法与司法机关错误归责或漏认被害人，影响贩运案件定罪与保护措施。研究方法上，该综述为构建本土贩运迷思量表与干预评估提供框架。比较法上，可启发中国反拐实践审视被害人中心原则与执法培训，完善跨部门识别机制与证据标准，避免以刻板印象替代实质审查。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人口贩运",
+          "class": "criminal"
+        },
+        {
+          "name": "被害人识别",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Behavioral Sciences & the Law"
+    },
+    {
       "title": "Front‐End Governance of Juvenile Cybercrime in China: Platform Accountability, Risk Mitigation, and Tri‐Partite Collaboration",
       "titleCN": "Front‐End Governance of Juvenile Cybercrime in China: Platform Accountability, Risk Mitigation, and Tri‐Partite Collaboration",
       "url": "https://doi.org/10.1002/bsl.70077",
@@ -10400,11 +10515,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-19T07:44:26.824Z",
+    "updatedAt": "2026-11-20T07:36:11.107Z",
     "generator": "ai",
-    "checkedAt": "2026-11-19T07:44:26.824Z"
+    "checkedAt": "2026-11-20T07:36:11.107Z"
   },
   "digests": [
+    {
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-20T07:36:11.099Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "Just Security统计显示，截至2026年11月针对特朗普政府政策的诉讼已超过1000起，并以图表呈现原告与联邦政府在移民、环境、行政程序、公民权利等领域的胜诉率差异。大规模政策变动带来的司法审查密度上升，涉及原告资格、临时禁令等预防性救济与合法性审查标准问题。",
+          "refs": [
+            "https://www.justsecurity.org/165130/1000-litigation-cases-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=1000-litigation-cases-trump-administration"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "哈佛法律评论论文以1935年5月28日国会立法为切入点，考察最高法院作出重要判决后国会如何回应，论证立法并非在司法真空中进行，重大判决会重塑总统与国会间的权力边界，并提出评估总统权力扩张的规范框架。",
+          "refs": [
+            "https://harvardlawreview.org/print/vol-140/the-american-presidency-post-slaughter/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "南卡罗来纳州联邦法院判处一名前Motley Rice律师事务所律师87个月监禁，责令赔偿逾250万美元，认定其以虚假陈述侵占律所资金。案件涉及滥用受托地位的加重情节、律所财务管控与客户信托账户监管，以及律师惩戒与刑事追诉的衔接。",
+          "refs": [
+            "https://www.abajournal.com/news/article/former-motley-rice-lawyer-sentenced-to-87-months-in-prison-for-defrauding-firm/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Lawfare刊文指出，美国联邦政府现已在40家公司持股，与2008年金融危机救助不同，这些持股以获取控制权为目的且缺乏明确退出策略，模糊公共权力与私人治理边界，引发表决权、董事席位与正当程序、权力分立等宪政和公司治理问题。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/the-invisible-hand-wasn-t-meant-to-be-held-by-the-state"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Behavioral Sciences & the Law发表范围综述，依PRISMA-ScR与JBI指南检索四个数据库，筛得34项实证研究，梳理人口贩运迷思的概念化与测量、反复出现的迷思领域及相关因素，并考察教育与传播干预证据，揭示迷思影响被害人识别与归责。",
+          "refs": [
+            "https://doi.org/10.1002/bsl.70100"
+          ],
+          "relevance": "属公众对司法公正的感知方向，提供迷思测量与干预评估的实证研究材料。"
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/165130/1000-litigation-cases-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=1000-litigation-cases-trump-administration",
+        "https://harvardlawreview.org/print/vol-140/the-american-presidency-post-slaughter/",
+        "https://www.abajournal.com/news/article/former-motley-rice-lawyer-sentenced-to-87-months-in-prison-for-defrauding-firm/",
+        "https://www.lawfaremedia.org/article/the-invisible-hand-wasn-t-meant-to-be-held-by-the-state",
+        "https://doi.org/10.1002/bsl.70100"
+      ]
+    },
     {
       "date": "2026-11-19",
       "generatedAt": "2026-11-19T07:44:26.817Z",
