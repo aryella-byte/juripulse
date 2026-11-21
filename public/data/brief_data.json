@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Ohio Judge Improperly Blocked Nearly 1,700 Vehicle Registrations Over Unpaid Fines",
+      "titleCN": "Ohio Judge Improperly Blocked Nearly 1,700 Vehicle Registrations Over Unpaid Fines",
+      "url": "https://www.themarshallproject.org/2026/11/20/license-debt-suspensions-medina-ohio",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-21T07:31:33.278Z",
+      "summaryCN": "俄亥俄州麦地那市一名法官因当事人未缴纳法院罚款，不当封锁了近1700辆汽车的注册。律师指出，此举违反了2025年生效的一项州法律，该法律禁止因未付法院费用而吊销驾照或车辆注册。该事件揭示了司法实践中对轻微经济处罚的执行方式与新兴立法保护之间的冲突，涉及正当程序和平等保护问题，目前相关封锁行为已被质疑并可能面临法律挑战。",
+      "summaryEN": "",
+      "whyMattersCN": "该事件凸显了州级立法限制司法系统以未付费用为由剥夺驾驶资格的改革意图与基层法官执行惯性之间的张力。2025年俄亥俄州法律明确禁止因欠费而吊销驾照或注册，旨在防止贫困被告陷入债务陷阱，但本案表明司法官员可能通过车辆注册封锁规避法律。这涉及正当程序、平等保护及对贫困者的间接惩罚，对理解美国州法改革执行机制、司法监督及比较法上行政与司法制裁的边界具有参考价值，也提示中国在行政处罚与执行中需关注比例原则和弱势群体保护。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "车辆注册封锁",
+          "class": "constitutional"
+        },
+        {
+          "name": "未付法院罚款",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Not Horsing Around: Carriage owners file lawsuit to challenge new ban in NYC",
+      "titleCN": "Not Horsing Around: Carriage owners file lawsuit to challenge new ban in NYC",
+      "url": "https://www.abajournal.com/news/article/not-horsing-around-nyc-carriage-owners-who-challenge-new-ban-with-lawsuit/",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-21T07:31:33.278Z",
+      "summaryCN": "纽约市近期通过法律禁止马车运营，代表马车夫利益的工会于周四提起联邦诉讼，指控该禁令违宪。诉状核心主张可能涉及财产权、正当程序或平等保护，认为立法剥夺了马车夫的既得生计与许可利益。案件已进入联邦法院，尚未有裁决。该诉讼将检验市政立法在动物福利与从业者宪法权利之间的边界，并可能影响其他城市类似禁令的合宪性审查标准。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及市政警察权与宪法财产权、正当程序条款的紧张关系，具体争点可能包括马车运营许可是否构成受保护的财产利益、禁令是否构成未经补偿的征收，以及立法是否满足合理基础审查。若法院作出实体判决，将为动物福利立法与从业者经济自由之间的合宪性平衡提供判例指引，并影响其他城市效仿纽约禁令时的法律风险评估。对中国法而言，可比较行政许可撤回的补偿规则与比例原则审查，启发对规制性征收与信赖保护的讨论。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "宪法诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "财产权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The D.C. Circuit Curbed Pro-executive Panels Before. Is Anthropic’s Case Next?",
+      "titleCN": "The D.C. Circuit Curbed Pro-executive Panels Before. Is Anthropic’s Case Next?",
+      "url": "https://www.lawfaremedia.org/article/the-d.c.-circuit-curbed-pro-executive-panels-before.-is-anthropic-s-case-next",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-21T07:31:33.278Z",
+      "summaryCN": "本文讨论哥伦比亚特区巡回上诉法院自2018年以来在三起重大案件中推翻支持行政部门的裁决，形成对行政权扩张的司法制约记录。文章以此为先例背景，分析Anthropic公司挑战五角大楼将其列入黑名单的诉讼，预测全院庭审可能重新审理该案。核心问题在于巡回法院对行政机构裁量权的审查标准，以及科技公司面对国防采购排除时的程序性救济途径。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及行政程序法与国家安全采购排除的司法审查边界，直接影响AI企业参与国防合同的合规路径。特区巡回法院近年判例显示其倾向于严格审查行政机构对承包商的排除决定，若全院庭审确立更明确的审查标准，将改变国防采购黑名单的司法救济格局。对中国法而言，可比较行政机关对科技企业市场准入限制的司法审查强度与程序保障，尤其涉及国家安全例外时的比例原则适用。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "行政程序法",
+          "class": "tech"
+        },
+        {
+          "name": "司法审查",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
       "title": "Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies",
       "titleCN": "Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies",
       "url": "https://www.justsecurity.org/165130/1000-litigation-cases-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=1000-litigation-cases-trump-administration",
@@ -6695,6 +6764,52 @@
   ],
   "research": [
     {
+      "title": "The Dismantling of Civil Rights Protections and Thoughts on Rebuilding",
+      "titleCN": "The Dismantling of Civil Rights Protections and Thoughts on Rebuilding",
+      "url": "https://pennlawreview.com/2026/11/21/the-dismantling-of-civil-rights-protections-and-thoughts-on-rebuilding/",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-21T07:31:45.877Z",
+      "summaryCN": "论文以2025年第二届特朗普政府在数月内系统性拆除联邦民权执法基础设施为事实起点，描述该攻击的关键要素并评估其制度影响。作者在梳理执法机构弱化、法律解释转向与资源削减等机制后，提出重建民权执法的长期目标框架，包括恢复机构能力、重构执法优先次序与强化问责路径，为理解美国民权保障的制度脆弱性提供分析基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该文直面联邦民权执法机构被快速削弱的制度现象，对理解行政权更迭如何影响民权法实施具有比较法价值。其重建框架涉及执法资源配置、机构独立性与法律解释策略，可为中国法语境下讨论执法能力建设与权利保障机制提供参照。论文将制度拆解与重建目标并置，有助于反思民权保障对行政组织法与程序法的依赖，并提示比较研究应关注执法基础设施而非仅规范文本。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "民权执法",
+          "class": "constitutional"
+        },
+        {
+          "name": "行政权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "Callais and the Constitutional Transformation of Democracy and Racial Equality",
+      "titleCN": "Callais and the Constitutional Transformation of Democracy and Racial Equality",
+      "url": "https://pennlawreview.com/2026/11/21/callais-and-the-constitutional-transformation-of-democracy-and-racial-equality/",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-21T07:31:45.877Z",
+      "summaryCN": "本文以路易斯安那州诉Callais案为切入点，论证最高法院该判决实质上终结了《投票权法》作为防止少数族裔选票稀释的有效保障。文章将Callais置于Shelby County、Rucho与Students for Fair Admissions等判例构成的十年宪法转型脉络中，揭示出一种反从属框架与全面授权逻辑的合流。核心贡献在于识别出这一转型如何系统性地瓦解VRA的规范基础，并预示少数族裔政治代表权保护将面临更严峻的宪法约束。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对理解美国投票权法理的宪法转型具有重要制度分析价值。Callais案与Shelby County、Rucho等判例的串联，揭示了最高法院在种族平等与民主代表权领域从结果导向转向程序中立的形式化路径，直接影响VRA第2条的适用范围与少数族裔选票稀释诉讼的可行性。对中国比较法研究而言，该文提供了司法审查如何重塑选举权保障边界的典型样本，有助于反思反从属原则与形式平等之间的张力，以及选举制度设计中少数群体保护机制的宪法空间。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "投票权法",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪法转型",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "The American Presidency Post-Slaughter",
       "titleCN": "The American Presidency Post-Slaughter",
       "url": "https://harvardlawreview.org/print/vol-140/the-american-presidency-post-slaughter/",
@@ -10515,11 +10630,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-20T07:36:11.107Z",
+    "updatedAt": "2026-11-21T07:32:04.904Z",
     "generator": "ai",
-    "checkedAt": "2026-11-20T07:36:11.107Z"
+    "checkedAt": "2026-11-21T07:32:04.904Z"
   },
   "digests": [
+    {
+      "date": "2026-11-21",
+      "generatedAt": "2026-11-21T07:32:04.898Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "俄亥俄州麦地那市一名法官因当事人未缴法院罚款，封锁近1700辆汽车注册。律师指出此举违反2025年生效的州法，该法禁止因欠费吊销驾照或车辆注册。事件涉及正当程序与平等保护，也显示州级立法限制欠费制裁的改革与基层执行惯性之间的冲突。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/20/license-debt-suspensions-medina-ohio"
+          ],
+          "relevance": "涉及刑罚执行中对贫困被告的经济制裁方式，可用于讨论罚金刑执行与比例原则。"
+        },
+        {
+          "text": "特区巡回上诉法院自2018年以来在三起重大案件中推翻支持行政部门的裁决。文章以此为背景分析Anthropic挑战五角大楼将其列入黑名单的诉讼，关注法院对行政机构裁量权的审查标准及科技公司面对国防采购排除的程序救济。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/the-d.c.-circuit-curbed-pro-executive-panels-before.-is-anthropic-s-case-next"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以2025年第二届特朗普政府数月内系统拆除联邦民权执法基础设施为起点，梳理执法机构弱化、法律解释转向与资源削减等机制，并提出恢复机构能力、重构执法优先次序与强化问责的重建框架，揭示民权保障对执法基础设施的依赖。",
+          "refs": [
+            "https://pennlawreview.com/2026/11/21/the-dismantling-of-civil-rights-protections-and-thoughts-on-rebuilding/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文以路易斯安那州诉Callais案为切入点，认为该判决实质上终结了《投票权法》作为防止少数族裔选票稀释的有效保障，并将其置于Shelby County、Rucho等判例构成的十年宪法转型脉络中，指出反从属框架与全面授权逻辑的合流瓦解了VRA的规范基础。",
+          "refs": [
+            "https://pennlawreview.com/2026/11/21/callais-and-the-constitutional-transformation-of-democracy-and-racial-equality/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "纽约市通过法律禁止马车运营，代表马车夫利益的工会提起联邦诉讼，指控禁令违宪，主张立法剥夺了马车夫的既得生计与许可利益。案件将检验市政立法在动物福利与从业者财产权、正当程序之间的边界，并可能影响其他城市类似禁令的合宪性审查。",
+          "refs": [
+            "https://www.abajournal.com/news/article/not-horsing-around-nyc-carriage-owners-who-challenge-new-ban-with-lawsuit/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/20/license-debt-suspensions-medina-ohio",
+        "https://www.lawfaremedia.org/article/the-d.c.-circuit-curbed-pro-executive-panels-before.-is-anthropic-s-case-next",
+        "https://pennlawreview.com/2026/11/21/the-dismantling-of-civil-rights-protections-and-thoughts-on-rebuilding/",
+        "https://pennlawreview.com/2026/11/21/callais-and-the-constitutional-transformation-of-democracy-and-racial-equality/",
+        "https://www.abajournal.com/news/article/not-horsing-around-nyc-carriage-owners-who-challenge-new-ban-with-lawsuit/"
+      ]
+    },
     {
       "date": "2026-11-20",
       "generatedAt": "2026-11-20T07:36:11.099Z",
