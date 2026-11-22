@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
+      "titleCN": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
+      "url": "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-22T07:12:25.172Z",
+      "summaryCN": "2026财年ICE逮捕量达49.1万创纪录后，联邦法官、州官员与维权组织对其执法手段提出法律挑战，焦点包括法院内逮捕与重新拘留等做法的合法性。众议院民主党人将于2027年1月启动调查。报道梳理了ICE在移民执法中扩大使用逮捕与拘留策略所引发的宪法与程序争议，涉及司法审查、正当程序及联邦与州权限划分等核心法律问题。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示移民执法中行政拘留权与司法审查的张力，涉及法院内逮捕是否妨碍司法公正、重新拘留是否违反保释或释放条件等正当程序争议。对研究行政权边界、人身保护令适用及联邦制下州与地方执法协作限制具有比较法价值。众议院调查可能推动立法或监督听证，影响ICE执法规则与拘留标准，并为中国行政强制措施司法审查提供参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "移民执法",
+          "class": "constitutional"
+        },
+        {
+          "name": "正当程序",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Disbarred attorney ‘flooded’ court with AI filings, panel says",
+      "titleCN": "Disbarred attorney ‘flooded’ court with AI filings, panel says",
+      "url": "https://www.abajournal.com/news/article/disbarred-florida-attorney-flooded-court-with-ai-filings-panel-says/",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-22T07:12:25.172Z",
+      "summaryCN": "佛罗里达州第四地区上诉法院周三裁定，禁止一名因欺诈被定罪并已吊销执照的律师以自行诉讼方式提交文件。该律师此前在诉讼中大量提交由人工智能生成的文件，被合议庭形容为“淹没”法院。法院指出，其行为构成滥用司法程序，并强调法院有权对恶意或轻率提交进行限制。最新进展是上诉法院维持了下级法院的禁令，并进一步明确AI生成文件在诉讼中的使用边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案首次由上诉法院明确将AI生成文件的大量提交认定为滥用司法程序，为法院管理AI诉讼工具提供了可操作的裁判规则。其制度意义在于：一是确立法院对AI辅助诉讼的个案控制权，二是为律师和当事人使用AI设定程序性边界，三是为其他法域应对AI文件泛滥提供比较法参考。对中国法院而言，该案提示需在保障诉权与防止程序滥用之间建立审查机制，并可启发对AI生成证据和文书的真实性审查规则。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI诉讼",
+          "class": "tech"
+        },
+        {
+          "name": "滥用程序",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "More people use AI in court filings, new research from Stanford shows",
+      "titleCN": "More people use AI in court filings, new research from Stanford shows",
+      "url": "https://www.abajournal.com/news/article/new-research-from-stanford-shows-more-people-are-using-ai-in-court-filings/",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-22T07:12:25.172Z",
+      "summaryCN": "斯坦福大学最新研究显示，越来越多当事人在向法院提交的诉讼文件中使用人工智能工具，且使用比例呈上升趋势。该研究基于对法院文书的实证分析，揭示了AI在民事及刑事自诉文书起草中的渗透情况，并讨论了AI生成内容可能带来的准确性、诚信义务及司法审查问题。报告指出，法院目前对AI使用的披露规则和制裁机制尚不统一，亟需明确当事人及律师的披露义务与责任边界。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究直接触及科技法中的AI使用规制与民事诉讼程序中的诚信义务交叉地带。美国部分联邦法院已通过常设令要求律师披露AI使用情况，并出现因AI生成虚假判例而被制裁的案例，如Mata v. Avianca案。斯坦福的实证数据可为法院制定披露规则、统一制裁标准提供依据，也提示中国法院在推进在线诉讼和智能辅助系统时，需同步明确当事人使用AI的边界、虚假陈述责任及对司法公信力的影响，具有比较法参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "司法程序",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Ohio Judge Improperly Blocked Nearly 1,700 Vehicle Registrations Over Unpaid Fines",
       "titleCN": "Ohio Judge Improperly Blocked Nearly 1,700 Vehicle Registrations Over Unpaid Fines",
       "url": "https://www.themarshallproject.org/2026/11/20/license-debt-suspensions-medina-ohio",
@@ -6764,6 +6833,52 @@
   ],
   "research": [
     {
+      "title": "Digital Ethnonationalism",
+      "titleCN": "Digital Ethnonationalism",
+      "url": "https://pennlawreview.com/2026/11/21/digital-ethnonationalism/",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-22T07:12:44.199Z",
+      "summaryCN": "本文提出数字族群民族主义概念，指称不透明算法系统与政策在规模层面复制种族与宗教等级及文化同质性的设计与运作。论文以近期联邦层面撤销反偏见AI保障措施为背景，涵盖消费信贷、住房、就业、政府采购等领域，并分析将公平理念污名化为意识形态的动向。核心论证在于揭示算法治理如何成为族群民族主义的新型制度工具，而非中立技术安排。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对算法公平监管的倒退提供了批判性分析框架，直接回应美国联邦机构在信贷、住房、就业等领域撤回反偏见AI规则的制度变化。其数字族群民族主义概念可用于比较法研究，审视中国算法推荐与信用评分治理中族群与地域平等保障的缺失。论文亦提示行政法上算法透明度义务与平等保护原则的交叉，对理解技术中立话语如何遮蔽结构性歧视具有方法论启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "算法歧视",
+          "class": "tech"
+        },
+        {
+          "name": "族群民族主义",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "Online Harassment, Negative Affect, and Suicidal Ideation Among Korean Adolescents: A Gender-Differentiated Test of General Strain Theory (GST)",
+      "titleCN": "Online Harassment, Negative Affect, and Suicidal Ideation Among Korean Adolescents: A Gender-Differentiated Test of General Strain Theory (GST)",
+      "url": "https://doi.org/10.1080/07418825.2026.2638367",
+      "date": "2026-03-07",
+      "addedAt": "2026-11-22T07:12:44.199Z",
+      "summaryCN": "该文以韩国青少年为样本，检验一般紧张理论（GST）在网络骚扰与自杀意念关系中的适用性，并重点考察性别差异。研究将网络骚扰视为一种紧张源，分析其通过负面情感（如抑郁、愤怒）影响自杀意念的机制，并比较男女青少年在紧张—负面情感—偏差/自杀结果链条上的差异。论文采用实证数据与结构方程模型，发现网络骚扰对自杀意念的间接效应存在性别分化，负面情感的中介作用在女生中更为显著。结论支持将GST扩展至网络被害领域，并提示性别敏感干预的必要性。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对网络骚扰的刑事化与青少年保护制度具有直接启发。韩国近年因网络性犯罪与青少年自杀事件推动修法，如强化网络性剥削处罚与平台删除义务；本文的性别分化发现可为中国《未成年人保护法》网络保护专章、预防未成年人犯罪法及网络暴力治理提供实证依据。方法论上，将GST用于网络被害与自杀意念的中介分析，可弥补国内实证研究多集中于描述性统计的不足。比较法层面，提示监管应区分性别化伤害机制，避免一刀切平台责任，并为网络骚扰的侵权与治安处罚边界提供理论支撑。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "网络骚扰",
+          "class": "criminal"
+        },
+        {
+          "name": "一般紧张理论",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Justice Quarterly"
+    },
+    {
       "title": "The Dismantling of Civil Rights Protections and Thoughts on Rebuilding",
       "titleCN": "The Dismantling of Civil Rights Protections and Thoughts on Rebuilding",
       "url": "https://pennlawreview.com/2026/11/21/the-dismantling-of-civil-rights-protections-and-thoughts-on-rebuilding/",
@@ -10630,11 +10745,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-21T07:32:04.904Z",
+    "updatedAt": "2026-11-22T07:13:01.477Z",
     "generator": "ai",
-    "checkedAt": "2026-11-21T07:32:04.904Z"
+    "checkedAt": "2026-11-22T07:13:01.477Z"
   },
   "digests": [
+    {
+      "date": "2026-11-22",
+      "generatedAt": "2026-11-22T07:13:01.472Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "斯坦福研究基于法院文书实证分析发现，当事人使用AI起草诉讼文件的比例持续上升，涉及民事与刑事自诉文书；但法院对AI使用的披露规则与制裁机制尚不统一，AI生成内容的准确性、诚信义务与司法审查责任边界仍待明确。",
+          "refs": [
+            "https://www.abajournal.com/news/article/new-research-from-stanford-shows-more-people-are-using-ai-in-court-filings/"
+          ],
+          "relevance": "法律实证研究：提供AI进入诉讼文书的量化数据与披露规则比较材料。"
+        },
+        {
+          "text": "佛罗里达州第四地区上诉法院维持禁令，禁止一名被吊销执照的律师以自行诉讼方式提交文件，因其大量提交AI生成文件被合议庭称为淹没法院，构成滥用司法程序；法院据此明确了对AI辅助诉讼的个案控制权与程序性边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/disbarred-florida-attorney-flooded-court-with-ai-filings-panel-says/"
+          ],
+          "relevance": "人工智能与法律判断：展示法院如何认定AI生成文书滥用并设定使用边界。"
+        },
+        {
+          "text": "The Marshall Project报道，ICE在2026财年逮捕量达49.1万创纪录后，联邦法官、州官员与维权组织质疑法院内逮捕与重新拘留的合法性，争议涉及司法审查、正当程序及联邦与州权限划分，众议院民主党人将于2027年1月启动调查。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Penn Law Review论文提出数字族群民族主义概念，指不透明算法系统在消费信贷、住房、就业、政府采购等领域规模复制种族与宗教等级，并以联邦撤销反偏见AI保障措施为背景，论证算法治理可成为族群民族主义的新型制度工具而非中立技术安排。",
+          "refs": [
+            "https://pennlawreview.com/2026/11/21/digital-ethnonationalism/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Justice Quarterly论文以韩国青少年为样本，用结构方程模型检验一般紧张理论，发现网络骚扰经负面情感影响自杀意念的间接效应存在性别分化，中介作用在女生中更显著，结论支持将GST扩展至网络被害领域并提示性别敏感干预。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2638367"
+          ],
+          "relevance": "法律实证研究：提供网络被害与自杀意念中介分析的量化方法与性别差异数据。"
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
+        "https://pennlawreview.com/2026/11/21/digital-ethnonationalism/",
+        "https://doi.org/10.1080/07418825.2026.2638367",
+        "https://www.abajournal.com/news/article/disbarred-florida-attorney-flooded-court-with-ai-filings-panel-says/",
+        "https://www.abajournal.com/news/article/new-research-from-stanford-shows-more-people-are-using-ai-in-court-filings/"
+      ]
+    },
     {
       "date": "2026-11-21",
       "generatedAt": "2026-11-21T07:32:04.898Z",
