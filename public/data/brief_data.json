@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "America’s Second Abandonment of Afghanistan",
+      "titleCN": "America’s Second Abandonment of Afghanistan",
+      "url": "https://www.lawfaremedia.org/article/america-s-second-abandonment-of-afghanistan",
+      "date": "2026-11-22",
+      "addedAt": "2026-11-23T07:58:29.106Z",
+      "summaryCN": "本文讨论美国大幅削减对阿富汗援助后产生的法律与人权后果。核心事实是援助中断削弱了国际社会对塔利班施加的合规压力，导致阿富汗妇女和儿童的权利保障进一步恶化。文章从国际法义务、援助条件性以及人道主义中立原则之间的张力展开论证，指出美国在撤军后第二次放弃阿富汗，使塔利班在缺乏外部制约的情况下强化性别压迫政策。最新进展是援助削减已实际影响基层医疗与教育服务，并削弱了国际机构监督塔利班履约的能力。",
+      "summaryEN": "",
+      "whyMattersCN": "该文触及国际人道法、人权条约义务与对外援助条件性之间的制度衔接问题。美国削减援助虽属外交政策，但直接影响阿富汗妇女受教育权与健康权的实现，涉及《消除对妇女一切形式歧视公约》等条约的域外效力争议。文章还揭示援助中断如何削弱联合国人权机制对塔利班性别政策的监督，对理解国际法上援助国责任、人道主义豁免范围以及制裁与人道行动的平衡具有参考价值。对中国而言，在对外援助与不干涉内政原则之间如何嵌入人权保障条件，亦构成比较法上的启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际人道法",
+          "class": "international"
+        },
+        {
+          "name": "人权条约",
+          "class": "international"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
+      "title": "Five major issues that may still make it onto this term’s oral argument docket",
+      "titleCN": "Five major issues that may still make it onto this term’s oral argument docket",
+      "url": "https://www.scotusblog.com/2026/11/five-major-issues-that-may-still-make-it-onto-this-terms-oral-argument-docket/",
+      "date": "2026-11-19",
+      "addedAt": "2026-11-23T07:58:29.106Z",
+      "summaryCN": "SCOTUSblog于2026年11月19日报道，最高法院口头辩论日程排期紧迫，案件须在1月中旬前获调卷令才能赶在4月19日开始的最后一个辩论期完成简报。尽管时间有限，大法官们仍面临多起重大调卷申请，涉及特朗普政府对跨性别军人服役的禁令、要求公立学校教室展示十诫的州法，以及对Kalshi等预测市场的监管。文章梳理了排期规则并列出可能进入本任期辩论日程的五大议题。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道揭示了最高法院调卷令授予时限与辩论排期之间的制度约束，直接影响重大宪政与监管争议能否在本任期获得实质审查。跨性别军人禁令涉及平等保护与军事 deference 判例；十诫展示州法触及第一修正案政教分离条款的 Lemon 测试存废；预测市场监管则关乎联邦商品期货交易委员会与州博彩法的权限划分。这些议题的调卷动向对行政权边界、宗教自由与金融科技监管具有先例价值，也为比较法研究提供观察美国最高法院议程设置的窗口。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "调卷令",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Missouri Is Switching Prison Tablet Companies. Here’s Why Incarcerated People Are Worried.",
+      "titleCN": "Missouri Is Switching Prison Tablet Companies. Here’s Why Incarcerated People Are Worried.",
+      "url": "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-23T07:58:29.106Z",
+      "summaryCN": "密苏里州监狱系统更换平板电脑供应商，但未强制要求新旧设备间转移囚犯存储的内容。六名被监禁者讲述他们即将失去的珍贵数字财产，包括家庭照片、音乐、教育材料和通讯记录。报道揭示监狱数字化服务合同更替中的财产权与情感利益问题，以及囚犯对数字内容缺乏控制权的结构性困境。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道触及囚犯数字财产权与监狱管理合同变更的法律空白。美国宪法正当程序条款可能要求政府在剥夺财产前提供程序保障，但囚犯数字内容的法律地位尚不明确。供应商更换涉及政府采购合同、数据迁移义务和囚犯通信隐私。比较法上，中国监狱数字化管理同样面临囚犯数字内容归属与迁移问题，需明确监狱企业合同中的数据保全责任及囚犯申诉机制，避免技术升级导致权益减损。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "囚犯权利",
+          "class": "criminal"
+        },
+        {
+          "name": "数字财产",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
       "titleCN": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
       "url": "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
@@ -6833,6 +6902,52 @@
   ],
   "research": [
     {
+      "title": "Federal Courts and the Exceptional South: Boundary Control and Multiracial Democracy",
+      "titleCN": "Federal Courts and the Exceptional South: Boundary Control and Multiracial Democracy",
+      "url": "https://pennlawreview.com/2026/11/21/federal-courts-and-the-exceptional-south-boundary-control-and-multiracial-democracy/",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-23T07:58:46.042Z",
+      "summaryCN": "本文以联邦法院与南方之间围绕种族隔离与选举权等问题的对抗为线索，提出联邦法院在推动多种族民主中的角色取决于其能否有效控制南方各州边界并约束其倒退性政策。文章从重建时期追溯至当代，论证法院的进步或倒退形象并非固有属性，而是由其对南方异常政治体的处理方式所塑造，并主张以边界控制为核心重新理解联邦司法审查与民主巩固的关系。",
+      "summaryEN": "",
+      "whyMattersCN": "本文为理解联邦法院在民主倒退背景下的制度角色提供了长时段分析框架，直接关联司法审查、选举权保护与种族平等判例的正当性争论。其边界控制概念可启发比较法研究：中国在中央与地方关系、统一法律适用及区域治理中同样面临如何约束地方倒退性规范的问题，本文提示可从司法层级与管辖权配置角度审视中央司法权威对地方民主质量的塑造作用，并反思法院作为民主保障者的限度。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "联邦法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "多种族民主",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
+      "title": "No Place Like Home: The Role of Network Connectedness and Rational Choice in the Spatial Decision-Making of Violent Extremist Offenders",
+      "titleCN": "No Place Like Home: The Role of Network Connectedness and Rational Choice in the Spatial Decision-Making of Violent Extremist Offenders",
+      "url": "https://doi.org/10.1080/07418825.2026.2719022",
+      "date": "2026-08-22",
+      "addedAt": "2026-11-23T07:58:46.042Z",
+      "summaryCN": "该论文发表于Justice Quarterly，聚焦暴力极端主义犯罪者的空间决策机制。研究以网络连通性与理性选择理论为框架，考察犯罪者如何在居住地选择与作案地点之间进行权衡，检验社会网络结构是否削弱或强化理性选择模型的解释力。论文采用实证数据，分析网络连接度对空间决策模式的影响，发现犯罪者的地点选择既受理性成本收益计算驱动，也受其社会网络地理分布约束。结论指出，仅靠理性选择理论不足以解释极端主义犯罪者的空间行为，网络连通性构成关键调节变量，对犯罪地理学与反恐干预策略具有理论意义。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对反恐刑事政策与犯罪预防制度具有直接启示：若极端主义犯罪者的作案地点选择受社会网络地理分布显著影响，则监控与干预措施应关注网络节点而非仅聚焦个体风险评估，这对我国反恐法框架下的社区矫正、重点人员管控与情报预警机制具有比较法参考价值。方法论上，论文将社会网络分析与犯罪空间决策模型结合，为实证犯罪学研究提供了可借鉴的变量设计思路。同时，研究挑战了单一理性选择假设，提示刑事政策制定者需兼顾结构性网络因素，避免过度依赖个体理性模型而忽视社会关系对犯罪机会结构的塑造作用。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "暴力极端主义",
+          "class": "criminal"
+        },
+        {
+          "name": "空间决策",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Justice Quarterly"
+    },
+    {
       "title": "Digital Ethnonationalism",
       "titleCN": "Digital Ethnonationalism",
       "url": "https://pennlawreview.com/2026/11/21/digital-ethnonationalism/",
@@ -10745,11 +10860,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-22T07:13:01.477Z",
+    "updatedAt": "2026-11-23T07:59:05.191Z",
     "generator": "ai",
-    "checkedAt": "2026-11-22T07:13:01.477Z"
+    "checkedAt": "2026-11-23T07:59:05.191Z"
   },
   "digests": [
+    {
+      "date": "2026-11-23",
+      "generatedAt": "2026-11-23T07:59:05.185Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "密苏里州监狱系统更换平板电脑供应商，未强制要求转移囚犯存储的家庭照片、音乐、教育材料与通讯记录，六名被监禁者讲述了即将失去的数字财产。报道揭示监狱数字化服务合同更替中囚犯对数字内容缺乏控制权，涉及正当程序条款下剥夺财产前的程序保障、政府采购合同中的数据迁移义务与通信隐私等法律空白。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories"
+          ],
+          "relevance": "监狱矫正方向，提供监狱数字化管理与囚犯数字权益的素材。"
+        },
+        {
+          "text": "Justice Quarterly 论文以网络连通性与理性选择理论为框架，用实证数据考察暴力极端主义犯罪者在居住地与作案地点之间的空间决策，发现地点选择既受成本收益计算驱动，也受社会网络地理分布约束，网络连通性构成关键调节变量。研究提示反恐干预应关注网络节点而非仅聚焦个体风险评估，并挑战单一理性选择假设。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2719022"
+          ],
+          "relevance": "法律实证研究方法方向，提供社会网络分析与犯罪空间决策模型结合的变量设计思路。"
+        },
+        {
+          "text": "SCOTUSblog 报道指出，最高法院须在1月中旬前授予调卷令，案件才能赶在4月19日开始的最后一个辩论期完成简报。尚待处理的重大申请涉及跨性别军人服役禁令、公立学校教室展示十诫的州法以及预测市场监管，分别触及平等保护、第一修正案政教分离条款与联邦与州监管权限划分。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/five-major-issues-that-may-still-make-it-onto-this-terms-oral-argument-docket/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Penn Law Review 论文以联邦法院与南方围绕种族隔离、选举权的对抗为线索，主张法院的进步或倒退形象取决于其能否控制南方各州边界并约束倒退性政策，据此重新理解司法审查与民主巩固的关系。文章为司法审查、选举权保护与种族平等判例的正当性争论提供长时段分析框架。",
+          "refs": [
+            "https://pennlawreview.com/2026/11/21/federal-courts-and-the-exceptional-south-boundary-control-and-multiracial-democracy/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Lawfare 文章讨论美国大幅削减对阿富汗援助后的法律与人权后果：援助中断削弱了对塔利班的合规压力，阿富汗妇女和儿童权利保障进一步恶化，基层医疗与教育服务受损，国际机构监督履约的能力下降。文章从国际法义务、援助条件性与人道主义中立原则的张力展开论证。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/america-s-second-abandonment-of-afghanistan"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://pennlawreview.com/2026/11/21/federal-courts-and-the-exceptional-south-boundary-control-and-multiracial-democracy/",
+        "https://www.lawfaremedia.org/article/america-s-second-abandonment-of-afghanistan",
+        "https://www.scotusblog.com/2026/11/five-major-issues-that-may-still-make-it-onto-this-terms-oral-argument-docket/",
+        "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories",
+        "https://doi.org/10.1080/07418825.2026.2719022"
+      ]
+    },
     {
       "date": "2026-11-22",
       "generatedAt": "2026-11-22T07:13:01.472Z",
