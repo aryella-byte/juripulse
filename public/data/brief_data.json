@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Alabama’s Chaotic Prisons to Go on Trial",
+      "titleCN": "Alabama’s Chaotic Prisons to Go on Trial",
+      "url": "https://www.themarshallproject.org/2026/11/23/court-alabama-prison-trial-justice",
+      "date": "2026-11-23",
+      "addedAt": "2026-11-24T10:12:15.562Z",
+      "summaryCN": "美国司法部自2019年调查指控阿拉巴马州监狱存在虐待囚犯行为以来，该州监狱系统已有超过1700名在押人员死亡。联邦法院即将对阿拉巴马州监狱的混乱状况进行审判，审查该州是否违反宪法第八修正案禁止残酷和非常刑罚的规定。此案源于司法部提起的民权诉讼，核心争议在于监狱过度拥挤、暴力频发、医疗照护不足等系统性缺陷是否构成违宪的刑罚条件。审判将决定联邦法院是否对州监狱系统下达结构性改革命令，可能涉及接管或强制整改措施。",
+      "summaryEN": "",
+      "whyMattersCN": "该案是美国联邦法院对州监狱系统进行结构性干预的典型宪政争议，直接触及第八修正案禁止残酷刑罚的适用范围与司法救济边界。审判结果可能确立或强化联邦法院在监狱条件违宪时下达禁令、任命特别主管乃至接管监狱系统的权力标准，对州主权与联邦司法监督的平衡产生判例影响。同时，案件凸显大规模监禁下医疗照护与安全监管的制度性失灵，为比较法研究提供监狱治理与囚犯权利保障的司法审查样本，对中国监狱法实施监督与在押人员权利救济机制亦有参照意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "监狱条件",
+          "class": "constitutional"
+        },
+        {
+          "name": "第八修正案",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "The Marshall Project"
+    },
+    {
+      "title": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion",
+      "titleCN": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion",
+      "url": "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-rohingya-inclusion",
+      "date": "2026-11-23",
+      "addedAt": "2026-11-24T10:12:15.562Z",
+      "summaryCN": "该文探讨如何弥合国际法院（ICJ）法庭与罗兴亚难民营之间的鸿沟，使罗兴亚人能够实质参与缅甸种族灭绝案判决的执行。文章指出，尽管ICJ已作出临时措施命令，但罗兴亚难民缺乏法律代表性和参与渠道，难以影响判决实施。作者提出国际社会可采取的具体步骤，包括建立法律赋权机制、支持罗兴亚社区的法律能力建设、以及在国际司法程序中引入受害者参与机制，从而推动罗兴亚人的法律包容。",
+      "summaryEN": "",
+      "whyMattersCN": "本文触及国际法上受害者参与国际司法程序的关键制度空白。ICJ在冈比亚诉缅甸案中虽已发布临时措施，但罗兴亚人作为受益群体却缺乏程序参与权，这暴露了国际法院诉讼中受害者地位的制度缺陷。文章提出的赋权路径对理解国际司法判决的执行机制、受害者法律代表制度以及国际组织在判决实施中的角色具有参考价值。对中国而言，在参与国际争端解决和海外公民权益保护时，如何设计受害者参与和判决执行机制，亦可从中获得比较法启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法院",
+          "class": "international"
+        },
+        {
+          "name": "罗兴亚人",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Lawfare Daily: The Trials of the Trump Administration, November 20",
+      "titleCN": "Lawfare Daily: The Trials of the Trump Administration, November 20",
+      "url": "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-20",
+      "date": "2026-11-23",
+      "addedAt": "2026-11-24T10:12:15.562Z",
+      "summaryCN": "Lawfare播客节目讨论特朗普政府政策相关诉讼的最新进展，参与嘉宾包括Benjamin Wittes、Molly Roberts、Roger Parloff和Anna Bower。节目围绕特朗普第二任期内多项行政政策引发的司法挑战展开，涉及法院对行政命令合法性的审查、程序性争议以及宪政分权问题。讨论涵盖具体案件的最新裁决或诉讼动态，分析法院与行政部门之间的张力，并评估这些诉讼对政策实施和法律先例的潜在影响。",
+      "summaryEN": "",
+      "whyMattersCN": "该节目聚焦特朗普政府政策诉讼，直接涉及美国宪政体制中行政权与司法审查的边界问题。具体案件可能涉及总统行政命令的合法性、程序正义及分权原则，对理解美国宪法第一条第、第二条及第三条的权力配置具有参考价值。对中国比较法研究而言，可观察普通法系下法院如何审查行政行为的合宪性，以及临时禁令、司法克制等原则的适用。此外，节目对诉讼策略和判例发展的分析，有助于评估美国政策法律风险及跨国合规影响。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "特朗普政府诉讼",
+          "class": "constitutional"
+        },
+        {
+          "name": "宪政分权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 7,
+      "source": "Lawfare"
+    },
+    {
       "title": "America’s Second Abandonment of Afghanistan",
       "titleCN": "America’s Second Abandonment of Afghanistan",
       "url": "https://www.lawfaremedia.org/article/america-s-second-abandonment-of-afghanistan",
@@ -6902,6 +6971,52 @@
   ],
   "research": [
     {
+      "title": "What Sustainability Disclosures Disclose",
+      "titleCN": "What Sustainability Disclosures Disclose",
+      "url": "https://doi.org/10.1111/jels.70048",
+      "date": "2026-11-22",
+      "addedAt": "2026-11-24T10:12:26.864Z",
+      "summaryCN": "本文研究可持续性披露的实际内容及自愿性报告框架的作用。针对披露缺乏可信度与可比性的批评，论文首次系统考察企业自愿采用的非营利组织与公司主导的披露框架究竟包含哪些信息，以及这些自愿工具是否有效改善披露质量。研究填补了监管辩论中关于披露内容基本事实的空白，为强制性披露规则的设计提供实证基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该文对可持续性披露的实证考察具有重要制度意义：欧盟企业可持续发展报告指令（CSRD）与美国SEC气候披露规则均以自愿框架（如GRI、SASB、TCFD）为基础，但学界与监管者长期缺乏对披露内容与自愿工具实效的系统评估。论文为强制性披露规则的校准、防止绿色漂洗及提升可比性提供经验证据，对中国企业可持续披露准则的制定与ESG监管亦具比较法启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "可持续性披露",
+          "class": "constitutional"
+        },
+        {
+          "name": "ESG监管",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "A structured reasoning framework for auditable traffic-crash liability adjudication with large language models",
+      "titleCN": "A structured reasoning framework for auditable traffic-crash liability adjudication with large language models",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09542-5",
+      "date": "2026-10-15",
+      "addedAt": "2026-11-24T10:12:26.864Z",
+      "summaryCN": "该论文针对交通事故责任认定依赖专家解读非结构化叙述、耗时且通用大语言模型输出难以审计的问题，提出 Law-CoT 两阶段框架，从叙述描述生成有证据支撑且可审计的责任评估。框架植根于民法责任分析，具备三项核心属性：通过程序化门控强制当事人特定的过错到因果关系依赖顺序推理，以及可审计性等。论文展示了结构化多步法律推理与 LLM 结合在司法认定中的应用进展。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对交通事故责任认定的智能化与可审计性具有直接制度意义：中国道交法及侵权责任编强调过错与因果关系的分层判断，Law-CoT 的程序化门控设计可为交警认定、保险理赔与司法裁判提供可追溯的推理链条，回应算法决策的可解释性要求。研究方法上，将民法教义学拆解为可执行步骤并与 LLM 结合，为法律 AI 的可审计性评估提供新范式，亦对比较法上自动化行政与司法辅助的正当程序讨论有启发。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律人工智能",
+          "class": "tech"
+        },
+        {
+          "name": "交通事故责任",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
       "title": "Federal Courts and the Exceptional South: Boundary Control and Multiracial Democracy",
       "titleCN": "Federal Courts and the Exceptional South: Boundary Control and Multiracial Democracy",
       "url": "https://pennlawreview.com/2026/11/21/federal-courts-and-the-exceptional-south-boundary-control-and-multiracial-democracy/",
@@ -10860,11 +10975,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-23T07:59:05.191Z",
+    "updatedAt": "2026-11-24T10:12:42.804Z",
     "generator": "ai",
-    "checkedAt": "2026-11-23T07:59:05.191Z"
+    "checkedAt": "2026-11-24T10:12:42.804Z"
   },
   "digests": [
+    {
+      "date": "2026-11-24",
+      "generatedAt": "2026-11-24T10:12:42.798Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国司法部就阿拉巴马州监狱条件提起的民权诉讼即将进入审判，法院将审查过度拥挤、暴力频发与医疗照护不足等系统性缺陷是否构成第八修正案禁止的残酷和非常刑罚。自2019年调查以来该州监狱已有逾1700名在押人员死亡。审判可能决定联邦法院是否下达结构性改革命令，涉及接管或强制整改。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/23/court-alabama-prison-trial-justice"
+          ],
+          "relevance": "监狱与矫正方向：提供监狱条件违宪审查与结构性救济的材料。"
+        },
+        {
+          "text": "Law-CoT 两阶段框架从交通事故叙述生成有证据支撑且可审计的责任评估，按当事人特定的过错到因果关系顺序进行程序化门控推理，以解决通用大语言模型输出难以审计的问题。该设计回应了算法决策的可解释性要求，为交警认定、保险理赔与司法裁判提供可追溯的推理链条。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09542-5"
+          ],
+          "relevance": "人工智能与法律判断方向：提供结构化推理与可审计性的方法样本。"
+        },
+        {
+          "text": "研究首次系统考察企业自愿采用的非营利组织与公司主导的可持续性披露框架究竟包含哪些信息，以及这些自愿工具是否改善披露质量，填补了监管辩论中关于披露内容基本事实的空白，为强制性披露规则的设计提供实证基础。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70048"
+          ],
+          "relevance": "法律实证研究方法方向：提供披露内容与自愿工具实效的实证评估设计。"
+        },
+        {
+          "text": "文章讨论如何弥合国际法院法庭与罗兴亚难民营之间的鸿沟，指出ICJ虽已作出临时措施命令，但罗兴亚难民缺乏法律代表性和参与渠道，难以影响判决执行；作者提出建立法律赋权机制、支持社区法律能力建设及在国际司法程序中引入受害者参与机制。",
+          "refs": [
+            "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-rohingya-inclusion"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "Lawfare播客讨论特朗普政府政策相关诉讼的最新进展，涉及法院对行政命令合法性的审查、程序性争议与宪政分权问题，分析法院与行政部门之间的张力，并评估诉讼对政策实施和法律先例的潜在影响。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-20"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.themarshallproject.org/2026/11/23/court-alabama-prison-trial-justice",
+        "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-rohingya-inclusion",
+        "https://doi.org/10.1111/jels.70048",
+        "https://link.springer.com/article/10.1007/s10506-026-09542-5",
+        "https://www.lawfaremedia.org/article/lawfare-daily--the-trials-of-the-trump-administration--november-20"
+      ]
+    },
     {
       "date": "2026-11-23",
       "generatedAt": "2026-11-23T07:59:05.185Z",
