@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Supreme Court defers decision on whether to dismiss major gun case",
+      "titleCN": "Supreme Court defers decision on whether to dismiss major gun case",
+      "url": "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/",
+      "date": "2026-11-24",
+      "addedAt": "2026-11-25T08:57:36.404Z",
+      "summaryCN": "美国最高法院原定审理两起挑战AR-15式半自动步枪禁令合宪性的案件，但在口头辩论前一周，法院以简短不署名命令推迟决定是否因库克县主张案件已无实际争议而驳回。此前一天法院已批准主要原告退出案件的请求。法院表示将把该裁决推迟至12月2日口头辩论时处理。案件争议焦点在于伊利诺伊州步枪禁令是否因原告变动而丧失可诉性，以及法院是否应在实体审理前解决程序性驳回请求。",
+      "summaryEN": "",
+      "whyMattersCN": "该案涉及美国宪法第二修正案对攻击性武器禁令的审查标准，是继纽约州步枪协会案后最重要的枪支管制判例。法院推迟程序性裁决意味着可能直接在口头辩论中处理可诉性问题，影响未来类似枪支诉讼的立案与审理节奏。对中国法而言，虽无直接对应制度，但美国法院对程序性驳回与实体审理顺序的处理，为比较法上研究司法审查时机、诉讼要件与公益诉讼原告资格提供了素材，也提示监管禁令面临合宪性挑战时的司法应对路径。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "枪支管制",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Could This Be the End of Bivens?",
+      "titleCN": "Could This Be the End of Bivens?",
+      "url": "https://www.justsecurity.org/165502/bivens-supreme-court-government-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=bivens-supreme-court-government-accountability",
+      "date": "2026-11-24",
+      "addedAt": "2026-11-25T08:57:36.404Z",
+      "summaryCN": "本文讨论美国联邦最高法院可能进一步限缩Bivens诉六名未知联邦缉毒局特工案所确立的联邦官员违宪行为私人损害赔偿救济。Bivens体系长期允许受害人对联邦官员提起宪法侵权诉讼，但近几十年法院持续收紧适用情形。文章指出，若法院彻底关闭该救济通道，恢复联邦政府对官员违宪行为的问责将只能依靠国会立法，并梳理了相关判例脉络与立法替代方案。",
+      "summaryEN": "",
+      "whyMattersCN": "Bivens救济是美国联邦层面宪法权利执行的核心机制之一，其存废直接影响联邦官员违宪行为的可诉性与问责结构。若该判例被实质推翻，联邦宪法侵权救济将回归国会立法裁量，涉及主权豁免、官方责任与权利救济体系的重构。对中国比较法研究而言，该议题提供了公权力侵权赔偿中司法造法与立法保留关系的典型样本，也有助于观察宪法权利私法化执行的制度边界与替代机制设计。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "Bivens原则",
+          "class": "constitutional"
+        },
+        {
+          "name": "联邦官员问责",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Just Security"
+    },
+    {
+      "title": "Supreme Court considers whether bans on semiautomatic rifles violate Second Amendment",
+      "titleCN": "Supreme Court considers whether bans on semiautomatic rifles violate Second Amendment",
+      "url": "https://www.abajournal.com/web/article/supreme-court-considers-whether-bans-on-semiautomatic-rifles-violate-2nd-amendment/",
+      "date": "2026-11-24",
+      "addedAt": "2026-11-25T08:57:36.404Z",
+      "summaryCN": "美国最高法院正审议半自动步枪禁令是否违反第二修正案。此前2025年6月，法院拒绝受理挑战马里兰州AR-15禁令的案件，但有三名大法官持异议。本案核心在于厘清第二修正案对攻击性武器禁令的审查标准，涉及历史传统测试的适用边界。最新进展显示法院可能就此议题形成新的判例规则，影响各州类似禁令的合宪性判断。",
+      "summaryEN": "",
+      "whyMattersCN": "本案直接触及第二修正案对武器类型限制的宪法边界，可能重塑布鲁恩案确立的历史传统审查框架在攻击性武器禁令中的适用方式。若法院收紧审查标准，将影响加州、纽约等州类似禁令的存续；若维持宽松立场，则强化州级枪支监管空间。对中国比较法研究而言，此案展示了宪法权利与公共安全立法间的司法平衡技术，为武器管控的合宪性审查提供参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "第二修正案",
+          "class": "constitutional"
+        },
+        {
+          "name": "枪支管制",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Alabama’s Chaotic Prisons to Go on Trial",
       "titleCN": "Alabama’s Chaotic Prisons to Go on Trial",
       "url": "https://www.themarshallproject.org/2026/11/23/court-alabama-prison-trial-justice",
@@ -6971,6 +7040,52 @@
   ],
   "research": [
     {
+      "title": "Who, Not How Many? A Risk Hierarchy of Population Composition and Population-Crime Profiles of Urban Points of Interest",
+      "titleCN": "Who, Not How Many? A Risk Hierarchy of Population Composition and Population-Crime Profiles of Urban Points of Interest",
+      "url": "https://doi.org/10.1080/07418825.2026.2757499",
+      "date": "2026-11-20",
+      "addedAt": "2026-11-25T08:57:47.260Z",
+      "summaryCN": "该论文以城市兴趣点（POI）为分析单元，追问人口构成与人口-犯罪剖面之间的关联，而非仅关注人口规模。作者构建风险层级框架，将人口异质性、年龄结构、流动性与POI类型纳入同一解释模型，检验不同人口组合如何对应差异化犯罪风险。研究发现人口构成比人口数量更能解释POI犯罪分布的差异，且特定人口组合与特定犯罪类型形成稳定匹配。论文推进了犯罪地理学与环境犯罪学从数量维度向构成维度的转向，为城市安全治理提供精细化分析工具。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对犯罪学与环境设计预防犯罪（CPTED）制度具有直接启发：城市治安资源分配长期以人口总量或警力配比为核心指标，本文提示应转向人口构成与场所类型的交互风险评估，可推动警务辖区划分、POI规划审批与安全审计标准的精细化。在研究方法上，其风险层级框架为国内城市犯罪热点研究提供了可迁移的分析路径，尤其适用于流动人口密集城区的差异化治理。比较法层面，该框架可与我国社会治安综合治理中的重点地区排查制度对接，但需注意人口构成变量在不同户籍与流动制度背景下的可比性限制。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "犯罪地理学",
+          "class": "criminal"
+        },
+        {
+          "name": "人口构成",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Justice Quarterly"
+    },
+    {
+      "title": "Minimal Intervention in the Criminal Justice System: The Effect of Prosecution Deferrals On Youth Recidivism",
+      "titleCN": "Minimal Intervention in the Criminal Justice System: The Effect of Prosecution Deferrals On Youth Recidivism",
+      "url": "https://link.springer.com/article/10.1007/s10940-026-09688-0",
+      "date": "2026-09-08",
+      "addedAt": "2026-11-25T08:57:47.260Z",
+      "summaryCN": "该研究以瑞典检察官决策转向为自然实验，用双重差分法检验以起诉延期替代低额罚金对青少年再犯的影响。改革大幅提升起诉延期适用率、减少低额罚金，再犯以再次逮捕和再次定罪双重指标测量。论文聚焦刑事司法最小干预原则，评估替代性处置能否降低青少年再犯，并考察异质性效应，为罚金刑改革与转向处分的效果提供因果证据。",
+      "summaryEN": "",
+      "whyMattersCN": "论文直接回应青少年司法中罚金仍占主导的现实，以准实验设计评估起诉延期替代罚金的再犯效果，对最小干预原则的实证检验具有比较法价值。其方法上利用检察决策外生变化构造双重差分，可为中国未成年人附条件不起诉、罚金刑适用与转向处分改革提供因果识别借鉴。研究亦提示制度设计需关注再犯测量口径与异质性，避免以单一指标评价转向处分成效，对检察裁量规范化与少年司法政策评估有参考意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "青少年司法",
+          "class": "criminal"
+        },
+        {
+          "name": "起诉延期",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Quantitative Criminology"
+    },
+    {
       "title": "What Sustainability Disclosures Disclose",
       "titleCN": "What Sustainability Disclosures Disclose",
       "url": "https://doi.org/10.1111/jels.70048",
@@ -10975,11 +11090,54 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-24T10:12:42.804Z",
+    "updatedAt": "2026-11-25T08:58:07.693Z",
     "generator": "ai",
-    "checkedAt": "2026-11-24T10:12:42.804Z"
+    "checkedAt": "2026-11-25T08:58:07.693Z"
   },
   "digests": [
+    {
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T08:58:07.684Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院推迟决定是否驳回两起挑战AR-15式半自动步枪禁令合宪性的案件，将程序性争议留待12月2日口头辩论处理；此前已批准主要原告退出。案件争点在于原告变动是否使诉讼丧失可诉性，以及法院应在实体审理前还是辩论中解决驳回请求。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/",
+            "https://www.abajournal.com/web/article/supreme-court-considers-whether-bans-on-semiautomatic-rifles-violate-2nd-amendment/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "有评论指出，美国联邦最高法院可能进一步限缩Bivens案确立的联邦官员违宪行为私人损害赔偿救济，若该通道关闭，问责将转由国会立法承担。该议题涉及主权豁免、官方责任与宪法权利救济体系的结构调整。",
+          "refs": [
+            "https://www.justsecurity.org/165502/bivens-supreme-court-government-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=bivens-supreme-court-government-accountability"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "一项以瑞典检察官决策转向为自然实验的研究，用双重差分法检验以起诉延期替代低额罚金对青少年再犯的影响，再犯以再次逮捕和再次定罪双重指标测量，并考察异质性效应。研究为附条件不起诉与转向处分的再犯效果评估提供因果识别设计。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10940-026-09688-0"
+          ],
+          "relevance": "属量刑与刑罚方向，提供转向处分替代罚金的因果评估材料。"
+        },
+        {
+          "text": "一项以城市兴趣点为分析单元的研究发现，人口构成比人口数量更能解释犯罪风险分布差异，特定人口组合与特定犯罪类型形成稳定匹配。作者构建风险层级框架，将人口异质性、年龄结构、流动性与场所类型纳入同一模型，提示治安资源分配应从人口总量转向构成与场所类型的交互评估。",
+          "refs": [
+            "https://doi.org/10.1080/07418825.2026.2757499"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/",
+        "https://www.justsecurity.org/165502/bivens-supreme-court-government-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=bivens-supreme-court-government-accountability",
+        "https://www.abajournal.com/web/article/supreme-court-considers-whether-bans-on-semiautomatic-rifles-violate-2nd-amendment/",
+        "https://link.springer.com/article/10.1007/s10940-026-09688-0",
+        "https://doi.org/10.1080/07418825.2026.2757499"
+      ]
+    },
     {
       "date": "2026-11-24",
       "generatedAt": "2026-11-24T10:12:42.798Z",
