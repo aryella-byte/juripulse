@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Justices to consider whether noncitizens who lose asylum status may still obtain green cards",
+      "titleCN": "Justices to consider whether noncitizens who lose asylum status may still obtain green cards",
+      "url": "https://www.scotusblog.com/2026/11/justices-to-consider-whether-noncitizens-who-lose-asylum-status-may-still-obtain-green-cards/",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-26T08:42:52.354Z",
+      "summaryCN": "美国最高法院将审理Wassily v. Blanche案，核心问题是庇护保护被终止的非公民是否仍有资格申请合法永久居民身份（绿卡）。该案涉及《移民与国籍法》中庇护身份终止后的身份调整规则，挑战者主张终止庇护不应自动剥夺绿卡申请资格。口头辩论定于周一进行，判决将影响大量非公民的移民路径，并可能重塑特朗普政府缩减庇护政策的实施边界。",
+      "summaryEN": "",
+      "whyMattersCN": "该案直接触及美国移民法中庇护身份与永久居民身份调整之间的制度衔接，涉及《移民与国籍法》第209条和第245条的解释。若最高法院限缩终止庇护者的绿卡资格，将强化行政机构在移民身份链中的裁量权，并可能影响数十万已获庇护但面临终止程序的非公民。对中国法而言，该案提供了比较法视角下难民保护与永久居留资格脱钩的制度设计参考，也提示我国在难民身份认定与居留许可衔接上需明确法律后果，避免身份状态变动引发权利真空。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "international"
+        },
+        {
+          "name": "移民法",
+          "class": "international"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "10th Circuit addresses AI hallucinations with new human fact-check rule",
+      "titleCN": "10th Circuit addresses AI hallucinations with new human fact-check rule",
+      "url": "https://www.abajournal.com/news/article/10th-circuit-addresses-ai-hallucinations-with-new-fact-check-rule/",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-26T08:42:52.354Z",
+      "summaryCN": "美国第十巡回上诉法院于2026年11月发布新规，要求对所有使用人工智能辅助生成的法庭文件进行强制性人工事实核查，以应对AI幻觉（即模型编造虚假判例或引文）带来的司法风险。该规则要求律师或当事人提交AI辅助文件时须声明已由人工逐项核实内容真实性，并保留核查记录。这是联邦上诉法院首次以成文规则形式对AI生成内容设置程序性审查义务，标志着司法系统从个案警示转向制度化防控。新规已生效，具体执行细节由各巡回法院书记官办公室监督。",
+      "summaryEN": "",
+      "whyMattersCN": "该规则创设了联邦上诉层面的AI文件人工核查程序义务，将律师执业责任与法庭准入规则直接挂钩，可能推动其他巡回法院及州法院效仿。其制度意义在于：一是明确AI幻觉风险由提交方承担，而非由法院事后筛查；二是通过声明与记录要求形成可追责的证据链，强化律师对AI输出的实质审查义务。对中国法而言，可借鉴其将AI使用披露与人工核验义务嵌入诉讼程序的思路，完善民事诉讼中电子证据与AI辅助文书的真实性审查规则，并启发司法行政部门对律师使用AI的执业规范作出细化。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "AI幻觉",
+          "class": "tech"
+        },
+        {
+          "name": "法庭文件审查",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 8,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "The Justice Department’s Abandoned Frog Embryo Smuggling Case",
+      "titleCN": "The Justice Department’s Abandoned Frog Embryo Smuggling Case",
+      "url": "https://www.lawfaremedia.org/article/the-justice-department-s-abandoned-frog-embryo-smuggling-case",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-26T08:42:52.354Z",
+      "summaryCN": "一名俄罗斯出生的哈佛科学家与至少三名其他被告一起，在特朗普第二任期内就报复性起诉提出了表面证据。该案涉及司法部放弃的青蛙胚胎走私指控，核心争议在于检方是否因被告行使宪法权利或政治表达而选择性起诉。最新进展是被告方已初步证明起诉具有报复动机，法院将审查检方内部通讯等证据。此案触及宪法正当程序与检察裁量权边界。",
+      "summaryEN": "",
+      "whyMattersCN": "该案为报复性起诉抗辩提供了罕见的事实认定样本，涉及宪法第五修正案正当程序条款对检察裁量权的约束。法院对检方内部动机的审查标准、表面证据的构成要件，以及特朗普第二任期司法部起诉模式的合宪性，均可能形成先例。对中国法而言，可比较检察监督与当事人程序性救济机制，启发对选择性执法司法审查的讨论。同时涉及行政权与司法权张力及科研人员跨境法律风险。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "报复性起诉",
+          "class": "constitutional"
+        },
+        {
+          "name": "检察裁量权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "Lawfare"
+    },
+    {
       "title": "Supreme Court defers decision on whether to dismiss major gun case",
       "titleCN": "Supreme Court defers decision on whether to dismiss major gun case",
       "url": "https://www.scotusblog.com/2026/11/supreme-court-defers-decision-on-whether-to-dismiss-major-gun-case/",
@@ -7040,6 +7109,52 @@
   ],
   "research": [
     {
+      "title": "Generative Discourse Parsing for Indian Law",
+      "titleCN": "Generative Discourse Parsing for Indian Law",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09544-3",
+      "date": "2026-10-01",
+      "addedAt": "2026-11-26T08:43:04.456Z",
+      "summaryCN": "印度法律文本常在单一语句中同时编码多项义务、条件、例外与时间约束，传统信息抽取技术难以处理。论文提出生成式框架LeGen，通过话语启发的层次化从句表示，将复杂法律语句分解为可揭示内部组织与语义关系的结构。针对印度法律话语标注语料稀缺、监督式话语解析受限的问题，该工作探索生成式方法以降低对标注数据的依赖，为法律文本结构化处理提供新路径。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对法律信息抽取与法律人工智能具有方法贡献：印度法语句的多义务、条件与例外嵌套是成文法解释和合规自动化的核心难点，LeGen的层次化从句分解有助于提升法律规则的可计算性。对中国法而言，成文法条同样存在条件、例外与时间约束密集的特点，该生成式话语解析思路可启发中文法律文本的规则结构化、合规审查与裁判说理辅助系统建设，并推动比较法视野下法律话语标注资源与解析方法的跨法系迁移研究。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "法律信息抽取",
+          "class": "tech"
+        },
+        {
+          "name": "话语解析",
+          "class": "tech"
+        }
+      ],
+      "quality_score": 7,
+      "journal": "Artificial Intelligence and Law"
+    },
+    {
+      "title": "Probation Without a Home: How Probation Maintains Barriers to Successful Completion While Homeless",
+      "titleCN": "Probation Without a Home: How Probation Maintains Barriers to Successful Completion While Homeless",
+      "url": "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/4",
+      "date": "2026-01-07",
+      "addedAt": "2026-11-26T08:43:04.456Z",
+      "summaryCN": "本文以 Grants Pass v. Johnson 判决后对无家可归者刑事定罪的关注为背景，聚焦常被忽视的缓刑制度。论文指出美国缓刑与假释人数约为在押人数三倍，缓刑常被视为监禁替代，但对无家可归者而言，缓刑的居住稳定要求、报到与费用等条件反而制造并维持完成障碍。文章分析缓刑如何以看似中性的监管条件将无家可归状态转化为违规与撤销缓刑的风险，揭示社区监督与住房政策交叉处的制度性排斥。",
+      "summaryEN": "",
+      "whyMattersCN": "论文将 Grants Pass 判决引发的街头定罪讨论延伸至社区监督领域，填补缓刑条件与无家可归交叉的研究空白。其价值在于揭示居住地址、稳定就业与费用缴纳等中性缓刑条件如何对无家可归者形成结构性障碍，并可能推动撤销缓刑与再监禁。对中国社区矫正研究亦有比较法启发：居住地与报到条件对流动或无固定居所人员的影响、监督条件与基本生存保障的张力，以及如何避免监督措施实质加重弱势群体负担。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "缓刑",
+          "class": "criminal"
+        },
+        {
+          "name": "无家可归",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Criminal Law & Criminology"
+    },
+    {
       "title": "Who, Not How Many? A Risk Hierarchy of Population Composition and Population-Crime Profiles of Urban Points of Interest",
       "titleCN": "Who, Not How Many? A Risk Hierarchy of Population Composition and Population-Crime Profiles of Urban Points of Interest",
       "url": "https://doi.org/10.1080/07418825.2026.2757499",
@@ -11090,11 +11205,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-25T08:58:07.693Z",
+    "updatedAt": "2026-11-26T08:43:23.161Z",
     "generator": "ai",
-    "checkedAt": "2026-11-25T08:58:07.693Z"
+    "checkedAt": "2026-11-26T08:43:23.161Z"
   },
   "digests": [
+    {
+      "date": "2026-11-26",
+      "generatedAt": "2026-11-26T08:43:23.155Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国第十巡回上诉法院发布新规，要求对使用人工智能辅助生成的法庭文件进行强制性人工事实核查，提交方须声明已逐项核实并保留记录，以应对AI编造判例或引文的风险。该规则将AI幻觉风险分配给提交方，把律师执业责任与法庭准入程序挂钩。",
+          "refs": [
+            "https://www.abajournal.com/news/article/10th-circuit-addresses-ai-hallucinations-with-new-fact-check-rule/"
+          ],
+          "relevance": "涉及AI生成内容进入法律判断时的核验义务，可为AI辅助司法文书的程序控制提供材料。"
+        },
+        {
+          "text": "论文以Grants Pass v. Johnson判决后对无家可归者的刑事定罪讨论为背景，聚焦缓刑制度：美国缓刑与假释人数约为在押人数三倍，而居住稳定要求、报到与费用等条件对无家可归者构成完成障碍，并可能引发违规与撤销缓刑。",
+          "refs": [
+            "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/4"
+          ],
+          "relevance": "涉及缓刑条件与撤销机制对弱势群体的实际效果，属量刑与刑罚执行及矫正研究方向。"
+        },
+        {
+          "text": "论文提出生成式框架LeGen，针对印度法律文本中单句同时包含多项义务、条件、例外与时间约束的特点，以话语启发的层次化从句表示分解语句，并探索降低对标注数据依赖的生成式话语解析路径。",
+          "refs": [
+            "https://link.springer.com/article/10.1007/s10506-026-09544-3"
+          ],
+          "relevance": "属AI用于法律文本结构化与规则计算的方法研究，可为法律判断的自动化提供技术材料。"
+        },
+        {
+          "text": "美国最高法院将审理Wassily v. Blanche案，审查庇护保护被终止的非公民是否仍有资格申请合法永久居民身份，涉及《移民与国籍法》中庇护身份终止与身份调整规则的衔接，口头辩论定于周一。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/justices-to-consider-whether-noncitizens-who-lose-asylum-status-may-still-obtain-green-cards/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "在司法部放弃的青蛙胚胎走私案中，一名俄罗斯出生的哈佛科学家与其他被告就报复性起诉提出表面证据，法院将审查检方内部通讯等证据，争议在于检方是否因被告行使宪法权利或政治表达而选择性起诉。",
+          "refs": [
+            "https://www.lawfaremedia.org/article/the-justice-department-s-abandoned-frog-embryo-smuggling-case"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/justices-to-consider-whether-noncitizens-who-lose-asylum-status-may-still-obtain-green-cards/",
+        "https://www.abajournal.com/news/article/10th-circuit-addresses-ai-hallucinations-with-new-fact-check-rule/",
+        "https://www.lawfaremedia.org/article/the-justice-department-s-abandoned-frog-embryo-smuggling-case",
+        "https://scholarlycommons.law.northwestern.edu/jclc/vol115/iss4/4",
+        "https://link.springer.com/article/10.1007/s10506-026-09544-3"
+      ]
+    },
     {
       "date": "2026-11-25",
       "generatedAt": "2026-11-25T08:58:07.684Z",
