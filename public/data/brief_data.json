@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "Court to hear argument on whether school employees may bring suit under Title IX",
+      "titleCN": "Court to hear argument on whether school employees may bring suit under Title IX",
+      "url": "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-school-employees-may-bring-suit-under-title-ix/",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-27T08:55:01.123Z",
+      "summaryCN": "美国最高法院将于2026年11月30日就Title IX是否允许学校雇员提起性别歧视诉讼进行口头辩论。争议核心在于：Title IX禁止接受联邦资助的学校实施性别歧视，但未明确雇员是否享有私人诉权；而Title VII专门为就业性别歧视提供救济，却设有Title IX没有的限制条件。寻求依据Title IX起诉的雇员将面对一个日益不愿允许私人原告提起诉讼的法院。",
+      "summaryEN": "",
+      "whyMattersCN": "本案将决定Title IX的私人诉权范围是否延伸至学校雇员，直接影响联邦资助教育机构中就业歧视的救济路径选择。若法院否定雇员依Title IX起诉，则Title VII的行政前置程序、损害赔偿上限等限制将全面适用，改变教育领域就业歧视的诉讼格局。该案还涉及最高法院对私人诉权默示认定的整体态度，对行政法上私人执行联邦资助条件、以及中国法上事业单位人员就业歧视救济途径的比较研究具有参考价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "Title IX",
+          "class": "constitutional"
+        },
+        {
+          "name": "私人诉权",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "In The Gambia v. Myanmar, the ICJ Links Statelessness to Genocide – But Stops Short of Requiring Citizenship for all Members of the Rohingya Group",
+      "titleCN": "In The Gambia v. Myanmar, the ICJ Links Statelessness to Genocide – But Stops Short of Requiring Citizenship for all Members of the Rohingya Group",
+      "url": "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-27T08:55:01.123Z",
+      "summaryCN": "国际法院在冈比亚诉缅甸案中首次就无国籍人权利发表意见，认定缅甸对罗兴亚人的系统性剥夺国籍行为与种族灭绝之间存在关联，但未要求缅甸必须给予罗兴亚群体所有成员公民身份。该裁决将无国籍状态纳入种族灭绝公约的审查框架，标志着国际法院在种族灭绝认定中对结构性歧视与身份剥夺的考量进一步深化，同时回避了公民身份作为完全救济措施的硬性要求。",
+      "summaryEN": "",
+      "whyMattersCN": "该裁决在国际法上首次将无国籍状态与种族灭绝公约下的国家责任直接挂钩，为种族灭绝的认定提供了新的结构性歧视维度，可能影响未来国际法院及国内法院对类似群体性剥夺身份案件的审查标准。其未强制要求授予公民身份，留下救济措施与主权裁量之间的张力，对少数群体保护、国籍法改革及国际人权诉讼策略具有比较法启发，尤其对中国处理国籍与民族政策相关国际法义务的讨论提供参照。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国际法院",
+          "class": "international"
+        },
+        {
+          "name": "种族灭绝",
+          "class": "international"
+        }
+      ],
+      "quality_score": 9,
+      "source": "Just Security"
+    },
+    {
+      "title": "Former Epstein lawyer publicly censured over antisemitic slurs, aggression at courthouse protest",
+      "titleCN": "Former Epstein lawyer publicly censured over antisemitic slurs, aggression at courthouse protest",
+      "url": "https://www.abajournal.com/news/article/ny-lawyer-publicly-censured-over-antisemitic-slurs-physical-aggression-during-courthouse-demonstration/",
+      "date": "2026-11-23",
+      "addedAt": "2026-11-27T08:55:01.123Z",
+      "summaryCN": "纽约曼哈顿法院外一场支持巴勒斯坦的示威活动中，一名曾为爱泼斯坦案辩护的律师对示威者实施肢体攻击并发表反犹言论。纽约州上诉法院第一司法部律师纪律委员会经调查后对其作出公开谴责处分。该处分认定其行为违反《纽约州律师职业行为规则》第8.4条关于不当行为的规定，损害司法职业声誉。公开谴责虽非停牌或除名，但会记录在律师纪律档案中，并可能影响其未来执业审查。此案凸显律师在法庭外行使言论自由与遵守职业行为规范之间的边界。",
+      "summaryEN": "",
+      "whyMattersCN": "本案涉及律师职业行为规则在法庭外政治表达场景中的适用边界。纽约州《律师职业行为规则》第8.4条禁止律师从事损害司法公正或职业声誉的不当行为，纪律委员会将公开场合的仇恨言论与肢体攻击认定为可惩戒行为，强化了律师作为司法系统成员在公共场域的行为标准。该处分虽轻，但为类似案件提供先例：律师以政治表达为由抗辩时，纪律机构仍可依据职业规范追责。对中国而言，可比较律师执业行为规范中关于庭外言论与职业声誉的条款，思考如何在保障表达自由与维护职业伦理之间设定合理边界，并关注纪律处分的比例原则与程序保障。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业行为",
+          "class": ""
+        },
+        {
+          "name": "纪律处分",
+          "class": ""
+        }
+      ],
+      "quality_score": 7,
+      "source": "ABA Journal"
+    },
+    {
       "title": "Justices to consider whether noncitizens who lose asylum status may still obtain green cards",
       "titleCN": "Justices to consider whether noncitizens who lose asylum status may still obtain green cards",
       "url": "https://www.scotusblog.com/2026/11/justices-to-consider-whether-noncitizens-who-lose-asylum-status-may-still-obtain-green-cards/",
@@ -7109,6 +7178,52 @@
   ],
   "research": [
     {
+      "title": "Using Claim Resolution Facilities to Resuscitate Mass Tort Justice",
+      "titleCN": "Using Claim Resolution Facilities to Resuscitate Mass Tort Justice",
+      "url": "https://nyulawreview.org/issues/volume-101-number-4/using-claim-resolution-facilities-to-resuscitate-mass-tort-justice/",
+      "date": "2026-10-30",
+      "addedAt": "2026-11-27T08:55:15.366Z",
+      "summaryCN": "针对石棉暴露、阿片类药物成瘾等大规模人身侵权诉讼导致的案件积压、诉讼拖延与受害者索赔落空问题，本文系统论证以索赔解决设施（Claim Resolution Facilities）作为替代性赔偿分配机制。文章分析此类设施在集中处理大规模侵权索赔、降低被告财务不确定性及加速赔付方面的制度优势，并探讨其与司法审查、程序正义的衔接规则，主张通过制度化设计复兴大规模侵权正义。",
+      "summaryEN": "",
+      "whyMattersCN": "本文为大规模侵权赔偿机制提供重要制度创新思路，涉及替代性纠纷解决、集体赔偿基金与司法监督的边界。对中国法而言，可启发产品责任、环境侵权及药品致害等领域群体性索赔的集中处理规则设计，尤其对建立行政主导的赔偿基金与司法确认衔接机制具有比较法参考价值。文章亦触及程序正义与索赔效率的平衡，对完善多元化纠纷解决体系有直接借鉴意义。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "大规模侵权",
+          "class": ""
+        },
+        {
+          "name": "索赔解决设施",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "NYU Law Review"
+    },
+    {
+      "title": "The Miscalculation of Corporate DEI Risk",
+      "titleCN": "The Miscalculation of Corporate DEI Risk",
+      "url": "https://pennlawreview.com/2026/11/21/the-miscalculation-of-corporate-dei-risk/",
+      "date": "2026-11-21",
+      "addedAt": "2026-11-27T08:55:15.366Z",
+      "summaryCN": "本文考察企业DEI（多元、公平与包容）实践在2020年弗洛伊德事件后迅速扩张、又在短期内急剧逆转的现象，指出企业普遍低估了DEI举措所蕴含的法律与政治风险。文章分析企业将DEI纳入内部治理与用工管理时面临的多重法律暴露，包括反向歧视诉讼、股东诉讼与州级立法反弹，论证企业风险计算存在系统性偏差，并提出更审慎的合规与治理框架。",
+      "summaryEN": "",
+      "whyMattersCN": "论文直接回应美国企业DEI退潮中的核心法律问题：在Students for Fair Admissions v. Harvard案后，私营部门平权措施面临反向歧视诉讼风险上升，同时多州通过限制DEI的立法，企业需在联邦民权法、州法与股东受托义务之间重新校准。其风险计算框架对中国企业出海合规、ESG治理中的多元化政策设计及比较公司法研究具有参考价值，也提示监管套利与董事会监督责任的分析路径。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "企业治理",
+          "class": "constitutional"
+        },
+        {
+          "name": "DEI",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "Penn Law Review"
+    },
+    {
       "title": "Generative Discourse Parsing for Indian Law",
       "titleCN": "Generative Discourse Parsing for Indian Law",
       "url": "https://link.springer.com/article/10.1007/s10506-026-09544-3",
@@ -11205,11 +11320,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-26T08:43:23.161Z",
+    "updatedAt": "2026-11-27T08:55:36.376Z",
     "generator": "ai",
-    "checkedAt": "2026-11-26T08:43:23.161Z"
+    "checkedAt": "2026-11-27T08:55:36.376Z"
   },
   "digests": [
+    {
+      "date": "2026-11-27",
+      "generatedAt": "2026-11-27T08:55:36.369Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "美国最高法院将就Title IX是否允许学校雇员提起性别歧视诉讼进行口头辩论。争议在于Title IX禁止联邦资助学校性别歧视但未明确雇员私人诉权，而Title VII专为就业歧视提供救济却设有更多限制。若法院否定雇员依Title IX起诉，教育领域就业歧视救济将全面适用Title VII的行政前置与赔偿上限。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-school-employees-may-bring-suit-under-title-ix/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文考察企业DEI实践在弗洛伊德事件后扩张又急剧逆转的现象，指出企业低估了DEI举措的法律与政治风险，包括反向歧视诉讼、股东诉讼与州级立法反弹，并提出更审慎的合规与治理框架。文章回应Students for Fair Admissions v. Harvard案后私营部门平权措施面临的诉讼风险上升问题。",
+          "refs": [
+            "https://pennlawreview.com/2026/11/21/the-miscalculation-of-corporate-dei-risk/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "论文论证以索赔解决设施作为大规模人身侵权赔偿的替代机制，分析其在集中处理索赔、降低被告财务不确定性及加速赔付方面的优势，并探讨与司法审查、程序正义的衔接规则。文章涉及替代性纠纷解决、集体赔偿基金与司法监督的边界，为群体性索赔的集中处理规则设计提供思路。",
+          "refs": [
+            "https://nyulawreview.org/issues/volume-101-number-4/using-claim-resolution-facilities-to-resuscitate-mass-tort-justice/"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "国际法院在冈比亚诉缅甸案中首次就无国籍人权利发表意见，认定缅甸对罗兴亚人的系统性剥夺国籍与种族灭绝存在关联，但未要求给予该群体所有成员公民身份。裁决将无国籍状态纳入种族灭绝公约审查框架，留下救济措施与主权裁量之间的张力。",
+          "refs": [
+            "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship"
+          ],
+          "relevance": ""
+        },
+        {
+          "text": "纽约州律师纪律委员会对一名前爱泼斯坦案辩护律师作出公开谴责，认定其在法院外示威中对示威者实施肢体攻击并发表反犹言论，违反《纽约州律师职业行为规则》第8.4条关于不当行为的规定。该处分涉及律师庭外政治表达与职业行为规范之间的适用边界。",
+          "refs": [
+            "https://www.abajournal.com/news/article/ny-lawyer-publicly-censured-over-antisemitic-slurs-physical-aggression-during-courthouse-demonstration/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship",
+        "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-school-employees-may-bring-suit-under-title-ix/",
+        "https://nyulawreview.org/issues/volume-101-number-4/using-claim-resolution-facilities-to-resuscitate-mass-tort-justice/",
+        "https://pennlawreview.com/2026/11/21/the-miscalculation-of-corporate-dei-risk/",
+        "https://www.abajournal.com/news/article/ny-lawyer-publicly-censured-over-antisemitic-slurs-physical-aggression-during-courthouse-demonstration/"
+      ]
+    },
     {
       "date": "2026-11-26",
       "generatedAt": "2026-11-26T08:43:23.155Z",
