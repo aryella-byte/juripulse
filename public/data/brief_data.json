@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "title": "In-house lawyers return to BigLaw as firms search for senior talent",
+      "titleCN": "In-house lawyers return to BigLaw as firms search for senior talent",
+      "url": "https://www.abajournal.com/news/article/in-house-lawyers-returning-to-big-law/",
+      "date": "2026-11-25",
+      "addedAt": "2026-11-28T08:14:11.371Z",
+      "summaryCN": "美国大型律所正加大从企业法务部门招聘资深律师的力度，以拓展客户关系并弥补高级人才缺口。报道显示，越来越多具有in-house经验的律师回流BigLaw，担任合伙人或高级顾问角色。这一趋势反映律所对具备商业理解与客户视角人才的需求上升，也折射出企业法务与外部律所之间人才流动的新格局。",
+      "summaryEN": "",
+      "whyMattersCN": "该趋势涉及律师职业流动与律所人才竞争规则，可能影响利益冲突审查、客户保密义务及律所治理结构。具有in-house背景的律师回流，需关注其对企业前雇主的忠诚义务与保密责任，以及律所在承接相关客户时的冲突筛查机制。对中国律所而言，企业法务与外部律师的双向流动同样涉及执业规范与客户信息保护，值得比较法借鉴。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "律师职业流动",
+          "class": "constitutional"
+        },
+        {
+          "name": "律所人才竞争",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 6,
+      "source": "ABA Journal"
+    },
+    {
+      "title": "Which justices favor the Trump administration the most (and least) on the emergency docket?",
+      "titleCN": "Which justices favor the Trump administration the most (and least) on the emergency docket?",
+      "url": "https://www.scotusblog.com/2026/11/which-justices-favor-the-trump-administration-the-most-and-least-on-the-emergency-docket/",
+      "date": "2026-11-24",
+      "addedAt": "2026-11-28T08:14:11.371Z",
+      "summaryCN": "文章分析最高法院紧急案卷中九位大法官对特朗普政府立场的支持程度。2026年6月，法院驳回特朗普解职美联储理事库克的请求，罗伯茨与卡瓦诺加入索托马约尔、卡根和杰克逊一方，托马斯、阿利托、戈萨奇和巴雷特持异议，分歧未沿传统意识形态路线展开。四个月后，政府又在另一紧急申请中败诉。文章通过系统梳理紧急案卷投票模式，揭示大法官在快速裁决中的立场差异。",
+      "summaryEN": "",
+      "whyMattersCN": "紧急案卷是近年来美国宪政争议的核心场域，其裁决往往在无完整辩论和意见书的情况下决定重大政策命运。本文通过量化大法官在紧急程序中的投票行为，揭示意识形态标签的局限性，对理解最高法院内部决策机制具有方法论意义。对中国比较法研究而言，紧急程序中的司法克制与能动边界、大法官个体偏好与制度约束的互动，为审视司法应急权配置提供了新素材，也提示关注程序性裁决的实质宪政后果。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "最高法院",
+          "class": "constitutional"
+        },
+        {
+          "name": "紧急案卷",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "source": "SCOTUSblog"
+    },
+    {
+      "title": "Who We Lost to the St. Louis City Jail",
+      "titleCN": "Who We Lost to the St. Louis City Jail",
+      "url": "https://www.themarshallproject.org/2026/11/23/st-louis-city-jail-death-memorial",
+      "date": "2026-11-23",
+      "addedAt": "2026-11-28T08:14:11.371Z",
+      "summaryCN": "马歇尔计划于2026年11月23日发布报道，通过四位在圣路易斯市司法中心死亡者的家属叙述，还原死者身份与社区记忆。报道聚焦该拘留设施内接连发生的在押死亡事件，揭示羁押场所的医疗照护、监督问责与信息披露问题。此前该监狱已因条件恶劣、人员短缺和死亡事件受到民权组织与联邦监督机构关注，家属讲述构成对设施治理失败的持续记录，并为相关民权诉讼与监管改革提供事实基础。",
+      "summaryEN": "",
+      "whyMattersCN": "该报道触及美国审前羁押治理的核心制度短板：地方看守所医疗与安全标准、独立监督机制缺位、在押死亡事件的信息公开与家属知情权。圣路易斯市司法中心长期面临过度拥挤、人手不足和民权诉讼，此类死亡记录可支撑第八修正案下的故意漠视之诉与联邦同意令改革。对中国法而言，可比较审前羁押场所的检察监督、在押人员死亡调查独立性与家属救济渠道，提示监管场所透明度与问责机制对防止羁押悲剧的制度价值。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "审前羁押",
+          "class": "criminal"
+        },
+        {
+          "name": "在押死亡",
+          "class": "criminal"
+        }
+      ],
+      "quality_score": 7,
+      "source": "The Marshall Project"
+    },
+    {
       "title": "Court to hear argument on whether school employees may bring suit under Title IX",
       "titleCN": "Court to hear argument on whether school employees may bring suit under Title IX",
       "url": "https://www.scotusblog.com/2026/11/court-to-hear-argument-on-whether-school-employees-may-bring-suit-under-title-ix/",
@@ -7178,6 +7247,52 @@
   ],
   "research": [
     {
+      "title": "Eviction Reduction Policies: Do More Courts Reduce Defaults in LA County?",
+      "titleCN": "Eviction Reduction Policies: Do More Courts Reduce Defaults in LA County?",
+      "url": "https://doi.org/10.1111/jels.70042",
+      "date": "2026-11-27",
+      "addedAt": "2026-11-28T08:14:23.549Z",
+      "summaryCN": "本文利用洛杉矶县驱逐案卷记录，实证检验美国最大审判辖区中法院分配政策如何通过租户成本机制影响驱逐结果。借助2017年末洛杉矶高等法院政策改革，量化改变驱逐法庭数量对驱逐裁决的因果效应。研究发现，增加法庭数量可能降低缺席判决率，但效果取决于租户出庭成本与案件管理机制，为驱逐减少政策提供了基于因果识别的经验证据。",
+      "summaryEN": "",
+      "whyMattersCN": "本文对驱逐减少政策具有直接制度意义：法院资源配置（法庭数量）作为政策工具，其效果通过租户成本机制传导，挑战了单纯增加法庭即减少驱逐的直觉。研究方法上利用政策改革进行准自然实验，强化因果推断。对中国法启发在于：司法供给与当事人诉讼成本的关系同样适用于基层法院案件管理改革，尤其是涉及住房租赁纠纷的简易程序与缺席判决规则设计，需关注资源配置对弱势当事人出庭激励的差异化影响。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "驱逐政策",
+          "class": ""
+        },
+        {
+          "name": "法院资源配置",
+          "class": ""
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
+      "title": "In This House We Believe in … Empirical Evidence? Power and Knowledge Dynamics in Congressional Hearings",
+      "titleCN": "In This House We Believe in … Empirical Evidence? Power and Knowledge Dynamics in Congressional Hearings",
+      "url": "https://doi.org/10.1111/jels.70043",
+      "date": "2026-11-27",
+      "addedAt": "2026-11-28T08:14:23.549Z",
+      "summaryCN": "本文运用机器学习分类方法分析1997至2016年美国众议院委员会听证会记录（N=12,428），对逾580万句发言进行实证话语识别。研究发现，实证话语使用随时间上升，但并非主要源于证据导向决策，而是由少数党议员驱动：无论共和党还是民主党少数党议员，均比多数党议员更多援引实证论据，且两党控制差距越大使用越频繁；资深少数党议员使用实证话语尤为显著，表明实证话语可作为权力的替代品被习得。",
+      "summaryEN": "",
+      "whyMattersCN": "该研究对立法程序与证据政治研究具有方法论和制度双重贡献。方法上，它将大规模文本机器学习引入国会听证分析，为测量立法者论证策略提供可复制路径。制度上，它揭示实证话语并非中立证据文化的产物，而可能是少数党在立法资源与议程控制受限时的策略性替代工具，这对理解委员会听证中的权力不对称、少数党话语策略及证据导向立法改革均具启发。对中国法研究而言，可借鉴其思路考察人大立法听证、专家论证与公众参与中话语策略与制度权力的关系，并反思实证话语在立法论证中的功能边界。",
+      "whyMattersEN": "",
+      "tags": [
+        {
+          "name": "国会听证",
+          "class": "constitutional"
+        },
+        {
+          "name": "实证话语",
+          "class": "constitutional"
+        }
+      ],
+      "quality_score": 8,
+      "journal": "J Empirical Legal Studies"
+    },
+    {
       "title": "Using Claim Resolution Facilities to Resuscitate Mass Tort Justice",
       "titleCN": "Using Claim Resolution Facilities to Resuscitate Mass Tort Justice",
       "url": "https://nyulawreview.org/issues/volume-101-number-4/using-claim-resolution-facilities-to-resuscitate-mass-tort-justice/",
@@ -11320,11 +11435,60 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-27T08:55:36.376Z",
+    "updatedAt": "2026-11-28T08:14:38.915Z",
     "generator": "ai",
-    "checkedAt": "2026-11-27T08:55:36.376Z"
+    "checkedAt": "2026-11-28T08:14:38.915Z"
   },
   "digests": [
+    {
+      "date": "2026-11-28",
+      "generatedAt": "2026-11-28T08:14:38.910Z",
+      "model": "deepseek-flash",
+      "points": [
+        {
+          "text": "马歇尔计划报道圣路易斯市司法中心四名在押死亡者的家属叙述，揭示该拘留设施的医疗照护、监督问责与信息披露问题；该设施此前已因条件恶劣、人员短缺和死亡事件受到民权组织与联邦监督机构关注。报道涉及审前羁押场所的医疗与安全标准、独立监督机制缺位及在押死亡信息公开与家属知情权等制度短板。",
+          "refs": [
+            "https://www.themarshallproject.org/2026/11/23/st-louis-city-jail-death-memorial"
+          ],
+          "relevance": "监狱与矫正：提供在押死亡与羁押治理失败的具体材料。"
+        },
+        {
+          "text": "研究利用洛杉矶县驱逐案卷记录，借助2017年末洛杉矶高等法院政策改革，量化改变驱逐法庭数量对驱逐裁决的因果效应，发现增加法庭数量可能降低缺席判决率，但效果取决于租户出庭成本与案件管理机制。文章以政策改革作准自然实验强化因果推断，表明法院资源配置作为政策工具须经当事人诉讼成本机制传导。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70042"
+          ],
+          "relevance": "法律实证研究方法：以政策改革作准自然实验识别法院资源配置的因果效应。"
+        },
+        {
+          "text": "研究用机器学习分类分析1997至2016年美国众议院委员会听证会记录（N=12,428），对逾580万句发言作实证话语识别，发现实证话语使用随时间上升，但主要由少数党议员驱动，两党控制差距越大使用越频繁，资深少数党议员尤为显著，表明实证话语可作为权力的替代品被习得。",
+          "refs": [
+            "https://doi.org/10.1111/jels.70043"
+          ],
+          "relevance": "法律实证研究方法：展示大规模文本机器学习测量立法论证策略的路径。"
+        },
+        {
+          "text": "文章系统梳理最高法院紧急案卷中九位大法官对特朗普政府立场的支持程度：2026年6月法院驳回解职美联储理事库克的请求，罗伯茨与卡瓦诺加入索托马约尔、卡根和杰克逊一方，托马斯、阿利托、戈萨奇和巴雷特持异议，分歧未沿传统意识形态路线展开；四个月后政府又在另一紧急申请中败诉。文章通过量化紧急程序中的投票行为，揭示意识形态标签的局限。",
+          "refs": [
+            "https://www.scotusblog.com/2026/11/which-justices-favor-the-trump-administration-the-most-and-least-on-the-emergency-docket/"
+          ],
+          "relevance": "法官与司法行为：提供大法官在紧急程序中投票模式与个体偏好的量化材料。"
+        },
+        {
+          "text": "报道显示美国大型律所正加大从企业法务部门招聘资深律师的力度，越来越多具有in-house经验的律师回流BigLaw担任合伙人或高级顾问，反映律所对具备商业理解与客户视角人才的需求上升。该趋势涉及律师职业流动中的利益冲突审查、客户保密义务及律所治理结构，回流律师对企业前雇主的忠诚与保密责任亦需关注。",
+          "refs": [
+            "https://www.abajournal.com/news/article/in-house-lawyers-returning-to-big-law/"
+          ],
+          "relevance": ""
+        }
+      ],
+      "items": [
+        "https://www.scotusblog.com/2026/11/which-justices-favor-the-trump-administration-the-most-and-least-on-the-emergency-docket/",
+        "https://doi.org/10.1111/jels.70042",
+        "https://doi.org/10.1111/jels.70043",
+        "https://www.themarshallproject.org/2026/11/23/st-louis-city-jail-death-memorial",
+        "https://www.abajournal.com/news/article/in-house-lawyers-returning-to-big-law/"
+      ]
+    },
     {
       "date": "2026-11-27",
       "generatedAt": "2026-11-27T08:55:36.369Z",
